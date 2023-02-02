@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "author": "MGGG <engineering@mggg.org>",
   "dependencies": {
-    "@districtr/districtr-mapbox-gl": "0.0.1",
+    "@districtr/districtr-mapbox-gl": "https://github.com/districtr/districtr-mapbox-gl",
     "gatsby": "^5.5.0",
     "gatsby-plugin-image": "^3.5.0",
     "gatsby-plugin-manifest": "^5.5.0",

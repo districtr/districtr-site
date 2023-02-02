@@ -1,0 +1,3393 @@
+{
+  "id": 38,
+  "meta": {
+    "type": "client.MapIndexPage",
+    "detail_url": "http://localhost:8080/wagtail-api/pages/38/",
+    "html_url": "http://localhost:8080/states/north-carolina/",
+    "slug": "north-carolina",
+    "show_in_menus": false,
+    "seo_title": "",
+    "search_description": "",
+    "first_published_at": null,
+    "alias_of": null,
+    "locale": "en"
+  },
+  "title": "North Carolina",
+  "counties": [
+    {
+      "id": 127,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/127/",
+        "html_url": "http://localhost:8080/states/north-carolina/alamance/",
+        "slug": "alamance",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Alamance County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 911,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/911/",
+        "html_url": "http://localhost:8080/states/north-carolina/alexander/",
+        "slug": "alexander",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Alexander County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 783,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/783/",
+        "html_url": "http://localhost:8080/states/north-carolina/alleghany/",
+        "slug": "alleghany",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Alleghany County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1530,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1530/",
+        "html_url": "http://localhost:8080/states/north-carolina/anson/",
+        "slug": "anson",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Anson County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3065,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3065/",
+        "html_url": "http://localhost:8080/states/north-carolina/ashe/",
+        "slug": "ashe",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Ashe County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1092,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1092/",
+        "html_url": "http://localhost:8080/states/north-carolina/avery/",
+        "slug": "avery",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Avery County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 561,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/561/",
+        "html_url": "http://localhost:8080/states/north-carolina/beaufort/",
+        "slug": "beaufort",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Beaufort County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2034,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2034/",
+        "html_url": "http://localhost:8080/states/north-carolina/bertie/",
+        "slug": "bertie",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Bertie County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1903,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1903/",
+        "html_url": "http://localhost:8080/states/north-carolina/bladen/",
+        "slug": "bladen",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Bladen County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3077,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3077/",
+        "html_url": "http://localhost:8080/states/north-carolina/brunswick/",
+        "slug": "brunswick",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Brunswick County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2896,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2896/",
+        "html_url": "http://localhost:8080/states/north-carolina/buncombe/",
+        "slug": "buncombe",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Buncombe County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2386,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2386/",
+        "html_url": "http://localhost:8080/states/north-carolina/burke/",
+        "slug": "burke",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Burke County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 652,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/652/",
+        "html_url": "http://localhost:8080/states/north-carolina/cabarrus/",
+        "slug": "cabarrus",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Cabarrus County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 308,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/308/",
+        "html_url": "http://localhost:8080/states/north-carolina/caldwell/",
+        "slug": "caldwell",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Caldwell County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 676,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/676/",
+        "html_url": "http://localhost:8080/states/north-carolina/camden/",
+        "slug": "camden",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Camden County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 773,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/773/",
+        "html_url": "http://localhost:8080/states/north-carolina/carteret/",
+        "slug": "carteret",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Carteret County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1309,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1309/",
+        "html_url": "http://localhost:8080/states/north-carolina/caswell/",
+        "slug": "caswell",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Caswell County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1924,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1924/",
+        "html_url": "http://localhost:8080/states/north-carolina/catawba/",
+        "slug": "catawba",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Catawba County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 91,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/91/",
+        "html_url": "http://localhost:8080/states/north-carolina/chatham/",
+        "slug": "chatham",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Chatham County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1920,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1920/",
+        "html_url": "http://localhost:8080/states/north-carolina/cherokee/",
+        "slug": "cherokee",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Cherokee County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2895,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2895/",
+        "html_url": "http://localhost:8080/states/north-carolina/chowan/",
+        "slug": "chowan",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Chowan County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3227,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3227/",
+        "html_url": "http://localhost:8080/states/north-carolina/clay/",
+        "slug": "clay",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Clay County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1121,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1121/",
+        "html_url": "http://localhost:8080/states/north-carolina/cleveland/",
+        "slug": "cleveland",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Cleveland County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3242,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3242/",
+        "html_url": "http://localhost:8080/states/north-carolina/columbus/",
+        "slug": "columbus",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Columbus County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1563,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1563/",
+        "html_url": "http://localhost:8080/states/north-carolina/craven/",
+        "slug": "craven",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Craven County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 624,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/624/",
+        "html_url": "http://localhost:8080/states/north-carolina/cumberland/",
+        "slug": "cumberland",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Cumberland County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2627,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2627/",
+        "html_url": "http://localhost:8080/states/north-carolina/currituck/",
+        "slug": "currituck",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Currituck County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3236,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3236/",
+        "html_url": "http://localhost:8080/states/north-carolina/dare/",
+        "slug": "dare",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Dare County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 166,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/166/",
+        "html_url": "http://localhost:8080/states/north-carolina/davidson/",
+        "slug": "davidson",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Davidson County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2390,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2390/",
+        "html_url": "http://localhost:8080/states/north-carolina/davie/",
+        "slug": "davie",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Davie County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1640,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1640/",
+        "html_url": "http://localhost:8080/states/north-carolina/duplin/",
+        "slug": "duplin",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Duplin County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 337,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/337/",
+        "html_url": "http://localhost:8080/states/north-carolina/durham/",
+        "slug": "durham",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Durham County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2251,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2251/",
+        "html_url": "http://localhost:8080/states/north-carolina/edgecombe/",
+        "slug": "edgecombe",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Edgecombe County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1162,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1162/",
+        "html_url": "http://localhost:8080/states/north-carolina/forsyth/",
+        "slug": "forsyth",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Forsyth County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 257,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/257/",
+        "html_url": "http://localhost:8080/states/north-carolina/franklin/",
+        "slug": "franklin",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Franklin County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2016,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2016/",
+        "html_url": "http://localhost:8080/states/north-carolina/gaston/",
+        "slug": "gaston",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Gaston County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1444,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1444/",
+        "html_url": "http://localhost:8080/states/north-carolina/gates/",
+        "slug": "gates",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Gates County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1361,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1361/",
+        "html_url": "http://localhost:8080/states/north-carolina/graham/",
+        "slug": "graham",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Graham County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1210,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1210/",
+        "html_url": "http://localhost:8080/states/north-carolina/granville/",
+        "slug": "granville",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Granville County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2037,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2037/",
+        "html_url": "http://localhost:8080/states/north-carolina/greene/",
+        "slug": "greene",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Greene County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1755,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1755/",
+        "html_url": "http://localhost:8080/states/north-carolina/guilford/",
+        "slug": "guilford",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Guilford County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 956,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/956/",
+        "html_url": "http://localhost:8080/states/north-carolina/halifax/",
+        "slug": "halifax",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Halifax County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1838,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1838/",
+        "html_url": "http://localhost:8080/states/north-carolina/harnett/",
+        "slug": "harnett",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Harnett County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1641,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1641/",
+        "html_url": "http://localhost:8080/states/north-carolina/haywood/",
+        "slug": "haywood",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Haywood County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3004,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3004/",
+        "html_url": "http://localhost:8080/states/north-carolina/henderson/",
+        "slug": "henderson",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Henderson County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1809,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1809/",
+        "html_url": "http://localhost:8080/states/north-carolina/hertford/",
+        "slug": "hertford",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Hertford County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 632,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/632/",
+        "html_url": "http://localhost:8080/states/north-carolina/hoke/",
+        "slug": "hoke",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Hoke County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1969,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1969/",
+        "html_url": "http://localhost:8080/states/north-carolina/hyde/",
+        "slug": "hyde",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Hyde County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1807,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1807/",
+        "html_url": "http://localhost:8080/states/north-carolina/iredell/",
+        "slug": "iredell",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Iredell County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1793,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1793/",
+        "html_url": "http://localhost:8080/states/north-carolina/jackson/",
+        "slug": "jackson",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Jackson County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2019,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2019/",
+        "html_url": "http://localhost:8080/states/north-carolina/johnston/",
+        "slug": "johnston",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Johnston County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2784,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2784/",
+        "html_url": "http://localhost:8080/states/north-carolina/jones/",
+        "slug": "jones",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Jones County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1839,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1839/",
+        "html_url": "http://localhost:8080/states/north-carolina/lee/",
+        "slug": "lee",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lee County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1330,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1330/",
+        "html_url": "http://localhost:8080/states/north-carolina/lenoir/",
+        "slug": "lenoir",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lenoir County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 299,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/299/",
+        "html_url": "http://localhost:8080/states/north-carolina/lincoln/",
+        "slug": "lincoln",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lincoln County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1941,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1941/",
+        "html_url": "http://localhost:8080/states/north-carolina/macon/",
+        "slug": "macon",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Macon County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 380,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/380/",
+        "html_url": "http://localhost:8080/states/north-carolina/madison/",
+        "slug": "madison",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Madison County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2949,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2949/",
+        "html_url": "http://localhost:8080/states/north-carolina/martin/",
+        "slug": "martin",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Martin County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2391,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2391/",
+        "html_url": "http://localhost:8080/states/north-carolina/mcdowell/",
+        "slug": "mcdowell",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "McDowell County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2339,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2339/",
+        "html_url": "http://localhost:8080/states/north-carolina/mecklenburg/",
+        "slug": "mecklenburg",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Mecklenburg County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2179,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2179/",
+        "html_url": "http://localhost:8080/states/north-carolina/mitchell/",
+        "slug": "mitchell",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Mitchell County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3131,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3131/",
+        "html_url": "http://localhost:8080/states/north-carolina/montgomery/",
+        "slug": "montgomery",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Montgomery County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1135,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1135/",
+        "html_url": "http://localhost:8080/states/north-carolina/moore/",
+        "slug": "moore",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Moore County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3039,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3039/",
+        "html_url": "http://localhost:8080/states/north-carolina/nash/",
+        "slug": "nash",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Nash County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2067,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2067/",
+        "html_url": "http://localhost:8080/states/north-carolina/new-hanover/",
+        "slug": "new-hanover",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "New Hanover County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 557,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/557/",
+        "html_url": "http://localhost:8080/states/north-carolina/northampton/",
+        "slug": "northampton",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Northampton County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2206,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2206/",
+        "html_url": "http://localhost:8080/states/north-carolina/onslow/",
+        "slug": "onslow",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Onslow County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1547,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1547/",
+        "html_url": "http://localhost:8080/states/north-carolina/orange/",
+        "slug": "orange",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Orange County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1287,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1287/",
+        "html_url": "http://localhost:8080/states/north-carolina/pamlico/",
+        "slug": "pamlico",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Pamlico County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 802,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/802/",
+        "html_url": "http://localhost:8080/states/north-carolina/pasquotank/",
+        "slug": "pasquotank",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Pasquotank County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2113,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2113/",
+        "html_url": "http://localhost:8080/states/north-carolina/pender/",
+        "slug": "pender",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Pender County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1952,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1952/",
+        "html_url": "http://localhost:8080/states/north-carolina/perquimans/",
+        "slug": "perquimans",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Perquimans County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 366,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/366/",
+        "html_url": "http://localhost:8080/states/north-carolina/person/",
+        "slug": "person",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Person County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2081,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2081/",
+        "html_url": "http://localhost:8080/states/north-carolina/pitt/",
+        "slug": "pitt",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Pitt County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1836,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1836/",
+        "html_url": "http://localhost:8080/states/north-carolina/polk/",
+        "slug": "polk",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Polk County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 410,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/410/",
+        "html_url": "http://localhost:8080/states/north-carolina/randolph/",
+        "slug": "randolph",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Randolph County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 631,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/631/",
+        "html_url": "http://localhost:8080/states/north-carolina/richmond/",
+        "slug": "richmond",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Richmond County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 294,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/294/",
+        "html_url": "http://localhost:8080/states/north-carolina/robeson/",
+        "slug": "robeson",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Robeson County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2922,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2922/",
+        "html_url": "http://localhost:8080/states/north-carolina/rockingham/",
+        "slug": "rockingham",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Rockingham County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 564,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/564/",
+        "html_url": "http://localhost:8080/states/north-carolina/rowan/",
+        "slug": "rowan",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Rowan County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1523,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1523/",
+        "html_url": "http://localhost:8080/states/north-carolina/rutherford/",
+        "slug": "rutherford",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Rutherford County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1000,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1000/",
+        "html_url": "http://localhost:8080/states/north-carolina/sampson/",
+        "slug": "sampson",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Sampson County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1837,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1837/",
+        "html_url": "http://localhost:8080/states/north-carolina/scotland/",
+        "slug": "scotland",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Scotland County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2035,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2035/",
+        "html_url": "http://localhost:8080/states/north-carolina/stanly/",
+        "slug": "stanly",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Stanly County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 745,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/745/",
+        "html_url": "http://localhost:8080/states/north-carolina/stokes/",
+        "slug": "stokes",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Stokes County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3186,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3186/",
+        "html_url": "http://localhost:8080/states/north-carolina/surry/",
+        "slug": "surry",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Surry County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1085,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1085/",
+        "html_url": "http://localhost:8080/states/north-carolina/swain/",
+        "slug": "swain",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Swain County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3185,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3185/",
+        "html_url": "http://localhost:8080/states/north-carolina/transylvania/",
+        "slug": "transylvania",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Transylvania County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1933,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1933/",
+        "html_url": "http://localhost:8080/states/north-carolina/tyrrell/",
+        "slug": "tyrrell",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Tyrrell County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2168,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2168/",
+        "html_url": "http://localhost:8080/states/north-carolina/union/",
+        "slug": "union",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Union County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3149,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3149/",
+        "html_url": "http://localhost:8080/states/north-carolina/vance/",
+        "slug": "vance",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Vance County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2446,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2446/",
+        "html_url": "http://localhost:8080/states/north-carolina/wake/",
+        "slug": "wake",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Wake County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1218,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1218/",
+        "html_url": "http://localhost:8080/states/north-carolina/warren/",
+        "slug": "warren",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Warren County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1528,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1528/",
+        "html_url": "http://localhost:8080/states/north-carolina/washington/",
+        "slug": "washington",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Washington County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1011,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1011/",
+        "html_url": "http://localhost:8080/states/north-carolina/watauga/",
+        "slug": "watauga",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Watauga County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2387,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2387/",
+        "html_url": "http://localhost:8080/states/north-carolina/wayne/",
+        "slug": "wayne",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Wayne County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 879,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/879/",
+        "html_url": "http://localhost:8080/states/north-carolina/wilkes/",
+        "slug": "wilkes",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Wilkes County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1623,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1623/",
+        "html_url": "http://localhost:8080/states/north-carolina/wilson/",
+        "slug": "wilson",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Wilson County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2383,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2383/",
+        "html_url": "http://localhost:8080/states/north-carolina/yadkin/",
+        "slug": "yadkin",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Yadkin County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2355,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2355/",
+        "html_url": "http://localhost:8080/states/north-carolina/yancey/",
+        "slug": "yancey",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Yancey County",
+      "body": "",
+      "live": true
+    }
+  ],
+  "problems": [
+    {
+      "id": 11191,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11191/",
+        "html_url": "http://localhost:8080/states/north-carolina/north-carolina-county-commission-districts-12643/",
+        "slug": "north-carolina-county-commission-districts-12643",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:25.213655-05:00",
+        "alias_of": null
+      },
+      "title": "Buncombe County, North Carolina County Commission Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17213,
+                "name": "North Carolina - Buncombe County - Precincts",
+                "type": "circle",
+                "source_layer": "buncombe_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.buncombe_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "North Carolina - Buncombe County - Precincts Centroids",
+                  "id": "north-carolina-buncombe-county-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "d1e1b05b-d6a2-442c-a05e-c238bc9bd5a3"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17214,
+                "name": "North Carolina - Buncombe County - Precincts",
+                "type": "fill",
+                "source_layer": "buncombe_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.buncombe_precincts"
+              },
+              "layers": [
+                {
+                  "name": "North Carolina - Buncombe County - Precincts Interactive Layer",
+                  "id": "north-carolina-buncombe-county-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "North Carolina - Buncombe County - Precincts Border",
+                  "id": "north-carolina-buncombe-county-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "9225edeb-d8c1-44b9-b808-552839c15fb6"
+        }
+      ],
+      "unit_count": 3,
+      "unit_type": "Precincts",
+      "unit_name": "County Commission",
+      "unit_name_plural": "County Commission Districts",
+      "bounds": [
+        [-82.8878, 35.4166],
+        [-82.169, 35.8241]
+      ]
+    },
+    {
+      "id": 11192,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11192/",
+        "html_url": "http://localhost:8080/states/north-carolina/north-carolina-county-commission-districts-12644/",
+        "slug": "north-carolina-county-commission-districts-12644",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:25.795728-05:00",
+        "alias_of": null
+      },
+      "title": "Forsyth County, North Carolina County Commission Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17215,
+                "name": "North Carolina - Forsyth County - Precincts",
+                "type": "circle",
+                "source_layer": "forsyth_nc_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.forsyth_nc_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "North Carolina - Forsyth County - Precincts Centroids",
+                  "id": "north-carolina-forsyth-county-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "74824dfe-eacb-43da-8e50-15236e450880"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17216,
+                "name": "North Carolina - Forsyth County - Precincts",
+                "type": "fill",
+                "source_layer": "forsyth_nc_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.forsyth_nc_precincts"
+              },
+              "layers": [
+                {
+                  "name": "North Carolina - Forsyth County - Precincts Interactive Layer",
+                  "id": "north-carolina-forsyth-county-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "North Carolina - Forsyth County - Precincts Border",
+                  "id": "north-carolina-forsyth-county-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "084f8519-42e8-46bb-98dc-e4a0e27a8b67"
+        }
+      ],
+      "unit_count": 2,
+      "unit_type": "Precincts",
+      "unit_name": "County Commission",
+      "unit_name_plural": "County Commission Districts",
+      "bounds": [
+        [-80.5164, 35.9732],
+        [-80.0355, 36.2616]
+      ]
+    },
+    {
+      "id": 11193,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11193/",
+        "html_url": "http://localhost:8080/states/north-carolina/north-carolina-county-commission-districts-12645/",
+        "slug": "north-carolina-county-commission-districts-12645",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:25.958403-05:00",
+        "alias_of": null
+      },
+      "title": "Forsyth County, North Carolina County Commission Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17215,
+                "name": "North Carolina - Forsyth County - Precincts",
+                "type": "circle",
+                "source_layer": "forsyth_nc_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.forsyth_nc_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "North Carolina - Forsyth County - Precincts Centroids",
+                  "id": "north-carolina-forsyth-county-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "46ef937d-4513-43a3-b19a-c28bb1f5b4be"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17216,
+                "name": "North Carolina - Forsyth County - Precincts",
+                "type": "fill",
+                "source_layer": "forsyth_nc_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.forsyth_nc_precincts"
+              },
+              "layers": [
+                {
+                  "name": "North Carolina - Forsyth County - Precincts Interactive Layer",
+                  "id": "north-carolina-forsyth-county-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "North Carolina - Forsyth County - Precincts Border",
+                  "id": "north-carolina-forsyth-county-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "01c17852-42b0-441c-9210-8956cd9daa4f"
+        }
+      ],
+      "unit_count": 5,
+      "unit_type": "Precincts",
+      "unit_name": "County Commission",
+      "unit_name_plural": "County Commission Districts",
+      "bounds": [
+        [-80.5164, 35.9732],
+        [-80.0355, 36.2616]
+      ]
+    },
+    {
+      "id": 11195,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11195/",
+        "html_url": "http://localhost:8080/states/north-carolina/north-carolina-congressional-districts-12647/",
+        "slug": "north-carolina-congressional-districts-12647",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:27.114251-05:00",
+        "alias_of": null
+      },
+      "title": "North Carolina Congressional Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17217,
+                "name": "North Carolina - Precincts",
+                "type": "fill",
+                "source_layer": "nc_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nc_precincts"
+              },
+              "layers": [
+                {
+                  "name": "North Carolina - Precincts Interactive Layer",
+                  "id": "north-carolina-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "North Carolina - Precincts Border",
+                  "id": "north-carolina-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "9ee40f5a-5c1c-4437-bbba-8e66348c2f39"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17218,
+                "name": "North Carolina - Precincts",
+                "type": "circle",
+                "source_layer": "nc_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nc_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "North Carolina - Precincts Centroids",
+                  "id": "north-carolina-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "583b7c4b-196a-4bad-bfd2-17d8a7618e57"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17219,
+                "name": "North Carolina - Block Groups",
+                "type": "fill",
+                "source_layer": "nc_bg_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nc_bg_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "North Carolina - Block Groups Interactive Layer",
+                  "id": "north-carolina-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "North Carolina - Block Groups Border",
+                  "id": "north-carolina-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "2994a1ce-d530-4117-9789-62d5707907a9"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17217,
+                "name": "North Carolina - Precincts",
+                "type": "fill",
+                "source_layer": "nc_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nc_precincts"
+              },
+              "layers": [
+                {
+                  "name": "North Carolina - Precincts Interactive Layer",
+                  "id": "north-carolina-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "North Carolina - Precincts Border",
+                  "id": "north-carolina-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "30004c71-38b1-4290-b0da-9cb2dbfc9b26"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17220,
+                "name": "North Carolina - Block Groups",
+                "type": "fill",
+                "source_layer": "norcar2_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.norcar2_precincts"
+              },
+              "layers": [
+                {
+                  "name": "North Carolina - Block Groups Interactive Layer",
+                  "id": "north-carolina-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "North Carolina - Block Groups Border",
+                  "id": "north-carolina-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "c1ef842a-0ff9-473f-9b2c-023c4384d5f2"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17221,
+                "name": "North Carolina - Block Groups",
+                "type": "fill",
+                "source_layer": "nc_tract_tracts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nc_tract_tracts"
+              },
+              "layers": [
+                {
+                  "name": "North Carolina - Block Groups Interactive Layer",
+                  "id": "north-carolina-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "North Carolina - Block Groups Border",
+                  "id": "north-carolina-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "8759490d-3193-4fc5-9b61-fdd2e19f22e8"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17222,
+                "name": "North Carolina - Block Groups",
+                "type": "circle",
+                "source_layer": "nc_bg_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nc_bg_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "North Carolina - Block Groups Centroids",
+                  "id": "north-carolina-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "f21b85ed-35f5-46e0-b844-db171b3e4d20"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17223,
+                "name": "North Carolina - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "nc_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nc_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "North Carolina - 2020 VTDs Interactive Layer",
+                  "id": "north-carolina-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "North Carolina - 2020 VTDs Border",
+                  "id": "north-carolina-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "bdc035f6-59e7-4269-8bf8-bb4fd5130016"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17224,
+                "name": "North Carolina - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "nc_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nc_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "North Carolina - 2020 VTDs Centroids",
+                  "id": "north-carolina-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "4c8f89f7-ec55-4d62-a506-bd4e351a84b3"
+        }
+      ],
+      "unit_count": 13,
+      "unit_type": "Precincts",
+      "unit_name": "Congress",
+      "unit_name_plural": "Congressional Districts",
+      "bounds": [
+        [-84.3218, 33.7529],
+        [-75.4001, 36.5881]
+      ]
+    },
+    {
+      "id": 11194,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11194/",
+        "html_url": "http://localhost:8080/states/north-carolina/north-carolina-reapportioned-congressional-districts-12646/",
+        "slug": "north-carolina-reapportioned-congressional-districts-12646",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:26.931918-05:00",
+        "alias_of": null
+      },
+      "title": "North Carolina Reapportioned Congressional Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17217,
+                "name": "North Carolina - Precincts",
+                "type": "fill",
+                "source_layer": "nc_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nc_precincts"
+              },
+              "layers": [
+                {
+                  "name": "North Carolina - Precincts Interactive Layer",
+                  "id": "north-carolina-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "North Carolina - Precincts Border",
+                  "id": "north-carolina-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "7076cd1c-0202-444d-a0cd-474212a9cbaf"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17218,
+                "name": "North Carolina - Precincts",
+                "type": "circle",
+                "source_layer": "nc_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nc_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "North Carolina - Precincts Centroids",
+                  "id": "north-carolina-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "b5b13c7a-8f19-4f90-84bd-77b5d6e5553d"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17219,
+                "name": "North Carolina - Block Groups",
+                "type": "fill",
+                "source_layer": "nc_bg_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nc_bg_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "North Carolina - Block Groups Interactive Layer",
+                  "id": "north-carolina-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "North Carolina - Block Groups Border",
+                  "id": "north-carolina-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "dd213005-fc4e-4711-9336-d01f57731eed"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17217,
+                "name": "North Carolina - Precincts",
+                "type": "fill",
+                "source_layer": "nc_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nc_precincts"
+              },
+              "layers": [
+                {
+                  "name": "North Carolina - Precincts Interactive Layer",
+                  "id": "north-carolina-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "North Carolina - Precincts Border",
+                  "id": "north-carolina-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "56abbfbf-4859-44da-a711-af023325e68c"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17220,
+                "name": "North Carolina - Block Groups",
+                "type": "fill",
+                "source_layer": "norcar2_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.norcar2_precincts"
+              },
+              "layers": [
+                {
+                  "name": "North Carolina - Block Groups Interactive Layer",
+                  "id": "north-carolina-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "North Carolina - Block Groups Border",
+                  "id": "north-carolina-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "376e352c-c114-4350-96f4-807bb9007579"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17221,
+                "name": "North Carolina - Block Groups",
+                "type": "fill",
+                "source_layer": "nc_tract_tracts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nc_tract_tracts"
+              },
+              "layers": [
+                {
+                  "name": "North Carolina - Block Groups Interactive Layer",
+                  "id": "north-carolina-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "North Carolina - Block Groups Border",
+                  "id": "north-carolina-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "2fb49ec8-6ddd-4a08-a2ea-cf832b3b767e"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17222,
+                "name": "North Carolina - Block Groups",
+                "type": "circle",
+                "source_layer": "nc_bg_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nc_bg_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "North Carolina - Block Groups Centroids",
+                  "id": "north-carolina-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "89636fd8-faab-49e5-a91f-38213ce6dba6"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17223,
+                "name": "North Carolina - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "nc_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nc_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "North Carolina - 2020 VTDs Interactive Layer",
+                  "id": "north-carolina-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "North Carolina - 2020 VTDs Border",
+                  "id": "north-carolina-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "d83c3724-fbeb-435f-b8ab-d48ca40e9326"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17224,
+                "name": "North Carolina - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "nc_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nc_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "North Carolina - 2020 VTDs Centroids",
+                  "id": "north-carolina-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "3d35f683-90ff-4aec-964a-22c421821c67"
+        }
+      ],
+      "unit_count": 14,
+      "unit_type": "Precincts",
+      "unit_name": "2020 Reapportioned Congress",
+      "unit_name_plural": "Reapportioned Congressional Districts",
+      "bounds": [
+        [-84.3218, 33.7529],
+        [-75.4001, 36.5881]
+      ]
+    },
+    {
+      "id": 11197,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11197/",
+        "html_url": "http://localhost:8080/states/north-carolina/north-carolina-state-house-districts-12649/",
+        "slug": "north-carolina-state-house-districts-12649",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:27.478772-05:00",
+        "alias_of": null
+      },
+      "title": "North Carolina State House Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17217,
+                "name": "North Carolina - Precincts",
+                "type": "fill",
+                "source_layer": "nc_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nc_precincts"
+              },
+              "layers": [
+                {
+                  "name": "North Carolina - Precincts Interactive Layer",
+                  "id": "north-carolina-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "North Carolina - Precincts Border",
+                  "id": "north-carolina-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "5a76968c-6ee8-4971-9770-f6bd533d626c"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17218,
+                "name": "North Carolina - Precincts",
+                "type": "circle",
+                "source_layer": "nc_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nc_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "North Carolina - Precincts Centroids",
+                  "id": "north-carolina-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "4dc85450-922c-4536-8bd6-b542e66525c7"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17219,
+                "name": "North Carolina - Block Groups",
+                "type": "fill",
+                "source_layer": "nc_bg_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nc_bg_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "North Carolina - Block Groups Interactive Layer",
+                  "id": "north-carolina-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "North Carolina - Block Groups Border",
+                  "id": "north-carolina-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "5ca5c136-c026-4875-aabe-89b6d9aec6b6"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17217,
+                "name": "North Carolina - Precincts",
+                "type": "fill",
+                "source_layer": "nc_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nc_precincts"
+              },
+              "layers": [
+                {
+                  "name": "North Carolina - Precincts Interactive Layer",
+                  "id": "north-carolina-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "North Carolina - Precincts Border",
+                  "id": "north-carolina-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "28cf06d0-0e44-415e-b4a4-d58f42343625"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17220,
+                "name": "North Carolina - Block Groups",
+                "type": "fill",
+                "source_layer": "norcar2_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.norcar2_precincts"
+              },
+              "layers": [
+                {
+                  "name": "North Carolina - Block Groups Interactive Layer",
+                  "id": "north-carolina-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "North Carolina - Block Groups Border",
+                  "id": "north-carolina-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "821e7f7c-c92a-4ce6-8fa5-24ddf69f61e2"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17221,
+                "name": "North Carolina - Block Groups",
+                "type": "fill",
+                "source_layer": "nc_tract_tracts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nc_tract_tracts"
+              },
+              "layers": [
+                {
+                  "name": "North Carolina - Block Groups Interactive Layer",
+                  "id": "north-carolina-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "North Carolina - Block Groups Border",
+                  "id": "north-carolina-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "046526a0-cc5e-4dbd-b88d-357e3c86c373"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17222,
+                "name": "North Carolina - Block Groups",
+                "type": "circle",
+                "source_layer": "nc_bg_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nc_bg_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "North Carolina - Block Groups Centroids",
+                  "id": "north-carolina-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "c4d4754f-c8a8-4245-80eb-8e0a267cc64d"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17223,
+                "name": "North Carolina - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "nc_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nc_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "North Carolina - 2020 VTDs Interactive Layer",
+                  "id": "north-carolina-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "North Carolina - 2020 VTDs Border",
+                  "id": "north-carolina-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "8e9a0fdc-8ea6-4354-838d-277e67b47421"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17224,
+                "name": "North Carolina - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "nc_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nc_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "North Carolina - 2020 VTDs Centroids",
+                  "id": "north-carolina-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "50131350-2b33-48c8-a59f-60a510e5a628"
+        }
+      ],
+      "unit_count": 120,
+      "unit_type": "Precincts",
+      "unit_name": "State House",
+      "unit_name_plural": "State House Districts",
+      "bounds": [
+        [-84.3218, 33.7529],
+        [-75.4001, 36.5881]
+      ]
+    },
+    {
+      "id": 11196,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11196/",
+        "html_url": "http://localhost:8080/states/north-carolina/north-carolina-state-senate-districts-12648/",
+        "slug": "north-carolina-state-senate-districts-12648",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:27.297169-05:00",
+        "alias_of": null
+      },
+      "title": "North Carolina State Senate Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17217,
+                "name": "North Carolina - Precincts",
+                "type": "fill",
+                "source_layer": "nc_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nc_precincts"
+              },
+              "layers": [
+                {
+                  "name": "North Carolina - Precincts Interactive Layer",
+                  "id": "north-carolina-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "North Carolina - Precincts Border",
+                  "id": "north-carolina-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "1230c2ea-e8c0-4c5c-a5d3-8ad6e77fd1f8"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17218,
+                "name": "North Carolina - Precincts",
+                "type": "circle",
+                "source_layer": "nc_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nc_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "North Carolina - Precincts Centroids",
+                  "id": "north-carolina-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "88575f57-a7c0-430f-8035-ca6bd84d97cd"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17219,
+                "name": "North Carolina - Block Groups",
+                "type": "fill",
+                "source_layer": "nc_bg_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nc_bg_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "North Carolina - Block Groups Interactive Layer",
+                  "id": "north-carolina-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "North Carolina - Block Groups Border",
+                  "id": "north-carolina-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "4ff7f48a-94ce-47e9-a1f6-9bdf20a5852c"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17217,
+                "name": "North Carolina - Precincts",
+                "type": "fill",
+                "source_layer": "nc_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nc_precincts"
+              },
+              "layers": [
+                {
+                  "name": "North Carolina - Precincts Interactive Layer",
+                  "id": "north-carolina-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "North Carolina - Precincts Border",
+                  "id": "north-carolina-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "357b071f-8bed-4d03-ab23-4d80359f5942"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17220,
+                "name": "North Carolina - Block Groups",
+                "type": "fill",
+                "source_layer": "norcar2_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.norcar2_precincts"
+              },
+              "layers": [
+                {
+                  "name": "North Carolina - Block Groups Interactive Layer",
+                  "id": "north-carolina-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "North Carolina - Block Groups Border",
+                  "id": "north-carolina-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "5ad9a865-5ad5-4271-87ef-01f8cdab35b4"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17221,
+                "name": "North Carolina - Block Groups",
+                "type": "fill",
+                "source_layer": "nc_tract_tracts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nc_tract_tracts"
+              },
+              "layers": [
+                {
+                  "name": "North Carolina - Block Groups Interactive Layer",
+                  "id": "north-carolina-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "North Carolina - Block Groups Border",
+                  "id": "north-carolina-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "c711f671-6bcc-4a3d-bef7-4a109c95f267"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17222,
+                "name": "North Carolina - Block Groups",
+                "type": "circle",
+                "source_layer": "nc_bg_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nc_bg_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "North Carolina - Block Groups Centroids",
+                  "id": "north-carolina-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "0d8c8192-183d-4df3-853c-37265473618d"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17223,
+                "name": "North Carolina - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "nc_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nc_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "North Carolina - 2020 VTDs Interactive Layer",
+                  "id": "north-carolina-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "North Carolina - 2020 VTDs Border",
+                  "id": "north-carolina-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "4e9d83e7-57ed-4b0f-a42f-8721beaf03fb"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17224,
+                "name": "North Carolina - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "nc_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nc_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "North Carolina - 2020 VTDs Centroids",
+                  "id": "north-carolina-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "30a04d4d-7804-4b42-913a-a6eeb61db0d8"
+        }
+      ],
+      "unit_count": 50,
+      "unit_type": "Precincts",
+      "unit_name": "State Senate",
+      "unit_name_plural": "State Senate Districts",
+      "bounds": [
+        [-84.3218, 33.7529],
+        [-75.4001, 36.5881]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2975 @@
+{
+  "id": 54,
+  "meta": {
+    "type": "client.MapIndexPage",
+    "detail_url": "http://localhost:8080/wagtail-api/pages/54/",
+    "html_url": "http://localhost:8080/states/wisconsin/",
+    "slug": "wisconsin",
+    "show_in_menus": false,
+    "seo_title": "",
+    "search_description": "",
+    "first_published_at": null,
+    "alias_of": null,
+    "locale": "en"
+  },
+  "title": "Wisconsin",
+  "counties": [
+    {
+      "id": 1645,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1645/",
+        "html_url": "http://localhost:8080/states/wisconsin/adams/",
+        "slug": "adams",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Adams County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 849,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/849/",
+        "html_url": "http://localhost:8080/states/wisconsin/ashland/",
+        "slug": "ashland",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Ashland County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1827,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1827/",
+        "html_url": "http://localhost:8080/states/wisconsin/barron/",
+        "slug": "barron",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Barron County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1094,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1094/",
+        "html_url": "http://localhost:8080/states/wisconsin/bayfield/",
+        "slug": "bayfield",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Bayfield County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2314,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2314/",
+        "html_url": "http://localhost:8080/states/wisconsin/brown/",
+        "slug": "brown",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Brown County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3170,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3170/",
+        "html_url": "http://localhost:8080/states/wisconsin/buffalo/",
+        "slug": "buffalo",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Buffalo County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2110,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2110/",
+        "html_url": "http://localhost:8080/states/wisconsin/burnett/",
+        "slug": "burnett",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Burnett County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2064,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2064/",
+        "html_url": "http://localhost:8080/states/wisconsin/calumet/",
+        "slug": "calumet",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Calumet County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2150,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2150/",
+        "html_url": "http://localhost:8080/states/wisconsin/chippewa/",
+        "slug": "chippewa",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Chippewa County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3112,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3112/",
+        "html_url": "http://localhost:8080/states/wisconsin/clark/",
+        "slug": "clark",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Clark County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3076,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3076/",
+        "html_url": "http://localhost:8080/states/wisconsin/columbia/",
+        "slug": "columbia",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Columbia County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1277,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1277/",
+        "html_url": "http://localhost:8080/states/wisconsin/crawford/",
+        "slug": "crawford",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Crawford County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2029,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2029/",
+        "html_url": "http://localhost:8080/states/wisconsin/dane/",
+        "slug": "dane",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Dane County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2005,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2005/",
+        "html_url": "http://localhost:8080/states/wisconsin/dodge/",
+        "slug": "dodge",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Dodge County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3241,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3241/",
+        "html_url": "http://localhost:8080/states/wisconsin/door/",
+        "slug": "door",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Door County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2249,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2249/",
+        "html_url": "http://localhost:8080/states/wisconsin/douglas/",
+        "slug": "douglas",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Douglas County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 236,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/236/",
+        "html_url": "http://localhost:8080/states/wisconsin/dunn/",
+        "slug": "dunn",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Dunn County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1378,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1378/",
+        "html_url": "http://localhost:8080/states/wisconsin/eau-claire/",
+        "slug": "eau-claire",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Eau Claire County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1799,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1799/",
+        "html_url": "http://localhost:8080/states/wisconsin/florence/",
+        "slug": "florence",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Florence County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1099,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1099/",
+        "html_url": "http://localhost:8080/states/wisconsin/fond-du-lac/",
+        "slug": "fond-du-lac",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Fond du Lac County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1413,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1413/",
+        "html_url": "http://localhost:8080/states/wisconsin/forest/",
+        "slug": "forest",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Forest County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2893,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2893/",
+        "html_url": "http://localhost:8080/states/wisconsin/grant/",
+        "slug": "grant",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Grant County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1590,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1590/",
+        "html_url": "http://localhost:8080/states/wisconsin/green/",
+        "slug": "green",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Green County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 514,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/514/",
+        "html_url": "http://localhost:8080/states/wisconsin/green-lake/",
+        "slug": "green-lake",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Green Lake County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2688,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2688/",
+        "html_url": "http://localhost:8080/states/wisconsin/iowa/",
+        "slug": "iowa",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Iowa County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1828,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1828/",
+        "html_url": "http://localhost:8080/states/wisconsin/iron/",
+        "slug": "iron",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Iron County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 246,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/246/",
+        "html_url": "http://localhost:8080/states/wisconsin/jackson/",
+        "slug": "jackson",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Jackson County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2107,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2107/",
+        "html_url": "http://localhost:8080/states/wisconsin/jefferson/",
+        "slug": "jefferson",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Jefferson County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3145,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3145/",
+        "html_url": "http://localhost:8080/states/wisconsin/juneau/",
+        "slug": "juneau",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Juneau County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 709,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/709/",
+        "html_url": "http://localhost:8080/states/wisconsin/kenosha/",
+        "slug": "kenosha",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Kenosha County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1101,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1101/",
+        "html_url": "http://localhost:8080/states/wisconsin/kewaunee/",
+        "slug": "kewaunee",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Kewaunee County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 230,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/230/",
+        "html_url": "http://localhost:8080/states/wisconsin/la-crosse/",
+        "slug": "la-crosse",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "La Crosse County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 961,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/961/",
+        "html_url": "http://localhost:8080/states/wisconsin/lafayette/",
+        "slug": "lafayette",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lafayette County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1156,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1156/",
+        "html_url": "http://localhost:8080/states/wisconsin/langlade/",
+        "slug": "langlade",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Langlade County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2619,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2619/",
+        "html_url": "http://localhost:8080/states/wisconsin/lincoln/",
+        "slug": "lincoln",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lincoln County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3240,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3240/",
+        "html_url": "http://localhost:8080/states/wisconsin/manitowoc/",
+        "slug": "manitowoc",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Manitowoc County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1728,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1728/",
+        "html_url": "http://localhost:8080/states/wisconsin/marathon/",
+        "slug": "marathon",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Marathon County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2849,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2849/",
+        "html_url": "http://localhost:8080/states/wisconsin/marinette/",
+        "slug": "marinette",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Marinette County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2287,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2287/",
+        "html_url": "http://localhost:8080/states/wisconsin/marquette/",
+        "slug": "marquette",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Marquette County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3207,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3207/",
+        "html_url": "http://localhost:8080/states/wisconsin/menominee/",
+        "slug": "menominee",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Menominee County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 762,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/762/",
+        "html_url": "http://localhost:8080/states/wisconsin/milwaukee/",
+        "slug": "milwaukee",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Milwaukee County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1951,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1951/",
+        "html_url": "http://localhost:8080/states/wisconsin/monroe/",
+        "slug": "monroe",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Monroe County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1408,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1408/",
+        "html_url": "http://localhost:8080/states/wisconsin/oconto/",
+        "slug": "oconto",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Oconto County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 855,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/855/",
+        "html_url": "http://localhost:8080/states/wisconsin/oneida/",
+        "slug": "oneida",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Oneida County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1621,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1621/",
+        "html_url": "http://localhost:8080/states/wisconsin/outagamie/",
+        "slug": "outagamie",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Outagamie County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1046,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1046/",
+        "html_url": "http://localhost:8080/states/wisconsin/ozaukee/",
+        "slug": "ozaukee",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Ozaukee County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2663,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2663/",
+        "html_url": "http://localhost:8080/states/wisconsin/pepin/",
+        "slug": "pepin",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Pepin County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 220,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/220/",
+        "html_url": "http://localhost:8080/states/wisconsin/pierce/",
+        "slug": "pierce",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Pierce County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1589,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1589/",
+        "html_url": "http://localhost:8080/states/wisconsin/polk/",
+        "slug": "polk",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Polk County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1096,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1096/",
+        "html_url": "http://localhost:8080/states/wisconsin/portage/",
+        "slug": "portage",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Portage County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2851,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2851/",
+        "html_url": "http://localhost:8080/states/wisconsin/price/",
+        "slug": "price",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Price County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1989,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1989/",
+        "html_url": "http://localhost:8080/states/wisconsin/racine/",
+        "slug": "racine",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Racine County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2532,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2532/",
+        "html_url": "http://localhost:8080/states/wisconsin/richland/",
+        "slug": "richland",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Richland County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1231,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1231/",
+        "html_url": "http://localhost:8080/states/wisconsin/rock/",
+        "slug": "rock",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Rock County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3159,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3159/",
+        "html_url": "http://localhost:8080/states/wisconsin/rusk/",
+        "slug": "rusk",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Rusk County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 84,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/84/",
+        "html_url": "http://localhost:8080/states/wisconsin/sauk/",
+        "slug": "sauk",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Sauk County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1414,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1414/",
+        "html_url": "http://localhost:8080/states/wisconsin/sawyer/",
+        "slug": "sawyer",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Sawyer County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1990,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1990/",
+        "html_url": "http://localhost:8080/states/wisconsin/shawano/",
+        "slug": "shawano",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Shawano County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1050,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1050/",
+        "html_url": "http://localhost:8080/states/wisconsin/sheboygan/",
+        "slug": "sheboygan",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Sheboygan County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3126,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3126/",
+        "html_url": "http://localhost:8080/states/wisconsin/st-croix/",
+        "slug": "st-croix",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "St. Croix County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1711,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1711/",
+        "html_url": "http://localhost:8080/states/wisconsin/taylor/",
+        "slug": "taylor",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Taylor County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1484,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1484/",
+        "html_url": "http://localhost:8080/states/wisconsin/trempealeau/",
+        "slug": "trempealeau",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Trempealeau County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 680,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/680/",
+        "html_url": "http://localhost:8080/states/wisconsin/vernon/",
+        "slug": "vernon",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Vernon County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 977,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/977/",
+        "html_url": "http://localhost:8080/states/wisconsin/vilas/",
+        "slug": "vilas",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Vilas County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 516,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/516/",
+        "html_url": "http://localhost:8080/states/wisconsin/walworth/",
+        "slug": "walworth",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Walworth County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 948,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/948/",
+        "html_url": "http://localhost:8080/states/wisconsin/washburn/",
+        "slug": "washburn",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Washburn County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1076,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1076/",
+        "html_url": "http://localhost:8080/states/wisconsin/washington/",
+        "slug": "washington",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Washington County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3160,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3160/",
+        "html_url": "http://localhost:8080/states/wisconsin/waukesha/",
+        "slug": "waukesha",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Waukesha County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 965,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/965/",
+        "html_url": "http://localhost:8080/states/wisconsin/waupaca/",
+        "slug": "waupaca",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Waupaca County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 874,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/874/",
+        "html_url": "http://localhost:8080/states/wisconsin/waushara/",
+        "slug": "waushara",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Waushara County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2609,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2609/",
+        "html_url": "http://localhost:8080/states/wisconsin/winnebago/",
+        "slug": "winnebago",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Winnebago County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2553,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2553/",
+        "html_url": "http://localhost:8080/states/wisconsin/wood/",
+        "slug": "wood",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Wood County",
+      "body": "",
+      "live": true
+    }
+  ],
+  "problems": [
+    {
+      "id": 11304,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11304/",
+        "html_url": "http://localhost:8080/states/wisconsin/wisconsin-congressional-districts-12756/",
+        "slug": "wisconsin-congressional-districts-12756",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:29:08.592877-05:00",
+        "alias_of": null
+      },
+      "title": "Wisconsin Congressional Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17421,
+                "name": "Wisconsin - 2020 Blocks",
+                "type": "fill",
+                "source_layer": "WI_blocks20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.WI_blocks20"
+              },
+              "layers": [
+                {
+                  "name": "Wisconsin - 2020 Blocks Interactive Layer",
+                  "id": "wisconsin-2020-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Wisconsin - 2020 Blocks Border",
+                  "id": "wisconsin-2020-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "8f98adce-a447-4538-ab7a-fc97e231734e"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17422,
+                "name": "Wisconsin - 2020 Blocks",
+                "type": "circle",
+                "source_layer": "WI_blocks20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.WI_blocks20_points"
+              },
+              "layers": [
+                {
+                  "name": "Wisconsin - 2020 Blocks Centroids",
+                  "id": "wisconsin-2020-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "300c1330-55e4-4e27-b50c-eeaaa2a6b211"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17423,
+                "name": "Wisconsin - 2011 Wards",
+                "type": "fill",
+                "source_layer": "wisconsin_wards",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wisconsin_wards"
+              },
+              "layers": [
+                {
+                  "name": "Wisconsin - 2011 Wards Interactive Layer",
+                  "id": "wisconsin-2011-wards-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Wisconsin - 2011 Wards Border",
+                  "id": "wisconsin-2011-wards-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "26067927-d249-4bf5-aed5-cb39ac23dc81"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17424,
+                "name": "Wisconsin - 2011 Wards",
+                "type": "circle",
+                "source_layer": "wisconsin_wards_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wisconsin_wards_points"
+              },
+              "layers": [
+                {
+                  "name": "Wisconsin - 2011 Wards Centroids",
+                  "id": "wisconsin-2011-wards-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "fa645275-862c-44d5-8df6-025357a75985"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17425,
+                "name": "Wisconsin - Block Groups",
+                "type": "circle",
+                "source_layer": "wisconsin_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wisconsin_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Wisconsin - Block Groups Centroids",
+                  "id": "wisconsin-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "c0d31284-45f6-4af4-9867-fce2fdf8b712"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17426,
+                "name": "Wisconsin - Block Groups",
+                "type": "fill",
+                "source_layer": "wisconsin_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wisconsin_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Wisconsin - Block Groups Interactive Layer",
+                  "id": "wisconsin-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Wisconsin - Block Groups Border",
+                  "id": "wisconsin-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "12ba29d5-1d94-4d5c-9523-3e62183f1a87"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17427,
+                "name": "Wisconsin - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "wi_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wi_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "Wisconsin - 2020 VTDs Interactive Layer",
+                  "id": "wisconsin-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Wisconsin - 2020 VTDs Border",
+                  "id": "wisconsin-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "2ea44e82-7b32-4299-96f0-b6ffb17a1618"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17428,
+                "name": "Wisconsin - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "wi_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wi_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "Wisconsin - 2020 VTDs Centroids",
+                  "id": "wisconsin-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "c884fb69-98df-4e67-a1fa-9730051814f7"
+        }
+      ],
+      "unit_count": 8,
+      "unit_type": "Blocks",
+      "unit_name": "Congress",
+      "unit_name_plural": "Congressional Districts",
+      "bounds": [
+        [-92.8894, 42.4917],
+        [-86.2495, 47.3098]
+      ]
+    },
+    {
+      "id": 11310,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11310/",
+        "html_url": "http://localhost:8080/states/wisconsin/wisconsin-congressional-districts-12762/",
+        "slug": "wisconsin-congressional-districts-12762",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:29:10.795524-05:00",
+        "alias_of": null
+      },
+      "title": "Wisconsin Congressional Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17431,
+                "name": "Wisconsin - 2020 Wards",
+                "type": "fill",
+                "source_layer": "wisco2019acs_wards",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wisco2019acs_wards"
+              },
+              "layers": [
+                {
+                  "name": "Wisconsin - 2020 Wards Interactive Layer",
+                  "id": "wisconsin-2020-wards-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Wisconsin - 2020 Wards Border",
+                  "id": "wisconsin-2020-wards-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "8a8df462-5f8a-4db4-9935-cd45d9659409"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17432,
+                "name": "Wisconsin - 2020 Wards",
+                "type": "circle",
+                "source_layer": "wisco2019acs_wards_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wisco2019acs_wards_points"
+              },
+              "layers": [
+                {
+                  "name": "Wisconsin - 2020 Wards Centroids",
+                  "id": "wisconsin-2020-wards-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "2c9d776c-eacd-47c4-a8e0-76f2343c77a7"
+        }
+      ],
+      "unit_count": 8,
+      "unit_type": "Wards",
+      "unit_name": "Congress",
+      "unit_name_plural": "Congressional Districts",
+      "bounds": [
+        [-92.886697, 42.49192],
+        [-86.805868, 47.037]
+      ]
+    },
+    {
+      "id": 11314,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11314/",
+        "html_url": "http://localhost:8080/states/wisconsin/wisconsin-congressional-districts-12766/",
+        "slug": "wisconsin-congressional-districts-12766",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:29:12.223138-05:00",
+        "alias_of": null
+      },
+      "title": "Wisconsin Congressional Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17435,
+                "name": "Wisconsin - 2020 Wards (updated)",
+                "type": "fill",
+                "source_layer": "wi2020_official_wards",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wi2020_official_wards"
+              },
+              "layers": [
+                {
+                  "name": "Wisconsin - 2020 Wards (updated) Interactive Layer",
+                  "id": "wisconsin-2020-wards-updated-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Wisconsin - 2020 Wards (updated) Border",
+                  "id": "wisconsin-2020-wards-updated-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "7976772d-686c-4e37-bdb9-c6a83f9761a3"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17436,
+                "name": "Wisconsin - 2020 Wards (updated)",
+                "type": "circle",
+                "source_layer": "wi2020_official_wards_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wi2020_official_wards_points"
+              },
+              "layers": [
+                {
+                  "name": "Wisconsin - 2020 Wards (updated) Centroids",
+                  "id": "wisconsin-2020-wards-updated-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "5d83e1dc-927e-4f66-98b1-98219eab88f1"
+        }
+      ],
+      "unit_count": 8,
+      "unit_type": "2020 Wards (updated)",
+      "unit_name": "Congress",
+      "unit_name_plural": "Congressional Districts",
+      "bounds": [
+        [-92.8894, 42.4919],
+        [-86.764, 47.0808]
+      ]
+    },
+    {
+      "id": 11307,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11307/",
+        "html_url": "http://localhost:8080/states/wisconsin/wisconsin-congressional-districts-12759/",
+        "slug": "wisconsin-congressional-districts-12759",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:29:09.710416-05:00",
+        "alias_of": null
+      },
+      "title": "Wisconsin Congressional Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17429,
+                "name": "Wisconsin - 2020 Wards",
+                "type": "circle",
+                "source_layer": "wisconsin2020_wards_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wisconsin2020_wards_points"
+              },
+              "layers": [
+                {
+                  "name": "Wisconsin - 2020 Wards Centroids",
+                  "id": "wisconsin-2020-wards-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "2efedf80-9ee3-4daa-b16a-17e040a7269d"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17430,
+                "name": "Wisconsin - 2020 Wards",
+                "type": "fill",
+                "source_layer": "wisconsin2020_wards",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wisconsin2020_wards"
+              },
+              "layers": [
+                {
+                  "name": "Wisconsin - 2020 Wards Interactive Layer",
+                  "id": "wisconsin-2020-wards-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Wisconsin - 2020 Wards Border",
+                  "id": "wisconsin-2020-wards-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "dd397652-57e7-44fb-80f1-24473e610daa"
+        }
+      ],
+      "unit_count": 8,
+      "unit_type": "Wards",
+      "unit_name": "Congress",
+      "unit_name_plural": "Congressional Districts",
+      "bounds": [
+        [-92.8894, 42.4919],
+        [-86.764, 47.0807]
+      ]
+    },
+    {
+      "id": 11316,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11316/",
+        "html_url": "http://localhost:8080/states/wisconsin/wisconsin-state-assembly-districts-12768/",
+        "slug": "wisconsin-state-assembly-districts-12768",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:29:12.535577-05:00",
+        "alias_of": null
+      },
+      "title": "Wisconsin State Assembly Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17435,
+                "name": "Wisconsin - 2020 Wards (updated)",
+                "type": "fill",
+                "source_layer": "wi2020_official_wards",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wi2020_official_wards"
+              },
+              "layers": [
+                {
+                  "name": "Wisconsin - 2020 Wards (updated) Interactive Layer",
+                  "id": "wisconsin-2020-wards-updated-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Wisconsin - 2020 Wards (updated) Border",
+                  "id": "wisconsin-2020-wards-updated-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "116f68a4-182b-497b-a93c-5de01e1882e8"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17436,
+                "name": "Wisconsin - 2020 Wards (updated)",
+                "type": "circle",
+                "source_layer": "wi2020_official_wards_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wi2020_official_wards_points"
+              },
+              "layers": [
+                {
+                  "name": "Wisconsin - 2020 Wards (updated) Centroids",
+                  "id": "wisconsin-2020-wards-updated-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "851f1942-7569-4832-a2f7-6a14b6850955"
+        }
+      ],
+      "unit_count": 99,
+      "unit_type": "2020 Wards (updated)",
+      "unit_name": "State Assembly",
+      "unit_name_plural": "State Assembly Districts",
+      "bounds": [
+        [-92.8894, 42.4919],
+        [-86.764, 47.0808]
+      ]
+    },
+    {
+      "id": 11305,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11305/",
+        "html_url": "http://localhost:8080/states/wisconsin/wisconsin-state-assembly-districts-12757/",
+        "slug": "wisconsin-state-assembly-districts-12757",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:29:08.769934-05:00",
+        "alias_of": null
+      },
+      "title": "Wisconsin State Assembly Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17421,
+                "name": "Wisconsin - 2020 Blocks",
+                "type": "fill",
+                "source_layer": "WI_blocks20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.WI_blocks20"
+              },
+              "layers": [
+                {
+                  "name": "Wisconsin - 2020 Blocks Interactive Layer",
+                  "id": "wisconsin-2020-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Wisconsin - 2020 Blocks Border",
+                  "id": "wisconsin-2020-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "256233cf-6c94-4eab-b85a-522f57b213ed"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17422,
+                "name": "Wisconsin - 2020 Blocks",
+                "type": "circle",
+                "source_layer": "WI_blocks20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.WI_blocks20_points"
+              },
+              "layers": [
+                {
+                  "name": "Wisconsin - 2020 Blocks Centroids",
+                  "id": "wisconsin-2020-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "07a770e6-baf9-433d-a93c-d99e5510d0a5"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17423,
+                "name": "Wisconsin - 2011 Wards",
+                "type": "fill",
+                "source_layer": "wisconsin_wards",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wisconsin_wards"
+              },
+              "layers": [
+                {
+                  "name": "Wisconsin - 2011 Wards Interactive Layer",
+                  "id": "wisconsin-2011-wards-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Wisconsin - 2011 Wards Border",
+                  "id": "wisconsin-2011-wards-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "51c2cfdf-5e80-4d7c-9906-f92a3370cddb"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17424,
+                "name": "Wisconsin - 2011 Wards",
+                "type": "circle",
+                "source_layer": "wisconsin_wards_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wisconsin_wards_points"
+              },
+              "layers": [
+                {
+                  "name": "Wisconsin - 2011 Wards Centroids",
+                  "id": "wisconsin-2011-wards-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "43485075-55a8-4602-bae6-8d25181f5beb"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17425,
+                "name": "Wisconsin - Block Groups",
+                "type": "circle",
+                "source_layer": "wisconsin_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wisconsin_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Wisconsin - Block Groups Centroids",
+                  "id": "wisconsin-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "24c08654-5c4d-4dda-b0f9-1f7e0aa55718"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17426,
+                "name": "Wisconsin - Block Groups",
+                "type": "fill",
+                "source_layer": "wisconsin_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wisconsin_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Wisconsin - Block Groups Interactive Layer",
+                  "id": "wisconsin-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Wisconsin - Block Groups Border",
+                  "id": "wisconsin-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "37270fe0-a0ef-4f88-a033-af0cad9aeb09"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17427,
+                "name": "Wisconsin - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "wi_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wi_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "Wisconsin - 2020 VTDs Interactive Layer",
+                  "id": "wisconsin-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Wisconsin - 2020 VTDs Border",
+                  "id": "wisconsin-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "7b3c604c-b46d-4e1a-bc94-06de7eebab51"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17428,
+                "name": "Wisconsin - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "wi_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wi_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "Wisconsin - 2020 VTDs Centroids",
+                  "id": "wisconsin-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "a871466e-b5e1-4840-9697-baaa78abd871"
+        }
+      ],
+      "unit_count": 99,
+      "unit_type": "Blocks",
+      "unit_name": "State Assembly",
+      "unit_name_plural": "State Assembly Districts",
+      "bounds": [
+        [-92.8894, 42.4917],
+        [-86.2495, 47.3098]
+      ]
+    },
+    {
+      "id": 11309,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11309/",
+        "html_url": "http://localhost:8080/states/wisconsin/wisconsin-state-assembly-districts-12761/",
+        "slug": "wisconsin-state-assembly-districts-12761",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:29:10.021798-05:00",
+        "alias_of": null
+      },
+      "title": "Wisconsin State Assembly Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17429,
+                "name": "Wisconsin - 2020 Wards",
+                "type": "circle",
+                "source_layer": "wisconsin2020_wards_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wisconsin2020_wards_points"
+              },
+              "layers": [
+                {
+                  "name": "Wisconsin - 2020 Wards Centroids",
+                  "id": "wisconsin-2020-wards-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "77fa5f1d-d328-41c3-a692-8cc03b16739b"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17430,
+                "name": "Wisconsin - 2020 Wards",
+                "type": "fill",
+                "source_layer": "wisconsin2020_wards",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wisconsin2020_wards"
+              },
+              "layers": [
+                {
+                  "name": "Wisconsin - 2020 Wards Interactive Layer",
+                  "id": "wisconsin-2020-wards-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Wisconsin - 2020 Wards Border",
+                  "id": "wisconsin-2020-wards-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "5e486a98-7c21-4214-8b94-607e211c41d1"
+        }
+      ],
+      "unit_count": 99,
+      "unit_type": "Wards",
+      "unit_name": "State Assembly",
+      "unit_name_plural": "State Assembly Districts",
+      "bounds": [
+        [-92.8894, 42.4919],
+        [-86.764, 47.0807]
+      ]
+    },
+    {
+      "id": 11312,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11312/",
+        "html_url": "http://localhost:8080/states/wisconsin/wisconsin-state-assembly-districts-12764/",
+        "slug": "wisconsin-state-assembly-districts-12764",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:29:11.106886-05:00",
+        "alias_of": null
+      },
+      "title": "Wisconsin State Assembly Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17431,
+                "name": "Wisconsin - 2020 Wards",
+                "type": "fill",
+                "source_layer": "wisco2019acs_wards",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wisco2019acs_wards"
+              },
+              "layers": [
+                {
+                  "name": "Wisconsin - 2020 Wards Interactive Layer",
+                  "id": "wisconsin-2020-wards-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Wisconsin - 2020 Wards Border",
+                  "id": "wisconsin-2020-wards-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "aa3f3d97-e1c9-4415-86bc-5a4bc541e9ee"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17432,
+                "name": "Wisconsin - 2020 Wards",
+                "type": "circle",
+                "source_layer": "wisco2019acs_wards_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wisco2019acs_wards_points"
+              },
+              "layers": [
+                {
+                  "name": "Wisconsin - 2020 Wards Centroids",
+                  "id": "wisconsin-2020-wards-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "66209950-9456-44b7-b83b-c747962ddefc"
+        }
+      ],
+      "unit_count": 99,
+      "unit_type": "Wards",
+      "unit_name": "State Assembly",
+      "unit_name_plural": "State Assembly Districts",
+      "bounds": [
+        [-92.886697, 42.49192],
+        [-86.805868, 47.037]
+      ]
+    },
+    {
+      "id": 11311,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11311/",
+        "html_url": "http://localhost:8080/states/wisconsin/wisconsin-state-senate-districts-12763/",
+        "slug": "wisconsin-state-senate-districts-12763",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:29:10.953236-05:00",
+        "alias_of": null
+      },
+      "title": "Wisconsin State Senate Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17431,
+                "name": "Wisconsin - 2020 Wards",
+                "type": "fill",
+                "source_layer": "wisco2019acs_wards",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wisco2019acs_wards"
+              },
+              "layers": [
+                {
+                  "name": "Wisconsin - 2020 Wards Interactive Layer",
+                  "id": "wisconsin-2020-wards-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Wisconsin - 2020 Wards Border",
+                  "id": "wisconsin-2020-wards-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "7ebf561b-f0fa-4328-b8f4-a058ab0dd1ca"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17432,
+                "name": "Wisconsin - 2020 Wards",
+                "type": "circle",
+                "source_layer": "wisco2019acs_wards_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wisco2019acs_wards_points"
+              },
+              "layers": [
+                {
+                  "name": "Wisconsin - 2020 Wards Centroids",
+                  "id": "wisconsin-2020-wards-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "0884d1b9-84d0-4770-b153-44044f8c7c81"
+        }
+      ],
+      "unit_count": 33,
+      "unit_type": "Wards",
+      "unit_name": "State Senate",
+      "unit_name_plural": "State Senate Districts",
+      "bounds": [
+        [-92.886697, 42.49192],
+        [-86.805868, 47.037]
+      ]
+    },
+    {
+      "id": 11306,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11306/",
+        "html_url": "http://localhost:8080/states/wisconsin/wisconsin-state-senate-districts-12758/",
+        "slug": "wisconsin-state-senate-districts-12758",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:29:08.946815-05:00",
+        "alias_of": null
+      },
+      "title": "Wisconsin State Senate Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17421,
+                "name": "Wisconsin - 2020 Blocks",
+                "type": "fill",
+                "source_layer": "WI_blocks20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.WI_blocks20"
+              },
+              "layers": [
+                {
+                  "name": "Wisconsin - 2020 Blocks Interactive Layer",
+                  "id": "wisconsin-2020-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Wisconsin - 2020 Blocks Border",
+                  "id": "wisconsin-2020-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "df911518-f9c6-4464-b4e1-946828a3522c"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17422,
+                "name": "Wisconsin - 2020 Blocks",
+                "type": "circle",
+                "source_layer": "WI_blocks20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.WI_blocks20_points"
+              },
+              "layers": [
+                {
+                  "name": "Wisconsin - 2020 Blocks Centroids",
+                  "id": "wisconsin-2020-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "f80bb805-7c3f-444c-af90-ef9b677b00bd"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17423,
+                "name": "Wisconsin - 2011 Wards",
+                "type": "fill",
+                "source_layer": "wisconsin_wards",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wisconsin_wards"
+              },
+              "layers": [
+                {
+                  "name": "Wisconsin - 2011 Wards Interactive Layer",
+                  "id": "wisconsin-2011-wards-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Wisconsin - 2011 Wards Border",
+                  "id": "wisconsin-2011-wards-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "412dd1d7-8f0f-49c9-baec-18fd66b5da5b"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17424,
+                "name": "Wisconsin - 2011 Wards",
+                "type": "circle",
+                "source_layer": "wisconsin_wards_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wisconsin_wards_points"
+              },
+              "layers": [
+                {
+                  "name": "Wisconsin - 2011 Wards Centroids",
+                  "id": "wisconsin-2011-wards-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "20e0d094-3cb0-4790-a142-6d09ad07d36c"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17425,
+                "name": "Wisconsin - Block Groups",
+                "type": "circle",
+                "source_layer": "wisconsin_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wisconsin_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Wisconsin - Block Groups Centroids",
+                  "id": "wisconsin-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "b345fe86-e4a3-4940-acb0-6b0a06f1f244"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17426,
+                "name": "Wisconsin - Block Groups",
+                "type": "fill",
+                "source_layer": "wisconsin_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wisconsin_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Wisconsin - Block Groups Interactive Layer",
+                  "id": "wisconsin-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Wisconsin - Block Groups Border",
+                  "id": "wisconsin-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "e1099eb6-8240-4d97-a824-184eb98f3668"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17427,
+                "name": "Wisconsin - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "wi_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wi_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "Wisconsin - 2020 VTDs Interactive Layer",
+                  "id": "wisconsin-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Wisconsin - 2020 VTDs Border",
+                  "id": "wisconsin-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "bdb500ae-5ee0-42c0-aa76-8284d8ab2ac0"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17428,
+                "name": "Wisconsin - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "wi_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wi_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "Wisconsin - 2020 VTDs Centroids",
+                  "id": "wisconsin-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "d7415f07-51f4-4391-ad27-8bc9c073e4ef"
+        }
+      ],
+      "unit_count": 33,
+      "unit_type": "Blocks",
+      "unit_name": "State Senate",
+      "unit_name_plural": "State Senate Districts",
+      "bounds": [
+        [-92.8894, 42.4917],
+        [-86.2495, 47.3098]
+      ]
+    },
+    {
+      "id": 11315,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11315/",
+        "html_url": "http://localhost:8080/states/wisconsin/wisconsin-state-senate-districts-12767/",
+        "slug": "wisconsin-state-senate-districts-12767",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:29:12.379784-05:00",
+        "alias_of": null
+      },
+      "title": "Wisconsin State Senate Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17435,
+                "name": "Wisconsin - 2020 Wards (updated)",
+                "type": "fill",
+                "source_layer": "wi2020_official_wards",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wi2020_official_wards"
+              },
+              "layers": [
+                {
+                  "name": "Wisconsin - 2020 Wards (updated) Interactive Layer",
+                  "id": "wisconsin-2020-wards-updated-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Wisconsin - 2020 Wards (updated) Border",
+                  "id": "wisconsin-2020-wards-updated-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "45e90e8c-aed7-4ea8-9880-ffa124c726f6"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17436,
+                "name": "Wisconsin - 2020 Wards (updated)",
+                "type": "circle",
+                "source_layer": "wi2020_official_wards_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wi2020_official_wards_points"
+              },
+              "layers": [
+                {
+                  "name": "Wisconsin - 2020 Wards (updated) Centroids",
+                  "id": "wisconsin-2020-wards-updated-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "fc514052-725a-4342-858f-73aef73804e3"
+        }
+      ],
+      "unit_count": 33,
+      "unit_type": "2020 Wards (updated)",
+      "unit_name": "State Senate",
+      "unit_name_plural": "State Senate Districts",
+      "bounds": [
+        [-92.8894, 42.4919],
+        [-86.764, 47.0808]
+      ]
+    },
+    {
+      "id": 11308,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11308/",
+        "html_url": "http://localhost:8080/states/wisconsin/wisconsin-state-senate-districts-12760/",
+        "slug": "wisconsin-state-senate-districts-12760",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:29:09.864973-05:00",
+        "alias_of": null
+      },
+      "title": "Wisconsin State Senate Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17429,
+                "name": "Wisconsin - 2020 Wards",
+                "type": "circle",
+                "source_layer": "wisconsin2020_wards_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wisconsin2020_wards_points"
+              },
+              "layers": [
+                {
+                  "name": "Wisconsin - 2020 Wards Centroids",
+                  "id": "wisconsin-2020-wards-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "835b9918-a41a-4c64-90e0-540dc0a4be7a"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17430,
+                "name": "Wisconsin - 2020 Wards",
+                "type": "fill",
+                "source_layer": "wisconsin2020_wards",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wisconsin2020_wards"
+              },
+              "layers": [
+                {
+                  "name": "Wisconsin - 2020 Wards Interactive Layer",
+                  "id": "wisconsin-2020-wards-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Wisconsin - 2020 Wards Border",
+                  "id": "wisconsin-2020-wards-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "f92342c2-0d93-4669-b23a-e66486e56853"
+        }
+      ],
+      "unit_count": 33,
+      "unit_type": "Wards",
+      "unit_name": "State Senate",
+      "unit_name_plural": "State Senate Districts",
+      "bounds": [
+        [-92.8894, 42.4919],
+        [-86.764, 47.0807]
+      ]
+    }
+  ]
+}

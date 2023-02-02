@@ -1,0 +1,1375 @@
+{
+  "id": 49,
+  "meta": {
+    "type": "client.MapIndexPage",
+    "detail_url": "http://localhost:8080/wagtail-api/pages/49/",
+    "html_url": "http://localhost:8080/states/utah/",
+    "slug": "utah",
+    "show_in_menus": false,
+    "seo_title": "",
+    "search_description": "",
+    "first_published_at": null,
+    "alias_of": null,
+    "locale": "en"
+  },
+  "title": "Utah",
+  "counties": [
+    {
+      "id": 2253,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2253/",
+        "html_url": "http://localhost:8080/states/utah/beaver/",
+        "slug": "beaver",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Beaver County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 725,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/725/",
+        "html_url": "http://localhost:8080/states/utah/box-elder/",
+        "slug": "box-elder",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Box Elder County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 219,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/219/",
+        "html_url": "http://localhost:8080/states/utah/cache/",
+        "slug": "cache",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Cache County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2717,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2717/",
+        "html_url": "http://localhost:8080/states/utah/carbon/",
+        "slug": "carbon",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Carbon County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2014,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2014/",
+        "html_url": "http://localhost:8080/states/utah/daggett/",
+        "slug": "daggett",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Daggett County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 654,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/654/",
+        "html_url": "http://localhost:8080/states/utah/davis/",
+        "slug": "davis",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Davis County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 347,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/347/",
+        "html_url": "http://localhost:8080/states/utah/duchesne/",
+        "slug": "duchesne",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Duchesne County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1910,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1910/",
+        "html_url": "http://localhost:8080/states/utah/emery/",
+        "slug": "emery",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Emery County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1504,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1504/",
+        "html_url": "http://localhost:8080/states/utah/garfield/",
+        "slug": "garfield",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Garfield County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3167,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3167/",
+        "html_url": "http://localhost:8080/states/utah/grand/",
+        "slug": "grand",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Grand County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2835,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2835/",
+        "html_url": "http://localhost:8080/states/utah/iron/",
+        "slug": "iron",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Iron County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2682,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2682/",
+        "html_url": "http://localhost:8080/states/utah/juab/",
+        "slug": "juab",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Juab County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1274,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1274/",
+        "html_url": "http://localhost:8080/states/utah/kane/",
+        "slug": "kane",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Kane County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 920,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/920/",
+        "html_url": "http://localhost:8080/states/utah/millard/",
+        "slug": "millard",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Millard County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 921,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/921/",
+        "html_url": "http://localhost:8080/states/utah/morgan/",
+        "slug": "morgan",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Morgan County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1778,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1778/",
+        "html_url": "http://localhost:8080/states/utah/piute/",
+        "slug": "piute",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Piute County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 92,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/92/",
+        "html_url": "http://localhost:8080/states/utah/rich/",
+        "slug": "rich",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Rich County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1463,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1463/",
+        "html_url": "http://localhost:8080/states/utah/salt-lake/",
+        "slug": "salt-lake",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Salt Lake County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2886,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2886/",
+        "html_url": "http://localhost:8080/states/utah/san-juan/",
+        "slug": "san-juan",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "San Juan County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2838,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2838/",
+        "html_url": "http://localhost:8080/states/utah/sanpete/",
+        "slug": "sanpete",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Sanpete County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1489,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1489/",
+        "html_url": "http://localhost:8080/states/utah/sevier/",
+        "slug": "sevier",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Sevier County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1794,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1794/",
+        "html_url": "http://localhost:8080/states/utah/summit/",
+        "slug": "summit",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Summit County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3168,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3168/",
+        "html_url": "http://localhost:8080/states/utah/tooele/",
+        "slug": "tooele",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Tooele County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2479,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2479/",
+        "html_url": "http://localhost:8080/states/utah/uintah/",
+        "slug": "uintah",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Uintah County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2480,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2480/",
+        "html_url": "http://localhost:8080/states/utah/utah/",
+        "slug": "utah",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Utah County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2920,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2920/",
+        "html_url": "http://localhost:8080/states/utah/wasatch/",
+        "slug": "wasatch",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Wasatch County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1569,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1569/",
+        "html_url": "http://localhost:8080/states/utah/washington/",
+        "slug": "washington",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Washington County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2566,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2566/",
+        "html_url": "http://localhost:8080/states/utah/wayne/",
+        "slug": "wayne",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Wayne County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1015,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1015/",
+        "html_url": "http://localhost:8080/states/utah/weber/",
+        "slug": "weber",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Weber County",
+      "body": "",
+      "live": true
+    }
+  ],
+  "problems": [
+    {
+      "id": 11285,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11285/",
+        "html_url": "http://localhost:8080/states/utah/utah-county-commission-districts-12737/",
+        "slug": "utah-county-commission-districts-12737",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:29:01.003164-05:00",
+        "alias_of": null
+      },
+      "title": "Grand County, Utah County Commission Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17383,
+                "name": "Utah - Grand County - Blocks",
+                "type": "fill",
+                "source_layer": "grand_county_2_blocks",
+                "source_type": "vector",
+                "url": "mapbox://districtr.grand_county_2_blocks"
+              },
+              "layers": [
+                {
+                  "name": "Utah - Grand County - Blocks Interactive Layer",
+                  "id": "utah-grand-county-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Utah - Grand County - Blocks Border",
+                  "id": "utah-grand-county-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "7838f7c6-cc66-4c73-b4ae-2c1a772f6b71"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17384,
+                "name": "Utah - Grand County - Blocks",
+                "type": "circle",
+                "source_layer": "grand_county_2_blocks_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.grand_county_2_blocks_points"
+              },
+              "layers": [
+                {
+                  "name": "Utah - Grand County - Blocks Centroids",
+                  "id": "utah-grand-county-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "a1cfb8ef-3102-4ac2-813e-a54b4db4cd76"
+        }
+      ],
+      "unit_count": 5,
+      "unit_type": "Blocks",
+      "unit_name": "County Commission",
+      "unit_name_plural": "County Commission Districts",
+      "bounds": [
+        [-110.1793, 38.5],
+        [-109.0508, 39.4998]
+      ]
+    },
+    {
+      "id": 11286,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11286/",
+        "html_url": "http://localhost:8080/states/utah/utah-county-commission-districts-12738/",
+        "slug": "utah-county-commission-districts-12738",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:29:01.382218-05:00",
+        "alias_of": null
+      },
+      "title": "Grand County, Utah County Commission Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17385,
+                "name": "Utah - Grand County - 2020 Blocks",
+                "type": "circle",
+                "source_layer": "grandut_blocks20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.grandut_blocks20_points"
+              },
+              "layers": [
+                {
+                  "name": "Utah - Grand County - 2020 Blocks Centroids",
+                  "id": "utah-grand-county-2020-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "4a3d3182-b7b2-4e0c-b930-6f2a621b5de0"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17386,
+                "name": "Utah - Grand County - 2020 Blocks",
+                "type": "fill",
+                "source_layer": "grandut_blocks20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.grandut_blocks20"
+              },
+              "layers": [
+                {
+                  "name": "Utah - Grand County - 2020 Blocks Interactive Layer",
+                  "id": "utah-grand-county-2020-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Utah - Grand County - 2020 Blocks Border",
+                  "id": "utah-grand-county-2020-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "2756de03-3e02-4a6e-9cf4-24452dc6fbae"
+        }
+      ],
+      "unit_count": 5,
+      "unit_type": "Blocks",
+      "unit_name": "County Commission",
+      "unit_name_plural": "County Commission Districts",
+      "bounds": [
+        [-110.1793, 38.4999],
+        [-109.0507, 39.4999]
+      ]
+    },
+    {
+      "id": 11282,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11282/",
+        "html_url": "http://localhost:8080/states/utah/utah-congressional-districts-12734/",
+        "slug": "utah-congressional-districts-12734",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:29:00.220835-05:00",
+        "alias_of": null
+      },
+      "title": "Utah Congressional Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17377,
+                "name": "Utah - Block Groups",
+                "type": "circle",
+                "source_layer": "utah_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.utah_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Utah - Block Groups Centroids",
+                  "id": "utah-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "6cb4d62e-68df-4bc1-8d91-120f6d1c1026"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17378,
+                "name": "Utah - Block Groups",
+                "type": "fill",
+                "source_layer": "utah_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.utah_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Utah - Block Groups Interactive Layer",
+                  "id": "utah-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Utah - Block Groups Border",
+                  "id": "utah-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "560d4897-e8c0-44fe-a1c3-9542aab05ccd"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17379,
+                "name": "Utah - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "ut_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ut_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "Utah - 2020 VTDs Interactive Layer",
+                  "id": "utah-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Utah - 2020 VTDs Border",
+                  "id": "utah-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "98fe89f3-0108-492e-9ab1-7252dab23a7d"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17380,
+                "name": "Utah - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "ut_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ut_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "Utah - 2020 VTDs Centroids",
+                  "id": "utah-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "a8810048-3ce3-4e74-9021-221fba3ec59d"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17381,
+                "name": "Utah - Precincts",
+                "type": "fill",
+                "source_layer": "utah_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.utah_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Utah - Precincts Interactive Layer",
+                  "id": "utah-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Utah - Precincts Border",
+                  "id": "utah-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "bd0531b0-8fb8-4d95-a362-0e4e9844c1ba"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17382,
+                "name": "Utah - Precincts",
+                "type": "circle",
+                "source_layer": "utah_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.utah_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Utah - Precincts Centroids",
+                  "id": "utah-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "6eb43c40-6420-4a91-b503-02c8ffd38ca4"
+        }
+      ],
+      "unit_count": 4,
+      "unit_type": "Block Groups",
+      "unit_name": "Congress",
+      "unit_name_plural": "Congressional Districts",
+      "bounds": [
+        [-114.0523, 36.9979],
+        [-109.0411, 42.002]
+      ]
+    },
+    {
+      "id": 11284,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11284/",
+        "html_url": "http://localhost:8080/states/utah/utah-state-house-districts-12736/",
+        "slug": "utah-state-house-districts-12736",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:29:00.608609-05:00",
+        "alias_of": null
+      },
+      "title": "Utah State House Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17377,
+                "name": "Utah - Block Groups",
+                "type": "circle",
+                "source_layer": "utah_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.utah_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Utah - Block Groups Centroids",
+                  "id": "utah-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "730abcf2-575b-48eb-8174-1fecd082e4c3"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17378,
+                "name": "Utah - Block Groups",
+                "type": "fill",
+                "source_layer": "utah_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.utah_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Utah - Block Groups Interactive Layer",
+                  "id": "utah-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Utah - Block Groups Border",
+                  "id": "utah-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "54939267-7a5d-46c1-97b9-5bdc1ac4cd9d"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17379,
+                "name": "Utah - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "ut_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ut_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "Utah - 2020 VTDs Interactive Layer",
+                  "id": "utah-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Utah - 2020 VTDs Border",
+                  "id": "utah-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "1f47bbb2-5697-413e-92b6-8f666f034b93"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17380,
+                "name": "Utah - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "ut_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ut_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "Utah - 2020 VTDs Centroids",
+                  "id": "utah-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "b0bf1cea-9c60-4f8d-ae50-8cb6f0ee7329"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17381,
+                "name": "Utah - Precincts",
+                "type": "fill",
+                "source_layer": "utah_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.utah_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Utah - Precincts Interactive Layer",
+                  "id": "utah-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Utah - Precincts Border",
+                  "id": "utah-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "be85f0e4-355c-4f75-994c-1aa315033d94"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17382,
+                "name": "Utah - Precincts",
+                "type": "circle",
+                "source_layer": "utah_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.utah_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Utah - Precincts Centroids",
+                  "id": "utah-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "9369bc51-f130-4b93-b396-eb5a46184353"
+        }
+      ],
+      "unit_count": 75,
+      "unit_type": "Block Groups",
+      "unit_name": "State House",
+      "unit_name_plural": "State House Districts",
+      "bounds": [
+        [-114.0523, 36.9979],
+        [-109.0411, 42.002]
+      ]
+    },
+    {
+      "id": 11283,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11283/",
+        "html_url": "http://localhost:8080/states/utah/utah-state-senate-districts-12735/",
+        "slug": "utah-state-senate-districts-12735",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:29:00.434464-05:00",
+        "alias_of": null
+      },
+      "title": "Utah State Senate Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17377,
+                "name": "Utah - Block Groups",
+                "type": "circle",
+                "source_layer": "utah_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.utah_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Utah - Block Groups Centroids",
+                  "id": "utah-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "2fd5c339-0150-4e1d-946d-de8b0503e52f"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17378,
+                "name": "Utah - Block Groups",
+                "type": "fill",
+                "source_layer": "utah_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.utah_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Utah - Block Groups Interactive Layer",
+                  "id": "utah-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Utah - Block Groups Border",
+                  "id": "utah-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "336f4794-c7b2-4a21-9443-ac280f459019"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17379,
+                "name": "Utah - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "ut_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ut_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "Utah - 2020 VTDs Interactive Layer",
+                  "id": "utah-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Utah - 2020 VTDs Border",
+                  "id": "utah-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "6461d320-9617-4dd1-8498-0159684d89b8"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17380,
+                "name": "Utah - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "ut_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ut_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "Utah - 2020 VTDs Centroids",
+                  "id": "utah-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "2d421d18-2afd-4de6-b9c7-48dcc9720a92"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17381,
+                "name": "Utah - Precincts",
+                "type": "fill",
+                "source_layer": "utah_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.utah_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Utah - Precincts Interactive Layer",
+                  "id": "utah-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Utah - Precincts Border",
+                  "id": "utah-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "4c380715-f3ec-46ee-a2bb-3f9111c67e84"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17382,
+                "name": "Utah - Precincts",
+                "type": "circle",
+                "source_layer": "utah_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.utah_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Utah - Precincts Centroids",
+                  "id": "utah-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "31a8065a-5360-401e-9bdd-9e408e5e4107"
+        }
+      ],
+      "unit_count": 29,
+      "unit_type": "Block Groups",
+      "unit_name": "State Senate",
+      "unit_name_plural": "State Senate Districts",
+      "bounds": [
+        [-114.0523, 36.9979],
+        [-109.0411, 42.002]
+      ]
+    }
+  ]
+}

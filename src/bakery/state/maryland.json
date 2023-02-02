@@ -1,0 +1,1085 @@
+{
+  "id": 25,
+  "meta": {
+    "type": "client.MapIndexPage",
+    "detail_url": "http://localhost:8080/wagtail-api/pages/25/",
+    "html_url": "http://localhost:8080/states/maryland/",
+    "slug": "maryland",
+    "show_in_menus": false,
+    "seo_title": "",
+    "search_description": "",
+    "first_published_at": null,
+    "alias_of": null,
+    "locale": "en"
+  },
+  "title": "Maryland",
+  "counties": [
+    {
+      "id": 244,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/244/",
+        "html_url": "http://localhost:8080/states/maryland/allegany/",
+        "slug": "allegany",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Allegany County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1098,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1098/",
+        "html_url": "http://localhost:8080/states/maryland/anne-arundel/",
+        "slug": "anne-arundel",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Anne Arundel County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 258,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/258/",
+        "html_url": "http://localhost:8080/states/maryland/baltimore/",
+        "slug": "baltimore",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Baltimore city",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 947,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/947/",
+        "html_url": "http://localhost:8080/states/maryland/calvert/",
+        "slug": "calvert",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Calvert County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2926,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2926/",
+        "html_url": "http://localhost:8080/states/maryland/caroline/",
+        "slug": "caroline",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Caroline County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 889,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/889/",
+        "html_url": "http://localhost:8080/states/maryland/carroll/",
+        "slug": "carroll",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Carroll County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 411,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/411/",
+        "html_url": "http://localhost:8080/states/maryland/cecil/",
+        "slug": "cecil",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Cecil County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2562,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2562/",
+        "html_url": "http://localhost:8080/states/maryland/charles/",
+        "slug": "charles",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Charles County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 981,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/981/",
+        "html_url": "http://localhost:8080/states/maryland/dorchester/",
+        "slug": "dorchester",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Dorchester County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1123,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1123/",
+        "html_url": "http://localhost:8080/states/maryland/frederick/",
+        "slug": "frederick",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Frederick County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1516,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1516/",
+        "html_url": "http://localhost:8080/states/maryland/garrett/",
+        "slug": "garrett",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Garrett County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2061,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2061/",
+        "html_url": "http://localhost:8080/states/maryland/harford/",
+        "slug": "harford",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Harford County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1462,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1462/",
+        "html_url": "http://localhost:8080/states/maryland/howard/",
+        "slug": "howard",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Howard County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2139,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2139/",
+        "html_url": "http://localhost:8080/states/maryland/kent/",
+        "slug": "kent",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Kent County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1551,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1551/",
+        "html_url": "http://localhost:8080/states/maryland/montgomery/",
+        "slug": "montgomery",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Montgomery County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1431,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1431/",
+        "html_url": "http://localhost:8080/states/maryland/prince-georges/",
+        "slug": "prince-georges",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Prince George's County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1557,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1557/",
+        "html_url": "http://localhost:8080/states/maryland/queen-annes/",
+        "slug": "queen-annes",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Queen Anne's County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2039,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2039/",
+        "html_url": "http://localhost:8080/states/maryland/somerset/",
+        "slug": "somerset",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Somerset County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2079,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2079/",
+        "html_url": "http://localhost:8080/states/maryland/st-marys/",
+        "slug": "st-marys",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "St. Mary's County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1697,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1697/",
+        "html_url": "http://localhost:8080/states/maryland/talbot/",
+        "slug": "talbot",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Talbot County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2816,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2816/",
+        "html_url": "http://localhost:8080/states/maryland/washington/",
+        "slug": "washington",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Washington County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1805,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1805/",
+        "html_url": "http://localhost:8080/states/maryland/wicomico/",
+        "slug": "wicomico",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Wicomico County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 205,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/205/",
+        "html_url": "http://localhost:8080/states/maryland/worcester/",
+        "slug": "worcester",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Worcester County",
+      "body": "",
+      "live": true
+    }
+  ],
+  "problems": [
+    {
+      "id": 11115,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11115/",
+        "html_url": "http://localhost:8080/states/maryland/maryland-council-districts-12567/",
+        "slug": "maryland-council-districts-12567",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:56.686965-05:00",
+        "alias_of": null
+      },
+      "title": "Baltimore, Maryland Council Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17089,
+                "name": "Maryland - Baltimore - Block Groups",
+                "type": "fill",
+                "source_layer": "baltimore_block_groups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.baltimore_block_groups"
+              },
+              "layers": [
+                {
+                  "name": "Maryland - Baltimore - Block Groups Interactive Layer",
+                  "id": "maryland-baltimore-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Maryland - Baltimore - Block Groups Border",
+                  "id": "maryland-baltimore-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "872cfa47-457e-486c-80e6-55e5ed62a5a0"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17090,
+                "name": "Maryland - Baltimore - Block Groups",
+                "type": "circle",
+                "source_layer": "baltimore_block_groups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.baltimore_block_groups_points"
+              },
+              "layers": [
+                {
+                  "name": "Maryland - Baltimore - Block Groups Centroids",
+                  "id": "maryland-baltimore-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "e88eae48-acd1-4abb-9991-16b12d46facc"
+        }
+      ],
+      "unit_count": 14,
+      "unit_type": "Block Groups",
+      "unit_name": "City Council",
+      "unit_name_plural": "Council Districts",
+      "bounds": [
+        [-76.7115, 39.1972],
+        [-76.5295, 39.3722]
+      ]
+    },
+    {
+      "id": 11113,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11113/",
+        "html_url": "http://localhost:8080/states/maryland/maryland-congressional-districts-12565/",
+        "slug": "maryland-congressional-districts-12565",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:56.102484-05:00",
+        "alias_of": null
+      },
+      "title": "Maryland Congressional Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17081,
+                "name": "Maryland - Block Groups",
+                "type": "circle",
+                "source_layer": "maryland_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.maryland_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Maryland - Block Groups Centroids",
+                  "id": "maryland-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "f0c5c8cc-e7f7-4a67-8fa9-6c40bb4604fe"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17082,
+                "name": "Maryland - Block Groups",
+                "type": "fill",
+                "source_layer": "maryland_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.maryland_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Maryland - Block Groups Interactive Layer",
+                  "id": "maryland-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Maryland - Block Groups Border",
+                  "id": "maryland-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "c4b88503-e372-4969-b47a-65f3b2ce7602"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17083,
+                "name": "Maryland - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "md_adj_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.md_adj_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "Maryland - 2020 VTDs Interactive Layer",
+                  "id": "maryland-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Maryland - 2020 VTDs Border",
+                  "id": "maryland-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "7b2fbd98-27e0-4042-8dbd-c8c983a8954a"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17084,
+                "name": "Maryland - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "md_adj_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.md_adj_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "Maryland - 2020 VTDs Centroids",
+                  "id": "maryland-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "f545a938-28fb-47e4-ae8b-a92337e7d52a"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17085,
+                "name": "Maryland - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "md_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.md_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "Maryland - 2020 VTDs Interactive Layer",
+                  "id": "maryland-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Maryland - 2020 VTDs Border",
+                  "id": "maryland-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "329e5ef3-ce5a-492f-b045-0ed0883248ae"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17086,
+                "name": "Maryland - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "md_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.md_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "Maryland - 2020 VTDs Centroids",
+                  "id": "maryland-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "2dfc2053-71ca-4e94-9e97-74392777a4ff"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17087,
+                "name": "Maryland - Precincts",
+                "type": "circle",
+                "source_layer": "maryland_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.maryland_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Maryland - Precincts Centroids",
+                  "id": "maryland-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "319b502a-49ad-44b3-9cec-cec798392788"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17088,
+                "name": "Maryland - Precincts",
+                "type": "fill",
+                "source_layer": "maryland_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.maryland_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Maryland - Precincts Interactive Layer",
+                  "id": "maryland-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Maryland - Precincts Border",
+                  "id": "maryland-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "1bbb392d-1757-4c52-9e66-68c8fc5a6e73"
+        }
+      ],
+      "unit_count": 8,
+      "unit_type": "Block Groups",
+      "unit_name": "Congress",
+      "unit_name_plural": "Congressional Districts",
+      "bounds": [
+        [-79.4877, 37.9121],
+        [-75.0491, 39.723]
+      ]
+    },
+    {
+      "id": 11114,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11114/",
+        "html_url": "http://localhost:8080/states/maryland/maryland-state-legislative-districts-12566/",
+        "slug": "maryland-state-legislative-districts-12566",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:56.288904-05:00",
+        "alias_of": null
+      },
+      "title": "Maryland State Legislative Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17081,
+                "name": "Maryland - Block Groups",
+                "type": "circle",
+                "source_layer": "maryland_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.maryland_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Maryland - Block Groups Centroids",
+                  "id": "maryland-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "a4d7ef2b-e345-4c6f-9646-dc5f7ee10b85"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17082,
+                "name": "Maryland - Block Groups",
+                "type": "fill",
+                "source_layer": "maryland_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.maryland_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Maryland - Block Groups Interactive Layer",
+                  "id": "maryland-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Maryland - Block Groups Border",
+                  "id": "maryland-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "43850372-8b88-43d8-9de2-8d89fef4417a"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17083,
+                "name": "Maryland - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "md_adj_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.md_adj_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "Maryland - 2020 VTDs Interactive Layer",
+                  "id": "maryland-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Maryland - 2020 VTDs Border",
+                  "id": "maryland-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "0c13a05a-6af0-4916-88db-3e98a82c1fe5"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17084,
+                "name": "Maryland - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "md_adj_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.md_adj_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "Maryland - 2020 VTDs Centroids",
+                  "id": "maryland-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "9aae7ccc-cf2e-40e8-91a8-d922749b1e43"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17085,
+                "name": "Maryland - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "md_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.md_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "Maryland - 2020 VTDs Interactive Layer",
+                  "id": "maryland-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Maryland - 2020 VTDs Border",
+                  "id": "maryland-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "2d0783b2-a41f-41f5-9370-303bbc2226e4"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17086,
+                "name": "Maryland - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "md_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.md_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "Maryland - 2020 VTDs Centroids",
+                  "id": "maryland-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "25b7e16a-c8bd-403c-95a8-fc982371765e"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17087,
+                "name": "Maryland - Precincts",
+                "type": "circle",
+                "source_layer": "maryland_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.maryland_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Maryland - Precincts Centroids",
+                  "id": "maryland-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "31130ae6-b290-49d1-aeff-a96c7aa2ea39"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17088,
+                "name": "Maryland - Precincts",
+                "type": "fill",
+                "source_layer": "maryland_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.maryland_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Maryland - Precincts Interactive Layer",
+                  "id": "maryland-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Maryland - Precincts Border",
+                  "id": "maryland-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "057d5dab-8a46-49b2-9b15-105b35cabb12"
+        }
+      ],
+      "unit_count": 47,
+      "unit_type": "Block Groups",
+      "unit_name": "General Assembly",
+      "unit_name_plural": "State Legislative Districts",
+      "bounds": [
+        [-79.4877, 37.9121],
+        [-75.0491, 39.723]
+      ]
+    }
+  ]
+}

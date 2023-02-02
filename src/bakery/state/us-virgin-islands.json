@@ -1,0 +1,73 @@
+{
+  "id": 61,
+  "meta": {
+    "type": "client.MapIndexPage",
+    "detail_url": "http://localhost:8080/wagtail-api/pages/61/",
+    "html_url": "http://localhost:8080/states/us-virgin-islands/",
+    "slug": "us-virgin-islands",
+    "show_in_menus": false,
+    "seo_title": "",
+    "search_description": "",
+    "first_published_at": null,
+    "alias_of": null,
+    "locale": "en"
+  },
+  "title": "U.S. Virgin Islands",
+  "counties": [
+    {
+      "id": 1318,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1318/",
+        "html_url": "http://localhost:8080/states/us-virgin-islands/st-croix/",
+        "slug": "st-croix",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "St. Croix Island",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1536,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1536/",
+        "html_url": "http://localhost:8080/states/us-virgin-islands/st-john/",
+        "slug": "st-john",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "St. John Island",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 157,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/157/",
+        "html_url": "http://localhost:8080/states/us-virgin-islands/st-thomas/",
+        "slug": "st-thomas",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "St. Thomas Island",
+      "body": "",
+      "live": true
+    }
+  ],
+  "problems": []
+}

@@ -1,0 +1,1900 @@
+{
+  "id": 42,
+  "meta": {
+    "type": "client.MapIndexPage",
+    "detail_url": "http://localhost:8080/wagtail-api/pages/42/",
+    "html_url": "http://localhost:8080/states/oregon/",
+    "slug": "oregon",
+    "show_in_menus": false,
+    "seo_title": "",
+    "search_description": "",
+    "first_published_at": null,
+    "alias_of": null,
+    "locale": "en"
+  },
+  "title": "Oregon",
+  "counties": [
+    {
+      "id": 430,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/430/",
+        "html_url": "http://localhost:8080/states/oregon/baker/",
+        "slug": "baker",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Baker County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 574,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/574/",
+        "html_url": "http://localhost:8080/states/oregon/benton/",
+        "slug": "benton",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Benton County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 199,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/199/",
+        "html_url": "http://localhost:8080/states/oregon/clackamas/",
+        "slug": "clackamas",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Clackamas County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 247,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/247/",
+        "html_url": "http://localhost:8080/states/oregon/clatsop/",
+        "slug": "clatsop",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Clatsop County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1566,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1566/",
+        "html_url": "http://localhost:8080/states/oregon/columbia/",
+        "slug": "columbia",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Columbia County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 935,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/935/",
+        "html_url": "http://localhost:8080/states/oregon/coos/",
+        "slug": "coos",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Coos County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 163,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/163/",
+        "html_url": "http://localhost:8080/states/oregon/crook/",
+        "slug": "crook",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Crook County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2917,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2917/",
+        "html_url": "http://localhost:8080/states/oregon/curry/",
+        "slug": "curry",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Curry County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2097,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2097/",
+        "html_url": "http://localhost:8080/states/oregon/deschutes/",
+        "slug": "deschutes",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Deschutes County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1446,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1446/",
+        "html_url": "http://localhost:8080/states/oregon/douglas/",
+        "slug": "douglas",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Douglas County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1813,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1813/",
+        "html_url": "http://localhost:8080/states/oregon/gilliam/",
+        "slug": "gilliam",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Gilliam County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 934,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/934/",
+        "html_url": "http://localhost:8080/states/oregon/grant/",
+        "slug": "grant",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Grant County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1643,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1643/",
+        "html_url": "http://localhost:8080/states/oregon/harney/",
+        "slug": "harney",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Harney County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1603,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1603/",
+        "html_url": "http://localhost:8080/states/oregon/hood-river/",
+        "slug": "hood-river",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Hood River County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 353,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/353/",
+        "html_url": "http://localhost:8080/states/oregon/jackson/",
+        "slug": "jackson",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Jackson County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2996,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2996/",
+        "html_url": "http://localhost:8080/states/oregon/jefferson/",
+        "slug": "jefferson",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Jefferson County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1740,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1740/",
+        "html_url": "http://localhost:8080/states/oregon/josephine/",
+        "slug": "josephine",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Josephine County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 278,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/278/",
+        "html_url": "http://localhost:8080/states/oregon/klamath/",
+        "slug": "klamath",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Klamath County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 967,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/967/",
+        "html_url": "http://localhost:8080/states/oregon/lake/",
+        "slug": "lake",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lake County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1240,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1240/",
+        "html_url": "http://localhost:8080/states/oregon/lane/",
+        "slug": "lane",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lane County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1673,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1673/",
+        "html_url": "http://localhost:8080/states/oregon/lincoln/",
+        "slug": "lincoln",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lincoln County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 960,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/960/",
+        "html_url": "http://localhost:8080/states/oregon/linn/",
+        "slug": "linn",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Linn County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1109,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1109/",
+        "html_url": "http://localhost:8080/states/oregon/malheur/",
+        "slug": "malheur",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Malheur County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 761,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/761/",
+        "html_url": "http://localhost:8080/states/oregon/marion/",
+        "slug": "marion",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Marion County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 296,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/296/",
+        "html_url": "http://localhost:8080/states/oregon/morrow/",
+        "slug": "morrow",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Morrow County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 394,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/394/",
+        "html_url": "http://localhost:8080/states/oregon/multnomah/",
+        "slug": "multnomah",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Multnomah County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2181,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2181/",
+        "html_url": "http://localhost:8080/states/oregon/polk/",
+        "slug": "polk",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Polk County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2343,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2343/",
+        "html_url": "http://localhost:8080/states/oregon/sherman/",
+        "slug": "sherman",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Sherman County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1198,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1198/",
+        "html_url": "http://localhost:8080/states/oregon/tillamook/",
+        "slug": "tillamook",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Tillamook County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2963,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2963/",
+        "html_url": "http://localhost:8080/states/oregon/umatilla/",
+        "slug": "umatilla",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Umatilla County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1284,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1284/",
+        "html_url": "http://localhost:8080/states/oregon/union/",
+        "slug": "union",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Union County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 86,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/86/",
+        "html_url": "http://localhost:8080/states/oregon/wallowa/",
+        "slug": "wallowa",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Wallowa County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2182,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2182/",
+        "html_url": "http://localhost:8080/states/oregon/wasco/",
+        "slug": "wasco",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Wasco County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3262,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3262/",
+        "html_url": "http://localhost:8080/states/oregon/washington/",
+        "slug": "washington",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Washington County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1066,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1066/",
+        "html_url": "http://localhost:8080/states/oregon/wheeler/",
+        "slug": "wheeler",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Wheeler County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2731,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2731/",
+        "html_url": "http://localhost:8080/states/oregon/yamhill/",
+        "slug": "yamhill",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Yamhill County",
+      "body": "",
+      "live": true
+    }
+  ],
+  "problems": [
+    {
+      "id": 11235,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11235/",
+        "html_url": "http://localhost:8080/states/oregon/oregon-congressional-districts-12687/",
+        "slug": "oregon-congressional-districts-12687",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:42.864977-05:00",
+        "alias_of": null
+      },
+      "title": "Oregon Congressional Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17300,
+                "name": "Oregon - 2020 Block Groups",
+                "type": "fill",
+                "source_layer": "or_bg20_blockgroups20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.or_bg20_blockgroups20"
+              },
+              "layers": [
+                {
+                  "name": "Oregon - 2020 Block Groups Interactive Layer",
+                  "id": "oregon-2020-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Oregon - 2020 Block Groups Border",
+                  "id": "oregon-2020-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "bfb88ff1-7fd9-42a3-9dc8-dea38978b311"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17301,
+                "name": "Oregon - 2020 Block Groups",
+                "type": "circle",
+                "source_layer": "or_bg20_blockgroups20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.or_bg20_blockgroups20_points"
+              },
+              "layers": [
+                {
+                  "name": "Oregon - 2020 Block Groups Centroids",
+                  "id": "oregon-2020-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "3fa69138-ac70-4a8e-8ec4-b7e4b938ad09"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17302,
+                "name": "Oregon - Block Groups",
+                "type": "circle",
+                "source_layer": "oregon_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.oregon_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Oregon - Block Groups Centroids",
+                  "id": "oregon-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "78328a3f-86d5-4531-92eb-b6dd762f0ebb"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17303,
+                "name": "Oregon - Block Groups",
+                "type": "fill",
+                "source_layer": "oregon_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.oregon_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Oregon - Block Groups Interactive Layer",
+                  "id": "oregon-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Oregon - Block Groups Border",
+                  "id": "oregon-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "f6741c59-01b5-4f59-adcc-b7ce5595b908"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17304,
+                "name": "Oregon - Precincts",
+                "type": "fill",
+                "source_layer": "oregon_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.oregon_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Oregon - Precincts Interactive Layer",
+                  "id": "oregon-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Oregon - Precincts Border",
+                  "id": "oregon-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "b47e0f62-84c9-4fa7-9410-7f87bc6ef2ee"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17305,
+                "name": "Oregon - Precincts",
+                "type": "circle",
+                "source_layer": "oregon_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.oregon_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Oregon - Precincts Centroids",
+                  "id": "oregon-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "19c882ea-34a7-4fd8-bcd5-706e5c2efcad"
+        }
+      ],
+      "unit_count": 5,
+      "unit_type": "Block Groups",
+      "unit_name": "Congress",
+      "unit_name_plural": "Congressional Districts",
+      "bounds": [
+        [-124.5666, 41.9918],
+        [-116.4635, 46.2706]
+      ]
+    },
+    {
+      "id": 11234,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11234/",
+        "html_url": "http://localhost:8080/states/oregon/oregon-reapportioned-congressional-districts-12686/",
+        "slug": "oregon-reapportioned-congressional-districts-12686",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:42.692711-05:00",
+        "alias_of": null
+      },
+      "title": "Oregon Reapportioned Congressional Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17300,
+                "name": "Oregon - 2020 Block Groups",
+                "type": "fill",
+                "source_layer": "or_bg20_blockgroups20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.or_bg20_blockgroups20"
+              },
+              "layers": [
+                {
+                  "name": "Oregon - 2020 Block Groups Interactive Layer",
+                  "id": "oregon-2020-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Oregon - 2020 Block Groups Border",
+                  "id": "oregon-2020-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "83c04815-0ac6-483d-ac43-39b34d4b1d9e"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17301,
+                "name": "Oregon - 2020 Block Groups",
+                "type": "circle",
+                "source_layer": "or_bg20_blockgroups20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.or_bg20_blockgroups20_points"
+              },
+              "layers": [
+                {
+                  "name": "Oregon - 2020 Block Groups Centroids",
+                  "id": "oregon-2020-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "e0f3d45c-e92a-4818-aa7f-77282959453b"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17302,
+                "name": "Oregon - Block Groups",
+                "type": "circle",
+                "source_layer": "oregon_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.oregon_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Oregon - Block Groups Centroids",
+                  "id": "oregon-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "2f4bded5-73e1-4877-bea8-5069fe2489ab"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17303,
+                "name": "Oregon - Block Groups",
+                "type": "fill",
+                "source_layer": "oregon_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.oregon_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Oregon - Block Groups Interactive Layer",
+                  "id": "oregon-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Oregon - Block Groups Border",
+                  "id": "oregon-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "7e2a2049-9795-43da-b473-81c63f838e19"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17304,
+                "name": "Oregon - Precincts",
+                "type": "fill",
+                "source_layer": "oregon_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.oregon_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Oregon - Precincts Interactive Layer",
+                  "id": "oregon-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Oregon - Precincts Border",
+                  "id": "oregon-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "9975c2d3-4541-47f7-a1c5-dc441f64f6b4"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17305,
+                "name": "Oregon - Precincts",
+                "type": "circle",
+                "source_layer": "oregon_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.oregon_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Oregon - Precincts Centroids",
+                  "id": "oregon-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "1a1de806-6a2c-4662-bad1-06bc3ab898b8"
+        }
+      ],
+      "unit_count": 6,
+      "unit_type": "Block Groups",
+      "unit_name": "2020 Reapportioned Congress",
+      "unit_name_plural": "Reapportioned Congressional Districts",
+      "bounds": [
+        [-124.5666, 41.9918],
+        [-116.4635, 46.2706]
+      ]
+    },
+    {
+      "id": 11237,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11237/",
+        "html_url": "http://localhost:8080/states/oregon/oregon-state-house-districts-12689/",
+        "slug": "oregon-state-house-districts-12689",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:43.221922-05:00",
+        "alias_of": null
+      },
+      "title": "Oregon State House Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17300,
+                "name": "Oregon - 2020 Block Groups",
+                "type": "fill",
+                "source_layer": "or_bg20_blockgroups20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.or_bg20_blockgroups20"
+              },
+              "layers": [
+                {
+                  "name": "Oregon - 2020 Block Groups Interactive Layer",
+                  "id": "oregon-2020-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Oregon - 2020 Block Groups Border",
+                  "id": "oregon-2020-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "51f7f3cc-b41d-476e-81c3-fb66d26efe3f"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17301,
+                "name": "Oregon - 2020 Block Groups",
+                "type": "circle",
+                "source_layer": "or_bg20_blockgroups20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.or_bg20_blockgroups20_points"
+              },
+              "layers": [
+                {
+                  "name": "Oregon - 2020 Block Groups Centroids",
+                  "id": "oregon-2020-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "467100e4-f3a2-4a47-8e41-c522091d1933"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17302,
+                "name": "Oregon - Block Groups",
+                "type": "circle",
+                "source_layer": "oregon_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.oregon_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Oregon - Block Groups Centroids",
+                  "id": "oregon-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "8bfc5a36-512b-4100-8e2c-7d0975b4d20a"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17303,
+                "name": "Oregon - Block Groups",
+                "type": "fill",
+                "source_layer": "oregon_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.oregon_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Oregon - Block Groups Interactive Layer",
+                  "id": "oregon-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Oregon - Block Groups Border",
+                  "id": "oregon-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "eaf40112-e862-408a-a1e7-7d0199b38827"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17304,
+                "name": "Oregon - Precincts",
+                "type": "fill",
+                "source_layer": "oregon_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.oregon_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Oregon - Precincts Interactive Layer",
+                  "id": "oregon-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Oregon - Precincts Border",
+                  "id": "oregon-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "4e840a79-05ab-44da-988b-a965d23935dd"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17305,
+                "name": "Oregon - Precincts",
+                "type": "circle",
+                "source_layer": "oregon_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.oregon_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Oregon - Precincts Centroids",
+                  "id": "oregon-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "6f8c403e-3f8b-4811-b3bc-12b89730406a"
+        }
+      ],
+      "unit_count": 60,
+      "unit_type": "Block Groups",
+      "unit_name": "State House",
+      "unit_name_plural": "State House Districts",
+      "bounds": [
+        [-124.5666, 41.9918],
+        [-116.4635, 46.2706]
+      ]
+    },
+    {
+      "id": 11236,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11236/",
+        "html_url": "http://localhost:8080/states/oregon/oregon-state-senate-districts-12688/",
+        "slug": "oregon-state-senate-districts-12688",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:43.037850-05:00",
+        "alias_of": null
+      },
+      "title": "Oregon State Senate Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17300,
+                "name": "Oregon - 2020 Block Groups",
+                "type": "fill",
+                "source_layer": "or_bg20_blockgroups20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.or_bg20_blockgroups20"
+              },
+              "layers": [
+                {
+                  "name": "Oregon - 2020 Block Groups Interactive Layer",
+                  "id": "oregon-2020-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Oregon - 2020 Block Groups Border",
+                  "id": "oregon-2020-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "36a73dc4-46f0-4341-9a89-f499ff60a96f"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17301,
+                "name": "Oregon - 2020 Block Groups",
+                "type": "circle",
+                "source_layer": "or_bg20_blockgroups20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.or_bg20_blockgroups20_points"
+              },
+              "layers": [
+                {
+                  "name": "Oregon - 2020 Block Groups Centroids",
+                  "id": "oregon-2020-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "9cff0a8f-e203-4353-83d7-28da36d04e6b"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17302,
+                "name": "Oregon - Block Groups",
+                "type": "circle",
+                "source_layer": "oregon_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.oregon_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Oregon - Block Groups Centroids",
+                  "id": "oregon-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "39b0e10a-965d-4c11-ab90-b01d0522d914"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17303,
+                "name": "Oregon - Block Groups",
+                "type": "fill",
+                "source_layer": "oregon_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.oregon_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Oregon - Block Groups Interactive Layer",
+                  "id": "oregon-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Oregon - Block Groups Border",
+                  "id": "oregon-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "344646d7-97c7-46a8-9a32-df50bdcb7396"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17304,
+                "name": "Oregon - Precincts",
+                "type": "fill",
+                "source_layer": "oregon_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.oregon_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Oregon - Precincts Interactive Layer",
+                  "id": "oregon-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Oregon - Precincts Border",
+                  "id": "oregon-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "bb5f62cb-28cc-4f7c-b926-6bf6c224596a"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17305,
+                "name": "Oregon - Precincts",
+                "type": "circle",
+                "source_layer": "oregon_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.oregon_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Oregon - Precincts Centroids",
+                  "id": "oregon-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "bc6118f6-d6c6-48bb-b2ac-46f6e1db66d5"
+        }
+      ],
+      "unit_count": 30,
+      "unit_type": "Block Groups",
+      "unit_name": "State Senate",
+      "unit_name_plural": "State Senate Districts",
+      "bounds": [
+        [-124.5666, 41.9918],
+        [-116.4635, 46.2706]
+      ]
+    },
+    {
+      "id": 11231,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11231/",
+        "html_url": "http://localhost:8080/states/oregon/oregon-council-districts-12683/",
+        "slug": "oregon-council-districts-12683",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:41.144122-05:00",
+        "alias_of": null
+      },
+      "title": "Portland, Oregon Council Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17296,
+                "name": "Oregon - Portland - Precincts",
+                "type": "fill",
+                "source_layer": "portlandor_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.portlandor_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Oregon - Portland - Precincts Interactive Layer",
+                  "id": "oregon-portland-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Oregon - Portland - Precincts Border",
+                  "id": "oregon-portland-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "bcd1bfe2-f817-4f1f-9639-505990ed1aec"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17297,
+                "name": "Oregon - Portland - Precincts",
+                "type": "circle",
+                "source_layer": "portlandor_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.portlandor_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Oregon - Portland - Precincts Centroids",
+                  "id": "oregon-portland-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "227417ed-4c32-40e2-8e09-01630477dbb1"
+        }
+      ],
+      "unit_count": 5,
+      "unit_type": "Precincts",
+      "unit_name": "Portland City Council",
+      "unit_name_plural": "Council Districts",
+      "bounds": [
+        [-122.8367, 45.4325],
+        [-122.472, 45.6564]
+      ]
+    },
+    {
+      "id": 11230,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11230/",
+        "html_url": "http://localhost:8080/states/oregon/oregon-council-districts-12682/",
+        "slug": "oregon-council-districts-12682",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:40.982436-05:00",
+        "alias_of": null
+      },
+      "title": "Portland, Oregon Council Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17296,
+                "name": "Oregon - Portland - Precincts",
+                "type": "fill",
+                "source_layer": "portlandor_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.portlandor_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Oregon - Portland - Precincts Interactive Layer",
+                  "id": "oregon-portland-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Oregon - Portland - Precincts Border",
+                  "id": "oregon-portland-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "4f165c03-ea9d-4cb2-8804-02c03f21300b"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17297,
+                "name": "Oregon - Portland - Precincts",
+                "type": "circle",
+                "source_layer": "portlandor_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.portlandor_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Oregon - Portland - Precincts Centroids",
+                  "id": "oregon-portland-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "73520f4b-384c-4b39-be9a-b997302489f2"
+        }
+      ],
+      "unit_count": 4,
+      "unit_type": "Precincts",
+      "unit_name": "Portland City Council",
+      "unit_name_plural": "Council Districts",
+      "bounds": [
+        [-122.8367, 45.4325],
+        [-122.472, 45.6564]
+      ]
+    },
+    {
+      "id": 11232,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11232/",
+        "html_url": "http://localhost:8080/states/oregon/oregon-council-districts-12684/",
+        "slug": "oregon-council-districts-12684",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:41.302194-05:00",
+        "alias_of": null
+      },
+      "title": "Portland, Oregon Council Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17296,
+                "name": "Oregon - Portland - Precincts",
+                "type": "fill",
+                "source_layer": "portlandor_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.portlandor_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Oregon - Portland - Precincts Interactive Layer",
+                  "id": "oregon-portland-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Oregon - Portland - Precincts Border",
+                  "id": "oregon-portland-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "22fc7448-13ef-4470-9c15-8cc759bbf55e"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17297,
+                "name": "Oregon - Portland - Precincts",
+                "type": "circle",
+                "source_layer": "portlandor_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.portlandor_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Oregon - Portland - Precincts Centroids",
+                  "id": "oregon-portland-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "f49c657f-20b3-42e9-b077-d0bef6f75e61"
+        }
+      ],
+      "unit_count": 6,
+      "unit_type": "Precincts",
+      "unit_name": "Portland City Council",
+      "unit_name_plural": "Council Districts",
+      "bounds": [
+        [-122.8367, 45.4325],
+        [-122.472, 45.6564]
+      ]
+    },
+    {
+      "id": 11233,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11233/",
+        "html_url": "http://localhost:8080/states/oregon/oregon-school-board-districts-12685/",
+        "slug": "oregon-school-board-districts-12685",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:41.675878-05:00",
+        "alias_of": null
+      },
+      "title": "Salem-Keizer Schools, Oregon School Board Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17298,
+                "name": "Oregon - Salem-Keizer Schools - Blocks",
+                "type": "fill",
+                "source_layer": "salem_keizer_blocks",
+                "source_type": "vector",
+                "url": "mapbox://districtr.salem_keizer_blocks"
+              },
+              "layers": [
+                {
+                  "name": "Oregon - Salem-Keizer Schools - Blocks Interactive Layer",
+                  "id": "oregon-salem-keizer-schools-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Oregon - Salem-Keizer Schools - Blocks Border",
+                  "id": "oregon-salem-keizer-schools-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "b2bc59c9-459d-4c28-b21a-a5030b5f3585"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17299,
+                "name": "Oregon - Salem-Keizer Schools - Blocks",
+                "type": "circle",
+                "source_layer": "salem_keizer_blocks_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.salem_keizer_blocks_points"
+              },
+              "layers": [
+                {
+                  "name": "Oregon - Salem-Keizer Schools - Blocks Centroids",
+                  "id": "oregon-salem-keizer-schools-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "832bd892-b25b-4534-b3a3-e39b288f7666"
+        }
+      ],
+      "unit_count": 7,
+      "unit_type": "Blocks",
+      "unit_name": "School Board",
+      "unit_name_plural": "School Board Districts",
+      "bounds": [
+        [-123.1638, 44.8021],
+        [-122.8448, 45.0751]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2382 @@
+{
+  "id": 27,
+  "meta": {
+    "type": "client.MapIndexPage",
+    "detail_url": "http://localhost:8080/wagtail-api/pages/27/",
+    "html_url": "http://localhost:8080/states/michigan/",
+    "slug": "michigan",
+    "show_in_menus": false,
+    "seo_title": "",
+    "search_description": "",
+    "first_published_at": null,
+    "alias_of": null,
+    "locale": "en"
+  },
+  "title": "Michigan",
+  "counties": [
+    {
+      "id": 626,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/626/",
+        "html_url": "http://localhost:8080/states/michigan/alcona/",
+        "slug": "alcona",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Alcona County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 291,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/291/",
+        "html_url": "http://localhost:8080/states/michigan/alger/",
+        "slug": "alger",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Alger County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2828,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2828/",
+        "html_url": "http://localhost:8080/states/michigan/allegan/",
+        "slug": "allegan",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Allegan County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 133,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/133/",
+        "html_url": "http://localhost:8080/states/michigan/alpena/",
+        "slug": "alpena",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Alpena County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 768,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/768/",
+        "html_url": "http://localhost:8080/states/michigan/antrim/",
+        "slug": "antrim",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Antrim County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2320,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2320/",
+        "html_url": "http://localhost:8080/states/michigan/arenac/",
+        "slug": "arenac",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Arenac County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 581,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/581/",
+        "html_url": "http://localhost:8080/states/michigan/baraga/",
+        "slug": "baraga",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Baraga County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 742,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/742/",
+        "html_url": "http://localhost:8080/states/michigan/barry/",
+        "slug": "barry",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Barry County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2307,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2307/",
+        "html_url": "http://localhost:8080/states/michigan/bay/",
+        "slug": "bay",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Bay County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1549,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1549/",
+        "html_url": "http://localhost:8080/states/michigan/benzie/",
+        "slug": "benzie",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Benzie County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 897,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/897/",
+        "html_url": "http://localhost:8080/states/michigan/berrien/",
+        "slug": "berrien",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Berrien County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2799,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2799/",
+        "html_url": "http://localhost:8080/states/michigan/branch/",
+        "slug": "branch",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Branch County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1878,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1878/",
+        "html_url": "http://localhost:8080/states/michigan/calhoun/",
+        "slug": "calhoun",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Calhoun County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2635,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2635/",
+        "html_url": "http://localhost:8080/states/michigan/cass/",
+        "slug": "cass",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Cass County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2944,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2944/",
+        "html_url": "http://localhost:8080/states/michigan/charlevoix/",
+        "slug": "charlevoix",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Charlevoix County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2408,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2408/",
+        "html_url": "http://localhost:8080/states/michigan/cheboygan/",
+        "slug": "cheboygan",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Cheboygan County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 531,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/531/",
+        "html_url": "http://localhost:8080/states/michigan/chippewa/",
+        "slug": "chippewa",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Chippewa County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 144,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/144/",
+        "html_url": "http://localhost:8080/states/michigan/clare/",
+        "slug": "clare",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Clare County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 538,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/538/",
+        "html_url": "http://localhost:8080/states/michigan/clinton/",
+        "slug": "clinton",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Clinton County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2543,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2543/",
+        "html_url": "http://localhost:8080/states/michigan/crawford/",
+        "slug": "crawford",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Crawford County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3096,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3096/",
+        "html_url": "http://localhost:8080/states/michigan/delta/",
+        "slug": "delta",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Delta County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2222,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2222/",
+        "html_url": "http://localhost:8080/states/michigan/dickinson/",
+        "slug": "dickinson",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Dickinson County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2632,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2632/",
+        "html_url": "http://localhost:8080/states/michigan/eaton/",
+        "slug": "eaton",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Eaton County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2323,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2323/",
+        "html_url": "http://localhost:8080/states/michigan/emmet/",
+        "slug": "emmet",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Emmet County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1819,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1819/",
+        "html_url": "http://localhost:8080/states/michigan/genesee/",
+        "slug": "genesee",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Genesee County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2409,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2409/",
+        "html_url": "http://localhost:8080/states/michigan/gladwin/",
+        "slug": "gladwin",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Gladwin County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 844,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/844/",
+        "html_url": "http://localhost:8080/states/michigan/gogebic/",
+        "slug": "gogebic",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Gogebic County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2493,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2493/",
+        "html_url": "http://localhost:8080/states/michigan/grand-traverse/",
+        "slug": "grand-traverse",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Grand Traverse County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1655,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1655/",
+        "html_url": "http://localhost:8080/states/michigan/gratiot/",
+        "slug": "gratiot",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Gratiot County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1518,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1518/",
+        "html_url": "http://localhost:8080/states/michigan/hillsdale/",
+        "slug": "hillsdale",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Hillsdale County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2867,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2867/",
+        "html_url": "http://localhost:8080/states/michigan/houghton/",
+        "slug": "houghton",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Houghton County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2045,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2045/",
+        "html_url": "http://localhost:8080/states/michigan/huron/",
+        "slug": "huron",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Huron County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1145,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1145/",
+        "html_url": "http://localhost:8080/states/michigan/ingham/",
+        "slug": "ingham",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Ingham County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2066,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2066/",
+        "html_url": "http://localhost:8080/states/michigan/ionia/",
+        "slug": "ionia",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Ionia County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2046,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2046/",
+        "html_url": "http://localhost:8080/states/michigan/iosco/",
+        "slug": "iosco",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Iosco County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 565,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/565/",
+        "html_url": "http://localhost:8080/states/michigan/iron/",
+        "slug": "iron",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Iron County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3107,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3107/",
+        "html_url": "http://localhost:8080/states/michigan/isabella/",
+        "slug": "isabella",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Isabella County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 775,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/775/",
+        "html_url": "http://localhost:8080/states/michigan/jackson/",
+        "slug": "jackson",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Jackson County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2489,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2489/",
+        "html_url": "http://localhost:8080/states/michigan/kalamazoo/",
+        "slug": "kalamazoo",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Kalamazoo County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1176,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1176/",
+        "html_url": "http://localhost:8080/states/michigan/kalkaska/",
+        "slug": "kalkaska",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Kalkaska County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2080,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2080/",
+        "html_url": "http://localhost:8080/states/michigan/kent/",
+        "slug": "kent",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Kent County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2837,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2837/",
+        "html_url": "http://localhost:8080/states/michigan/keweenaw/",
+        "slug": "keweenaw",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Keweenaw County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 717,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/717/",
+        "html_url": "http://localhost:8080/states/michigan/lake/",
+        "slug": "lake",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lake County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1172,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1172/",
+        "html_url": "http://localhost:8080/states/michigan/lapeer/",
+        "slug": "lapeer",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lapeer County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 172,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/172/",
+        "html_url": "http://localhost:8080/states/michigan/leelanau/",
+        "slug": "leelanau",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Leelanau County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3299,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3299/",
+        "html_url": "http://localhost:8080/states/michigan/lenawee/",
+        "slug": "lenawee",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lenawee County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1291,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1291/",
+        "html_url": "http://localhost:8080/states/michigan/livingston/",
+        "slug": "livingston",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Livingston County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 800,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/800/",
+        "html_url": "http://localhost:8080/states/michigan/luce/",
+        "slug": "luce",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Luce County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2582,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2582/",
+        "html_url": "http://localhost:8080/states/michigan/mackinac/",
+        "slug": "mackinac",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Mackinac County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2157,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2157/",
+        "html_url": "http://localhost:8080/states/michigan/macomb/",
+        "slug": "macomb",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Macomb County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2671,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2671/",
+        "html_url": "http://localhost:8080/states/michigan/manistee/",
+        "slug": "manistee",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Manistee County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 165,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/165/",
+        "html_url": "http://localhost:8080/states/michigan/marquette/",
+        "slug": "marquette",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Marquette County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1228,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1228/",
+        "html_url": "http://localhost:8080/states/michigan/mason/",
+        "slug": "mason",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Mason County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1921,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1921/",
+        "html_url": "http://localhost:8080/states/michigan/mecosta/",
+        "slug": "mecosta",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Mecosta County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 118,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/118/",
+        "html_url": "http://localhost:8080/states/michigan/menominee/",
+        "slug": "menominee",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Menominee County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2614,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2614/",
+        "html_url": "http://localhost:8080/states/michigan/midland/",
+        "slug": "midland",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Midland County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2699,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2699/",
+        "html_url": "http://localhost:8080/states/michigan/missaukee/",
+        "slug": "missaukee",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Missaukee County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2468,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2468/",
+        "html_url": "http://localhost:8080/states/michigan/monroe/",
+        "slug": "monroe",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Monroe County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2256,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2256/",
+        "html_url": "http://localhost:8080/states/michigan/montcalm/",
+        "slug": "montcalm",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Montcalm County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 901,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/901/",
+        "html_url": "http://localhost:8080/states/michigan/montmorency/",
+        "slug": "montmorency",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Montmorency County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3028,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3028/",
+        "html_url": "http://localhost:8080/states/michigan/muskegon/",
+        "slug": "muskegon",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Muskegon County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 295,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/295/",
+        "html_url": "http://localhost:8080/states/michigan/newaygo/",
+        "slug": "newaygo",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Newaygo County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2707,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2707/",
+        "html_url": "http://localhost:8080/states/michigan/oakland/",
+        "slug": "oakland",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Oakland County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1383,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1383/",
+        "html_url": "http://localhost:8080/states/michigan/oceana/",
+        "slug": "oceana",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Oceana County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 925,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/925/",
+        "html_url": "http://localhost:8080/states/michigan/ogemaw/",
+        "slug": "ogemaw",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Ogemaw County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 572,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/572/",
+        "html_url": "http://localhost:8080/states/michigan/ontonagon/",
+        "slug": "ontonagon",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Ontonagon County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2768,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2768/",
+        "html_url": "http://localhost:8080/states/michigan/osceola/",
+        "slug": "osceola",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Osceola County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 902,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/902/",
+        "html_url": "http://localhost:8080/states/michigan/oscoda/",
+        "slug": "oscoda",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Oscoda County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1908,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1908/",
+        "html_url": "http://localhost:8080/states/michigan/otsego/",
+        "slug": "otsego",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Otsego County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 718,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/718/",
+        "html_url": "http://localhost:8080/states/michigan/ottawa/",
+        "slug": "ottawa",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Ottawa County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1833,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1833/",
+        "html_url": "http://localhost:8080/states/michigan/presque-isle/",
+        "slug": "presque-isle",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Presque Isle County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 782,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/782/",
+        "html_url": "http://localhost:8080/states/michigan/roscommon/",
+        "slug": "roscommon",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Roscommon County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2278,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2278/",
+        "html_url": "http://localhost:8080/states/michigan/saginaw/",
+        "slug": "saginaw",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Saginaw County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 360,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/360/",
+        "html_url": "http://localhost:8080/states/michigan/sanilac/",
+        "slug": "sanilac",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Sanilac County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 285,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/285/",
+        "html_url": "http://localhost:8080/states/michigan/schoolcraft/",
+        "slug": "schoolcraft",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Schoolcraft County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1242,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1242/",
+        "html_url": "http://localhost:8080/states/michigan/shiawassee/",
+        "slug": "shiawassee",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Shiawassee County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1268,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1268/",
+        "html_url": "http://localhost:8080/states/michigan/st-clair/",
+        "slug": "st-clair",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "St. Clair County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 546,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/546/",
+        "html_url": "http://localhost:8080/states/michigan/st-joseph/",
+        "slug": "st-joseph",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "St. Joseph County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1349,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1349/",
+        "html_url": "http://localhost:8080/states/michigan/tuscola/",
+        "slug": "tuscola",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Tuscola County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 432,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/432/",
+        "html_url": "http://localhost:8080/states/michigan/van-buren/",
+        "slug": "van-buren",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Van Buren County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1402,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1402/",
+        "html_url": "http://localhost:8080/states/michigan/washtenaw/",
+        "slug": "washtenaw",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Washtenaw County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 362,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/362/",
+        "html_url": "http://localhost:8080/states/michigan/wayne/",
+        "slug": "wayne",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Wayne County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1731,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1731/",
+        "html_url": "http://localhost:8080/states/michigan/wexford/",
+        "slug": "wexford",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Wexford County",
+      "body": "",
+      "live": true
+    }
+  ],
+  "problems": [
+    {
+      "id": 11130,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11130/",
+        "html_url": "http://localhost:8080/states/michigan/michigan-congressional-districts-12582/",
+        "slug": "michigan-congressional-districts-12582",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:02.634052-05:00",
+        "alias_of": null
+      },
+      "title": "Michigan Congressional Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17111,
+                "name": "Michigan - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "mi_vtd20_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.mi_vtd20_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "Michigan - 2020 VTDs Interactive Layer",
+                  "id": "michigan-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Michigan - 2020 VTDs Border",
+                  "id": "michigan-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "33e146da-85c3-4ad1-bf96-2c3e86083835"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17112,
+                "name": "Michigan - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "mi_vtd20_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.mi_vtd20_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "Michigan - 2020 VTDs Centroids",
+                  "id": "michigan-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "f88c943a-125e-4896-bf36-972183433db9"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17113,
+                "name": "Michigan - Precincts",
+                "type": "circle",
+                "source_layer": "michigan_precincts3_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.michigan_precincts3_points"
+              },
+              "layers": [
+                {
+                  "name": "Michigan - Precincts Centroids",
+                  "id": "michigan-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "3882012b-4bd8-438d-abb8-2478628ba1d2"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17114,
+                "name": "Michigan - Precincts",
+                "type": "fill",
+                "source_layer": "michigan_precincts3",
+                "source_type": "vector",
+                "url": "mapbox://districtr.michigan_precincts3"
+              },
+              "layers": [
+                {
+                  "name": "Michigan - Precincts Interactive Layer",
+                  "id": "michigan-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Michigan - Precincts Border",
+                  "id": "michigan-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "309ae23c-5250-4813-aff8-580b997a749f"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17115,
+                "name": "Michigan - Block Groups",
+                "type": "circle",
+                "source_layer": "michigan_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.michigan_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Michigan - Block Groups Centroids",
+                  "id": "michigan-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "54ff38b1-73eb-407c-88fa-203830ba4161"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17116,
+                "name": "Michigan - Block Groups",
+                "type": "fill",
+                "source_layer": "michigan_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.michigan_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Michigan - Block Groups Interactive Layer",
+                  "id": "michigan-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Michigan - Block Groups Border",
+                  "id": "michigan-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "76394ddd-344f-435c-a482-5376813e24f9"
+        }
+      ],
+      "unit_count": 14,
+      "unit_type": "VTDs",
+      "unit_name": "Congress",
+      "unit_name_plural": "Congressional Districts",
+      "bounds": [
+        [-90.4184, 41.6961],
+        [-82.41, 48.3061]
+      ]
+    },
+    {
+      "id": 11129,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11129/",
+        "html_url": "http://localhost:8080/states/michigan/michigan-reapportioned-congressional-districts-12581/",
+        "slug": "michigan-reapportioned-congressional-districts-12581",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:02.456921-05:00",
+        "alias_of": null
+      },
+      "title": "Michigan Reapportioned Congressional Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17111,
+                "name": "Michigan - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "mi_vtd20_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.mi_vtd20_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "Michigan - 2020 VTDs Interactive Layer",
+                  "id": "michigan-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Michigan - 2020 VTDs Border",
+                  "id": "michigan-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "37a60f4f-7d47-4640-aab8-e900234ca537"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17112,
+                "name": "Michigan - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "mi_vtd20_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.mi_vtd20_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "Michigan - 2020 VTDs Centroids",
+                  "id": "michigan-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "62e925d2-ef59-4ab4-a49c-bcc46e77bd6f"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17113,
+                "name": "Michigan - Precincts",
+                "type": "circle",
+                "source_layer": "michigan_precincts3_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.michigan_precincts3_points"
+              },
+              "layers": [
+                {
+                  "name": "Michigan - Precincts Centroids",
+                  "id": "michigan-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "bc0bf571-7ada-43d0-bb4c-8e4d4aea3d58"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17114,
+                "name": "Michigan - Precincts",
+                "type": "fill",
+                "source_layer": "michigan_precincts3",
+                "source_type": "vector",
+                "url": "mapbox://districtr.michigan_precincts3"
+              },
+              "layers": [
+                {
+                  "name": "Michigan - Precincts Interactive Layer",
+                  "id": "michigan-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Michigan - Precincts Border",
+                  "id": "michigan-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "90445748-e9f3-4546-a11e-a147602be24d"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17115,
+                "name": "Michigan - Block Groups",
+                "type": "circle",
+                "source_layer": "michigan_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.michigan_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Michigan - Block Groups Centroids",
+                  "id": "michigan-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "6bf0b7a7-fe46-4e01-a0c4-e2e6b3ef9aa9"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17116,
+                "name": "Michigan - Block Groups",
+                "type": "fill",
+                "source_layer": "michigan_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.michigan_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Michigan - Block Groups Interactive Layer",
+                  "id": "michigan-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Michigan - Block Groups Border",
+                  "id": "michigan-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "b04e1511-8700-4090-98a3-dd988a15e70e"
+        }
+      ],
+      "unit_count": 13,
+      "unit_type": "VTDs",
+      "unit_name": "2020 Reapportioned Congress",
+      "unit_name_plural": "Reapportioned Congressional Districts",
+      "bounds": [
+        [-90.4184, 41.6961],
+        [-82.41, 48.3061]
+      ]
+    },
+    {
+      "id": 11132,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11132/",
+        "html_url": "http://localhost:8080/states/michigan/michigan-state-house-districts-12584/",
+        "slug": "michigan-state-house-districts-12584",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:02.980487-05:00",
+        "alias_of": null
+      },
+      "title": "Michigan State House Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17111,
+                "name": "Michigan - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "mi_vtd20_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.mi_vtd20_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "Michigan - 2020 VTDs Interactive Layer",
+                  "id": "michigan-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Michigan - 2020 VTDs Border",
+                  "id": "michigan-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "49339cfe-4239-4b14-984a-9b73d75145c5"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17112,
+                "name": "Michigan - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "mi_vtd20_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.mi_vtd20_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "Michigan - 2020 VTDs Centroids",
+                  "id": "michigan-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "bd0079ab-3a7a-4559-b746-8f406c192209"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17113,
+                "name": "Michigan - Precincts",
+                "type": "circle",
+                "source_layer": "michigan_precincts3_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.michigan_precincts3_points"
+              },
+              "layers": [
+                {
+                  "name": "Michigan - Precincts Centroids",
+                  "id": "michigan-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "6745d17f-dc5e-4d95-9351-e15593c0ed93"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17114,
+                "name": "Michigan - Precincts",
+                "type": "fill",
+                "source_layer": "michigan_precincts3",
+                "source_type": "vector",
+                "url": "mapbox://districtr.michigan_precincts3"
+              },
+              "layers": [
+                {
+                  "name": "Michigan - Precincts Interactive Layer",
+                  "id": "michigan-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Michigan - Precincts Border",
+                  "id": "michigan-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "c8de00f9-9a66-45ef-9b64-47c00f77590b"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17115,
+                "name": "Michigan - Block Groups",
+                "type": "circle",
+                "source_layer": "michigan_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.michigan_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Michigan - Block Groups Centroids",
+                  "id": "michigan-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "6fdc2cae-7967-493d-a41e-5b20ae3689c2"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17116,
+                "name": "Michigan - Block Groups",
+                "type": "fill",
+                "source_layer": "michigan_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.michigan_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Michigan - Block Groups Interactive Layer",
+                  "id": "michigan-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Michigan - Block Groups Border",
+                  "id": "michigan-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "57ac057c-040d-4191-ae6c-977f64d4c31d"
+        }
+      ],
+      "unit_count": 110,
+      "unit_type": "VTDs",
+      "unit_name": "State House",
+      "unit_name_plural": "State House Districts",
+      "bounds": [
+        [-90.4184, 41.6961],
+        [-82.41, 48.3061]
+      ]
+    },
+    {
+      "id": 11131,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11131/",
+        "html_url": "http://localhost:8080/states/michigan/michigan-state-senate-districts-12583/",
+        "slug": "michigan-state-senate-districts-12583",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:02.806780-05:00",
+        "alias_of": null
+      },
+      "title": "Michigan State Senate Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17111,
+                "name": "Michigan - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "mi_vtd20_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.mi_vtd20_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "Michigan - 2020 VTDs Interactive Layer",
+                  "id": "michigan-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Michigan - 2020 VTDs Border",
+                  "id": "michigan-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "6fd5c0d8-7711-4e42-aa62-e219c55dc7e5"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17112,
+                "name": "Michigan - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "mi_vtd20_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.mi_vtd20_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "Michigan - 2020 VTDs Centroids",
+                  "id": "michigan-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "0aead7a2-82dc-47ef-951e-210e0f6fcd0d"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17113,
+                "name": "Michigan - Precincts",
+                "type": "circle",
+                "source_layer": "michigan_precincts3_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.michigan_precincts3_points"
+              },
+              "layers": [
+                {
+                  "name": "Michigan - Precincts Centroids",
+                  "id": "michigan-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "81d4416f-8413-41ef-9a85-9b587b089c14"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17114,
+                "name": "Michigan - Precincts",
+                "type": "fill",
+                "source_layer": "michigan_precincts3",
+                "source_type": "vector",
+                "url": "mapbox://districtr.michigan_precincts3"
+              },
+              "layers": [
+                {
+                  "name": "Michigan - Precincts Interactive Layer",
+                  "id": "michigan-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Michigan - Precincts Border",
+                  "id": "michigan-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "bd51b040-dbe8-49ba-88e1-bced2d926e35"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17115,
+                "name": "Michigan - Block Groups",
+                "type": "circle",
+                "source_layer": "michigan_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.michigan_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Michigan - Block Groups Centroids",
+                  "id": "michigan-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "820c1c8a-10d1-40a8-9165-ae4817f6e2cd"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17116,
+                "name": "Michigan - Block Groups",
+                "type": "fill",
+                "source_layer": "michigan_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.michigan_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Michigan - Block Groups Interactive Layer",
+                  "id": "michigan-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Michigan - Block Groups Border",
+                  "id": "michigan-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "212b4e92-0263-457b-95df-b0e852967264"
+        }
+      ],
+      "unit_count": 38,
+      "unit_type": "VTDs",
+      "unit_name": "State Senate",
+      "unit_name_plural": "State Senate Districts",
+      "bounds": [
+        [-90.4184, 41.6961],
+        [-82.41, 48.3061]
+      ]
+    }
+  ]
+}

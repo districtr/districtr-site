@@ -1,0 +1,91 @@
+{
+  "id": 58,
+  "meta": {
+    "type": "client.MapIndexPage",
+    "detail_url": "http://localhost:8080/wagtail-api/pages/58/",
+    "html_url": "http://localhost:8080/states/northern-mariana-islands/",
+    "slug": "northern-mariana-islands",
+    "show_in_menus": false,
+    "seo_title": "",
+    "search_description": "",
+    "first_published_at": null,
+    "alias_of": null,
+    "locale": "en"
+  },
+  "title": "Northern Mariana Islands",
+  "counties": [
+    {
+      "id": 2001,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2001/",
+        "html_url": "http://localhost:8080/states/northern-mariana-islands/northern-islands/",
+        "slug": "northern-islands",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Northern Islands Municipality",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 964,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/964/",
+        "html_url": "http://localhost:8080/states/northern-mariana-islands/rota/",
+        "slug": "rota",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Rota Municipality",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3063,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3063/",
+        "html_url": "http://localhost:8080/states/northern-mariana-islands/saipan/",
+        "slug": "saipan",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Saipan Municipality",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1040,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1040/",
+        "html_url": "http://localhost:8080/states/northern-mariana-islands/tinian/",
+        "slug": "tinian",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Tinian Municipality",
+      "body": "",
+      "live": true
+    }
+  ],
+  "problems": []
+}

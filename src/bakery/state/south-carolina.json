@@ -1,0 +1,1310 @@
+{
+  "id": 45,
+  "meta": {
+    "type": "client.MapIndexPage",
+    "detail_url": "http://localhost:8080/wagtail-api/pages/45/",
+    "html_url": "http://localhost:8080/states/south-carolina/",
+    "slug": "south-carolina",
+    "show_in_menus": false,
+    "seo_title": "",
+    "search_description": "",
+    "first_published_at": null,
+    "alias_of": null,
+    "locale": "en"
+  },
+  "title": "South Carolina",
+  "counties": [
+    {
+      "id": 2284,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2284/",
+        "html_url": "http://localhost:8080/states/south-carolina/abbeville/",
+        "slug": "abbeville",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Abbeville County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1036,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1036/",
+        "html_url": "http://localhost:8080/states/south-carolina/aiken/",
+        "slug": "aiken",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Aiken County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2477,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2477/",
+        "html_url": "http://localhost:8080/states/south-carolina/allendale/",
+        "slug": "allendale",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Allendale County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1168,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1168/",
+        "html_url": "http://localhost:8080/states/south-carolina/anderson/",
+        "slug": "anderson",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Anderson County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 778,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/778/",
+        "html_url": "http://localhost:8080/states/south-carolina/bamberg/",
+        "slug": "bamberg",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Bamberg County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3151,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3151/",
+        "html_url": "http://localhost:8080/states/south-carolina/barnwell/",
+        "slug": "barnwell",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Barnwell County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1229,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1229/",
+        "html_url": "http://localhost:8080/states/south-carolina/beaufort/",
+        "slug": "beaufort",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Beaufort County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 642,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/642/",
+        "html_url": "http://localhost:8080/states/south-carolina/berkeley/",
+        "slug": "berkeley",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Berkeley County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3109,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3109/",
+        "html_url": "http://localhost:8080/states/south-carolina/calhoun/",
+        "slug": "calhoun",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Calhoun County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2021,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2021/",
+        "html_url": "http://localhost:8080/states/south-carolina/charleston/",
+        "slug": "charleston",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Charleston County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2354,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2354/",
+        "html_url": "http://localhost:8080/states/south-carolina/cherokee/",
+        "slug": "cherokee",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Cherokee County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 217,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/217/",
+        "html_url": "http://localhost:8080/states/south-carolina/chester/",
+        "slug": "chester",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Chester County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3260,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3260/",
+        "html_url": "http://localhost:8080/states/south-carolina/chesterfield/",
+        "slug": "chesterfield",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Chesterfield County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2497,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2497/",
+        "html_url": "http://localhost:8080/states/south-carolina/clarendon/",
+        "slug": "clarendon",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Clarendon County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2106,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2106/",
+        "html_url": "http://localhost:8080/states/south-carolina/colleton/",
+        "slug": "colleton",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Colleton County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 867,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/867/",
+        "html_url": "http://localhost:8080/states/south-carolina/darlington/",
+        "slug": "darlington",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Darlington County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2783,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2783/",
+        "html_url": "http://localhost:8080/states/south-carolina/dillon/",
+        "slug": "dillon",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Dillon County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 635,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/635/",
+        "html_url": "http://localhost:8080/states/south-carolina/dorchester/",
+        "slug": "dorchester",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Dorchester County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2062,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2062/",
+        "html_url": "http://localhost:8080/states/south-carolina/edgefield/",
+        "slug": "edgefield",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Edgefield County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2590,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2590/",
+        "html_url": "http://localhost:8080/states/south-carolina/fairfield/",
+        "slug": "fairfield",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Fairfield County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1567,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1567/",
+        "html_url": "http://localhost:8080/states/south-carolina/florence/",
+        "slug": "florence",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Florence County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3165,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3165/",
+        "html_url": "http://localhost:8080/states/south-carolina/georgetown/",
+        "slug": "georgetown",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Georgetown County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1482,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1482/",
+        "html_url": "http://localhost:8080/states/south-carolina/greenville/",
+        "slug": "greenville",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Greenville County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 721,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/721/",
+        "html_url": "http://localhost:8080/states/south-carolina/greenwood/",
+        "slug": "greenwood",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Greenwood County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2143,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2143/",
+        "html_url": "http://localhost:8080/states/south-carolina/hampton/",
+        "slug": "hampton",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Hampton County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2290,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2290/",
+        "html_url": "http://localhost:8080/states/south-carolina/horry/",
+        "slug": "horry",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Horry County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2844,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2844/",
+        "html_url": "http://localhost:8080/states/south-carolina/jasper/",
+        "slug": "jasper",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Jasper County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1443,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1443/",
+        "html_url": "http://localhost:8080/states/south-carolina/kershaw/",
+        "slug": "kershaw",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Kershaw County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2411,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2411/",
+        "html_url": "http://localhost:8080/states/south-carolina/lancaster/",
+        "slug": "lancaster",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lancaster County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1048,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1048/",
+        "html_url": "http://localhost:8080/states/south-carolina/laurens/",
+        "slug": "laurens",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Laurens County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2490,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2490/",
+        "html_url": "http://localhost:8080/states/south-carolina/lee/",
+        "slug": "lee",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lee County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1097,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1097/",
+        "html_url": "http://localhost:8080/states/south-carolina/lexington/",
+        "slug": "lexington",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lexington County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1977,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1977/",
+        "html_url": "http://localhost:8080/states/south-carolina/marion/",
+        "slug": "marion",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Marion County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 769,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/769/",
+        "html_url": "http://localhost:8080/states/south-carolina/marlboro/",
+        "slug": "marlboro",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Marlboro County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2846,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2846/",
+        "html_url": "http://localhost:8080/states/south-carolina/mccormick/",
+        "slug": "mccormick",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "McCormick County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1064,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1064/",
+        "html_url": "http://localhost:8080/states/south-carolina/newberry/",
+        "slug": "newberry",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Newberry County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2076,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2076/",
+        "html_url": "http://localhost:8080/states/south-carolina/oconee/",
+        "slug": "oconee",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Oconee County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1710,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1710/",
+        "html_url": "http://localhost:8080/states/south-carolina/orangeburg/",
+        "slug": "orangeburg",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Orangeburg County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1232,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1232/",
+        "html_url": "http://localhost:8080/states/south-carolina/pickens/",
+        "slug": "pickens",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Pickens County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2875,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2875/",
+        "html_url": "http://localhost:8080/states/south-carolina/richland/",
+        "slug": "richland",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Richland County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 373,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/373/",
+        "html_url": "http://localhost:8080/states/south-carolina/saluda/",
+        "slug": "saluda",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Saluda County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1727,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1727/",
+        "html_url": "http://localhost:8080/states/south-carolina/spartanburg/",
+        "slug": "spartanburg",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Spartanburg County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1705,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1705/",
+        "html_url": "http://localhost:8080/states/south-carolina/sumter/",
+        "slug": "sumter",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Sumter County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2847,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2847/",
+        "html_url": "http://localhost:8080/states/south-carolina/union/",
+        "slug": "union",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Union County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 493,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/493/",
+        "html_url": "http://localhost:8080/states/south-carolina/williamsburg/",
+        "slug": "williamsburg",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Williamsburg County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3113,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3113/",
+        "html_url": "http://localhost:8080/states/south-carolina/york/",
+        "slug": "york",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "York County",
+      "body": "",
+      "live": true
+    }
+  ],
+  "problems": [
+    {
+      "id": 11258,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11258/",
+        "html_url": "http://localhost:8080/states/south-carolina/south-carolina-congressional-districts-12710/",
+        "slug": "south-carolina-congressional-districts-12710",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:51.399207-05:00",
+        "alias_of": null
+      },
+      "title": "South Carolina Congressional Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17337,
+                "name": "South Carolina - 2020 Block Groups",
+                "type": "circle",
+                "source_layer": "scarol20_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.scarol20_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "South Carolina - 2020 Block Groups Centroids",
+                  "id": "south-carolina-2020-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "3f4a9636-50ec-4eff-a424-e4050c0b1ef9"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17338,
+                "name": "South Carolina - 2020 Block Groups",
+                "type": "fill",
+                "source_layer": "scarol20_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.scarol20_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "South Carolina - 2020 Block Groups Interactive Layer",
+                  "id": "south-carolina-2020-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "South Carolina - 2020 Block Groups Border",
+                  "id": "south-carolina-2020-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "cd56d902-c29e-4d52-907f-68e9c06c1be0"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17339,
+                "name": "South Carolina - Block Groups",
+                "type": "circle",
+                "source_layer": "southcarolina_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.southcarolina_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "South Carolina - Block Groups Centroids",
+                  "id": "south-carolina-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "18e25767-ba09-47ea-944e-3506ecd02dcb"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17340,
+                "name": "South Carolina - Block Groups",
+                "type": "fill",
+                "source_layer": "southcarolina_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.southcarolina_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "South Carolina - Block Groups Interactive Layer",
+                  "id": "south-carolina-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "South Carolina - Block Groups Border",
+                  "id": "south-carolina-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "2700b4c3-53e2-4b9b-93e7-781ee6288330"
+        }
+      ],
+      "unit_count": 7,
+      "unit_type": "Block Groups",
+      "unit_name": "Congress",
+      "unit_name_plural": "Congressional Districts",
+      "bounds": [
+        [-83.3539, 32.0335],
+        [-78.4993, 35.2155]
+      ]
+    },
+    {
+      "id": 11259,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11259/",
+        "html_url": "http://localhost:8080/states/south-carolina/south-carolina-state-house-districts-12711/",
+        "slug": "south-carolina-state-house-districts-12711",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:51.562710-05:00",
+        "alias_of": null
+      },
+      "title": "South Carolina State House Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17337,
+                "name": "South Carolina - 2020 Block Groups",
+                "type": "circle",
+                "source_layer": "scarol20_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.scarol20_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "South Carolina - 2020 Block Groups Centroids",
+                  "id": "south-carolina-2020-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "6b294b1d-d79a-4dbd-bde3-8107585a6af2"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17338,
+                "name": "South Carolina - 2020 Block Groups",
+                "type": "fill",
+                "source_layer": "scarol20_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.scarol20_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "South Carolina - 2020 Block Groups Interactive Layer",
+                  "id": "south-carolina-2020-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "South Carolina - 2020 Block Groups Border",
+                  "id": "south-carolina-2020-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "fb94a7af-1d01-4b2e-a27a-45d0a3d513be"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17339,
+                "name": "South Carolina - Block Groups",
+                "type": "circle",
+                "source_layer": "southcarolina_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.southcarolina_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "South Carolina - Block Groups Centroids",
+                  "id": "south-carolina-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "ba51733d-a028-48c5-9cf3-4f0b87a70c87"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17340,
+                "name": "South Carolina - Block Groups",
+                "type": "fill",
+                "source_layer": "southcarolina_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.southcarolina_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "South Carolina - Block Groups Interactive Layer",
+                  "id": "south-carolina-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "South Carolina - Block Groups Border",
+                  "id": "south-carolina-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "9fc4fed2-f66d-438d-964e-c3d1c9d0f41a"
+        }
+      ],
+      "unit_count": 124,
+      "unit_type": "Block Groups",
+      "unit_name": "State House",
+      "unit_name_plural": "State House Districts",
+      "bounds": [
+        [-83.3539, 32.0335],
+        [-78.4993, 35.2155]
+      ]
+    },
+    {
+      "id": 11260,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11260/",
+        "html_url": "http://localhost:8080/states/south-carolina/south-carolina-state-senate-districts-12712/",
+        "slug": "south-carolina-state-senate-districts-12712",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:51.727089-05:00",
+        "alias_of": null
+      },
+      "title": "South Carolina State Senate Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17337,
+                "name": "South Carolina - 2020 Block Groups",
+                "type": "circle",
+                "source_layer": "scarol20_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.scarol20_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "South Carolina - 2020 Block Groups Centroids",
+                  "id": "south-carolina-2020-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "88dde147-853c-4962-8e1a-3839d798a567"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17338,
+                "name": "South Carolina - 2020 Block Groups",
+                "type": "fill",
+                "source_layer": "scarol20_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.scarol20_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "South Carolina - 2020 Block Groups Interactive Layer",
+                  "id": "south-carolina-2020-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "South Carolina - 2020 Block Groups Border",
+                  "id": "south-carolina-2020-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "0262abb5-4c34-4e72-b0d0-219cc4f7e8dd"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17339,
+                "name": "South Carolina - Block Groups",
+                "type": "circle",
+                "source_layer": "southcarolina_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.southcarolina_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "South Carolina - Block Groups Centroids",
+                  "id": "south-carolina-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "05eb089d-2cd7-40eb-b49f-03086b5d11be"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17340,
+                "name": "South Carolina - Block Groups",
+                "type": "fill",
+                "source_layer": "southcarolina_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.southcarolina_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "South Carolina - Block Groups Interactive Layer",
+                  "id": "south-carolina-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "South Carolina - Block Groups Border",
+                  "id": "south-carolina-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "92f86b67-96fd-4aab-93eb-93119fb4ec00"
+        }
+      ],
+      "unit_count": 46,
+      "unit_type": "Block Groups",
+      "unit_name": "State Senate",
+      "unit_name_plural": "State Senate Districts",
+      "bounds": [
+        [-83.3539, 32.0335],
+        [-78.4993, 35.2155]
+      ]
+    }
+  ]
+}

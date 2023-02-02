@@ -1,0 +1,1120 @@
+{
+  "id": 17,
+  "meta": {
+    "type": "client.MapIndexPage",
+    "detail_url": "http://localhost:8080/wagtail-api/pages/17/",
+    "html_url": "http://localhost:8080/states/idaho/",
+    "slug": "idaho",
+    "show_in_menus": false,
+    "seo_title": "",
+    "search_description": "",
+    "first_published_at": null,
+    "alias_of": null,
+    "locale": "en"
+  },
+  "title": "Idaho",
+  "counties": [
+    {
+      "id": 1756,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1756/",
+        "html_url": "http://localhost:8080/states/idaho/ada/",
+        "slug": "ada",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Ada County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1117,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1117/",
+        "html_url": "http://localhost:8080/states/idaho/adams/",
+        "slug": "adams",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Adams County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2433,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2433/",
+        "html_url": "http://localhost:8080/states/idaho/bannock/",
+        "slug": "bannock",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Bannock County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2957,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2957/",
+        "html_url": "http://localhost:8080/states/idaho/bear-lake/",
+        "slug": "bear-lake",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Bear Lake County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 770,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/770/",
+        "html_url": "http://localhost:8080/states/idaho/benewah/",
+        "slug": "benewah",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Benewah County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1478,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1478/",
+        "html_url": "http://localhost:8080/states/idaho/bingham/",
+        "slug": "bingham",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Bingham County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 696,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/696/",
+        "html_url": "http://localhost:8080/states/idaho/blaine/",
+        "slug": "blaine",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Blaine County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1950,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1950/",
+        "html_url": "http://localhost:8080/states/idaho/boise/",
+        "slug": "boise",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Boise County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1458,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1458/",
+        "html_url": "http://localhost:8080/states/idaho/bonner/",
+        "slug": "bonner",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Bonner County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 532,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/532/",
+        "html_url": "http://localhost:8080/states/idaho/bonneville/",
+        "slug": "bonneville",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Bonneville County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2956,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2956/",
+        "html_url": "http://localhost:8080/states/idaho/boundary/",
+        "slug": "boundary",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Boundary County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 994,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/994/",
+        "html_url": "http://localhost:8080/states/idaho/butte/",
+        "slug": "butte",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Butte County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3155,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3155/",
+        "html_url": "http://localhost:8080/states/idaho/camas/",
+        "slug": "camas",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Camas County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3189,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3189/",
+        "html_url": "http://localhost:8080/states/idaho/canyon/",
+        "slug": "canyon",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Canyon County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2921,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2921/",
+        "html_url": "http://localhost:8080/states/idaho/caribou/",
+        "slug": "caribou",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Caribou County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1771,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1771/",
+        "html_url": "http://localhost:8080/states/idaho/cassia/",
+        "slug": "cassia",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Cassia County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 333,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/333/",
+        "html_url": "http://localhost:8080/states/idaho/clark/",
+        "slug": "clark",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Clark County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1863,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1863/",
+        "html_url": "http://localhost:8080/states/idaho/clearwater/",
+        "slug": "clearwater",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Clearwater County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 384,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/384/",
+        "html_url": "http://localhost:8080/states/idaho/custer/",
+        "slug": "custer",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Custer County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 729,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/729/",
+        "html_url": "http://localhost:8080/states/idaho/elmore/",
+        "slug": "elmore",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Elmore County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 303,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/303/",
+        "html_url": "http://localhost:8080/states/idaho/franklin/",
+        "slug": "franklin",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Franklin County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2144,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2144/",
+        "html_url": "http://localhost:8080/states/idaho/fremont/",
+        "slug": "fremont",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Fremont County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 265,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/265/",
+        "html_url": "http://localhost:8080/states/idaho/gem/",
+        "slug": "gem",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Gem County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2888,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2888/",
+        "html_url": "http://localhost:8080/states/idaho/gooding/",
+        "slug": "gooding",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Gooding County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 649,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/649/",
+        "html_url": "http://localhost:8080/states/idaho/idaho/",
+        "slug": "idaho",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Idaho County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 130,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/130/",
+        "html_url": "http://localhost:8080/states/idaho/jefferson/",
+        "slug": "jefferson",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Jefferson County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 381,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/381/",
+        "html_url": "http://localhost:8080/states/idaho/jerome/",
+        "slug": "jerome",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Jerome County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 225,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/225/",
+        "html_url": "http://localhost:8080/states/idaho/kootenai/",
+        "slug": "kootenai",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Kootenai County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2721,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2721/",
+        "html_url": "http://localhost:8080/states/idaho/latah/",
+        "slug": "latah",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Latah County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1744,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1744/",
+        "html_url": "http://localhost:8080/states/idaho/lemhi/",
+        "slug": "lemhi",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lemhi County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2292,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2292/",
+        "html_url": "http://localhost:8080/states/idaho/lewis/",
+        "slug": "lewis",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lewis County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3143,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3143/",
+        "html_url": "http://localhost:8080/states/idaho/lincoln/",
+        "slug": "lincoln",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lincoln County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 309,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/309/",
+        "html_url": "http://localhost:8080/states/idaho/madison/",
+        "slug": "madison",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Madison County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1236,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1236/",
+        "html_url": "http://localhost:8080/states/idaho/minidoka/",
+        "slug": "minidoka",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Minidoka County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 814,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/814/",
+        "html_url": "http://localhost:8080/states/idaho/nez-perce/",
+        "slug": "nez-perce",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Nez Perce County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1860,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1860/",
+        "html_url": "http://localhost:8080/states/idaho/oneida/",
+        "slug": "oneida",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Oneida County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2552,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2552/",
+        "html_url": "http://localhost:8080/states/idaho/owyhee/",
+        "slug": "owyhee",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Owyhee County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1967,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1967/",
+        "html_url": "http://localhost:8080/states/idaho/payette/",
+        "slug": "payette",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Payette County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 672,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/672/",
+        "html_url": "http://localhost:8080/states/idaho/power/",
+        "slug": "power",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Power County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1968,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1968/",
+        "html_url": "http://localhost:8080/states/idaho/shoshone/",
+        "slug": "shoshone",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Shoshone County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 667,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/667/",
+        "html_url": "http://localhost:8080/states/idaho/teton/",
+        "slug": "teton",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Teton County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2487,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2487/",
+        "html_url": "http://localhost:8080/states/idaho/twin-falls/",
+        "slug": "twin-falls",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Twin Falls County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1192,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1192/",
+        "html_url": "http://localhost:8080/states/idaho/valley/",
+        "slug": "valley",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Valley County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2695,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2695/",
+        "html_url": "http://localhost:8080/states/idaho/washington/",
+        "slug": "washington",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Washington County",
+      "body": "",
+      "live": true
+    }
+  ],
+  "problems": [
+    {
+      "id": 11078,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11078/",
+        "html_url": "http://localhost:8080/states/idaho/idaho-congressional-districts-12530/",
+        "slug": "idaho-congressional-districts-12530",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:43.007684-05:00",
+        "alias_of": null
+      },
+      "title": "Idaho Congressional Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17022,
+                "name": "Idaho - 2020 Block Groups",
+                "type": "circle",
+                "source_layer": "idaho_20_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.idaho_20_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Idaho - 2020 Block Groups Centroids",
+                  "id": "idaho-2020-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "0639d576-990c-48ea-a04e-33ccfe617033"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17023,
+                "name": "Idaho - 2020 Block Groups",
+                "type": "fill",
+                "source_layer": "idaho_20_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.idaho_20_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Idaho - 2020 Block Groups Interactive Layer",
+                  "id": "idaho-2020-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Idaho - 2020 Block Groups Border",
+                  "id": "idaho-2020-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "04dff951-cd08-4817-82c1-672dfb681764"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17024,
+                "name": "Idaho - Block Groups",
+                "type": "circle",
+                "source_layer": "idaho_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.idaho_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Idaho - Block Groups Centroids",
+                  "id": "idaho-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "66fe2aea-cbaa-47e3-a687-639a877b94ab"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17025,
+                "name": "Idaho - Block Groups",
+                "type": "fill",
+                "source_layer": "idaho_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.idaho_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Idaho - Block Groups Interactive Layer",
+                  "id": "idaho-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Idaho - Block Groups Border",
+                  "id": "idaho-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "9460a3fc-35ab-466b-ab68-97d4ad4ec81d"
+        }
+      ],
+      "unit_count": 2,
+      "unit_type": "Block Groups",
+      "unit_name": "Congress",
+      "unit_name_plural": "Congressional Districts",
+      "bounds": [
+        [-117.243, 41.988],
+        [-111.0435, 49.0011]
+      ]
+    },
+    {
+      "id": 11079,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11079/",
+        "html_url": "http://localhost:8080/states/idaho/idaho-legislative-districts-12531/",
+        "slug": "idaho-legislative-districts-12531",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:43.172960-05:00",
+        "alias_of": null
+      },
+      "title": "Idaho Legislative Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17022,
+                "name": "Idaho - 2020 Block Groups",
+                "type": "circle",
+                "source_layer": "idaho_20_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.idaho_20_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Idaho - 2020 Block Groups Centroids",
+                  "id": "idaho-2020-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "cac6dcab-22f0-4d6f-9b7d-5704e01039ba"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17023,
+                "name": "Idaho - 2020 Block Groups",
+                "type": "fill",
+                "source_layer": "idaho_20_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.idaho_20_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Idaho - 2020 Block Groups Interactive Layer",
+                  "id": "idaho-2020-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Idaho - 2020 Block Groups Border",
+                  "id": "idaho-2020-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "f1bf07bb-8462-4af6-a388-30172204b1f2"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17024,
+                "name": "Idaho - Block Groups",
+                "type": "circle",
+                "source_layer": "idaho_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.idaho_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Idaho - Block Groups Centroids",
+                  "id": "idaho-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "76bddcc4-39e1-462d-9f0c-306761eb8ae2"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17025,
+                "name": "Idaho - Block Groups",
+                "type": "fill",
+                "source_layer": "idaho_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.idaho_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Idaho - Block Groups Interactive Layer",
+                  "id": "idaho-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Idaho - Block Groups Border",
+                  "id": "idaho-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "dec14c01-0e47-473d-9fb1-90d55e34ae29"
+        }
+      ],
+      "unit_count": 35,
+      "unit_type": "Block Groups",
+      "unit_name": "State Legislature",
+      "unit_name_plural": "Legislative Districts",
+      "bounds": [
+        [-117.243, 41.988],
+        [-111.0435, 49.0011]
+      ]
+    }
+  ]
+}

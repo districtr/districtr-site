@@ -1,0 +1,2727 @@
+{
+  "id": 19,
+  "meta": {
+    "type": "client.MapIndexPage",
+    "detail_url": "http://localhost:8080/wagtail-api/pages/19/",
+    "html_url": "http://localhost:8080/states/indiana/",
+    "slug": "indiana",
+    "show_in_menus": false,
+    "seo_title": "",
+    "search_description": "",
+    "first_published_at": null,
+    "alias_of": null,
+    "locale": "en"
+  },
+  "title": "Indiana",
+  "counties": [
+    {
+      "id": 3114,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3114/",
+        "html_url": "http://localhost:8080/states/indiana/adams/",
+        "slug": "adams",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Adams County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 211,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/211/",
+        "html_url": "http://localhost:8080/states/indiana/allen/",
+        "slug": "allen",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Allen County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 606,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/606/",
+        "html_url": "http://localhost:8080/states/indiana/bartholomew/",
+        "slug": "bartholomew",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Bartholomew County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 202,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/202/",
+        "html_url": "http://localhost:8080/states/indiana/benton/",
+        "slug": "benton",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Benton County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3153,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3153/",
+        "html_url": "http://localhost:8080/states/indiana/blackford/",
+        "slug": "blackford",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Blackford County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2228,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2228/",
+        "html_url": "http://localhost:8080/states/indiana/boone/",
+        "slug": "boone",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Boone County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1575,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1575/",
+        "html_url": "http://localhost:8080/states/indiana/brown/",
+        "slug": "brown",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Brown County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 673,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/673/",
+        "html_url": "http://localhost:8080/states/indiana/carroll/",
+        "slug": "carroll",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Carroll County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 671,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/671/",
+        "html_url": "http://localhost:8080/states/indiana/cass/",
+        "slug": "cass",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Cass County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1576,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1576/",
+        "html_url": "http://localhost:8080/states/indiana/clark/",
+        "slug": "clark",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Clark County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2481,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2481/",
+        "html_url": "http://localhost:8080/states/indiana/clay/",
+        "slug": "clay",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Clay County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1234,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1234/",
+        "html_url": "http://localhost:8080/states/indiana/clinton/",
+        "slug": "clinton",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Clinton County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1856,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1856/",
+        "html_url": "http://localhost:8080/states/indiana/crawford/",
+        "slug": "crawford",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Crawford County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2492,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2492/",
+        "html_url": "http://localhost:8080/states/indiana/daviess/",
+        "slug": "daviess",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Daviess County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2648,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2648/",
+        "html_url": "http://localhost:8080/states/indiana/dearborn/",
+        "slug": "dearborn",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Dearborn County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 490,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/490/",
+        "html_url": "http://localhost:8080/states/indiana/decatur/",
+        "slug": "decatur",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Decatur County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2573,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2573/",
+        "html_url": "http://localhost:8080/states/indiana/dekalb/",
+        "slug": "dekalb",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "DeKalb County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1955,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1955/",
+        "html_url": "http://localhost:8080/states/indiana/delaware/",
+        "slug": "delaware",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Delaware County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 491,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/491/",
+        "html_url": "http://localhost:8080/states/indiana/dubois/",
+        "slug": "dubois",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Dubois County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1332,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1332/",
+        "html_url": "http://localhost:8080/states/indiana/elkhart/",
+        "slug": "elkhart",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Elkhart County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3081,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3081/",
+        "html_url": "http://localhost:8080/states/indiana/fayette/",
+        "slug": "fayette",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Fayette County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1357,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1357/",
+        "html_url": "http://localhost:8080/states/indiana/floyd/",
+        "slug": "floyd",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Floyd County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1784,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1784/",
+        "html_url": "http://localhost:8080/states/indiana/fountain/",
+        "slug": "fountain",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Fountain County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 560,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/560/",
+        "html_url": "http://localhost:8080/states/indiana/franklin/",
+        "slug": "franklin",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Franklin County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 945,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/945/",
+        "html_url": "http://localhost:8080/states/indiana/fulton/",
+        "slug": "fulton",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Fulton County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 703,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/703/",
+        "html_url": "http://localhost:8080/states/indiana/gibson/",
+        "slug": "gibson",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Gibson County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1668,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1668/",
+        "html_url": "http://localhost:8080/states/indiana/grant/",
+        "slug": "grant",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Grant County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1074,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1074/",
+        "html_url": "http://localhost:8080/states/indiana/greene/",
+        "slug": "greene",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Greene County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 451,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/451/",
+        "html_url": "http://localhost:8080/states/indiana/hamilton/",
+        "slug": "hamilton",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Hamilton County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1249,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1249/",
+        "html_url": "http://localhost:8080/states/indiana/hancock/",
+        "slug": "hancock",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Hancock County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1457,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1457/",
+        "html_url": "http://localhost:8080/states/indiana/harrison/",
+        "slug": "harrison",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Harrison County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3163,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3163/",
+        "html_url": "http://localhost:8080/states/indiana/hendricks/",
+        "slug": "hendricks",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Hendricks County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 884,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/884/",
+        "html_url": "http://localhost:8080/states/indiana/henry/",
+        "slug": "henry",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Henry County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2629,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2629/",
+        "html_url": "http://localhost:8080/states/indiana/howard/",
+        "slug": "howard",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Howard County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 207,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/207/",
+        "html_url": "http://localhost:8080/states/indiana/huntington/",
+        "slug": "huntington",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Huntington County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2649,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2649/",
+        "html_url": "http://localhost:8080/states/indiana/jackson/",
+        "slug": "jackson",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Jackson County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 119,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/119/",
+        "html_url": "http://localhost:8080/states/indiana/jasper/",
+        "slug": "jasper",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Jasper County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2255,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2255/",
+        "html_url": "http://localhost:8080/states/indiana/jay/",
+        "slug": "jay",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Jay County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1323,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1323/",
+        "html_url": "http://localhost:8080/states/indiana/jefferson/",
+        "slug": "jefferson",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Jefferson County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2486,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2486/",
+        "html_url": "http://localhost:8080/states/indiana/jennings/",
+        "slug": "jennings",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Jennings County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1152,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1152/",
+        "html_url": "http://localhost:8080/states/indiana/johnson/",
+        "slug": "johnson",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Johnson County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1492,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1492/",
+        "html_url": "http://localhost:8080/states/indiana/knox/",
+        "slug": "knox",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Knox County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2173,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2173/",
+        "html_url": "http://localhost:8080/states/indiana/kosciusko/",
+        "slug": "kosciusko",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Kosciusko County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1403,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1403/",
+        "html_url": "http://localhost:8080/states/indiana/lagrange/",
+        "slug": "lagrange",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "LaGrange County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 425,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/425/",
+        "html_url": "http://localhost:8080/states/indiana/lake/",
+        "slug": "lake",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lake County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 450,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/450/",
+        "html_url": "http://localhost:8080/states/indiana/laporte/",
+        "slug": "laporte",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "LaPorte County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3194,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3194/",
+        "html_url": "http://localhost:8080/states/indiana/lawrence/",
+        "slug": "lawrence",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lawrence County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2876,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2876/",
+        "html_url": "http://localhost:8080/states/indiana/madison/",
+        "slug": "madison",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Madison County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2901,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2901/",
+        "html_url": "http://localhost:8080/states/indiana/marion/",
+        "slug": "marion",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Marion County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 212,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/212/",
+        "html_url": "http://localhost:8080/states/indiana/marshall/",
+        "slug": "marshall",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Marshall County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2779,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2779/",
+        "html_url": "http://localhost:8080/states/indiana/martin/",
+        "slug": "martin",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Martin County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2852,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2852/",
+        "html_url": "http://localhost:8080/states/indiana/miami/",
+        "slug": "miami",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Miami County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2841,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2841/",
+        "html_url": "http://localhost:8080/states/indiana/monroe/",
+        "slug": "monroe",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Monroe County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 687,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/687/",
+        "html_url": "http://localhost:8080/states/indiana/montgomery/",
+        "slug": "montgomery",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Montgomery County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1664,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1664/",
+        "html_url": "http://localhost:8080/states/indiana/morgan/",
+        "slug": "morgan",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Morgan County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 268,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/268/",
+        "html_url": "http://localhost:8080/states/indiana/newton/",
+        "slug": "newton",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Newton County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2470,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2470/",
+        "html_url": "http://localhost:8080/states/indiana/noble/",
+        "slug": "noble",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Noble County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 179,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/179/",
+        "html_url": "http://localhost:8080/states/indiana/ohio/",
+        "slug": "ohio",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Ohio County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 251,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/251/",
+        "html_url": "http://localhost:8080/states/indiana/orange/",
+        "slug": "orange",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Orange County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1205,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1205/",
+        "html_url": "http://localhost:8080/states/indiana/owen/",
+        "slug": "owen",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Owen County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2985,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2985/",
+        "html_url": "http://localhost:8080/states/indiana/parke/",
+        "slug": "parke",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Parke County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 188,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/188/",
+        "html_url": "http://localhost:8080/states/indiana/perry/",
+        "slug": "perry",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Perry County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2630,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2630/",
+        "html_url": "http://localhost:8080/states/indiana/pike/",
+        "slug": "pike",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Pike County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 998,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/998/",
+        "html_url": "http://localhost:8080/states/indiana/porter/",
+        "slug": "porter",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Porter County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 462,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/462/",
+        "html_url": "http://localhost:8080/states/indiana/posey/",
+        "slug": "posey",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Posey County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1548,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1548/",
+        "html_url": "http://localhost:8080/states/indiana/pulaski/",
+        "slug": "pulaski",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Pulaski County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2887,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2887/",
+        "html_url": "http://localhost:8080/states/indiana/putnam/",
+        "slug": "putnam",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Putnam County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1273,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1273/",
+        "html_url": "http://localhost:8080/states/indiana/randolph/",
+        "slug": "randolph",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Randolph County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 508,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/508/",
+        "html_url": "http://localhost:8080/states/indiana/ripley/",
+        "slug": "ripley",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Ripley County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1075,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1075/",
+        "html_url": "http://localhost:8080/states/indiana/rush/",
+        "slug": "rush",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Rush County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 500,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/500/",
+        "html_url": "http://localhost:8080/states/indiana/scott/",
+        "slug": "scott",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Scott County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2833,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2833/",
+        "html_url": "http://localhost:8080/states/indiana/shelby/",
+        "slug": "shelby",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Shelby County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2161,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2161/",
+        "html_url": "http://localhost:8080/states/indiana/spencer/",
+        "slug": "spencer",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Spencer County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1718,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1718/",
+        "html_url": "http://localhost:8080/states/indiana/starke/",
+        "slug": "starke",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Starke County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 122,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/122/",
+        "html_url": "http://localhost:8080/states/indiana/steuben/",
+        "slug": "steuben",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Steuben County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1692,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1692/",
+        "html_url": "http://localhost:8080/states/indiana/st-joseph/",
+        "slug": "st-joseph",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "St. Joseph County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2461,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2461/",
+        "html_url": "http://localhost:8080/states/indiana/sullivan/",
+        "slug": "sullivan",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Sullivan County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1943,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1943/",
+        "html_url": "http://localhost:8080/states/indiana/switzerland/",
+        "slug": "switzerland",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Switzerland County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 442,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/442/",
+        "html_url": "http://localhost:8080/states/indiana/tippecanoe/",
+        "slug": "tippecanoe",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Tippecanoe County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1840,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1840/",
+        "html_url": "http://localhost:8080/states/indiana/tipton/",
+        "slug": "tipton",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Tipton County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 520,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/520/",
+        "html_url": "http://localhost:8080/states/indiana/union/",
+        "slug": "union",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Union County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1090,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1090/",
+        "html_url": "http://localhost:8080/states/indiana/vanderburgh/",
+        "slug": "vanderburgh",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Vanderburgh County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 781,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/781/",
+        "html_url": "http://localhost:8080/states/indiana/vermillion/",
+        "slug": "vermillion",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Vermillion County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1331,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1331/",
+        "html_url": "http://localhost:8080/states/indiana/vigo/",
+        "slug": "vigo",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Vigo County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 210,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/210/",
+        "html_url": "http://localhost:8080/states/indiana/wabash/",
+        "slug": "wabash",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Wabash County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 412,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/412/",
+        "html_url": "http://localhost:8080/states/indiana/warren/",
+        "slug": "warren",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Warren County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 310,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/310/",
+        "html_url": "http://localhost:8080/states/indiana/warrick/",
+        "slug": "warrick",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Warrick County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3134,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3134/",
+        "html_url": "http://localhost:8080/states/indiana/washington/",
+        "slug": "washington",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Washington County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2792,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2792/",
+        "html_url": "http://localhost:8080/states/indiana/wayne/",
+        "slug": "wayne",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Wayne County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 402,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/402/",
+        "html_url": "http://localhost:8080/states/indiana/wells/",
+        "slug": "wells",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Wells County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2469,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2469/",
+        "html_url": "http://localhost:8080/states/indiana/white/",
+        "slug": "white",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "White County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3050,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3050/",
+        "html_url": "http://localhost:8080/states/indiana/whitley/",
+        "slug": "whitley",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Whitley County",
+      "body": "",
+      "live": true
+    }
+  ],
+  "problems": [
+    {
+      "id": 11093,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11093/",
+        "html_url": "http://localhost:8080/states/indiana/indiana-city-council-districts-12545/",
+        "slug": "indiana-city-council-districts-12545",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:48.366731-05:00",
+        "alias_of": null
+      },
+      "title": "Bloomington, Indiana City Council Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17047,
+                "name": "Indiana - Bloomington - 2022 Precincts",
+                "type": "fill",
+                "source_layer": "bloomington_re_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.bloomington_re_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Indiana - Bloomington - 2022 Precincts Interactive Layer",
+                  "id": "indiana-bloomington-2022-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Indiana - Bloomington - 2022 Precincts Border",
+                  "id": "indiana-bloomington-2022-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "e04ec25e-ae71-417e-8401-3376398b8af5"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17048,
+                "name": "Indiana - Bloomington - 2022 Precincts",
+                "type": "circle",
+                "source_layer": "bloomington_re_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.bloomington_re_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Indiana - Bloomington - 2022 Precincts Centroids",
+                  "id": "indiana-bloomington-2022-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "e36b8ef5-eca3-4fbe-bef5-ba9143274ae9"
+        }
+      ],
+      "unit_count": 6,
+      "unit_type": "Precincts",
+      "unit_name": "City Council",
+      "unit_name_plural": "City Council Districts",
+      "bounds": [
+        [-86.5919, 39.1213],
+        [-86.4712, 39.2212]
+      ]
+    },
+    {
+      "id": 11087,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11087/",
+        "html_url": "http://localhost:8080/states/indiana/indiana-council-districts-12539/",
+        "slug": "indiana-council-districts-12539",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:46.156343-05:00",
+        "alias_of": null
+      },
+      "title": "Gary, Indiana Council Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17034,
+                "name": "Indiana - Gary - 2020 Blocks",
+                "type": "fill",
+                "source_layer": "gary_blocks20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.gary_blocks20"
+              },
+              "layers": [
+                {
+                  "name": "Indiana - Gary - 2020 Blocks Interactive Layer",
+                  "id": "indiana-gary-2020-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Indiana - Gary - 2020 Blocks Border",
+                  "id": "indiana-gary-2020-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "39905f80-5a08-40fd-b880-32c5d09502f6"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17035,
+                "name": "Indiana - Gary - 2020 Blocks",
+                "type": "circle",
+                "source_layer": "gary_blocks20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.gary_blocks20_points"
+              },
+              "layers": [
+                {
+                  "name": "Indiana - Gary - 2020 Blocks Centroids",
+                  "id": "indiana-gary-2020-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "b14abb3d-3654-449c-babf-abd39275e832"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17036,
+                "name": "Indiana - Gary - 2020 Blocks",
+                "type": "fill",
+                "source_layer": "gary_bg5_blockgroups20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.gary_bg5_blockgroups20"
+              },
+              "layers": [
+                {
+                  "name": "Indiana - Gary - 2020 Blocks Interactive Layer",
+                  "id": "indiana-gary-2020-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Indiana - Gary - 2020 Blocks Border",
+                  "id": "indiana-gary-2020-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "ae6c05ed-69e3-4710-acc9-130d2cdde1a0"
+        }
+      ],
+      "unit_count": 6,
+      "unit_type": "2020 Blocks",
+      "unit_name": "Common Council",
+      "unit_name_plural": "Council Districts",
+      "bounds": [
+        [-87.4335, 41.522],
+        [-87.2222, 41.6554]
+      ]
+    },
+    {
+      "id": 11089,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11089/",
+        "html_url": "http://localhost:8080/states/indiana/indiana-congressional-districts-12541/",
+        "slug": "indiana-congressional-districts-12541",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:47.292026-05:00",
+        "alias_of": null
+      },
+      "title": "Indiana Congressional Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17039,
+                "name": "Indiana - Block Groups",
+                "type": "fill",
+                "source_layer": "indiana_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.indiana_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Indiana - Block Groups Interactive Layer",
+                  "id": "indiana-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Indiana - Block Groups Border",
+                  "id": "indiana-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "f5a3dd79-a9bd-4ba9-bb6f-e2a4025abc85"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17040,
+                "name": "Indiana - Block Groups",
+                "type": "circle",
+                "source_layer": "indiana_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.indiana_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Indiana - Block Groups Centroids",
+                  "id": "indiana-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "9d12f65c-350a-4fbb-8640-0d4ca05a8299"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17041,
+                "name": "Indiana - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "indiana_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.indiana_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "Indiana - 2020 VTDs Interactive Layer",
+                  "id": "indiana-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Indiana - 2020 VTDs Border",
+                  "id": "indiana-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "35dfb8e6-86af-4b92-8a45-09b313b0aaa6"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17042,
+                "name": "Indiana - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "indiana_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.indiana_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "Indiana - 2020 VTDs Centroids",
+                  "id": "indiana-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "e0af09ab-a3e8-4fd3-b946-4c859b90bff8"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17043,
+                "name": "Indiana - Precincts",
+                "type": "circle",
+                "source_layer": "indiana_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.indiana_precincts_points?v=2"
+              },
+              "layers": [
+                {
+                  "name": "Indiana - Precincts Centroids",
+                  "id": "indiana-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "78381d98-a476-4555-8cca-da50e21fbe58"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17044,
+                "name": "Indiana - Precincts",
+                "type": "fill",
+                "source_layer": "indiana_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.indiana_precincts?v=2"
+              },
+              "layers": [
+                {
+                  "name": "Indiana - Precincts Interactive Layer",
+                  "id": "indiana-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Indiana - Precincts Border",
+                  "id": "indiana-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "de25b1dc-6e31-4fe4-ad46-c0e54314b531"
+        }
+      ],
+      "unit_count": 9,
+      "unit_type": "Block Groups",
+      "unit_name": "Congress",
+      "unit_name_plural": "Congressional Districts",
+      "bounds": [
+        [-88.0979, 37.7717],
+        [-84.7846, 41.7607]
+      ]
+    },
+    {
+      "id": 11092,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11092/",
+        "html_url": "http://localhost:8080/states/indiana/indiana-council-districts-12544/",
+        "slug": "indiana-council-districts-12544",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:48.008728-05:00",
+        "alias_of": null
+      },
+      "title": "Indianapolis City-County Council, Indiana Council Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17045,
+                "name": "Indiana - Indianapolis City-County Council - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "indianapolis_cc_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.indianapolis_cc_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "Indiana - Indianapolis City-County Council - 2020 VTDs Interactive Layer",
+                  "id": "indiana-indianapolis-city-county-council-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Indiana - Indianapolis City-County Council - 2020 VTDs Border",
+                  "id": "indiana-indianapolis-city-county-council-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "a4aae738-f037-41c1-bedd-6d341475129b"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17046,
+                "name": "Indiana - Indianapolis City-County Council - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "indianapolis_cc_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.indianapolis_cc_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "Indiana - Indianapolis City-County Council - 2020 VTDs Centroids",
+                  "id": "indiana-indianapolis-city-county-council-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "74023941-0354-448c-b087-d6ab14e17e2a"
+        }
+      ],
+      "unit_count": 25,
+      "unit_type": "VTDs",
+      "unit_name": "City-County Council",
+      "unit_name_plural": "Council Districts",
+      "bounds": [
+        [-86.3281, 39.6322],
+        [-85.9374, 39.9274]
+      ]
+    },
+    {
+      "id": 11090,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11090/",
+        "html_url": "http://localhost:8080/states/indiana/indiana-state-house-districts-12542/",
+        "slug": "indiana-state-house-districts-12542",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:47.462705-05:00",
+        "alias_of": null
+      },
+      "title": "Indiana State House Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17039,
+                "name": "Indiana - Block Groups",
+                "type": "fill",
+                "source_layer": "indiana_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.indiana_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Indiana - Block Groups Interactive Layer",
+                  "id": "indiana-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Indiana - Block Groups Border",
+                  "id": "indiana-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "55ed5123-6b34-49e6-b759-3f959aef803a"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17040,
+                "name": "Indiana - Block Groups",
+                "type": "circle",
+                "source_layer": "indiana_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.indiana_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Indiana - Block Groups Centroids",
+                  "id": "indiana-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "87e7eeac-8ffc-4f35-920b-adcaa3abd1ce"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17041,
+                "name": "Indiana - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "indiana_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.indiana_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "Indiana - 2020 VTDs Interactive Layer",
+                  "id": "indiana-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Indiana - 2020 VTDs Border",
+                  "id": "indiana-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "3096856c-b728-4a9e-a161-f24f67ef16a8"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17042,
+                "name": "Indiana - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "indiana_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.indiana_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "Indiana - 2020 VTDs Centroids",
+                  "id": "indiana-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "720c9373-db46-4d3e-8f24-0dc1c490f1ff"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17043,
+                "name": "Indiana - Precincts",
+                "type": "circle",
+                "source_layer": "indiana_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.indiana_precincts_points?v=2"
+              },
+              "layers": [
+                {
+                  "name": "Indiana - Precincts Centroids",
+                  "id": "indiana-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "eb0c1d4c-13fe-4f29-a284-83718843c138"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17044,
+                "name": "Indiana - Precincts",
+                "type": "fill",
+                "source_layer": "indiana_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.indiana_precincts?v=2"
+              },
+              "layers": [
+                {
+                  "name": "Indiana - Precincts Interactive Layer",
+                  "id": "indiana-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Indiana - Precincts Border",
+                  "id": "indiana-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "3342f10a-9fd5-4bf5-a4ef-9bed9c79ce72"
+        }
+      ],
+      "unit_count": 100,
+      "unit_type": "Block Groups",
+      "unit_name": "State House",
+      "unit_name_plural": "State House Districts",
+      "bounds": [
+        [-88.0979, 37.7717],
+        [-84.7846, 41.7607]
+      ]
+    },
+    {
+      "id": 11091,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11091/",
+        "html_url": "http://localhost:8080/states/indiana/indiana-state-senate-districts-12543/",
+        "slug": "indiana-state-senate-districts-12543",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:47.636931-05:00",
+        "alias_of": null
+      },
+      "title": "Indiana State Senate Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17039,
+                "name": "Indiana - Block Groups",
+                "type": "fill",
+                "source_layer": "indiana_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.indiana_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Indiana - Block Groups Interactive Layer",
+                  "id": "indiana-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Indiana - Block Groups Border",
+                  "id": "indiana-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "7b1cd05c-aaa6-44b8-a85d-8138eddc516c"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17040,
+                "name": "Indiana - Block Groups",
+                "type": "circle",
+                "source_layer": "indiana_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.indiana_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Indiana - Block Groups Centroids",
+                  "id": "indiana-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "a5b0ffea-c214-4618-8f6b-e497378612a1"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17041,
+                "name": "Indiana - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "indiana_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.indiana_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "Indiana - 2020 VTDs Interactive Layer",
+                  "id": "indiana-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Indiana - 2020 VTDs Border",
+                  "id": "indiana-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "c0e23015-d3e2-477e-b340-e1becd65e60c"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17042,
+                "name": "Indiana - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "indiana_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.indiana_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "Indiana - 2020 VTDs Centroids",
+                  "id": "indiana-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "7f1be51b-2183-4cc9-94cf-1402ff2e0e70"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17043,
+                "name": "Indiana - Precincts",
+                "type": "circle",
+                "source_layer": "indiana_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.indiana_precincts_points?v=2"
+              },
+              "layers": [
+                {
+                  "name": "Indiana - Precincts Centroids",
+                  "id": "indiana-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "0d4cf1a9-a558-4f60-a47f-8dfd2c5417db"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17044,
+                "name": "Indiana - Precincts",
+                "type": "fill",
+                "source_layer": "indiana_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.indiana_precincts?v=2"
+              },
+              "layers": [
+                {
+                  "name": "Indiana - Precincts Interactive Layer",
+                  "id": "indiana-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Indiana - Precincts Border",
+                  "id": "indiana-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "1a0adc7c-bfcd-411a-ac16-53749f67a29e"
+        }
+      ],
+      "unit_count": 50,
+      "unit_type": "Block Groups",
+      "unit_name": "State Senate",
+      "unit_name_plural": "State Senate Districts",
+      "bounds": [
+        [-88.0979, 37.7717],
+        [-84.7846, 41.7607]
+      ]
+    },
+    {
+      "id": 11088,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11088/",
+        "html_url": "http://localhost:8080/states/indiana/indiana-council-districts-12540/",
+        "slug": "indiana-council-districts-12540",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:46.520536-05:00",
+        "alias_of": null
+      },
+      "title": "Valparaiso, Indiana Council Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17037,
+                "name": "Indiana - Valparaiso - 2020 Blocks",
+                "type": "fill",
+                "source_layer": "valparaiso2_blocks20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.valparaiso2_blocks20"
+              },
+              "layers": [
+                {
+                  "name": "Indiana - Valparaiso - 2020 Blocks Interactive Layer",
+                  "id": "indiana-valparaiso-2020-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Indiana - Valparaiso - 2020 Blocks Border",
+                  "id": "indiana-valparaiso-2020-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "06b2b9b1-2ab5-4442-8ef8-b56b08ec8e2b"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17038,
+                "name": "Indiana - Valparaiso - 2020 Blocks",
+                "type": "circle",
+                "source_layer": "valparaiso2_blocks20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.valparaiso2_blocks20_points"
+              },
+              "layers": [
+                {
+                  "name": "Indiana - Valparaiso - 2020 Blocks Centroids",
+                  "id": "indiana-valparaiso-2020-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "d7b337c1-5014-49ed-a552-b3536d3e6f18"
+        }
+      ],
+      "unit_count": 5,
+      "unit_type": "2020 Blocks",
+      "unit_name": "City Council",
+      "unit_name_plural": "Council Districts",
+      "bounds": [
+        [-87.1143, 41.4314],
+        [-86.9785, 41.514]
+      ]
+    }
+  ]
+}

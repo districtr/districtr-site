@@ -1,0 +1,959 @@
+{
+  "id": 24,
+  "meta": {
+    "type": "client.MapIndexPage",
+    "detail_url": "http://localhost:8080/wagtail-api/pages/24/",
+    "html_url": "http://localhost:8080/states/maine/",
+    "slug": "maine",
+    "show_in_menus": false,
+    "seo_title": "",
+    "search_description": "",
+    "first_published_at": null,
+    "alias_of": null,
+    "locale": "en"
+  },
+  "title": "Maine",
+  "counties": [
+    {
+      "id": 224,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/224/",
+        "html_url": "http://localhost:8080/states/maine/androscoggin/",
+        "slug": "androscoggin",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Androscoggin County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3132,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3132/",
+        "html_url": "http://localhost:8080/states/maine/aroostook/",
+        "slug": "aroostook",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Aroostook County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2425,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2425/",
+        "html_url": "http://localhost:8080/states/maine/cumberland/",
+        "slug": "cumberland",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Cumberland County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2940,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2940/",
+        "html_url": "http://localhost:8080/states/maine/franklin/",
+        "slug": "franklin",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Franklin County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2863,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2863/",
+        "html_url": "http://localhost:8080/states/maine/hancock/",
+        "slug": "hancock",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Hancock County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1750,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1750/",
+        "html_url": "http://localhost:8080/states/maine/kennebec/",
+        "slug": "kennebec",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Kennebec County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2864,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2864/",
+        "html_url": "http://localhost:8080/states/maine/knox/",
+        "slug": "knox",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Knox County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2325,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2325/",
+        "html_url": "http://localhost:8080/states/maine/lincoln/",
+        "slug": "lincoln",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lincoln County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1963,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1963/",
+        "html_url": "http://localhost:8080/states/maine/oxford/",
+        "slug": "oxford",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Oxford County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1696,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1696/",
+        "html_url": "http://localhost:8080/states/maine/penobscot/",
+        "slug": "penobscot",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Penobscot County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2275,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2275/",
+        "html_url": "http://localhost:8080/states/maine/piscataquis/",
+        "slug": "piscataquis",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Piscataquis County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 314,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/314/",
+        "html_url": "http://localhost:8080/states/maine/sagadahoc/",
+        "slug": "sagadahoc",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Sagadahoc County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3200,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3200/",
+        "html_url": "http://localhost:8080/states/maine/somerset/",
+        "slug": "somerset",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Somerset County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1461,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1461/",
+        "html_url": "http://localhost:8080/states/maine/waldo/",
+        "slug": "waldo",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Waldo County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 570,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/570/",
+        "html_url": "http://localhost:8080/states/maine/washington/",
+        "slug": "washington",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Washington County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1674,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1674/",
+        "html_url": "http://localhost:8080/states/maine/york/",
+        "slug": "york",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "York County",
+      "body": "",
+      "live": true
+    }
+  ],
+  "problems": [
+    {
+      "id": 11110,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11110/",
+        "html_url": "http://localhost:8080/states/maine/maine-congressional-districts-12562/",
+        "slug": "maine-congressional-districts-12562",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:55.132963-05:00",
+        "alias_of": null
+      },
+      "title": "Maine Congressional Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17075,
+                "name": "Maine - 2020 Block Groups",
+                "type": "fill",
+                "source_layer": "me_bg20_blockgroups20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.me_bg20_blockgroups20"
+              },
+              "layers": [
+                {
+                  "name": "Maine - 2020 Block Groups Interactive Layer",
+                  "id": "maine-2020-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Maine - 2020 Block Groups Border",
+                  "id": "maine-2020-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "299ec56f-e3d3-4dfd-bec5-9b930fb5931b"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17076,
+                "name": "Maine - 2020 Block Groups",
+                "type": "circle",
+                "source_layer": "me_bg20_blockgroups20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.me_bg20_blockgroups20_points"
+              },
+              "layers": [
+                {
+                  "name": "Maine - 2020 Block Groups Centroids",
+                  "id": "maine-2020-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "6f53d9d3-d1fe-4bb7-ae70-4edbab66ffa4"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17077,
+                "name": "Maine - Block Groups",
+                "type": "fill",
+                "source_layer": "maine_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.maine_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Maine - Block Groups Interactive Layer",
+                  "id": "maine-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Maine - Block Groups Border",
+                  "id": "maine-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "b154c235-1bac-40e3-9916-65308b8a6fb5"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17078,
+                "name": "Maine - Block Groups",
+                "type": "circle",
+                "source_layer": "maine_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.maine_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Maine - Block Groups Centroids",
+                  "id": "maine-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "c6ae6826-c444-4e20-877c-02755e743bf1"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17079,
+                "name": "Maine - Precincts",
+                "type": "circle",
+                "source_layer": "maine_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.maine_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Maine - Precincts Centroids",
+                  "id": "maine-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "72cec9ef-c30b-4e6b-a27c-3b3813b1776b"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17080,
+                "name": "Maine - Precincts",
+                "type": "fill",
+                "source_layer": "maine_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.maine_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Maine - Precincts Interactive Layer",
+                  "id": "maine-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Maine - Precincts Border",
+                  "id": "maine-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "3563d776-f0a5-4451-8d41-32513737849b"
+        }
+      ],
+      "unit_count": 2,
+      "unit_type": "Block Groups",
+      "unit_name": "Congress",
+      "unit_name_plural": "Congressional Districts",
+      "bounds": [
+        [-71.0839, 42.9171],
+        [-66.8854, 47.4599]
+      ]
+    },
+    {
+      "id": 11111,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11111/",
+        "html_url": "http://localhost:8080/states/maine/maine-state-house-districts-12563/",
+        "slug": "maine-state-house-districts-12563",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:55.325062-05:00",
+        "alias_of": null
+      },
+      "title": "Maine State House Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17075,
+                "name": "Maine - 2020 Block Groups",
+                "type": "fill",
+                "source_layer": "me_bg20_blockgroups20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.me_bg20_blockgroups20"
+              },
+              "layers": [
+                {
+                  "name": "Maine - 2020 Block Groups Interactive Layer",
+                  "id": "maine-2020-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Maine - 2020 Block Groups Border",
+                  "id": "maine-2020-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "1c5d2899-569b-4cfa-87d9-8401c870155c"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17076,
+                "name": "Maine - 2020 Block Groups",
+                "type": "circle",
+                "source_layer": "me_bg20_blockgroups20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.me_bg20_blockgroups20_points"
+              },
+              "layers": [
+                {
+                  "name": "Maine - 2020 Block Groups Centroids",
+                  "id": "maine-2020-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "6bf9a2ed-acce-41d5-beb1-f86efd2b2cc8"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17077,
+                "name": "Maine - Block Groups",
+                "type": "fill",
+                "source_layer": "maine_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.maine_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Maine - Block Groups Interactive Layer",
+                  "id": "maine-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Maine - Block Groups Border",
+                  "id": "maine-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "aceb829e-5900-478c-b025-ed42f039fc55"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17078,
+                "name": "Maine - Block Groups",
+                "type": "circle",
+                "source_layer": "maine_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.maine_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Maine - Block Groups Centroids",
+                  "id": "maine-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "b81d9f65-4591-4792-821a-9ee68ae812ae"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17079,
+                "name": "Maine - Precincts",
+                "type": "circle",
+                "source_layer": "maine_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.maine_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Maine - Precincts Centroids",
+                  "id": "maine-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "fcdf03f7-fa8d-4595-a17d-449611c779b7"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17080,
+                "name": "Maine - Precincts",
+                "type": "fill",
+                "source_layer": "maine_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.maine_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Maine - Precincts Interactive Layer",
+                  "id": "maine-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Maine - Precincts Border",
+                  "id": "maine-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "0be2cebb-ea29-4eca-b8c6-8fbd5bd67625"
+        }
+      ],
+      "unit_count": 151,
+      "unit_type": "Block Groups",
+      "unit_name": "State House",
+      "unit_name_plural": "State House Districts",
+      "bounds": [
+        [-71.0839, 42.9171],
+        [-66.8854, 47.4599]
+      ]
+    },
+    {
+      "id": 11112,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11112/",
+        "html_url": "http://localhost:8080/states/maine/maine-state-senate-districts-12564/",
+        "slug": "maine-state-senate-districts-12564",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:55.496835-05:00",
+        "alias_of": null
+      },
+      "title": "Maine State Senate Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17075,
+                "name": "Maine - 2020 Block Groups",
+                "type": "fill",
+                "source_layer": "me_bg20_blockgroups20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.me_bg20_blockgroups20"
+              },
+              "layers": [
+                {
+                  "name": "Maine - 2020 Block Groups Interactive Layer",
+                  "id": "maine-2020-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Maine - 2020 Block Groups Border",
+                  "id": "maine-2020-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "bd2d77a9-e981-4972-916f-9e384dd30c68"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17076,
+                "name": "Maine - 2020 Block Groups",
+                "type": "circle",
+                "source_layer": "me_bg20_blockgroups20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.me_bg20_blockgroups20_points"
+              },
+              "layers": [
+                {
+                  "name": "Maine - 2020 Block Groups Centroids",
+                  "id": "maine-2020-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "a85eaba6-c930-4082-9284-e7a23770ec3b"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17077,
+                "name": "Maine - Block Groups",
+                "type": "fill",
+                "source_layer": "maine_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.maine_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Maine - Block Groups Interactive Layer",
+                  "id": "maine-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Maine - Block Groups Border",
+                  "id": "maine-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "f9fa6b6a-4b20-45d2-bcf6-7bf78891e646"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17078,
+                "name": "Maine - Block Groups",
+                "type": "circle",
+                "source_layer": "maine_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.maine_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Maine - Block Groups Centroids",
+                  "id": "maine-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "912927a2-b622-457c-b49f-b6c371d284c9"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17079,
+                "name": "Maine - Precincts",
+                "type": "circle",
+                "source_layer": "maine_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.maine_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Maine - Precincts Centroids",
+                  "id": "maine-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "85ee5ec7-1127-4ca4-b07a-ae009488e587"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17080,
+                "name": "Maine - Precincts",
+                "type": "fill",
+                "source_layer": "maine_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.maine_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Maine - Precincts Interactive Layer",
+                  "id": "maine-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Maine - Precincts Border",
+                  "id": "maine-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "89f1d107-9b70-4ba7-bf1a-cadc0bb1d8a7"
+        }
+      ],
+      "unit_count": 35,
+      "unit_type": "Block Groups",
+      "unit_name": "State Senate",
+      "unit_name_plural": "State Senate Districts",
+      "bounds": [
+        [-71.0839, 42.9171],
+        [-66.8854, 47.4599]
+      ]
+    }
+  ]
+}

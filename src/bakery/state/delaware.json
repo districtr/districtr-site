@@ -1,0 +1,508 @@
+{
+  "id": 12,
+  "meta": {
+    "type": "client.MapIndexPage",
+    "detail_url": "http://localhost:8080/wagtail-api/pages/12/",
+    "html_url": "http://localhost:8080/states/delaware/",
+    "slug": "delaware",
+    "show_in_menus": false,
+    "seo_title": "",
+    "search_description": "",
+    "first_published_at": null,
+    "alias_of": null,
+    "locale": "en"
+  },
+  "title": "Delaware",
+  "counties": [
+    {
+      "id": 2933,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2933/",
+        "html_url": "http://localhost:8080/states/delaware/kent/",
+        "slug": "kent",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Kent County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 666,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/666/",
+        "html_url": "http://localhost:8080/states/delaware/new-castle/",
+        "slug": "new-castle",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "New Castle County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1222,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1222/",
+        "html_url": "http://localhost:8080/states/delaware/sussex/",
+        "slug": "sussex",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Sussex County",
+      "body": "",
+      "live": true
+    }
+  ],
+  "problems": [
+    {
+      "id": 11057,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11057/",
+        "html_url": "http://localhost:8080/states/delaware/delaware-state-house-districts-12509/",
+        "slug": "delaware-state-house-districts-12509",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:34.620023-05:00",
+        "alias_of": null
+      },
+      "title": "Delaware State House Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16974,
+                "name": "Delaware - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "de_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.de_vtds20?v=2"
+              },
+              "layers": [
+                {
+                  "name": "Delaware - 2020 VTDs Interactive Layer",
+                  "id": "delaware-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Delaware - 2020 VTDs Border",
+                  "id": "delaware-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "03714cb0-5018-476f-aa64-a38717199a45"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16975,
+                "name": "Delaware - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "de_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.de_vtds20_points?v=2"
+              },
+              "layers": [
+                {
+                  "name": "Delaware - 2020 VTDs Centroids",
+                  "id": "delaware-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "c5320bcf-fd43-4c1d-9637-a466173dba40"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16976,
+                "name": "Delaware - Precincts",
+                "type": "fill",
+                "source_layer": "delaware_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.delaware_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Delaware - Precincts Interactive Layer",
+                  "id": "delaware-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Delaware - Precincts Border",
+                  "id": "delaware-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "3fffdf02-4a7f-4f20-8007-dc70ee911df8"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16977,
+                "name": "Delaware - Precincts",
+                "type": "circle",
+                "source_layer": "delaware_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.delaware_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Delaware - Precincts Centroids",
+                  "id": "delaware-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "db1b83a0-c86a-4a33-af52-24a01f3f3934"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16978,
+                "name": "Delaware - Block Groups",
+                "type": "circle",
+                "source_layer": "delaware_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.delaware_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Delaware - Block Groups Centroids",
+                  "id": "delaware-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "655d7b9c-5af7-435b-8c32-fceb7fe09394"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16979,
+                "name": "Delaware - Block Groups",
+                "type": "fill",
+                "source_layer": "delaware_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.delaware_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Delaware - Block Groups Interactive Layer",
+                  "id": "delaware-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Delaware - Block Groups Border",
+                  "id": "delaware-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "50ba8a54-06b6-46ae-af91-f5ebcc04be21"
+        }
+      ],
+      "unit_count": 41,
+      "unit_type": "VTDs",
+      "unit_name": "State House",
+      "unit_name_plural": "State House Districts",
+      "bounds": [
+        [-75.789, 38.4512],
+        [-75.0466, 39.8395]
+      ]
+    },
+    {
+      "id": 11056,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11056/",
+        "html_url": "http://localhost:8080/states/delaware/delaware-state-senate-districts-12508/",
+        "slug": "delaware-state-senate-districts-12508",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:34.446514-05:00",
+        "alias_of": null
+      },
+      "title": "Delaware State Senate Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16974,
+                "name": "Delaware - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "de_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.de_vtds20?v=2"
+              },
+              "layers": [
+                {
+                  "name": "Delaware - 2020 VTDs Interactive Layer",
+                  "id": "delaware-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Delaware - 2020 VTDs Border",
+                  "id": "delaware-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "3b6780a5-cf66-4acd-a719-28fd54c3d12d"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16975,
+                "name": "Delaware - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "de_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.de_vtds20_points?v=2"
+              },
+              "layers": [
+                {
+                  "name": "Delaware - 2020 VTDs Centroids",
+                  "id": "delaware-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "0b5f0dc0-40bc-437c-95a3-12b19d404792"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16976,
+                "name": "Delaware - Precincts",
+                "type": "fill",
+                "source_layer": "delaware_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.delaware_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Delaware - Precincts Interactive Layer",
+                  "id": "delaware-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Delaware - Precincts Border",
+                  "id": "delaware-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "f424fee8-4e04-4d78-ac91-b904af3103ba"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16977,
+                "name": "Delaware - Precincts",
+                "type": "circle",
+                "source_layer": "delaware_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.delaware_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Delaware - Precincts Centroids",
+                  "id": "delaware-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "a03fa3c1-a663-419d-9db5-af80c615b9e7"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16978,
+                "name": "Delaware - Block Groups",
+                "type": "circle",
+                "source_layer": "delaware_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.delaware_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Delaware - Block Groups Centroids",
+                  "id": "delaware-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "d7a53a02-2fa5-42bf-a17b-2e4065a9842c"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16979,
+                "name": "Delaware - Block Groups",
+                "type": "fill",
+                "source_layer": "delaware_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.delaware_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Delaware - Block Groups Interactive Layer",
+                  "id": "delaware-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Delaware - Block Groups Border",
+                  "id": "delaware-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "272d18d3-1167-47c8-9e46-e6ea40f4b82e"
+        }
+      ],
+      "unit_count": 21,
+      "unit_type": "VTDs",
+      "unit_name": "State Senate",
+      "unit_name_plural": "State Senate Districts",
+      "bounds": [
+        [-75.789, 38.4512],
+        [-75.0466, 39.8395]
+      ]
+    }
+  ]
+}

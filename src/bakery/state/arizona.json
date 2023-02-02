@@ -1,0 +1,2500 @@
+{
+  "id": 7,
+  "meta": {
+    "type": "client.MapIndexPage",
+    "detail_url": "http://localhost:8080/wagtail-api/pages/7/",
+    "html_url": "http://localhost:8080/states/arizona/",
+    "slug": "arizona",
+    "show_in_menus": false,
+    "seo_title": "",
+    "search_description": "",
+    "first_published_at": null,
+    "alias_of": null,
+    "locale": "en"
+  },
+  "title": "Arizona",
+  "counties": [
+    {
+      "id": 2664,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2664/",
+        "html_url": "http://localhost:8080/states/arizona/apache/",
+        "slug": "apache",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Apache County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1180,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1180/",
+        "html_url": "http://localhost:8080/states/arizona/cochise/",
+        "slug": "cochise",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Cochise County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1381,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1381/",
+        "html_url": "http://localhost:8080/states/arizona/coconino/",
+        "slug": "coconino",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Coconino County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1804,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1804/",
+        "html_url": "http://localhost:8080/states/arizona/gila/",
+        "slug": "gila",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Gila County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1868,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1868/",
+        "html_url": "http://localhost:8080/states/arizona/graham/",
+        "slug": "graham",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Graham County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 923,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/923/",
+        "html_url": "http://localhost:8080/states/arizona/greenlee/",
+        "slug": "greenlee",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Greenlee County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2462,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2462/",
+        "html_url": "http://localhost:8080/states/arizona/la-paz/",
+        "slug": "la-paz",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "La Paz County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 924,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/924/",
+        "html_url": "http://localhost:8080/states/arizona/maricopa/",
+        "slug": "maricopa",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Maricopa County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2288,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2288/",
+        "html_url": "http://localhost:8080/states/arizona/mohave/",
+        "slug": "mohave",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Mohave County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 597,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/597/",
+        "html_url": "http://localhost:8080/states/arizona/navajo/",
+        "slug": "navajo",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Navajo County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 985,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/985/",
+        "html_url": "http://localhost:8080/states/arizona/pima/",
+        "slug": "pima",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Pima County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 480,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/480/",
+        "html_url": "http://localhost:8080/states/arizona/pinal/",
+        "slug": "pinal",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Pinal County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2626,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2626/",
+        "html_url": "http://localhost:8080/states/arizona/santa-cruz/",
+        "slug": "santa-cruz",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Santa Cruz County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2289,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2289/",
+        "html_url": "http://localhost:8080/states/arizona/yavapai/",
+        "slug": "yavapai",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Yavapai County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 473,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/473/",
+        "html_url": "http://localhost:8080/states/arizona/yuma/",
+        "slug": "yuma",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Yuma County",
+      "body": "",
+      "live": true
+    }
+  ],
+  "problems": [
+    {
+      "id": 10907,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/10907/",
+        "html_url": "http://localhost:8080/states/arizona/arizona-congressional-districts-12359/",
+        "slug": "arizona-congressional-districts-12359",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:26:52.886498-05:00",
+        "alias_of": null
+      },
+      "title": "Arizona Congressional Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16532,
+                "name": "Arizona - Block Groups",
+                "type": "fill",
+                "source_layer": "arizona_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.arizona_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Block Groups Interactive Layer",
+                  "id": "arizona-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Arizona - Block Groups Border",
+                  "id": "arizona-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "c7002b7b-1b9c-411f-b62f-5012d0473262"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16533,
+                "name": "Arizona - Block Groups",
+                "type": "circle",
+                "source_layer": "arizona_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.arizona_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Block Groups Centroids",
+                  "id": "arizona-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "69dfa755-04bc-4911-8988-20330863fa4a"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16534,
+                "name": "Arizona - Precincts",
+                "type": "fill",
+                "source_layer": "arizona_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.arizona_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Precincts Interactive Layer",
+                  "id": "arizona-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Arizona - Precincts Border",
+                  "id": "arizona-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "e1f9c050-6124-44ba-96f6-c93072d56638"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16535,
+                "name": "Arizona - Precincts",
+                "type": "circle",
+                "source_layer": "arizona_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.arizona_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Precincts Centroids",
+                  "id": "arizona-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "01d54f03-4599-4e9a-9e57-f222665079ed"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16536,
+                "name": "Arizona - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "az_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.az_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - 2020 VTDs Interactive Layer",
+                  "id": "arizona-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Arizona - 2020 VTDs Border",
+                  "id": "arizona-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "ce65a8b8-ac67-4e82-bade-ba2e1a7b3cb3"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16537,
+                "name": "Arizona - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "az_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.az_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - 2020 VTDs Centroids",
+                  "id": "arizona-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "8a3bfc1c-a291-48e4-bda0-72a7811543ed"
+        }
+      ],
+      "unit_count": 10,
+      "unit_type": "Block Groups",
+      "unit_name": "Congress",
+      "unit_name_plural": "Congressional Districts",
+      "bounds": [
+        [-114.8163, 31.3323],
+        [-109.0452, 37.0037]
+      ]
+    },
+    {
+      "id": 10906,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/10906/",
+        "html_url": "http://localhost:8080/states/arizona/arizona-congressional-districts-12358/",
+        "slug": "arizona-congressional-districts-12358",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:26:52.758601-05:00",
+        "alias_of": null
+      },
+      "title": "Arizona Congressional Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16532,
+                "name": "Arizona - Block Groups",
+                "type": "fill",
+                "source_layer": "arizona_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.arizona_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Block Groups Interactive Layer",
+                  "id": "arizona-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Arizona - Block Groups Border",
+                  "id": "arizona-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "08cbfde8-7769-4c7a-aa83-3c487eccf083"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16533,
+                "name": "Arizona - Block Groups",
+                "type": "circle",
+                "source_layer": "arizona_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.arizona_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Block Groups Centroids",
+                  "id": "arizona-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "810c53d3-e15a-4a2e-aa63-b2bcf50cf622"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16534,
+                "name": "Arizona - Precincts",
+                "type": "fill",
+                "source_layer": "arizona_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.arizona_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Precincts Interactive Layer",
+                  "id": "arizona-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Arizona - Precincts Border",
+                  "id": "arizona-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "d11599d4-b23b-49df-b6f0-2d0b52f316ab"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16535,
+                "name": "Arizona - Precincts",
+                "type": "circle",
+                "source_layer": "arizona_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.arizona_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Precincts Centroids",
+                  "id": "arizona-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "1fd6199f-ef97-4a28-9ec9-6fd3f30f1c76"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16536,
+                "name": "Arizona - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "az_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.az_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - 2020 VTDs Interactive Layer",
+                  "id": "arizona-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Arizona - 2020 VTDs Border",
+                  "id": "arizona-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "9b3de14c-0d2d-4c7c-b121-de110f5b158a"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16537,
+                "name": "Arizona - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "az_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.az_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - 2020 VTDs Centroids",
+                  "id": "arizona-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "d55eefa2-1e6e-426d-8b25-7f7a9d1fbfc8"
+        }
+      ],
+      "unit_count": 9,
+      "unit_type": "Block Groups",
+      "unit_name": "Congress",
+      "unit_name_plural": "Congressional Districts",
+      "bounds": [
+        [-114.8163, 31.3323],
+        [-109.0452, 37.0037]
+      ]
+    },
+    {
+      "id": 10908,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/10908/",
+        "html_url": "http://localhost:8080/states/arizona/arizona-legislative-districts-12360/",
+        "slug": "arizona-legislative-districts-12360",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:26:53.011094-05:00",
+        "alias_of": null
+      },
+      "title": "Arizona Legislative Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16532,
+                "name": "Arizona - Block Groups",
+                "type": "fill",
+                "source_layer": "arizona_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.arizona_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Block Groups Interactive Layer",
+                  "id": "arizona-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Arizona - Block Groups Border",
+                  "id": "arizona-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "d2043509-c47b-45a8-a617-3b5fbc597436"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16533,
+                "name": "Arizona - Block Groups",
+                "type": "circle",
+                "source_layer": "arizona_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.arizona_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Block Groups Centroids",
+                  "id": "arizona-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "4b278755-01b7-439e-aa8d-6a944c4530fc"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16534,
+                "name": "Arizona - Precincts",
+                "type": "fill",
+                "source_layer": "arizona_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.arizona_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Precincts Interactive Layer",
+                  "id": "arizona-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Arizona - Precincts Border",
+                  "id": "arizona-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "bec67068-18b2-4dbb-af3d-b340d33c398d"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16535,
+                "name": "Arizona - Precincts",
+                "type": "circle",
+                "source_layer": "arizona_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.arizona_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Precincts Centroids",
+                  "id": "arizona-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "e1c9e9d1-68a1-413b-8b9a-66cc2dfa5811"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16536,
+                "name": "Arizona - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "az_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.az_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - 2020 VTDs Interactive Layer",
+                  "id": "arizona-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Arizona - 2020 VTDs Border",
+                  "id": "arizona-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "f90b5f40-c405-417a-a043-0bde67f6316f"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16537,
+                "name": "Arizona - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "az_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.az_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - 2020 VTDs Centroids",
+                  "id": "arizona-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "9f4d0d33-809b-41f1-8a96-3950a8ac7259"
+        }
+      ],
+      "unit_count": 30,
+      "unit_type": "Block Groups",
+      "unit_name": "State Legislature",
+      "unit_name_plural": "Legislative Districts",
+      "bounds": [
+        [-114.8163, 31.3323],
+        [-109.0452, 37.0037]
+      ]
+    },
+    {
+      "id": 10905,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/10905/",
+        "html_url": "http://localhost:8080/states/arizona/arizona-trustee-districts-12357/",
+        "slug": "arizona-trustee-districts-12357",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:26:52.159865-05:00",
+        "alias_of": null
+      },
+      "title": "Arizona Western College (Yuma), Arizona Trustee Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16527,
+                "name": "Arizona - Yuma County - 2020 Blocks",
+                "type": "circle",
+                "source_layer": "yuma_blocks20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.yuma_blocks20_points"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Yuma County - 2020 Blocks Centroids",
+                  "id": "arizona-yuma-county-2020-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "b148cb62-eca7-41da-9735-5652550037e0"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16528,
+                "name": "Arizona - Yuma County - 2020 Blocks",
+                "type": "fill",
+                "source_layer": "yuma_blocks20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.yuma_blocks20"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Yuma County - 2020 Blocks Interactive Layer",
+                  "id": "arizona-yuma-county-2020-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Arizona - Yuma County - 2020 Blocks Border",
+                  "id": "arizona-yuma-county-2020-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "d6ae8973-2e2e-4846-8937-ed2faf826a34"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16529,
+                "name": "Arizona - Yuma County - 2020 Blocks",
+                "type": "fill",
+                "source_layer": "yumadata_blockgroups20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.yumadata_blockgroups20"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Yuma County - 2020 Blocks Interactive Layer",
+                  "id": "arizona-yuma-county-2020-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Arizona - Yuma County - 2020 Blocks Border",
+                  "id": "arizona-yuma-county-2020-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "ddd874a5-684e-4c72-ac7c-68fedf9f937e"
+        }
+      ],
+      "unit_count": 3,
+      "unit_type": "Blocks",
+      "unit_name": "Board of Trustees",
+      "unit_name_plural": "Trustee Districts",
+      "bounds": [
+        [-114.8163, 32.0389],
+        [-113.3332, 33.4645]
+      ]
+    },
+    {
+      "id": 10910,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/10910/",
+        "html_url": "http://localhost:8080/states/arizona/arizona-council-districts-12362/",
+        "slug": "arizona-council-districts-12362",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:26:53.574439-05:00",
+        "alias_of": null
+      },
+      "title": "Glendale, Arizona Council Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16542,
+                "name": "Arizona - Glendale - 2020 Blocks",
+                "type": "circle",
+                "source_layer": "glendaleaz2_blocks20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.glendaleaz2_blocks20_points"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Glendale - 2020 Blocks Centroids",
+                  "id": "arizona-glendale-2020-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "927a37ec-62d7-4c90-b3b4-2d8feefc5d0f"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16543,
+                "name": "Arizona - Glendale - 2020 Blocks",
+                "type": "fill",
+                "source_layer": "glendaleaz2_blocks20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.glendaleaz2_blocks20"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Glendale - 2020 Blocks Interactive Layer",
+                  "id": "arizona-glendale-2020-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Arizona - Glendale - 2020 Blocks Border",
+                  "id": "arizona-glendale-2020-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "dc479089-640e-407e-8d95-d8d4a305e09c"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16544,
+                "name": "Arizona - Glendale - 2020 Blocks",
+                "type": "fill",
+                "source_layer": "glndazdata3_blockgroups20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.glndazdata3_blockgroups20"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Glendale - 2020 Blocks Interactive Layer",
+                  "id": "arizona-glendale-2020-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Arizona - Glendale - 2020 Blocks Border",
+                  "id": "arizona-glendale-2020-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "e3790291-d5a7-4a40-8082-d5a52a563c08"
+        }
+      ],
+      "unit_count": 6,
+      "unit_type": "Blocks",
+      "unit_name": "City Council",
+      "unit_name_plural": "Council Districts",
+      "bounds": [
+        [-112.4616, 33.5078],
+        [-112.1516, 33.6979]
+      ]
+    },
+    {
+      "id": 10913,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/10913/",
+        "html_url": "http://localhost:8080/states/arizona/arizona-supervisorial-districts-12365/",
+        "slug": "arizona-supervisorial-districts-12365",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:26:54.426806-05:00",
+        "alias_of": null
+      },
+      "title": "Maricopa County, Arizona Supervisorial Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16550,
+                "name": "Arizona - Maricopa County - Precincts",
+                "type": "fill",
+                "source_layer": "az_maricopa_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.az_maricopa_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Maricopa County - Precincts Interactive Layer",
+                  "id": "arizona-maricopa-county-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Arizona - Maricopa County - Precincts Border",
+                  "id": "arizona-maricopa-county-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "c44801c3-76c4-497a-b355-28ee0e6594d1"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16551,
+                "name": "Arizona - Maricopa County - Precincts",
+                "type": "circle",
+                "source_layer": "az_maricopa_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.az_maricopa_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Maricopa County - Precincts Centroids",
+                  "id": "arizona-maricopa-county-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "5fa5cdde-1e3d-41ff-a7aa-f903f796a798"
+        }
+      ],
+      "unit_count": 5,
+      "unit_type": "Precincts",
+      "unit_name": "Board of Supervisors",
+      "unit_name_plural": "Supervisorial Districts",
+      "bounds": [
+        [-113.334, 32.5049],
+        [-111.0399, 34.0482]
+      ]
+    },
+    {
+      "id": 10900,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/10900/",
+        "html_url": "http://localhost:8080/states/arizona/arizona-supervisorial-districts-12352/",
+        "slug": "arizona-supervisorial-districts-12352",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:26:50.610621-05:00",
+        "alias_of": null
+      },
+      "title": "Maricopa County, Arizona Supervisorial Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16513,
+                "name": "Arizona - Maricopa County - Blocks",
+                "type": "fill",
+                "source_layer": "maricopa_blocks",
+                "source_type": "vector",
+                "url": "mapbox://districtr.maricopa_blocks"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Maricopa County - Blocks Interactive Layer",
+                  "id": "arizona-maricopa-county-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Arizona - Maricopa County - Blocks Border",
+                  "id": "arizona-maricopa-county-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "3f8a2fab-dcc6-485e-8e18-ca994e20e41b"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16514,
+                "name": "Arizona - Maricopa County - Blocks",
+                "type": "circle",
+                "source_layer": "maricopa_blocks_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.maricopa_blocks_points"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Maricopa County - Blocks Centroids",
+                  "id": "arizona-maricopa-county-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "df823ccf-80c6-4807-bff8-1ba64716a8f0"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16515,
+                "name": "Arizona - Maricopa County - Blocks",
+                "type": "fill",
+                "source_layer": "maricopa_bg_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.maricopa_bg_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Maricopa County - Blocks Interactive Layer",
+                  "id": "arizona-maricopa-county-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Arizona - Maricopa County - Blocks Border",
+                  "id": "arizona-maricopa-county-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "0ad1d605-6dd9-4cad-aba8-249a4d4bca74"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16516,
+                "name": "Arizona - Maricopa County - Blocks",
+                "type": "circle",
+                "source_layer": "maricopa_bg_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.maricopa_bg_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Maricopa County - Blocks Centroids",
+                  "id": "arizona-maricopa-county-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "9680147c-4976-4ecd-b284-b7ba15a2c1bc"
+        }
+      ],
+      "unit_count": 5,
+      "unit_type": "Blocks",
+      "unit_name": "Board of Supervisors",
+      "unit_name_plural": "Supervisorial Districts",
+      "bounds": [
+        [-113.3344, 32.5049],
+        [-111.0399, 34.0482]
+      ]
+    },
+    {
+      "id": 10909,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/10909/",
+        "html_url": "http://localhost:8080/states/arizona/arizona-city-council-districts-12361/",
+        "slug": "arizona-city-council-districts-12361",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:26:53.298562-05:00",
+        "alias_of": null
+      },
+      "title": "Mesa, Arizona City Council Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16538,
+                "name": "Arizona - Mesa - Blocks",
+                "type": "circle",
+                "source_layer": "mesaaz2_blocks_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.mesaaz2_blocks_points?v=2"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Mesa - Blocks Centroids",
+                  "id": "arizona-mesa-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "634fdcae-7a20-44a9-b4a8-27aab3db6156"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16539,
+                "name": "Arizona - Mesa - Blocks",
+                "type": "fill",
+                "source_layer": "mesaaz2_blocks",
+                "source_type": "vector",
+                "url": "mapbox://districtr.mesaaz2_blocks?v=2"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Mesa - Blocks Interactive Layer",
+                  "id": "arizona-mesa-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Arizona - Mesa - Blocks Border",
+                  "id": "arizona-mesa-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "3e604993-03a2-4622-a6da-01f0837f4d6a"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16540,
+                "name": "Arizona - Mesa - 2020 Blocks",
+                "type": "circle",
+                "source_layer": "mesaaz2_blocks20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.mesaaz2_blocks20_points?v=2"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Mesa - 2020 Blocks Centroids",
+                  "id": "arizona-mesa-2020-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "7041cdbf-095e-4478-bcbe-f2af789b1c51"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16541,
+                "name": "Arizona - Mesa - 2020 Blocks",
+                "type": "fill",
+                "source_layer": "mesaaz2_blocks20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.mesaaz2_blocks20?v=2"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Mesa - 2020 Blocks Interactive Layer",
+                  "id": "arizona-mesa-2020-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Arizona - Mesa - 2020 Blocks Border",
+                  "id": "arizona-mesa-2020-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "7b876788-66e4-41c0-adf9-6f41df51e3ba"
+        }
+      ],
+      "unit_count": 6,
+      "unit_type": "Blocks",
+      "unit_name": "City Council",
+      "unit_name_plural": "City Council Districts",
+      "bounds": [
+        [-111.8944, 33.2773],
+        [-111.5808, 33.5123]
+      ]
+    },
+    {
+      "id": 10911,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/10911/",
+        "html_url": "http://localhost:8080/states/arizona/arizona-supervisorial-districts-12363/",
+        "slug": "arizona-supervisorial-districts-12363",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:26:53.842484-05:00",
+        "alias_of": null
+      },
+      "title": "Navajo County, Arizona Supervisorial Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16545,
+                "name": "Arizona - Navajo County - 2020 Blocks",
+                "type": "fill",
+                "source_layer": "navajoco_blocks20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.navajoco_blocks20"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Navajo County - 2020 Blocks Interactive Layer",
+                  "id": "arizona-navajo-county-2020-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Arizona - Navajo County - 2020 Blocks Border",
+                  "id": "arizona-navajo-county-2020-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "e9b60cae-282f-405c-bb6a-103e2ec6f06f"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16546,
+                "name": "Arizona - Navajo County - 2020 Blocks",
+                "type": "circle",
+                "source_layer": "navajoco_blocks20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.navajoco_blocks20_points"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Navajo County - 2020 Blocks Centroids",
+                  "id": "arizona-navajo-county-2020-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "e070cf7a-5ad1-4472-b10d-48690f9b35ad"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16547,
+                "name": "Arizona - Navajo County - 2020 Blocks",
+                "type": "fill",
+                "source_layer": "navajoco_bg_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.navajoco_bg_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Navajo County - 2020 Blocks Interactive Layer",
+                  "id": "arizona-navajo-county-2020-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Arizona - Navajo County - 2020 Blocks Border",
+                  "id": "arizona-navajo-county-2020-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "e577e378-025a-4c57-9ffc-3d5e53495a2b"
+        }
+      ],
+      "unit_count": 5,
+      "unit_type": "Blocks",
+      "unit_name": "Board of Supervisors",
+      "unit_name_plural": "Supervisorial Districts",
+      "bounds": [
+        [-110.7507, 33.5672],
+        [-109.8267, 37.0037]
+      ]
+    },
+    {
+      "id": 10902,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/10902/",
+        "html_url": "http://localhost:8080/states/arizona/arizona-supervisorial-districts-12354/",
+        "slug": "arizona-supervisorial-districts-12354",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:26:51.252584-05:00",
+        "alias_of": null
+      },
+      "title": "North and West Zone, Arizona Supervisorial Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16519,
+                "name": "Arizona - North and West Zone - Blocks",
+                "type": "fill",
+                "source_layer": "nwaz_blocks",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nwaz_blocks"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - North and West Zone - Blocks Interactive Layer",
+                  "id": "arizona-north-and-west-zone-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Arizona - North and West Zone - Blocks Border",
+                  "id": "arizona-north-and-west-zone-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "f17e8eb9-4e3a-4e66-a4fc-793a0b2fa0eb"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16520,
+                "name": "Arizona - North and West Zone - Blocks",
+                "type": "circle",
+                "source_layer": "nwaz_blocks_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nwaz_blocks_points"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - North and West Zone - Blocks Centroids",
+                  "id": "arizona-north-and-west-zone-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "943a060a-7f25-4731-9dd0-2e1ea615ae83"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16521,
+                "name": "Arizona - North and West Zone - Blocks",
+                "type": "fill",
+                "source_layer": "nwaz_bg_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nwaz_bg_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - North and West Zone - Blocks Interactive Layer",
+                  "id": "arizona-north-and-west-zone-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Arizona - North and West Zone - Blocks Border",
+                  "id": "arizona-north-and-west-zone-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "ec944527-4eb6-473f-8534-7d89c1a5a96d"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16522,
+                "name": "Arizona - North and West Zone - Blocks",
+                "type": "circle",
+                "source_layer": "nwaz_bg_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nwaz_bg_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - North and West Zone - Blocks Centroids",
+                  "id": "arizona-north-and-west-zone-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "c37a6d91-b964-46ae-8cf1-da654ab17ba0"
+        }
+      ],
+      "unit_count": 5,
+      "unit_type": "Blocks",
+      "unit_name": "Board of Supervisors",
+      "unit_name_plural": "Supervisorial Districts",
+      "bounds": [
+        [-114.8166, 32.0386],
+        [-109.0452, 37.0043]
+      ]
+    },
+    {
+      "id": 10901,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/10901/",
+        "html_url": "http://localhost:8080/states/arizona/arizona-council-districts-12353/",
+        "slug": "arizona-council-districts-12353",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:26:50.931519-05:00",
+        "alias_of": null
+      },
+      "title": "Phoenix, Arizona Council Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16517,
+                "name": "Arizona - Phoenix - Blocks",
+                "type": "fill",
+                "source_layer": "phoenix_blocks",
+                "source_type": "vector",
+                "url": "mapbox://districtr.phoenix_blocks"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Phoenix - Blocks Interactive Layer",
+                  "id": "arizona-phoenix-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Arizona - Phoenix - Blocks Border",
+                  "id": "arizona-phoenix-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "e06bff86-efd3-4ea3-9d88-f34133b7e327"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16518,
+                "name": "Arizona - Phoenix - Blocks",
+                "type": "circle",
+                "source_layer": "phoenix_blocks_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.phoenix_blocks_points"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Phoenix - Blocks Centroids",
+                  "id": "arizona-phoenix-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "3869c1fe-140d-4622-b654-8d3c7c0fc8ec"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16515,
+                "name": "Arizona - Maricopa County - Blocks",
+                "type": "fill",
+                "source_layer": "maricopa_bg_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.maricopa_bg_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Maricopa County - Blocks Interactive Layer",
+                  "id": "arizona-maricopa-county-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Arizona - Maricopa County - Blocks Border",
+                  "id": "arizona-maricopa-county-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "115e274e-fb9d-4ef2-9101-bb3ad29f43d6"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16516,
+                "name": "Arizona - Maricopa County - Blocks",
+                "type": "circle",
+                "source_layer": "maricopa_bg_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.maricopa_bg_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Maricopa County - Blocks Centroids",
+                  "id": "arizona-maricopa-county-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "26118f99-fe8c-46f2-9d3c-eb84ad7fd0a9"
+        }
+      ],
+      "unit_count": 8,
+      "unit_type": "Blocks",
+      "unit_name": "City Council",
+      "unit_name_plural": "Council Districts",
+      "bounds": [
+        [-112.3109, 33.2903],
+        [-111.9253, 33.9184]
+      ]
+    },
+    {
+      "id": 10912,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/10912/",
+        "html_url": "http://localhost:8080/states/arizona/arizona-supervisorial-districts-12364/",
+        "slug": "arizona-supervisorial-districts-12364",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:26:54.163231-05:00",
+        "alias_of": null
+      },
+      "title": "Pima County, Arizona Supervisorial Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16548,
+                "name": "Arizona - Pima County - 2022 Precincts",
+                "type": "fill",
+                "source_layer": "az_pima_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.az_pima_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Pima County - 2022 Precincts Interactive Layer",
+                  "id": "arizona-pima-county-2022-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Arizona - Pima County - 2022 Precincts Border",
+                  "id": "arizona-pima-county-2022-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "316cece1-426e-4119-a95f-4dfa8ee71d3b"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16549,
+                "name": "Arizona - Pima County - 2022 Precincts",
+                "type": "circle",
+                "source_layer": "az_pima_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.az_pima_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Pima County - 2022 Precincts Centroids",
+                  "id": "arizona-pima-county-2022-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "98fff7dd-9dab-4efb-8c26-5549ecfe5c76"
+        }
+      ],
+      "unit_count": 5,
+      "unit_type": "2022 Precincts",
+      "unit_name": "Board of Supervisors",
+      "unit_name_plural": "Supervisorial Districts",
+      "bounds": [
+        [-113.3342, 31.4261],
+        [-110.4477, 32.5141]
+      ]
+    },
+    {
+      "id": 10903,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/10903/",
+        "html_url": "http://localhost:8080/states/arizona/arizona-supervisorial-districts-12355/",
+        "slug": "arizona-supervisorial-districts-12355",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:26:51.564338-05:00",
+        "alias_of": null
+      },
+      "title": "Southeast Zone, Arizona Supervisorial Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16523,
+                "name": "Arizona - Southeast Zone - Blocks",
+                "type": "fill",
+                "source_layer": "seaz_blocks",
+                "source_type": "vector",
+                "url": "mapbox://districtr.seaz_blocks"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Southeast Zone - Blocks Interactive Layer",
+                  "id": "arizona-southeast-zone-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Arizona - Southeast Zone - Blocks Border",
+                  "id": "arizona-southeast-zone-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "876861a5-8c40-4b5e-927b-4f93a471f7a8"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16524,
+                "name": "Arizona - Southeast Zone - Blocks",
+                "type": "circle",
+                "source_layer": "seaz_blocks_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.seaz_blocks_points"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Southeast Zone - Blocks Centroids",
+                  "id": "arizona-southeast-zone-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "f4bf6c4c-671e-495e-9677-138ddd15c5f4"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16525,
+                "name": "Arizona - Southeast Zone - Blocks",
+                "type": "fill",
+                "source_layer": "seaz_bg_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.seaz_bg_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Southeast Zone - Blocks Interactive Layer",
+                  "id": "arizona-southeast-zone-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Arizona - Southeast Zone - Blocks Border",
+                  "id": "arizona-southeast-zone-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "1363c400-9fa9-4cff-8689-2352a0837840"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16526,
+                "name": "Arizona - Southeast Zone - Blocks",
+                "type": "circle",
+                "source_layer": "seaz_bg_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.seaz_bg_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Southeast Zone - Blocks Centroids",
+                  "id": "arizona-southeast-zone-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "7f44df05-7aaa-439b-978a-bd35f19dca90"
+        }
+      ],
+      "unit_count": 5,
+      "unit_type": "Blocks",
+      "unit_name": "Board of Supervisors",
+      "unit_name_plural": "Supervisorial Districts",
+      "bounds": [
+        [-113.3341, 31.3322],
+        [-109.0466, 33.7787]
+      ]
+    },
+    {
+      "id": 10904,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/10904/",
+        "html_url": "http://localhost:8080/states/arizona/arizona-supervisorial-districts-12356/",
+        "slug": "arizona-supervisorial-districts-12356",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:26:51.872926-05:00",
+        "alias_of": null
+      },
+      "title": "Yuma County, Arizona Supervisorial Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16527,
+                "name": "Arizona - Yuma County - 2020 Blocks",
+                "type": "circle",
+                "source_layer": "yuma_blocks20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.yuma_blocks20_points"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Yuma County - 2020 Blocks Centroids",
+                  "id": "arizona-yuma-county-2020-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "8a299033-646c-40c0-9f88-1ca059b1d1d0"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16528,
+                "name": "Arizona - Yuma County - 2020 Blocks",
+                "type": "fill",
+                "source_layer": "yuma_blocks20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.yuma_blocks20"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Yuma County - 2020 Blocks Interactive Layer",
+                  "id": "arizona-yuma-county-2020-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Arizona - Yuma County - 2020 Blocks Border",
+                  "id": "arizona-yuma-county-2020-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "9fa1b659-2916-48db-9ef7-0f6192f71cdb"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16529,
+                "name": "Arizona - Yuma County - 2020 Blocks",
+                "type": "fill",
+                "source_layer": "yumadata_blockgroups20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.yumadata_blockgroups20"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Yuma County - 2020 Blocks Interactive Layer",
+                  "id": "arizona-yuma-county-2020-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Arizona - Yuma County - 2020 Blocks Border",
+                  "id": "arizona-yuma-county-2020-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "f68b23e9-a278-4e20-9d88-d44414c1b459"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16530,
+                "name": "Arizona - Yuma County - Blocks",
+                "type": "fill",
+                "source_layer": "yuma_blocks",
+                "source_type": "vector",
+                "url": "mapbox://districtr.yuma_blocks"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Yuma County - Blocks Interactive Layer",
+                  "id": "arizona-yuma-county-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Arizona - Yuma County - Blocks Border",
+                  "id": "arizona-yuma-county-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "5b24e79f-b4c0-45d6-a8f2-9da917268d35"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16531,
+                "name": "Arizona - Yuma County - Blocks",
+                "type": "circle",
+                "source_layer": "yuma_blocks_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.yuma_blocks_points"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - Yuma County - Blocks Centroids",
+                  "id": "arizona-yuma-county-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "341480b9-222e-4525-b0e7-ef81f307e5c3"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16521,
+                "name": "Arizona - North and West Zone - Blocks",
+                "type": "fill",
+                "source_layer": "nwaz_bg_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nwaz_bg_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Arizona - North and West Zone - Blocks Interactive Layer",
+                  "id": "arizona-north-and-west-zone-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Arizona - North and West Zone - Blocks Border",
+                  "id": "arizona-north-and-west-zone-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "edbacfa6-6270-46c2-a73b-f0987adc69dd"
+        }
+      ],
+      "unit_count": 5,
+      "unit_type": "Blocks",
+      "unit_name": "Board of Supervisors",
+      "unit_name_plural": "Supervisorial Districts",
+      "bounds": [
+        [-114.8166, 32.0386],
+        [-113.3332, 33.4647]
+      ]
+    }
+  ]
+}

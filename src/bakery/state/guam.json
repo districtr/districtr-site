@@ -1,0 +1,37 @@
+{
+  "id": 57,
+  "meta": {
+    "type": "client.MapIndexPage",
+    "detail_url": "http://localhost:8080/wagtail-api/pages/57/",
+    "html_url": "http://localhost:8080/states/guam/",
+    "slug": "guam",
+    "show_in_menus": false,
+    "seo_title": "",
+    "search_description": "",
+    "first_published_at": null,
+    "alias_of": null,
+    "locale": "en"
+  },
+  "title": "Guam",
+  "counties": [
+    {
+      "id": 873,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/873/",
+        "html_url": "http://localhost:8080/states/guam/guam/",
+        "slug": "guam",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Guam",
+      "body": "",
+      "live": true
+    }
+  ],
+  "problems": []
+}

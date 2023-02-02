@@ -1,0 +1,2040 @@
+{
+  "id": 10,
+  "meta": {
+    "type": "client.MapIndexPage",
+    "detail_url": "http://localhost:8080/wagtail-api/pages/10/",
+    "html_url": "http://localhost:8080/states/colorado/",
+    "slug": "colorado",
+    "show_in_menus": false,
+    "seo_title": "",
+    "search_description": "",
+    "first_published_at": null,
+    "alias_of": null,
+    "locale": "en"
+  },
+  "title": "Colorado",
+  "counties": [
+    {
+      "id": 1292,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1292/",
+        "html_url": "http://localhost:8080/states/colorado/adams/",
+        "slug": "adams",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Adams County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 482,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/482/",
+        "html_url": "http://localhost:8080/states/colorado/alamosa/",
+        "slug": "alamosa",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Alamosa County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3072,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3072/",
+        "html_url": "http://localhost:8080/states/colorado/arapahoe/",
+        "slug": "arapahoe",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Arapahoe County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1619,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1619/",
+        "html_url": "http://localhost:8080/states/colorado/archuleta/",
+        "slug": "archuleta",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Archuleta County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2955,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2955/",
+        "html_url": "http://localhost:8080/states/colorado/baca/",
+        "slug": "baca",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Baca County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1594,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1594/",
+        "html_url": "http://localhost:8080/states/colorado/bent/",
+        "slug": "bent",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Bent County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 692,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/692/",
+        "html_url": "http://localhost:8080/states/colorado/boulder/",
+        "slug": "boulder",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Boulder County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 766,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/766/",
+        "html_url": "http://localhost:8080/states/colorado/broomfield/",
+        "slug": "broomfield",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Broomfield County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 788,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/788/",
+        "html_url": "http://localhost:8080/states/colorado/chaffee/",
+        "slug": "chaffee",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Chaffee County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 198,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/198/",
+        "html_url": "http://localhost:8080/states/colorado/cheyenne/",
+        "slug": "cheyenne",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Cheyenne County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2580,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2580/",
+        "html_url": "http://localhost:8080/states/colorado/clear-creek/",
+        "slug": "clear-creek",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Clear Creek County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2885,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2885/",
+        "html_url": "http://localhost:8080/states/colorado/conejos/",
+        "slug": "conejos",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Conejos County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 755,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/755/",
+        "html_url": "http://localhost:8080/states/colorado/costilla/",
+        "slug": "costilla",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Costilla County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 789,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/789/",
+        "html_url": "http://localhost:8080/states/colorado/crowley/",
+        "slug": "crowley",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Crowley County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 237,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/237/",
+        "html_url": "http://localhost:8080/states/colorado/custer/",
+        "slug": "custer",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Custer County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1007,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1007/",
+        "html_url": "http://localhost:8080/states/colorado/delta/",
+        "slug": "delta",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Delta County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 699,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/699/",
+        "html_url": "http://localhost:8080/states/colorado/denver/",
+        "slug": "denver",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Denver County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3066,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3066/",
+        "html_url": "http://localhost:8080/states/colorado/dolores/",
+        "slug": "dolores",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Dolores County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2874,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2874/",
+        "html_url": "http://localhost:8080/states/colorado/douglas/",
+        "slug": "douglas",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Douglas County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 710,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/710/",
+        "html_url": "http://localhost:8080/states/colorado/eagle/",
+        "slug": "eagle",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Eagle County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2988,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2988/",
+        "html_url": "http://localhost:8080/states/colorado/elbert/",
+        "slug": "elbert",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Elbert County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2912,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2912/",
+        "html_url": "http://localhost:8080/states/colorado/el-paso/",
+        "slug": "el-paso",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "El Paso County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 790,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/790/",
+        "html_url": "http://localhost:8080/states/colorado/fremont/",
+        "slug": "fremont",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Fremont County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1021,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1021/",
+        "html_url": "http://localhost:8080/states/colorado/garfield/",
+        "slug": "garfield",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Garfield County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2333,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2333/",
+        "html_url": "http://localhost:8080/states/colorado/gilpin/",
+        "slug": "gilpin",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Gilpin County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3249,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3249/",
+        "html_url": "http://localhost:8080/states/colorado/grand/",
+        "slug": "grand",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Grand County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2943,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2943/",
+        "html_url": "http://localhost:8080/states/colorado/gunnison/",
+        "slug": "gunnison",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Gunnison County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1770,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1770/",
+        "html_url": "http://localhost:8080/states/colorado/hinsdale/",
+        "slug": "hinsdale",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Hinsdale County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 916,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/916/",
+        "html_url": "http://localhost:8080/states/colorado/huerfano/",
+        "slug": "huerfano",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Huerfano County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2550,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2550/",
+        "html_url": "http://localhost:8080/states/colorado/jackson/",
+        "slug": "jackson",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Jackson County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 586,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/586/",
+        "html_url": "http://localhost:8080/states/colorado/jefferson/",
+        "slug": "jefferson",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Jefferson County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2915,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2915/",
+        "html_url": "http://localhost:8080/states/colorado/kiowa/",
+        "slug": "kiowa",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Kiowa County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2551,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2551/",
+        "html_url": "http://localhost:8080/states/colorado/kit-carson/",
+        "slug": "kit-carson",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Kit Carson County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1995,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1995/",
+        "html_url": "http://localhost:8080/states/colorado/lake/",
+        "slug": "lake",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lake County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 274,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/274/",
+        "html_url": "http://localhost:8080/states/colorado/la-plata/",
+        "slug": "la-plata",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "La Plata County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1932,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1932/",
+        "html_url": "http://localhost:8080/states/colorado/larimer/",
+        "slug": "larimer",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Larimer County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3224,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3224/",
+        "html_url": "http://localhost:8080/states/colorado/las-animas/",
+        "slug": "las-animas",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Las Animas County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1149,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1149/",
+        "html_url": "http://localhost:8080/states/colorado/lincoln/",
+        "slug": "lincoln",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lincoln County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2587,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2587/",
+        "html_url": "http://localhost:8080/states/colorado/logan/",
+        "slug": "logan",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Logan County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3019,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3019/",
+        "html_url": "http://localhost:8080/states/colorado/mesa/",
+        "slug": "mesa",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Mesa County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1339,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1339/",
+        "html_url": "http://localhost:8080/states/colorado/mineral/",
+        "slug": "mineral",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Mineral County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 558,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/558/",
+        "html_url": "http://localhost:8080/states/colorado/moffat/",
+        "slug": "moffat",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Moffat County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1184,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1184/",
+        "html_url": "http://localhost:8080/states/colorado/montezuma/",
+        "slug": "montezuma",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Montezuma County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 707,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/707/",
+        "html_url": "http://localhost:8080/states/colorado/montrose/",
+        "slug": "montrose",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Montrose County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1108,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1108/",
+        "html_url": "http://localhost:8080/states/colorado/morgan/",
+        "slug": "morgan",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Morgan County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1445,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1445/",
+        "html_url": "http://localhost:8080/states/colorado/otero/",
+        "slug": "otero",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Otero County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1544,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1544/",
+        "html_url": "http://localhost:8080/states/colorado/ouray/",
+        "slug": "ouray",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Ouray County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 471,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/471/",
+        "html_url": "http://localhost:8080/states/colorado/park/",
+        "slug": "park",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Park County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1507,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1507/",
+        "html_url": "http://localhost:8080/states/colorado/phillips/",
+        "slug": "phillips",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Phillips County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 448,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/448/",
+        "html_url": "http://localhost:8080/states/colorado/pitkin/",
+        "slug": "pitkin",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Pitkin County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 501,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/501/",
+        "html_url": "http://localhost:8080/states/colorado/prowers/",
+        "slug": "prowers",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Prowers County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 621,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/621/",
+        "html_url": "http://localhost:8080/states/colorado/pueblo/",
+        "slug": "pueblo",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Pueblo County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1107,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1107/",
+        "html_url": "http://localhost:8080/states/colorado/rio-blanco/",
+        "slug": "rio-blanco",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Rio Blanco County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2093,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2093/",
+        "html_url": "http://localhost:8080/states/colorado/rio-grande/",
+        "slug": "rio-grande",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Rio Grande County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1766,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1766/",
+        "html_url": "http://localhost:8080/states/colorado/routt/",
+        "slug": "routt",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Routt County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 90,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/90/",
+        "html_url": "http://localhost:8080/states/colorado/saguache/",
+        "slug": "saguache",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Saguache County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 302,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/302/",
+        "html_url": "http://localhost:8080/states/colorado/san-juan/",
+        "slug": "san-juan",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "San Juan County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 712,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/712/",
+        "html_url": "http://localhost:8080/states/colorado/san-miguel/",
+        "slug": "san-miguel",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "San Miguel County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 181,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/181/",
+        "html_url": "http://localhost:8080/states/colorado/sedgwick/",
+        "slug": "sedgwick",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Sedgwick County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 590,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/590/",
+        "html_url": "http://localhost:8080/states/colorado/summit/",
+        "slug": "summit",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Summit County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2918,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2918/",
+        "html_url": "http://localhost:8080/states/colorado/teller/",
+        "slug": "teller",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Teller County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2697,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2697/",
+        "html_url": "http://localhost:8080/states/colorado/washington/",
+        "slug": "washington",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Washington County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1880,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1880/",
+        "html_url": "http://localhost:8080/states/colorado/weld/",
+        "slug": "weld",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Weld County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2393,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2393/",
+        "html_url": "http://localhost:8080/states/colorado/yuma/",
+        "slug": "yuma",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Yuma County",
+      "body": "",
+      "live": true
+    }
+  ],
+  "problems": [
+    {
+      "id": 11050,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11050/",
+        "html_url": "http://localhost:8080/states/colorado/colorado-congressional-districts-12502/",
+        "slug": "colorado-congressional-districts-12502",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:32.364964-05:00",
+        "alias_of": null
+      },
+      "title": "Colorado Congressional Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16962,
+                "name": "Colorado - Block Groups",
+                "type": "circle",
+                "source_layer": "colorado_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.colorado_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Colorado - Block Groups Centroids",
+                  "id": "colorado-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "3d4e514e-e417-42da-aa38-76c24570bc85"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16963,
+                "name": "Colorado - Block Groups",
+                "type": "fill",
+                "source_layer": "colorado_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.colorado_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Colorado - Block Groups Interactive Layer",
+                  "id": "colorado-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Colorado - Block Groups Border",
+                  "id": "colorado-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "18dea65d-b9b4-46e6-b71c-f43712059447"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16964,
+                "name": "Colorado - Precincts",
+                "type": "fill",
+                "source_layer": "colorado_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.colorado_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Colorado - Precincts Interactive Layer",
+                  "id": "colorado-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Colorado - Precincts Border",
+                  "id": "colorado-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "3525081e-cf0e-4e09-98fb-29f1abaada37"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16965,
+                "name": "Colorado - Precincts",
+                "type": "circle",
+                "source_layer": "colorado_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.colorado_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Colorado - Precincts Centroids",
+                  "id": "colorado-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "bbb9ec34-3ce2-4376-83c2-ac31dba000c7"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16966,
+                "name": "Colorado - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "co_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.co_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "Colorado - 2020 VTDs Interactive Layer",
+                  "id": "colorado-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Colorado - 2020 VTDs Border",
+                  "id": "colorado-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "b655e40c-5a08-4cae-8eaa-f73b2b69e971"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16967,
+                "name": "Colorado - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "co_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.co_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "Colorado - 2020 VTDs Centroids",
+                  "id": "colorado-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "9b60c779-3f36-4c4b-bba4-df677b9b9f26"
+        }
+      ],
+      "unit_count": 7,
+      "unit_type": "Block Groups",
+      "unit_name": "Congress",
+      "unit_name_plural": "Congressional Districts",
+      "bounds": [
+        [-109.0602, 36.9924],
+        [-102.0415, 41.0034]
+      ]
+    },
+    {
+      "id": 11049,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11049/",
+        "html_url": "http://localhost:8080/states/colorado/colorado-reapportioned-congressional-districts-12501/",
+        "slug": "colorado-reapportioned-congressional-districts-12501",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:32.183742-05:00",
+        "alias_of": null
+      },
+      "title": "Colorado Reapportioned Congressional Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16962,
+                "name": "Colorado - Block Groups",
+                "type": "circle",
+                "source_layer": "colorado_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.colorado_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Colorado - Block Groups Centroids",
+                  "id": "colorado-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "2b592af3-bf0f-46f7-8cb9-2f266e5a0ab3"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16963,
+                "name": "Colorado - Block Groups",
+                "type": "fill",
+                "source_layer": "colorado_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.colorado_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Colorado - Block Groups Interactive Layer",
+                  "id": "colorado-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Colorado - Block Groups Border",
+                  "id": "colorado-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "71ab621c-b8aa-48d9-95cf-e6b1bf03f13f"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16964,
+                "name": "Colorado - Precincts",
+                "type": "fill",
+                "source_layer": "colorado_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.colorado_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Colorado - Precincts Interactive Layer",
+                  "id": "colorado-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Colorado - Precincts Border",
+                  "id": "colorado-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "46d6ad59-cf23-4199-9fb1-0f0f8088a533"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16965,
+                "name": "Colorado - Precincts",
+                "type": "circle",
+                "source_layer": "colorado_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.colorado_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Colorado - Precincts Centroids",
+                  "id": "colorado-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "98a0eb46-bd35-4997-be21-873139a71922"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16966,
+                "name": "Colorado - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "co_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.co_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "Colorado - 2020 VTDs Interactive Layer",
+                  "id": "colorado-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Colorado - 2020 VTDs Border",
+                  "id": "colorado-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "5838f3fe-f74b-4460-8331-564a5f26c185"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16967,
+                "name": "Colorado - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "co_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.co_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "Colorado - 2020 VTDs Centroids",
+                  "id": "colorado-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "c7c966f0-73ba-453a-8cf6-ae5226c48442"
+        }
+      ],
+      "unit_count": 8,
+      "unit_type": "Block Groups",
+      "unit_name": "2020 Reapportioned Congress",
+      "unit_name_plural": "Reapportioned Congressional Districts",
+      "bounds": [
+        [-109.0602, 36.9924],
+        [-102.0415, 41.0034]
+      ]
+    },
+    {
+      "id": 11052,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11052/",
+        "html_url": "http://localhost:8080/states/colorado/colorado-state-house-districts-12504/",
+        "slug": "colorado-state-house-districts-12504",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:32.708235-05:00",
+        "alias_of": null
+      },
+      "title": "Colorado State House Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16962,
+                "name": "Colorado - Block Groups",
+                "type": "circle",
+                "source_layer": "colorado_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.colorado_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Colorado - Block Groups Centroids",
+                  "id": "colorado-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "ca869e5a-3dad-4ed5-97cc-f8c5096639d4"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16963,
+                "name": "Colorado - Block Groups",
+                "type": "fill",
+                "source_layer": "colorado_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.colorado_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Colorado - Block Groups Interactive Layer",
+                  "id": "colorado-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Colorado - Block Groups Border",
+                  "id": "colorado-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "7242390c-02ae-42dc-9374-ed372f835383"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16964,
+                "name": "Colorado - Precincts",
+                "type": "fill",
+                "source_layer": "colorado_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.colorado_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Colorado - Precincts Interactive Layer",
+                  "id": "colorado-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Colorado - Precincts Border",
+                  "id": "colorado-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "d04e44d0-cce9-4281-a471-7adf8a390b33"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16965,
+                "name": "Colorado - Precincts",
+                "type": "circle",
+                "source_layer": "colorado_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.colorado_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Colorado - Precincts Centroids",
+                  "id": "colorado-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "7f68dd69-399f-4877-b6bd-161e4bcb3b73"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16966,
+                "name": "Colorado - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "co_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.co_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "Colorado - 2020 VTDs Interactive Layer",
+                  "id": "colorado-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Colorado - 2020 VTDs Border",
+                  "id": "colorado-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "998eab71-6356-419f-a0c7-8b35bdb393f5"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16967,
+                "name": "Colorado - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "co_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.co_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "Colorado - 2020 VTDs Centroids",
+                  "id": "colorado-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "2e8fd938-64a8-4fb3-bdad-d9f351a3caea"
+        }
+      ],
+      "unit_count": 65,
+      "unit_type": "Block Groups",
+      "unit_name": "State House",
+      "unit_name_plural": "State House Districts",
+      "bounds": [
+        [-109.0602, 36.9924],
+        [-102.0415, 41.0034]
+      ]
+    },
+    {
+      "id": 11051,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11051/",
+        "html_url": "http://localhost:8080/states/colorado/colorado-state-senate-districts-12503/",
+        "slug": "colorado-state-senate-districts-12503",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:32.537622-05:00",
+        "alias_of": null
+      },
+      "title": "Colorado State Senate Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16962,
+                "name": "Colorado - Block Groups",
+                "type": "circle",
+                "source_layer": "colorado_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.colorado_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Colorado - Block Groups Centroids",
+                  "id": "colorado-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "f4b30c73-14b2-413f-aba3-e01cbc46bbbd"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16963,
+                "name": "Colorado - Block Groups",
+                "type": "fill",
+                "source_layer": "colorado_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.colorado_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Colorado - Block Groups Interactive Layer",
+                  "id": "colorado-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Colorado - Block Groups Border",
+                  "id": "colorado-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "977b1d6c-4589-473f-ae62-504958d286b6"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16964,
+                "name": "Colorado - Precincts",
+                "type": "fill",
+                "source_layer": "colorado_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.colorado_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Colorado - Precincts Interactive Layer",
+                  "id": "colorado-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Colorado - Precincts Border",
+                  "id": "colorado-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "ac9a436a-ea81-4af9-b17d-9a7813471a4f"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16965,
+                "name": "Colorado - Precincts",
+                "type": "circle",
+                "source_layer": "colorado_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.colorado_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Colorado - Precincts Centroids",
+                  "id": "colorado-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "93be2e5e-b421-4061-b3ca-58150bb4fbfc"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16966,
+                "name": "Colorado - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "co_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.co_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "Colorado - 2020 VTDs Interactive Layer",
+                  "id": "colorado-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Colorado - 2020 VTDs Border",
+                  "id": "colorado-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "b595424c-2526-48db-9419-c45346d1c356"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16967,
+                "name": "Colorado - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "co_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.co_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "Colorado - 2020 VTDs Centroids",
+                  "id": "colorado-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "b39f83e7-d448-48bf-bd63-1c77daeaaaf3"
+        }
+      ],
+      "unit_count": 35,
+      "unit_type": "Block Groups",
+      "unit_name": "State Senate",
+      "unit_name_plural": "State Senate Districts",
+      "bounds": [
+        [-109.0602, 36.9924],
+        [-102.0415, 41.0034]
+      ]
+    }
+  ]
+}

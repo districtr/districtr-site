@@ -1,0 +1,1914 @@
+{
+  "id": 59,
+  "meta": {
+    "type": "client.MapIndexPage",
+    "detail_url": "http://localhost:8080/wagtail-api/pages/59/",
+    "html_url": "http://localhost:8080/states/puerto-rico/",
+    "slug": "puerto-rico",
+    "show_in_menus": false,
+    "seo_title": "",
+    "search_description": "",
+    "first_published_at": null,
+    "alias_of": null,
+    "locale": "en"
+  },
+  "title": "Puerto Rico",
+  "counties": [
+    {
+      "id": 1045,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1045/",
+        "html_url": "http://localhost:8080/states/puerto-rico/adjuntas/",
+        "slug": "adjuntas",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Adjuntas Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 950,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/950/",
+        "html_url": "http://localhost:8080/states/puerto-rico/aguada/",
+        "slug": "aguada",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Aguada Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1177,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1177/",
+        "html_url": "http://localhost:8080/states/puerto-rico/aguadilla/",
+        "slug": "aguadilla",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Aguadilla Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2788,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2788/",
+        "html_url": "http://localhost:8080/states/puerto-rico/aguas-buenas/",
+        "slug": "aguas-buenas",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Aguas Buenas Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1219,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1219/",
+        "html_url": "http://localhost:8080/states/puerto-rico/aibonito/",
+        "slug": "aibonito",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Aibonito Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1867,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1867/",
+        "html_url": "http://localhost:8080/states/puerto-rico/anasco/",
+        "slug": "anasco",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "A\u00f1asco Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2293,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2293/",
+        "html_url": "http://localhost:8080/states/puerto-rico/arecibo/",
+        "slug": "arecibo",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Arecibo Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2437,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2437/",
+        "html_url": "http://localhost:8080/states/puerto-rico/arroyo/",
+        "slug": "arroyo",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Arroyo Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2378,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2378/",
+        "html_url": "http://localhost:8080/states/puerto-rico/barceloneta/",
+        "slug": "barceloneta",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Barceloneta Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1003,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1003/",
+        "html_url": "http://localhost:8080/states/puerto-rico/barranquitas/",
+        "slug": "barranquitas",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Barranquitas Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1313,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1313/",
+        "html_url": "http://localhost:8080/states/puerto-rico/bayamon/",
+        "slug": "bayamon",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Bayam\u00f3n Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1479,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1479/",
+        "html_url": "http://localhost:8080/states/puerto-rico/cabo-rojo/",
+        "slug": "cabo-rojo",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Cabo Rojo Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2640,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2640/",
+        "html_url": "http://localhost:8080/states/puerto-rico/caguas/",
+        "slug": "caguas",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Caguas Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2641,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2641/",
+        "html_url": "http://localhost:8080/states/puerto-rico/camuy/",
+        "slug": "camuy",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Camuy Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 605,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/605/",
+        "html_url": "http://localhost:8080/states/puerto-rico/canovanas/",
+        "slug": "canovanas",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Can\u00f3vanas Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2460,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2460/",
+        "html_url": "http://localhost:8080/states/puerto-rico/carolina/",
+        "slug": "carolina",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Carolina Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2789,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2789/",
+        "html_url": "http://localhost:8080/states/puerto-rico/catano/",
+        "slug": "catano",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Cata\u00f1o Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2435,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2435/",
+        "html_url": "http://localhost:8080/states/puerto-rico/cayey/",
+        "slug": "cayey",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Cayey Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1513,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1513/",
+        "html_url": "http://localhost:8080/states/puerto-rico/ceiba/",
+        "slug": "ceiba",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Ceiba Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 506,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/506/",
+        "html_url": "http://localhost:8080/states/puerto-rico/ciales/",
+        "slug": "ciales",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Ciales Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1875,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1875/",
+        "html_url": "http://localhost:8080/states/puerto-rico/cidra/",
+        "slug": "cidra",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Cidra Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 979,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/979/",
+        "html_url": "http://localhost:8080/states/puerto-rico/coamo/",
+        "slug": "coamo",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Coamo Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2774,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2774/",
+        "html_url": "http://localhost:8080/states/puerto-rico/comerio/",
+        "slug": "comerio",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Comer\u00edo Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1514,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1514/",
+        "html_url": "http://localhost:8080/states/puerto-rico/corozal/",
+        "slug": "corozal",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Corozal Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 484,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/484/",
+        "html_url": "http://localhost:8080/states/puerto-rico/culebra/",
+        "slug": "culebra",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Culebra Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 485,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/485/",
+        "html_url": "http://localhost:8080/states/puerto-rico/dorado/",
+        "slug": "dorado",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Dorado Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 331,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/331/",
+        "html_url": "http://localhost:8080/states/puerto-rico/fajardo/",
+        "slug": "fajardo",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Fajardo Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2535,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2535/",
+        "html_url": "http://localhost:8080/states/puerto-rico/florida/",
+        "slug": "florida",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Florida Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 980,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/980/",
+        "html_url": "http://localhost:8080/states/puerto-rico/guanica/",
+        "slug": "guanica",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Gu\u00e1nica Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1978,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1978/",
+        "html_url": "http://localhost:8080/states/puerto-rico/guayama/",
+        "slug": "guayama",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Guayama Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2904,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2904/",
+        "html_url": "http://localhost:8080/states/puerto-rico/guayanilla/",
+        "slug": "guayanilla",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Guayanilla Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2367,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2367/",
+        "html_url": "http://localhost:8080/states/puerto-rico/guaynabo/",
+        "slug": "guaynabo",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Guaynabo Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1957,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1957/",
+        "html_url": "http://localhost:8080/states/puerto-rico/gurabo/",
+        "slug": "gurabo",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Gurabo Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1958,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1958/",
+        "html_url": "http://localhost:8080/states/puerto-rico/hatillo/",
+        "slug": "hatillo",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Hatillo Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 354,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/354/",
+        "html_url": "http://localhost:8080/states/puerto-rico/hormigueros/",
+        "slug": "hormigueros",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Hormigueros Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1480,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1480/",
+        "html_url": "http://localhost:8080/states/puerto-rico/humacao/",
+        "slug": "humacao",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Humacao Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2521,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2521/",
+        "html_url": "http://localhost:8080/states/puerto-rico/isabela/",
+        "slug": "isabela",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Isabela Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 562,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/562/",
+        "html_url": "http://localhost:8080/states/puerto-rico/jayuya/",
+        "slug": "jayuya",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Jayuya Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2662,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2662/",
+        "html_url": "http://localhost:8080/states/puerto-rico/juana-diaz/",
+        "slug": "juana-diaz",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Juana D\u00edaz Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1481,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1481/",
+        "html_url": "http://localhost:8080/states/puerto-rico/juncos/",
+        "slug": "juncos",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Juncos Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2572,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2572/",
+        "html_url": "http://localhost:8080/states/puerto-rico/lajas/",
+        "slug": "lajas",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lajas Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1031,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1031/",
+        "html_url": "http://localhost:8080/states/puerto-rico/lares/",
+        "slug": "lares",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lares Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2860,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2860/",
+        "html_url": "http://localhost:8080/states/puerto-rico/las-marias/",
+        "slug": "las-marias",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Las Mar\u00edas Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 155,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/155/",
+        "html_url": "http://localhost:8080/states/puerto-rico/las-piedras/",
+        "slug": "las-piedras",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Las Piedras Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1859,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1859/",
+        "html_url": "http://localhost:8080/states/puerto-rico/loiza/",
+        "slug": "loiza",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lo\u00edza Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3087,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3087/",
+        "html_url": "http://localhost:8080/states/puerto-rico/luquillo/",
+        "slug": "luquillo",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Luquillo Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1741,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1741/",
+        "html_url": "http://localhost:8080/states/puerto-rico/manati/",
+        "slug": "manati",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Manat\u00ed Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1175,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1175/",
+        "html_url": "http://localhost:8080/states/puerto-rico/maricao/",
+        "slug": "maricao",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Maricao Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1644,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1644/",
+        "html_url": "http://localhost:8080/states/puerto-rico/maunabo/",
+        "slug": "maunabo",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Maunabo Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 584,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/584/",
+        "html_url": "http://localhost:8080/states/puerto-rico/mayaguez/",
+        "slug": "mayaguez",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Mayag\u00fcez Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1574,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1574/",
+        "html_url": "http://localhost:8080/states/puerto-rico/moca/",
+        "slug": "moca",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Moca Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2827,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2827/",
+        "html_url": "http://localhost:8080/states/puerto-rico/morovis/",
+        "slug": "morovis",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Morovis Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 617,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/617/",
+        "html_url": "http://localhost:8080/states/puerto-rico/naguabo/",
+        "slug": "naguabo",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Naguabo Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 280,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/280/",
+        "html_url": "http://localhost:8080/states/puerto-rico/naranjito/",
+        "slug": "naranjito",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Naranjito Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1591,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1591/",
+        "html_url": "http://localhost:8080/states/puerto-rico/orocovis/",
+        "slug": "orocovis",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Orocovis Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1720,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1720/",
+        "html_url": "http://localhost:8080/states/puerto-rico/patillas/",
+        "slug": "patillas",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Patillas Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1257,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1257/",
+        "html_url": "http://localhost:8080/states/puerto-rico/penuelas/",
+        "slug": "penuelas",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Pe\u00f1uelas Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1276,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1276/",
+        "html_url": "http://localhost:8080/states/puerto-rico/ponce/",
+        "slug": "ponce",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Ponce Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 148,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/148/",
+        "html_url": "http://localhost:8080/states/puerto-rico/quebradillas/",
+        "slug": "quebradillas",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Quebradillas Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1356,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1356/",
+        "html_url": "http://localhost:8080/states/puerto-rico/rincon/",
+        "slug": "rincon",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Rinc\u00f3n Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2646,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2646/",
+        "html_url": "http://localhost:8080/states/puerto-rico/rio-grande/",
+        "slug": "rio-grande",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "R\u00edo Grande Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 503,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/503/",
+        "html_url": "http://localhost:8080/states/puerto-rico/sabana-grande/",
+        "slug": "sabana-grande",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Sabana Grande Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 615,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/615/",
+        "html_url": "http://localhost:8080/states/puerto-rico/salinas/",
+        "slug": "salinas",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Salinas Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2438,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2438/",
+        "html_url": "http://localhost:8080/states/puerto-rico/san-german/",
+        "slug": "san-german",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "San Germ\u00e1n Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 457,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/457/",
+        "html_url": "http://localhost:8080/states/puerto-rico/san-juan/",
+        "slug": "san-juan",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "San Juan Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1616,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1616/",
+        "html_url": "http://localhost:8080/states/puerto-rico/san-lorenzo/",
+        "slug": "san-lorenzo",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "San Lorenzo Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2905,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2905/",
+        "html_url": "http://localhost:8080/states/puerto-rico/san-sebastian/",
+        "slug": "san-sebastian",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "San Sebasti\u00e1n Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 539,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/539/",
+        "html_url": "http://localhost:8080/states/puerto-rico/santa-isabel/",
+        "slug": "santa-isabel",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Santa Isabel Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1617,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1617/",
+        "html_url": "http://localhost:8080/states/puerto-rico/toa-alta/",
+        "slug": "toa-alta",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Toa Alta Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2195,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2195/",
+        "html_url": "http://localhost:8080/states/puerto-rico/toa-baja/",
+        "slug": "toa-baja",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Toa Baja Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 552,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/552/",
+        "html_url": "http://localhost:8080/states/puerto-rico/trujillo-alto/",
+        "slug": "trujillo-alto",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Trujillo Alto Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2235,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2235/",
+        "html_url": "http://localhost:8080/states/puerto-rico/utuado/",
+        "slug": "utuado",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Utuado Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2057,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2057/",
+        "html_url": "http://localhost:8080/states/puerto-rico/vega-alta/",
+        "slug": "vega-alta",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Vega Alta Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1394,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1394/",
+        "html_url": "http://localhost:8080/states/puerto-rico/vega-baja/",
+        "slug": "vega-baja",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Vega Baja Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1846,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1846/",
+        "html_url": "http://localhost:8080/states/puerto-rico/vieques/",
+        "slug": "vieques",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Vieques Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2351,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2351/",
+        "html_url": "http://localhost:8080/states/puerto-rico/villalba/",
+        "slug": "villalba",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Villalba Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 335,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/335/",
+        "html_url": "http://localhost:8080/states/puerto-rico/yabucoa/",
+        "slug": "yabucoa",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Yabucoa Municipio",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1041,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1041/",
+        "html_url": "http://localhost:8080/states/puerto-rico/yauco/",
+        "slug": "yauco",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Yauco Municipio",
+      "body": "",
+      "live": true
+    }
+  ],
+  "problems": [
+    {
+      "id": 11249,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11249/",
+        "html_url": "http://localhost:8080/states/puerto-rico/puerto-rico-house-districts-12701/",
+        "slug": "puerto-rico-house-districts-12701",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:47.859381-05:00",
+        "alias_of": null
+      },
+      "title": "Puerto Rico House Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17319,
+                "name": "Puerto Rico - 2020 Block Groups",
+                "type": "circle",
+                "source_layer": "puerto20_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.puerto20_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Puerto Rico - 2020 Block Groups Centroids",
+                  "id": "puerto-rico-2020-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "aa98e6f8-c616-41a3-aa37-9c052b340a36"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17320,
+                "name": "Puerto Rico - 2020 Block Groups",
+                "type": "fill",
+                "source_layer": "puerto20_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.puerto20_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Puerto Rico - 2020 Block Groups Interactive Layer",
+                  "id": "puerto-rico-2020-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Puerto Rico - 2020 Block Groups Border",
+                  "id": "puerto-rico-2020-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "6ccc5724-22ec-41ab-9e41-83f2b430efd9"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17321,
+                "name": "Puerto Rico - Block Groups",
+                "type": "circle",
+                "source_layer": "puertoricoalt_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.puertoricoalt_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Puerto Rico - Block Groups Centroids",
+                  "id": "puerto-rico-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "4bf77c91-1153-4831-895e-8934ed9fa7b5"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17322,
+                "name": "Puerto Rico - Block Groups",
+                "type": "fill",
+                "source_layer": "puertoricoalt_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.puertoricoalt_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Puerto Rico - Block Groups Interactive Layer",
+                  "id": "puerto-rico-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Puerto Rico - Block Groups Border",
+                  "id": "puerto-rico-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "275ea8f2-26a4-4d28-8ce9-23e7281f7535"
+        }
+      ],
+      "unit_count": 40,
+      "unit_type": "Block Groups",
+      "unit_name": "House of Representatives of Puerto Rico",
+      "unit_name_plural": "House Districts",
+      "bounds": [
+        [-67.9569, 17.8746],
+        [-65.2172, 18.5187]
+      ]
+    },
+    {
+      "id": 11251,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11251/",
+        "html_url": "http://localhost:8080/states/puerto-rico/puerto-rico-house-districts-12703/",
+        "slug": "puerto-rico-house-districts-12703",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:48.583890-05:00",
+        "alias_of": null
+      },
+      "title": "Puerto Rico House Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17323,
+                "name": "Puerto Rico - Precincts",
+                "type": "circle",
+                "source_layer": "puertorico_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.puertorico_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Puerto Rico - Precincts Centroids",
+                  "id": "puerto-rico-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "a7bc7bee-77ab-4b7a-b9bc-91441feba511"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17324,
+                "name": "Puerto Rico - Precincts",
+                "type": "fill",
+                "source_layer": "puertorico_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.puertorico_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Puerto Rico - Precincts Interactive Layer",
+                  "id": "puerto-rico-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Puerto Rico - Precincts Border",
+                  "id": "puerto-rico-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "31b9a36c-7f57-4975-b85d-8303c75adcbe"
+        }
+      ],
+      "unit_count": 40,
+      "unit_type": "Precincts",
+      "unit_name": "House of Representatives of Puerto Rico",
+      "unit_name_plural": "House Districts",
+      "bounds": [
+        [-67.9542, 17.8813],
+        [-65.221, 18.5161]
+      ]
+    },
+    {
+      "id": 11250,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11250/",
+        "html_url": "http://localhost:8080/states/puerto-rico/puerto-rico-senatorial-districts-12702/",
+        "slug": "puerto-rico-senatorial-districts-12702",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:48.025646-05:00",
+        "alias_of": null
+      },
+      "title": "Puerto Rico Senatorial Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17319,
+                "name": "Puerto Rico - 2020 Block Groups",
+                "type": "circle",
+                "source_layer": "puerto20_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.puerto20_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Puerto Rico - 2020 Block Groups Centroids",
+                  "id": "puerto-rico-2020-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "409d0f46-2dad-4e77-93df-a315d86f4483"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17320,
+                "name": "Puerto Rico - 2020 Block Groups",
+                "type": "fill",
+                "source_layer": "puerto20_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.puerto20_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Puerto Rico - 2020 Block Groups Interactive Layer",
+                  "id": "puerto-rico-2020-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Puerto Rico - 2020 Block Groups Border",
+                  "id": "puerto-rico-2020-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "bb626903-b7b9-4abd-9053-9e4724eda8c7"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17321,
+                "name": "Puerto Rico - Block Groups",
+                "type": "circle",
+                "source_layer": "puertoricoalt_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.puertoricoalt_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Puerto Rico - Block Groups Centroids",
+                  "id": "puerto-rico-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "fbb9cff5-5f50-46f1-bc6b-af1ba4d984a0"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17322,
+                "name": "Puerto Rico - Block Groups",
+                "type": "fill",
+                "source_layer": "puertoricoalt_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.puertoricoalt_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Puerto Rico - Block Groups Interactive Layer",
+                  "id": "puerto-rico-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Puerto Rico - Block Groups Border",
+                  "id": "puerto-rico-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "96ad6ac9-3b32-452d-9a3b-a06119114b29"
+        }
+      ],
+      "unit_count": 8,
+      "unit_type": "Block Groups",
+      "unit_name": "Senate of Puerto Rico",
+      "unit_name_plural": "Senatorial Districts",
+      "bounds": [
+        [-67.9569, 17.8746],
+        [-65.2172, 18.5187]
+      ]
+    },
+    {
+      "id": 11252,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11252/",
+        "html_url": "http://localhost:8080/states/puerto-rico/puerto-rico-senatorial-districts-12704/",
+        "slug": "puerto-rico-senatorial-districts-12704",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:48.740077-05:00",
+        "alias_of": null
+      },
+      "title": "Puerto Rico Senatorial Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17323,
+                "name": "Puerto Rico - Precincts",
+                "type": "circle",
+                "source_layer": "puertorico_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.puertorico_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Puerto Rico - Precincts Centroids",
+                  "id": "puerto-rico-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "9df695e4-63c5-414d-82e4-fcbdb8b780bd"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17324,
+                "name": "Puerto Rico - Precincts",
+                "type": "fill",
+                "source_layer": "puertorico_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.puertorico_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Puerto Rico - Precincts Interactive Layer",
+                  "id": "puerto-rico-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Puerto Rico - Precincts Border",
+                  "id": "puerto-rico-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "c5ecb560-89cc-4eb1-9ed6-2ca6ca558a8a"
+        }
+      ],
+      "unit_count": 8,
+      "unit_type": "Precincts",
+      "unit_name": "Senate of Puerto Rico",
+      "unit_name_plural": "Senatorial Districts",
+      "bounds": [
+        [-67.9542, 17.8813],
+        [-65.221, 18.5161]
+      ]
+    }
+  ]
+}

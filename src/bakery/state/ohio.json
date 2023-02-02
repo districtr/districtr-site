@@ -1,0 +1,4432 @@
+{
+  "id": 40,
+  "meta": {
+    "type": "client.MapIndexPage",
+    "detail_url": "http://localhost:8080/wagtail-api/pages/40/",
+    "html_url": "http://localhost:8080/states/ohio/",
+    "slug": "ohio",
+    "show_in_menus": false,
+    "seo_title": "",
+    "search_description": "",
+    "first_published_at": null,
+    "alias_of": null,
+    "locale": "en"
+  },
+  "title": "Ohio",
+  "counties": [
+    {
+      "id": 734,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/734/",
+        "html_url": "http://localhost:8080/states/ohio/adams/",
+        "slug": "adams",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Adams County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 82,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/82/",
+        "html_url": "http://localhost:8080/states/ohio/allen/",
+        "slug": "allen",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Allen County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1336,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1336/",
+        "html_url": "http://localhost:8080/states/ohio/ashland/",
+        "slug": "ashland",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Ashland County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1385,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1385/",
+        "html_url": "http://localhost:8080/states/ohio/ashtabula/",
+        "slug": "ashtabula",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Ashtabula County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2243,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2243/",
+        "html_url": "http://localhost:8080/states/ohio/athens/",
+        "slug": "athens",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Athens County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2396,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2396/",
+        "html_url": "http://localhost:8080/states/ohio/auglaize/",
+        "slug": "auglaize",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Auglaize County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2557,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2557/",
+        "html_url": "http://localhost:8080/states/ohio/belmont/",
+        "slug": "belmont",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Belmont County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 608,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/608/",
+        "html_url": "http://localhost:8080/states/ohio/brown/",
+        "slug": "brown",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Brown County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 175,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/175/",
+        "html_url": "http://localhost:8080/states/ohio/butler/",
+        "slug": "butler",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Butler County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2545,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2545/",
+        "html_url": "http://localhost:8080/states/ohio/carroll/",
+        "slug": "carroll",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Carroll County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 827,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/827/",
+        "html_url": "http://localhost:8080/states/ohio/champaign/",
+        "slug": "champaign",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Champaign County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 983,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/983/",
+        "html_url": "http://localhost:8080/states/ohio/clark/",
+        "slug": "clark",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Clark County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2729,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2729/",
+        "html_url": "http://localhost:8080/states/ohio/clermont/",
+        "slug": "clermont",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Clermont County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2054,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2054/",
+        "html_url": "http://localhost:8080/states/ohio/clinton/",
+        "slug": "clinton",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Clinton County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2514,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2514/",
+        "html_url": "http://localhost:8080/states/ohio/columbiana/",
+        "slug": "columbiana",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Columbiana County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3246,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3246/",
+        "html_url": "http://localhost:8080/states/ohio/coshocton/",
+        "slug": "coshocton",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Coshocton County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 739,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/739/",
+        "html_url": "http://localhost:8080/states/ohio/crawford/",
+        "slug": "crawford",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Crawford County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2959,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2959/",
+        "html_url": "http://localhost:8080/states/ohio/cuyahoga/",
+        "slug": "cuyahoga",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Cuyahoga County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1195,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1195/",
+        "html_url": "http://localhost:8080/states/ohio/darke/",
+        "slug": "darke",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Darke County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2186,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2186/",
+        "html_url": "http://localhost:8080/states/ohio/defiance/",
+        "slug": "defiance",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Defiance County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1161,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1161/",
+        "html_url": "http://localhost:8080/states/ohio/delaware/",
+        "slug": "delaware",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Delaware County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2024,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2024/",
+        "html_url": "http://localhost:8080/states/ohio/erie/",
+        "slug": "erie",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Erie County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2992,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2992/",
+        "html_url": "http://localhost:8080/states/ohio/fairfield/",
+        "slug": "fairfield",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Fairfield County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 124,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/124/",
+        "html_url": "http://localhost:8080/states/ohio/fayette/",
+        "slug": "fayette",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Fayette County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2834,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2834/",
+        "html_url": "http://localhost:8080/states/ohio/franklin/",
+        "slug": "franklin",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Franklin County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 481,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/481/",
+        "html_url": "http://localhost:8080/states/ohio/fulton/",
+        "slug": "fulton",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Fulton County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3243,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3243/",
+        "html_url": "http://localhost:8080/states/ohio/gallia/",
+        "slug": "gallia",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Gallia County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2434,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2434/",
+        "html_url": "http://localhost:8080/states/ohio/geauga/",
+        "slug": "geauga",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Geauga County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1311,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1311/",
+        "html_url": "http://localhost:8080/states/ohio/greene/",
+        "slug": "greene",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Greene County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 741,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/741/",
+        "html_url": "http://localhost:8080/states/ohio/guernsey/",
+        "slug": "guernsey",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Guernsey County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2447,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2447/",
+        "html_url": "http://localhost:8080/states/ohio/hamilton/",
+        "slug": "hamilton",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Hamilton County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 78,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/78/",
+        "html_url": "http://localhost:8080/states/ohio/hancock/",
+        "slug": "hancock",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Hancock County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2698,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2698/",
+        "html_url": "http://localhost:8080/states/ohio/hardin/",
+        "slug": "hardin",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Hardin County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 910,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/910/",
+        "html_url": "http://localhost:8080/states/ohio/harrison/",
+        "slug": "harrison",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Harrison County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 459,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/459/",
+        "html_url": "http://localhost:8080/states/ohio/henry/",
+        "slug": "henry",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Henry County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1476,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1476/",
+        "html_url": "http://localhost:8080/states/ohio/highland/",
+        "slug": "highland",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Highland County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1023,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1023/",
+        "html_url": "http://localhost:8080/states/ohio/hocking/",
+        "slug": "hocking",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Hocking County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2484,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2484/",
+        "html_url": "http://localhost:8080/states/ohio/holmes/",
+        "slug": "holmes",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Holmes County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2931,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2931/",
+        "html_url": "http://localhost:8080/states/ohio/huron/",
+        "slug": "huron",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Huron County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1391,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1391/",
+        "html_url": "http://localhost:8080/states/ohio/jackson/",
+        "slug": "jackson",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Jackson County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2244,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2244/",
+        "html_url": "http://localhost:8080/states/ohio/jefferson/",
+        "slug": "jefferson",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Jefferson County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3001,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3001/",
+        "html_url": "http://localhost:8080/states/ohio/knox/",
+        "slug": "knox",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Knox County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 94,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/94/",
+        "html_url": "http://localhost:8080/states/ohio/lake/",
+        "slug": "lake",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lake County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 732,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/732/",
+        "html_url": "http://localhost:8080/states/ohio/lawrence/",
+        "slug": "lawrence",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lawrence County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3067,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3067/",
+        "html_url": "http://localhost:8080/states/ohio/licking/",
+        "slug": "licking",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Licking County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 612,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/612/",
+        "html_url": "http://localhost:8080/states/ohio/logan/",
+        "slug": "logan",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Logan County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2056,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2056/",
+        "html_url": "http://localhost:8080/states/ohio/lorain/",
+        "slug": "lorain",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lorain County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1354,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1354/",
+        "html_url": "http://localhost:8080/states/ohio/lucas/",
+        "slug": "lucas",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lucas County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2692,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2692/",
+        "html_url": "http://localhost:8080/states/ohio/madison/",
+        "slug": "madison",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Madison County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1436,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1436/",
+        "html_url": "http://localhost:8080/states/ohio/mahoning/",
+        "slug": "mahoning",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Mahoning County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1758,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1758/",
+        "html_url": "http://localhost:8080/states/ohio/marion/",
+        "slug": "marion",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Marion County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3237,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3237/",
+        "html_url": "http://localhost:8080/states/ohio/medina/",
+        "slug": "medina",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Medina County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2801,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2801/",
+        "html_url": "http://localhost:8080/states/ohio/meigs/",
+        "slug": "meigs",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Meigs County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3280,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3280/",
+        "html_url": "http://localhost:8080/states/ohio/mercer/",
+        "slug": "mercer",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Mercer County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1033,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1033/",
+        "html_url": "http://localhost:8080/states/ohio/miami/",
+        "slug": "miami",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Miami County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 685,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/685/",
+        "html_url": "http://localhost:8080/states/ohio/monroe/",
+        "slug": "monroe",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Monroe County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2301,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2301/",
+        "html_url": "http://localhost:8080/states/ohio/montgomery/",
+        "slug": "montgomery",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Montgomery County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 193,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/193/",
+        "html_url": "http://localhost:8080/states/ohio/morgan/",
+        "slug": "morgan",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Morgan County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1624,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1624/",
+        "html_url": "http://localhost:8080/states/ohio/morrow/",
+        "slug": "morrow",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Morrow County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 787,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/787/",
+        "html_url": "http://localhost:8080/states/ohio/muskingum/",
+        "slug": "muskingum",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Muskingum County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2734,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2734/",
+        "html_url": "http://localhost:8080/states/ohio/noble/",
+        "slug": "noble",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Noble County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 886,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/886/",
+        "html_url": "http://localhost:8080/states/ohio/ottawa/",
+        "slug": "ottawa",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Ottawa County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 401,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/401/",
+        "html_url": "http://localhost:8080/states/ohio/paulding/",
+        "slug": "paulding",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Paulding County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1787,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1787/",
+        "html_url": "http://localhost:8080/states/ohio/perry/",
+        "slug": "perry",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Perry County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 764,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/764/",
+        "html_url": "http://localhost:8080/states/ohio/pickaway/",
+        "slug": "pickaway",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Pickaway County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 660,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/660/",
+        "html_url": "http://localhost:8080/states/ohio/pike/",
+        "slug": "pike",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Pike County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 194,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/194/",
+        "html_url": "http://localhost:8080/states/ohio/portage/",
+        "slug": "portage",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Portage County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1390,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1390/",
+        "html_url": "http://localhost:8080/states/ohio/preble/",
+        "slug": "preble",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Preble County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2735,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2735/",
+        "html_url": "http://localhost:8080/states/ohio/putnam/",
+        "slug": "putnam",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Putnam County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 825,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/825/",
+        "html_url": "http://localhost:8080/states/ohio/richland/",
+        "slug": "richland",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Richland County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2599,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2599/",
+        "html_url": "http://localhost:8080/states/ohio/ross/",
+        "slug": "ross",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Ross County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2274,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2274/",
+        "html_url": "http://localhost:8080/states/ohio/sandusky/",
+        "slug": "sandusky",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Sandusky County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 379,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/379/",
+        "html_url": "http://localhost:8080/states/ohio/scioto/",
+        "slug": "scioto",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Scioto County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2946,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2946/",
+        "html_url": "http://localhost:8080/states/ohio/seneca/",
+        "slug": "seneca",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Seneca County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3188,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3188/",
+        "html_url": "http://localhost:8080/states/ohio/shelby/",
+        "slug": "shelby",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Shelby County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1416,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1416/",
+        "html_url": "http://localhost:8080/states/ohio/stark/",
+        "slug": "stark",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Stark County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3128,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3128/",
+        "html_url": "http://localhost:8080/states/ohio/summit/",
+        "slug": "summit",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Summit County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 645,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/645/",
+        "html_url": "http://localhost:8080/states/ohio/trumbull/",
+        "slug": "trumbull",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Trumbull County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1465,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1465/",
+        "html_url": "http://localhost:8080/states/ohio/tuscarawas/",
+        "slug": "tuscarawas",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Tuscarawas County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2958,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2958/",
+        "html_url": "http://localhost:8080/states/ohio/union/",
+        "slug": "union",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Union County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 752,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/752/",
+        "html_url": "http://localhost:8080/states/ohio/van-wert/",
+        "slug": "van-wert",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Van Wert County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 382,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/382/",
+        "html_url": "http://localhost:8080/states/ohio/vinton/",
+        "slug": "vinton",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Vinton County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2981,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2981/",
+        "html_url": "http://localhost:8080/states/ohio/warren/",
+        "slug": "warren",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Warren County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2604,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2604/",
+        "html_url": "http://localhost:8080/states/ohio/washington/",
+        "slug": "washington",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Washington County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 831,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/831/",
+        "html_url": "http://localhost:8080/states/ohio/wayne/",
+        "slug": "wayne",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Wayne County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2954,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2954/",
+        "html_url": "http://localhost:8080/states/ohio/williams/",
+        "slug": "williams",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Williams County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2934,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2934/",
+        "html_url": "http://localhost:8080/states/ohio/wood/",
+        "slug": "wood",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Wood County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3254,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3254/",
+        "html_url": "http://localhost:8080/states/ohio/wyandot/",
+        "slug": "wyandot",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Wyandot County",
+      "body": "",
+      "live": true
+    }
+  ],
+  "problems": [
+    {
+      "id": 11216,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11216/",
+        "html_url": "http://localhost:8080/states/ohio/ohio-wards-12668/",
+        "slug": "ohio-wards-12668",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:34.923034-05:00",
+        "alias_of": null
+      },
+      "title": "Akron-Canton, Ohio Wards",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17268,
+                "name": "Ohio - Akron-Canton - Blocks",
+                "type": "circle",
+                "source_layer": "akroncanton_blocks_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.akroncanton_blocks_points"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Akron-Canton - Blocks Centroids",
+                  "id": "ohio-akron-canton-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "ca85ba8d-33f1-45e0-8fa6-2d96ca4cb008"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17269,
+                "name": "Ohio - Akron-Canton - Blocks",
+                "type": "fill",
+                "source_layer": "akroncanton_blocks",
+                "source_type": "vector",
+                "url": "mapbox://districtr.akroncanton_blocks"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Akron-Canton - Blocks Interactive Layer",
+                  "id": "ohio-akron-canton-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Ohio - Akron-Canton - Blocks Border",
+                  "id": "ohio-akron-canton-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "6f413c43-c4c6-4a54-9b62-1e197fffe4a0"
+        }
+      ],
+      "unit_count": 8,
+      "unit_type": "Blocks",
+      "unit_name": "Wards",
+      "unit_name_plural": "Wards",
+      "bounds": [
+        [-81.6885, 40.6351],
+        [-81.0866, 41.3512]
+      ]
+    },
+    {
+      "id": 11214,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11214/",
+        "html_url": "http://localhost:8080/states/ohio/ohio-wards-12666/",
+        "slug": "ohio-wards-12666",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:34.174448-05:00",
+        "alias_of": null
+      },
+      "title": "Appalachia Region, Ohio Wards",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17264,
+                "name": "Ohio - Appalachia Region - Block Groups",
+                "type": "circle",
+                "source_layer": "ohse_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ohse_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Appalachia Region - Block Groups Centroids",
+                  "id": "ohio-appalachia-region-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "48d3cfdc-3445-45bc-a2b0-a6d2e079b096"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17265,
+                "name": "Ohio - Appalachia Region - Block Groups",
+                "type": "fill",
+                "source_layer": "ohse_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ohse_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Appalachia Region - Block Groups Interactive Layer",
+                  "id": "ohio-appalachia-region-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Ohio - Appalachia Region - Block Groups Border",
+                  "id": "ohio-appalachia-region-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "c014ad22-33e0-4845-a6d6-ec78dce637db"
+        }
+      ],
+      "unit_count": 8,
+      "unit_type": "Block Groups",
+      "unit_name": "Wards",
+      "unit_name_plural": "Wards",
+      "bounds": [
+        [-84.0527, 38.4034],
+        [-80.5947, 40.5994]
+      ]
+    },
+    {
+      "id": 11210,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11210/",
+        "html_url": "http://localhost:8080/states/ohio/ohio-wards-12662/",
+        "slug": "ohio-wards-12662",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:32.724600-05:00",
+        "alias_of": null
+      },
+      "title": "Central Ohio, Ohio Wards",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17256,
+                "name": "Ohio - Central Ohio - Block Groups",
+                "type": "circle",
+                "source_layer": "ohcentral_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ohcentral_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Central Ohio - Block Groups Centroids",
+                  "id": "ohio-central-ohio-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "29c93e34-e219-4467-b604-c804be72077c"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17257,
+                "name": "Ohio - Central Ohio - Block Groups",
+                "type": "fill",
+                "source_layer": "ohcentral_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ohcentral_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Central Ohio - Block Groups Interactive Layer",
+                  "id": "ohio-central-ohio-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Ohio - Central Ohio - Block Groups Border",
+                  "id": "ohio-central-ohio-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "4b823a6e-44b9-4b06-b48d-47f7f0fa4d86"
+        }
+      ],
+      "unit_count": 8,
+      "unit_type": "Block Groups",
+      "unit_name": "Wards",
+      "unit_name_plural": "Wards",
+      "bounds": [
+        [-84.0361, 39.4681],
+        [-82.1791, 40.9956]
+      ]
+    },
+    {
+      "id": 11212,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11212/",
+        "html_url": "http://localhost:8080/states/ohio/ohio-wards-12664/",
+        "slug": "ohio-wards-12664",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:33.445468-05:00",
+        "alias_of": null
+      },
+      "title": "Cincinnati and Dayton, Ohio Wards",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17260,
+                "name": "Ohio - Cincinnati and Dayton - Block Groups",
+                "type": "circle",
+                "source_layer": "ohcin_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ohcin_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Cincinnati and Dayton - Block Groups Centroids",
+                  "id": "ohio-cincinnati-and-dayton-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "7b53cf18-69ee-4fec-b2c2-5bd9b05fcbce"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17261,
+                "name": "Ohio - Cincinnati and Dayton - Block Groups",
+                "type": "fill",
+                "source_layer": "ohcin_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ohcin_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Cincinnati and Dayton - Block Groups Interactive Layer",
+                  "id": "ohio-cincinnati-and-dayton-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Ohio - Cincinnati and Dayton - Block Groups Border",
+                  "id": "ohio-cincinnati-and-dayton-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "37325242-a32f-4a09-808d-34b541a30212"
+        }
+      ],
+      "unit_count": 8,
+      "unit_type": "Block Groups",
+      "unit_name": "Wards",
+      "unit_name_plural": "Wards",
+      "bounds": [
+        [-84.8203, 38.7704],
+        [-83.2524, 40.4832]
+      ]
+    },
+    {
+      "id": 11217,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11217/",
+        "html_url": "http://localhost:8080/states/ohio/ohio-wards-12669/",
+        "slug": "ohio-wards-12669",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:35.297029-05:00",
+        "alias_of": null
+      },
+      "title": "Cincinnati, Ohio Wards",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17270,
+                "name": "Ohio - Cincinnati - Blocks",
+                "type": "circle",
+                "source_layer": "cincinatti_blocks_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.cincinatti_blocks_points"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Cincinnati - Blocks Centroids",
+                  "id": "ohio-cincinnati-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "f046beba-9146-4e7b-8dda-d1ab72651439"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17271,
+                "name": "Ohio - Cincinnati - Blocks",
+                "type": "fill",
+                "source_layer": "cincinatti_blocks",
+                "source_type": "vector",
+                "url": "mapbox://districtr.cincinatti_blocks"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Cincinnati - Blocks Interactive Layer",
+                  "id": "ohio-cincinnati-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Ohio - Cincinnati - Blocks Border",
+                  "id": "ohio-cincinnati-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "59105c19-4cb7-4d40-9a26-fbf2ca372c3c"
+        }
+      ],
+      "unit_count": 8,
+      "unit_type": "Blocks",
+      "unit_name": "Wards",
+      "unit_name_plural": "Wards",
+      "bounds": [
+        [-84.7122, 39.0519],
+        [-84.3688, 39.221]
+      ]
+    },
+    {
+      "id": 11218,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11218/",
+        "html_url": "http://localhost:8080/states/ohio/ohio-wards-12670/",
+        "slug": "ohio-wards-12670",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:35.672038-05:00",
+        "alias_of": null
+      },
+      "title": "Cleveland-Euclid, Ohio Wards",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17272,
+                "name": "Ohio - Cleveland-Euclid - Blocks",
+                "type": "circle",
+                "source_layer": "clevelandeuclid_blocks_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.clevelandeuclid_blocks_points"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Cleveland-Euclid - Blocks Centroids",
+                  "id": "ohio-cleveland-euclid-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "fd78d43e-cd1d-4641-abd5-3ee0b394f96a"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17273,
+                "name": "Ohio - Cleveland-Euclid - Blocks",
+                "type": "fill",
+                "source_layer": "clevelandeuclid_blocks",
+                "source_type": "vector",
+                "url": "mapbox://districtr.clevelandeuclid_blocks"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Cleveland-Euclid - Blocks Interactive Layer",
+                  "id": "ohio-cleveland-euclid-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Ohio - Cleveland-Euclid - Blocks Border",
+                  "id": "ohio-cleveland-euclid-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "501710a4-308f-48c8-9a0c-ce9a5b562d6d"
+        }
+      ],
+      "unit_count": 8,
+      "unit_type": "Blocks",
+      "unit_name": "Wards",
+      "unit_name_plural": "Wards",
+      "bounds": [
+        [-81.879, 41.3906],
+        [-81.4879, 41.6351]
+      ]
+    },
+    {
+      "id": 11219,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11219/",
+        "html_url": "http://localhost:8080/states/ohio/ohio-wards-12671/",
+        "slug": "ohio-wards-12671",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:36.037565-05:00",
+        "alias_of": null
+      },
+      "title": "Columbus, Ohio Wards",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17274,
+                "name": "Ohio - Columbus - Blocks",
+                "type": "circle",
+                "source_layer": "columbus_blocks_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.columbus_blocks_points"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Columbus - Blocks Centroids",
+                  "id": "ohio-columbus-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "ecf66b76-faae-43d3-ad77-f7dfa239eb94"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17275,
+                "name": "Ohio - Columbus - Blocks",
+                "type": "fill",
+                "source_layer": "columbus_blocks",
+                "source_type": "vector",
+                "url": "mapbox://districtr.columbus_blocks"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Columbus - Blocks Interactive Layer",
+                  "id": "ohio-columbus-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Ohio - Columbus - Blocks Border",
+                  "id": "ohio-columbus-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "b653e7d4-2dba-4662-817c-8fe13c4e6144"
+        }
+      ],
+      "unit_count": 8,
+      "unit_type": "Blocks",
+      "unit_name": "Wards",
+      "unit_name_plural": "Wards",
+      "bounds": [
+        [-83.2103, 39.8002],
+        [-82.7409, 40.1573]
+      ]
+    },
+    {
+      "id": 11220,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11220/",
+        "html_url": "http://localhost:8080/states/ohio/ohio-wards-12672/",
+        "slug": "ohio-wards-12672",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:36.405038-05:00",
+        "alias_of": null
+      },
+      "title": "Dayton, Ohio Wards",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17276,
+                "name": "Ohio - Dayton - Blocks",
+                "type": "circle",
+                "source_layer": "dayton_blocks_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.dayton_blocks_points"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Dayton - Blocks Centroids",
+                  "id": "ohio-dayton-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "cb2ce7b0-47f6-4b28-977e-027d79fc1766"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17277,
+                "name": "Ohio - Dayton - Blocks",
+                "type": "fill",
+                "source_layer": "dayton_blocks",
+                "source_type": "vector",
+                "url": "mapbox://districtr.dayton_blocks"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Dayton - Blocks Interactive Layer",
+                  "id": "ohio-dayton-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Ohio - Dayton - Blocks Border",
+                  "id": "ohio-dayton-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "b991f4e1-ca2c-4986-a616-8891e96ac067"
+        }
+      ],
+      "unit_count": 8,
+      "unit_type": "Blocks",
+      "unit_name": "Wards",
+      "unit_name_plural": "Wards",
+      "bounds": [
+        [-84.3114, 39.7018],
+        [-84.0929, 39.9208]
+      ]
+    },
+    {
+      "id": 11213,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11213/",
+        "html_url": "http://localhost:8080/states/ohio/ohio-wards-12665/",
+        "slug": "ohio-wards-12665",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:33.805837-05:00",
+        "alias_of": null
+      },
+      "title": "Greater Cleveland, Ohio Wards",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17262,
+                "name": "Ohio - Greater Cleveland - Block Groups",
+                "type": "circle",
+                "source_layer": "ohcle_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ohcle_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Greater Cleveland - Block Groups Centroids",
+                  "id": "ohio-greater-cleveland-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "d0673bda-f5f1-4368-bc7d-ba8c84997741"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17263,
+                "name": "Ohio - Greater Cleveland - Block Groups",
+                "type": "fill",
+                "source_layer": "ohcle_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ohcle_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Greater Cleveland - Block Groups Interactive Layer",
+                  "id": "ohio-greater-cleveland-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Ohio - Greater Cleveland - Block Groups Border",
+                  "id": "ohio-greater-cleveland-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "df031a84-e9a7-4d90-9c72-4372859ca49a"
+        }
+      ],
+      "unit_count": 8,
+      "unit_type": "Block Groups",
+      "unit_name": "Wards",
+      "unit_name_plural": "Wards",
+      "bounds": [
+        [-82.3481, 40.9882],
+        [-80.5192, 41.9825]
+      ]
+    },
+    {
+      "id": 11221,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11221/",
+        "html_url": "http://localhost:8080/states/ohio/ohio-wards-12673/",
+        "slug": "ohio-wards-12673",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:36.769674-05:00",
+        "alias_of": null
+      },
+      "title": "Lima, Ohio Wards",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17278,
+                "name": "Ohio - Lima - Blocks",
+                "type": "circle",
+                "source_layer": "limaoh_blocks_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.limaoh_blocks_points"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Lima - Blocks Centroids",
+                  "id": "ohio-lima-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "445909be-4749-4939-8072-26355735db06"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17279,
+                "name": "Ohio - Lima - Blocks",
+                "type": "fill",
+                "source_layer": "limaoh_blocks",
+                "source_type": "vector",
+                "url": "mapbox://districtr.limaoh_blocks"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Lima - Blocks Interactive Layer",
+                  "id": "ohio-lima-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Ohio - Lima - Blocks Border",
+                  "id": "ohio-lima-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "21b1dfb2-1efc-484e-903e-8f9dfa1d61ae"
+        }
+      ],
+      "unit_count": 8,
+      "unit_type": "Blocks",
+      "unit_name": "Wards",
+      "unit_name_plural": "Wards",
+      "bounds": [
+        [-84.1651, 40.6877],
+        [-84.0707, 40.803]
+      ]
+    },
+    {
+      "id": 11222,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11222/",
+        "html_url": "http://localhost:8080/states/ohio/ohio-wards-12674/",
+        "slug": "ohio-wards-12674",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:37.139430-05:00",
+        "alias_of": null
+      },
+      "title": "Mansfield, Ohio Wards",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17280,
+                "name": "Ohio - Mansfield - Blocks",
+                "type": "circle",
+                "source_layer": "mansfield_blocks_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.mansfield_blocks_points"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Mansfield - Blocks Centroids",
+                  "id": "ohio-mansfield-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "c4f5aa41-8a9d-4076-9dcf-70a360a51bde"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17281,
+                "name": "Ohio - Mansfield - Blocks",
+                "type": "fill",
+                "source_layer": "mansfield_blocks",
+                "source_type": "vector",
+                "url": "mapbox://districtr.mansfield_blocks"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Mansfield - Blocks Interactive Layer",
+                  "id": "ohio-mansfield-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Ohio - Mansfield - Blocks Border",
+                  "id": "ohio-mansfield-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "2b864397-b86b-44a1-b153-ba3fb0dbbf4f"
+        }
+      ],
+      "unit_count": 8,
+      "unit_type": "Blocks",
+      "unit_name": "Wards",
+      "unit_name_plural": "Wards",
+      "bounds": [
+        [-82.5901, 40.6878],
+        [-82.4555, 40.8436]
+      ]
+    },
+    {
+      "id": 11211,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11211/",
+        "html_url": "http://localhost:8080/states/ohio/ohio-wards-12663/",
+        "slug": "ohio-wards-12663",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:33.083753-05:00",
+        "alias_of": null
+      },
+      "title": "Northeast-Central Region, Ohio Wards",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17258,
+                "name": "Ohio - Northeast-Central Region - Block Groups",
+                "type": "circle",
+                "source_layer": "ohakron_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ohakron_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Northeast-Central Region - Block Groups Centroids",
+                  "id": "ohio-northeast-central-region-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "853f9cd8-f8dc-498e-94df-010b01ee0700"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17259,
+                "name": "Ohio - Northeast-Central Region - Block Groups",
+                "type": "fill",
+                "source_layer": "ohakron_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ohakron_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Northeast-Central Region - Block Groups Interactive Layer",
+                  "id": "ohio-northeast-central-region-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Ohio - Northeast-Central Region - Block Groups Border",
+                  "id": "ohio-northeast-central-region-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "031dc7a6-9608-4a59-96ba-d945fe2eba95"
+        }
+      ],
+      "unit_count": 8,
+      "unit_type": "Block Groups",
+      "unit_name": "Wards",
+      "unit_name_plural": "Wards",
+      "bounds": [
+        [-82.4369, 40.2143],
+        [-80.5187, 41.5017]
+      ]
+    },
+    {
+      "id": 11215,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11215/",
+        "html_url": "http://localhost:8080/states/ohio/ohio-wards-12667/",
+        "slug": "ohio-wards-12667",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:34.545706-05:00",
+        "alias_of": null
+      },
+      "title": "Northwest Region, Ohio Wards",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17266,
+                "name": "Ohio - Northwest Region - Block Groups",
+                "type": "circle",
+                "source_layer": "ohtoledo_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ohtoledo_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Northwest Region - Block Groups Centroids",
+                  "id": "ohio-northwest-region-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "ab6dbab0-145b-419b-b888-d6ef39b19ed4"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17267,
+                "name": "Ohio - Northwest Region - Block Groups",
+                "type": "fill",
+                "source_layer": "ohtoledo_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ohtoledo_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Northwest Region - Block Groups Interactive Layer",
+                  "id": "ohio-northwest-region-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Ohio - Northwest Region - Block Groups Border",
+                  "id": "ohio-northwest-region-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "3c99e570-a24c-47e9-9d4b-8913a441939c"
+        }
+      ],
+      "unit_count": 8,
+      "unit_type": "Block Groups",
+      "unit_name": "Wards",
+      "unit_name_plural": "Wards",
+      "bounds": [
+        [-84.8062, 40.3517],
+        [-82.3365, 41.829]
+      ]
+    },
+    {
+      "id": 11207,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11207/",
+        "html_url": "http://localhost:8080/states/ohio/ohio-congressional-districts-12659/",
+        "slug": "ohio-congressional-districts-12659",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:31.959984-05:00",
+        "alias_of": null
+      },
+      "title": "Ohio Congressional Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17246,
+                "name": "Ohio - Block Groups",
+                "type": "circle",
+                "source_layer": "ohio_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ohio_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Block Groups Centroids",
+                  "id": "ohio-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "245358a8-c99d-4576-9430-c401dcb7feb1"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17247,
+                "name": "Ohio - Block Groups",
+                "type": "fill",
+                "source_layer": "ohio_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ohio_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Block Groups Interactive Layer",
+                  "id": "ohio-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Ohio - Block Groups Border",
+                  "id": "ohio-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "a322d3f1-3383-464c-b542-79e72b0fe21e"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17248,
+                "name": "Ohio - 2020 Block Groups",
+                "type": "circle",
+                "source_layer": "ohio_20_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ohio_20_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - 2020 Block Groups Centroids",
+                  "id": "ohio-2020-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "6d9838d5-9aa1-4712-a118-9747fa541286"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17249,
+                "name": "Ohio - 2020 Block Groups",
+                "type": "fill",
+                "source_layer": "ohio_20_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ohio_20_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - 2020 Block Groups Interactive Layer",
+                  "id": "ohio-2020-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Ohio - 2020 Block Groups Border",
+                  "id": "ohio-2020-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "0697900a-978d-495b-9849-58f5151e3e71"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17250,
+                "name": "Ohio - 2020 Townships",
+                "type": "fill",
+                "source_layer": "oh_townships20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.oh_townships20"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - 2020 Townships Interactive Layer",
+                  "id": "ohio-2020-townships-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Ohio - 2020 Townships Border",
+                  "id": "ohio-2020-townships-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "37b08b0c-de5e-41d2-b41f-81f614d3d656"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17251,
+                "name": "Ohio - 2020 Townships",
+                "type": "circle",
+                "source_layer": "oh_townships20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.oh_townships20_points"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - 2020 Townships Centroids",
+                  "id": "ohio-2020-townships-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "c20b536b-5c63-497e-83e8-3ce0e41e4591"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17252,
+                "name": "Ohio - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "oh_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.oh_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - 2020 VTDs Interactive Layer",
+                  "id": "ohio-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Ohio - 2020 VTDs Border",
+                  "id": "ohio-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "42b264f3-47c5-4481-ad27-59c47f6ba3ef"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17253,
+                "name": "Ohio - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "oh_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.oh_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - 2020 VTDs Centroids",
+                  "id": "ohio-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "3ff481d7-fbb2-4705-9c4b-00ad67486ac7"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17254,
+                "name": "Ohio - Precincts",
+                "type": "fill",
+                "source_layer": "ohio_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ohio_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Precincts Interactive Layer",
+                  "id": "ohio-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Ohio - Precincts Border",
+                  "id": "ohio-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "8efcca7b-4955-4109-806b-9c4895dc651c"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17255,
+                "name": "Ohio - Precincts",
+                "type": "circle",
+                "source_layer": "ohio_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ohio_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Precincts Centroids",
+                  "id": "ohio-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "51e26698-23ed-4b7a-adf0-87870bf52aaf"
+        }
+      ],
+      "unit_count": 16,
+      "unit_type": "Block Groups",
+      "unit_name": "Congress",
+      "unit_name_plural": "Congressional Districts",
+      "bounds": [
+        [-84.8203, 38.4034],
+        [-80.5185, 41.9775]
+      ]
+    },
+    {
+      "id": 11206,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11206/",
+        "html_url": "http://localhost:8080/states/ohio/ohio-reapportioned-congressional-districts-12658/",
+        "slug": "ohio-reapportioned-congressional-districts-12658",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:31.774215-05:00",
+        "alias_of": null
+      },
+      "title": "Ohio Reapportioned Congressional Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17246,
+                "name": "Ohio - Block Groups",
+                "type": "circle",
+                "source_layer": "ohio_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ohio_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Block Groups Centroids",
+                  "id": "ohio-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "552eb047-7016-4ccd-811a-ce14f5fc5aed"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17247,
+                "name": "Ohio - Block Groups",
+                "type": "fill",
+                "source_layer": "ohio_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ohio_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Block Groups Interactive Layer",
+                  "id": "ohio-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Ohio - Block Groups Border",
+                  "id": "ohio-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "349023ff-e77f-4a44-b1e3-4a06b054dde8"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17248,
+                "name": "Ohio - 2020 Block Groups",
+                "type": "circle",
+                "source_layer": "ohio_20_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ohio_20_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - 2020 Block Groups Centroids",
+                  "id": "ohio-2020-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "4fda2e73-3129-4c9d-94b5-5350964f1963"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17249,
+                "name": "Ohio - 2020 Block Groups",
+                "type": "fill",
+                "source_layer": "ohio_20_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ohio_20_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - 2020 Block Groups Interactive Layer",
+                  "id": "ohio-2020-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Ohio - 2020 Block Groups Border",
+                  "id": "ohio-2020-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "cc5b0867-da1e-42e9-bd9f-53b1daae7392"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17250,
+                "name": "Ohio - 2020 Townships",
+                "type": "fill",
+                "source_layer": "oh_townships20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.oh_townships20"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - 2020 Townships Interactive Layer",
+                  "id": "ohio-2020-townships-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Ohio - 2020 Townships Border",
+                  "id": "ohio-2020-townships-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "2997ffc4-83ab-4bde-ac7d-48119054be98"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17251,
+                "name": "Ohio - 2020 Townships",
+                "type": "circle",
+                "source_layer": "oh_townships20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.oh_townships20_points"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - 2020 Townships Centroids",
+                  "id": "ohio-2020-townships-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "742b611d-e288-4832-ae67-59f6e71ca31e"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17252,
+                "name": "Ohio - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "oh_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.oh_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - 2020 VTDs Interactive Layer",
+                  "id": "ohio-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Ohio - 2020 VTDs Border",
+                  "id": "ohio-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "e2e37021-2a5f-4a73-be49-44e83fbe916e"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17253,
+                "name": "Ohio - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "oh_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.oh_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - 2020 VTDs Centroids",
+                  "id": "ohio-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "99128daa-31b5-4cd6-8989-cc3665fd58ed"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17254,
+                "name": "Ohio - Precincts",
+                "type": "fill",
+                "source_layer": "ohio_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ohio_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Precincts Interactive Layer",
+                  "id": "ohio-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Ohio - Precincts Border",
+                  "id": "ohio-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "f2f9a578-e044-4e65-938c-787ce78cbad7"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17255,
+                "name": "Ohio - Precincts",
+                "type": "circle",
+                "source_layer": "ohio_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ohio_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Precincts Centroids",
+                  "id": "ohio-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "852721ef-5bd9-4996-961e-21fdafcf1d50"
+        }
+      ],
+      "unit_count": 15,
+      "unit_type": "Block Groups",
+      "unit_name": "2020 Reapportioned Congress",
+      "unit_name_plural": "Reapportioned Congressional Districts",
+      "bounds": [
+        [-84.8203, 38.4034],
+        [-80.5185, 41.9775]
+      ]
+    },
+    {
+      "id": 11209,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11209/",
+        "html_url": "http://localhost:8080/states/ohio/ohio-state-house-districts-12661/",
+        "slug": "ohio-state-house-districts-12661",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:32.334556-05:00",
+        "alias_of": null
+      },
+      "title": "Ohio State House Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17246,
+                "name": "Ohio - Block Groups",
+                "type": "circle",
+                "source_layer": "ohio_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ohio_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Block Groups Centroids",
+                  "id": "ohio-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "f95279d7-3913-4070-a656-c044b66acd84"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17247,
+                "name": "Ohio - Block Groups",
+                "type": "fill",
+                "source_layer": "ohio_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ohio_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Block Groups Interactive Layer",
+                  "id": "ohio-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Ohio - Block Groups Border",
+                  "id": "ohio-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "bc3ce26e-3e65-442a-b9ec-0fa0254bdfa7"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17248,
+                "name": "Ohio - 2020 Block Groups",
+                "type": "circle",
+                "source_layer": "ohio_20_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ohio_20_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - 2020 Block Groups Centroids",
+                  "id": "ohio-2020-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "d6ee2854-c6fe-4dcc-a384-020949db3382"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17249,
+                "name": "Ohio - 2020 Block Groups",
+                "type": "fill",
+                "source_layer": "ohio_20_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ohio_20_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - 2020 Block Groups Interactive Layer",
+                  "id": "ohio-2020-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Ohio - 2020 Block Groups Border",
+                  "id": "ohio-2020-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "c3542a44-7156-4677-b80e-145dd49803c3"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17250,
+                "name": "Ohio - 2020 Townships",
+                "type": "fill",
+                "source_layer": "oh_townships20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.oh_townships20"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - 2020 Townships Interactive Layer",
+                  "id": "ohio-2020-townships-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Ohio - 2020 Townships Border",
+                  "id": "ohio-2020-townships-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "6c80d0d7-2d8f-446d-bf27-8786bdaf6fd7"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17251,
+                "name": "Ohio - 2020 Townships",
+                "type": "circle",
+                "source_layer": "oh_townships20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.oh_townships20_points"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - 2020 Townships Centroids",
+                  "id": "ohio-2020-townships-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "64d78785-cb1f-412a-a505-0c3e24b54153"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17252,
+                "name": "Ohio - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "oh_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.oh_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - 2020 VTDs Interactive Layer",
+                  "id": "ohio-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Ohio - 2020 VTDs Border",
+                  "id": "ohio-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "c4862ce4-8a10-420d-b2c4-02c369fda51f"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17253,
+                "name": "Ohio - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "oh_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.oh_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - 2020 VTDs Centroids",
+                  "id": "ohio-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "7fb8666e-5de0-411f-a5c8-ed09b91a839b"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17254,
+                "name": "Ohio - Precincts",
+                "type": "fill",
+                "source_layer": "ohio_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ohio_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Precincts Interactive Layer",
+                  "id": "ohio-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Ohio - Precincts Border",
+                  "id": "ohio-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "42621a7b-9326-4313-9c62-c3172f98117f"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17255,
+                "name": "Ohio - Precincts",
+                "type": "circle",
+                "source_layer": "ohio_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ohio_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Precincts Centroids",
+                  "id": "ohio-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "d6b3c652-f4d8-4736-815c-b8a647cdece7"
+        }
+      ],
+      "unit_count": 99,
+      "unit_type": "Block Groups",
+      "unit_name": "State House",
+      "unit_name_plural": "State House Districts",
+      "bounds": [
+        [-84.8203, 38.4034],
+        [-80.5185, 41.9775]
+      ]
+    },
+    {
+      "id": 11208,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11208/",
+        "html_url": "http://localhost:8080/states/ohio/ohio-state-senate-districts-12660/",
+        "slug": "ohio-state-senate-districts-12660",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:32.146807-05:00",
+        "alias_of": null
+      },
+      "title": "Ohio State Senate Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17246,
+                "name": "Ohio - Block Groups",
+                "type": "circle",
+                "source_layer": "ohio_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ohio_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Block Groups Centroids",
+                  "id": "ohio-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "66457cd3-9874-4f9b-9d33-c066f1e0cd7a"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17247,
+                "name": "Ohio - Block Groups",
+                "type": "fill",
+                "source_layer": "ohio_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ohio_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Block Groups Interactive Layer",
+                  "id": "ohio-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Ohio - Block Groups Border",
+                  "id": "ohio-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "6d1cf554-0e76-421c-9584-8524dfe458ce"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17248,
+                "name": "Ohio - 2020 Block Groups",
+                "type": "circle",
+                "source_layer": "ohio_20_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ohio_20_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - 2020 Block Groups Centroids",
+                  "id": "ohio-2020-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "67e18d27-4d18-44db-8ccc-81f361721c25"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17249,
+                "name": "Ohio - 2020 Block Groups",
+                "type": "fill",
+                "source_layer": "ohio_20_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ohio_20_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - 2020 Block Groups Interactive Layer",
+                  "id": "ohio-2020-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Ohio - 2020 Block Groups Border",
+                  "id": "ohio-2020-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "bad077e6-ce76-4443-95d3-e7135814b5e3"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17250,
+                "name": "Ohio - 2020 Townships",
+                "type": "fill",
+                "source_layer": "oh_townships20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.oh_townships20"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - 2020 Townships Interactive Layer",
+                  "id": "ohio-2020-townships-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Ohio - 2020 Townships Border",
+                  "id": "ohio-2020-townships-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "1b2bb57d-6fba-4697-9e4a-96621d1aca34"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17251,
+                "name": "Ohio - 2020 Townships",
+                "type": "circle",
+                "source_layer": "oh_townships20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.oh_townships20_points"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - 2020 Townships Centroids",
+                  "id": "ohio-2020-townships-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "102c6b1d-2e29-4afb-a03b-de22c8c4177d"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17252,
+                "name": "Ohio - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "oh_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.oh_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - 2020 VTDs Interactive Layer",
+                  "id": "ohio-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Ohio - 2020 VTDs Border",
+                  "id": "ohio-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "2db2553b-c74c-4435-ba5b-e414be860b3c"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17253,
+                "name": "Ohio - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "oh_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.oh_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - 2020 VTDs Centroids",
+                  "id": "ohio-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "cdda0fd0-f4ee-4d7e-9cd5-2a8e530fd615"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17254,
+                "name": "Ohio - Precincts",
+                "type": "fill",
+                "source_layer": "ohio_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ohio_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Precincts Interactive Layer",
+                  "id": "ohio-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Ohio - Precincts Border",
+                  "id": "ohio-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "4dda9f76-2ae6-4615-958e-d5397686bbfa"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17255,
+                "name": "Ohio - Precincts",
+                "type": "circle",
+                "source_layer": "ohio_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ohio_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Precincts Centroids",
+                  "id": "ohio-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "47679541-94b5-4e28-991a-8f140f38f558"
+        }
+      ],
+      "unit_count": 33,
+      "unit_type": "Block Groups",
+      "unit_name": "State Senate",
+      "unit_name_plural": "State Senate Districts",
+      "bounds": [
+        [-84.8203, 38.4034],
+        [-80.5185, 41.9775]
+      ]
+    },
+    {
+      "id": 11223,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11223/",
+        "html_url": "http://localhost:8080/states/ohio/ohio-wards-12675/",
+        "slug": "ohio-wards-12675",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:37.511132-05:00",
+        "alias_of": null
+      },
+      "title": "Portsmouth, Ohio Wards",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17282,
+                "name": "Ohio - Portsmouth - Blocks",
+                "type": "circle",
+                "source_layer": "portsmouthoh_blocks_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.portsmouthoh_blocks_points"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Portsmouth - Blocks Centroids",
+                  "id": "ohio-portsmouth-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "2e3a50a8-0901-4764-9773-178177ba3568"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17283,
+                "name": "Ohio - Portsmouth - Blocks",
+                "type": "fill",
+                "source_layer": "portsmouthoh_blocks",
+                "source_type": "vector",
+                "url": "mapbox://districtr.portsmouthoh_blocks"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Portsmouth - Blocks Interactive Layer",
+                  "id": "ohio-portsmouth-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Ohio - Portsmouth - Blocks Border",
+                  "id": "ohio-portsmouth-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "c46cbe20-3704-4258-b643-37fae0b6e4ee"
+        }
+      ],
+      "unit_count": 8,
+      "unit_type": "Blocks",
+      "unit_name": "Wards",
+      "unit_name_plural": "Wards",
+      "bounds": [
+        [-83.0134, 38.7259],
+        [-82.8703, 38.7742]
+      ]
+    },
+    {
+      "id": 11224,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11224/",
+        "html_url": "http://localhost:8080/states/ohio/ohio-wards-12676/",
+        "slug": "ohio-wards-12676",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:37.913058-05:00",
+        "alias_of": null
+      },
+      "title": "Toledo, Ohio Wards",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17284,
+                "name": "Ohio - Toledo - Blocks",
+                "type": "circle",
+                "source_layer": "toledo_blocks_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.toledo_blocks_points"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Toledo - Blocks Centroids",
+                  "id": "ohio-toledo-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "16317b1d-bca1-48a6-86b9-83ea7e01ec5a"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17285,
+                "name": "Ohio - Toledo - Blocks",
+                "type": "fill",
+                "source_layer": "toledo_blocks",
+                "source_type": "vector",
+                "url": "mapbox://districtr.toledo_blocks"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Toledo - Blocks Interactive Layer",
+                  "id": "ohio-toledo-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Ohio - Toledo - Blocks Border",
+                  "id": "ohio-toledo-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "b8c5a34a-f264-4230-aa24-5914f718b066"
+        }
+      ],
+      "unit_count": 8,
+      "unit_type": "Blocks",
+      "unit_name": "Wards",
+      "unit_name_plural": "Wards",
+      "bounds": [
+        [-83.6948, 41.5803],
+        [-83.4542, 41.7328]
+      ]
+    },
+    {
+      "id": 11225,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11225/",
+        "html_url": "http://localhost:8080/states/ohio/ohio-wards-12677/",
+        "slug": "ohio-wards-12677",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:38.274678-05:00",
+        "alias_of": null
+      },
+      "title": "Youngstown, Ohio Wards",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17286,
+                "name": "Ohio - Youngstown - Blocks",
+                "type": "circle",
+                "source_layer": "youngstown_blocks_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.youngstown_blocks_points"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Youngstown - Blocks Centroids",
+                  "id": "ohio-youngstown-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "b97db2ef-aaa6-4f8f-8225-dcdabaae96d5"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17287,
+                "name": "Ohio - Youngstown - Blocks",
+                "type": "fill",
+                "source_layer": "youngstown_blocks",
+                "source_type": "vector",
+                "url": "mapbox://districtr.youngstown_blocks"
+              },
+              "layers": [
+                {
+                  "name": "Ohio - Youngstown - Blocks Interactive Layer",
+                  "id": "ohio-youngstown-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Ohio - Youngstown - Blocks Border",
+                  "id": "ohio-youngstown-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "39450f01-b09c-453f-a700-ad6c1000dcd0"
+        }
+      ],
+      "unit_count": 8,
+      "unit_type": "Blocks",
+      "unit_name": "Wards",
+      "unit_name_plural": "Wards",
+      "bounds": [
+        [-80.7237, 41.05],
+        [-80.5679, 41.1478]
+      ]
+    }
+  ]
+}

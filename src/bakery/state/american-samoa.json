@@ -1,0 +1,109 @@
+{
+  "id": 56,
+  "meta": {
+    "type": "client.MapIndexPage",
+    "detail_url": "http://localhost:8080/wagtail-api/pages/56/",
+    "html_url": "http://localhost:8080/states/american-samoa/",
+    "slug": "american-samoa",
+    "show_in_menus": false,
+    "seo_title": "",
+    "search_description": "",
+    "first_published_at": null,
+    "alias_of": null,
+    "locale": "en"
+  },
+  "title": "American Samoa",
+  "counties": [
+    {
+      "id": 1667,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1667/",
+        "html_url": "http://localhost:8080/states/american-samoa/eastern/",
+        "slug": "eastern",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Eastern District",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1037,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1037/",
+        "html_url": "http://localhost:8080/states/american-samoa/manua/",
+        "slug": "manua",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Manu'a District",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3281,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3281/",
+        "html_url": "http://localhost:8080/states/american-samoa/rose-island/",
+        "slug": "rose-island",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Rose Island",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3176,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3176/",
+        "html_url": "http://localhost:8080/states/american-samoa/swains-island/",
+        "slug": "swains-island",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Swains Island",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1866,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1866/",
+        "html_url": "http://localhost:8080/states/american-samoa/western/",
+        "slug": "western",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Western District",
+      "body": "",
+      "live": true
+    }
+  ],
+  "problems": []
+}

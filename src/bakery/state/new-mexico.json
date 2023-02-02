@@ -1,0 +1,3029 @@
+{
+  "id": 36,
+  "meta": {
+    "type": "client.MapIndexPage",
+    "detail_url": "http://localhost:8080/wagtail-api/pages/36/",
+    "html_url": "http://localhost:8080/states/new-mexico/",
+    "slug": "new-mexico",
+    "show_in_menus": false,
+    "seo_title": "",
+    "search_description": "",
+    "first_published_at": null,
+    "alias_of": null,
+    "locale": "en"
+  },
+  "title": "New Mexico",
+  "counties": [
+    {
+      "id": 2807,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2807/",
+        "html_url": "http://localhost:8080/states/new-mexico/bernalillo/",
+        "slug": "bernalillo",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Bernalillo County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 99,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/99/",
+        "html_url": "http://localhost:8080/states/new-mexico/catron/",
+        "slug": "catron",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Catron County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2623,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2623/",
+        "html_url": "http://localhost:8080/states/new-mexico/chaves/",
+        "slug": "chaves",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Chaves County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 986,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/986/",
+        "html_url": "http://localhost:8080/states/new-mexico/cibola/",
+        "slug": "cibola",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Cibola County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 903,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/903/",
+        "html_url": "http://localhost:8080/states/new-mexico/colfax/",
+        "slug": "colfax",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Colfax County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1545,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1545/",
+        "html_url": "http://localhost:8080/states/new-mexico/curry/",
+        "slug": "curry",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Curry County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 152,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/152/",
+        "html_url": "http://localhost:8080/states/new-mexico/de-baca/",
+        "slug": "de-baca",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "De Baca County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1127,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1127/",
+        "html_url": "http://localhost:8080/states/new-mexico/dona-ana/",
+        "slug": "dona-ana",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Do\u00f1a Ana County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1367,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1367/",
+        "html_url": "http://localhost:8080/states/new-mexico/eddy/",
+        "slug": "eddy",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Eddy County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 877,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/877/",
+        "html_url": "http://localhost:8080/states/new-mexico/grant/",
+        "slug": "grant",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Grant County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2017,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2017/",
+        "html_url": "http://localhost:8080/states/new-mexico/guadalupe/",
+        "slug": "guadalupe",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Guadalupe County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1154,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1154/",
+        "html_url": "http://localhost:8080/states/new-mexico/harding/",
+        "slug": "harding",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Harding County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1181,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1181/",
+        "html_url": "http://localhost:8080/states/new-mexico/hidalgo/",
+        "slug": "hidalgo",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Hidalgo County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2533,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2533/",
+        "html_url": "http://localhost:8080/states/new-mexico/lea/",
+        "slug": "lea",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lea County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1913,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1913/",
+        "html_url": "http://localhost:8080/states/new-mexico/lincoln/",
+        "slug": "lincoln",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lincoln County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1314,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1314/",
+        "html_url": "http://localhost:8080/states/new-mexico/los-alamos/",
+        "slug": "los-alamos",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Los Alamos County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2192,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2192/",
+        "html_url": "http://localhost:8080/states/new-mexico/luna/",
+        "slug": "luna",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Luna County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2259,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2259/",
+        "html_url": "http://localhost:8080/states/new-mexico/mckinley/",
+        "slug": "mckinley",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "McKinley County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1325,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1325/",
+        "html_url": "http://localhost:8080/states/new-mexico/mora/",
+        "slug": "mora",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Mora County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 98,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/98/",
+        "html_url": "http://localhost:8080/states/new-mexico/otero/",
+        "slug": "otero",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Otero County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2724,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2724/",
+        "html_url": "http://localhost:8080/states/new-mexico/quay/",
+        "slug": "quay",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Quay County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2279,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2279/",
+        "html_url": "http://localhost:8080/states/new-mexico/rio-arriba/",
+        "slug": "rio-arriba",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Rio Arriba County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1752,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1752/",
+        "html_url": "http://localhost:8080/states/new-mexico/roosevelt/",
+        "slug": "roosevelt",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Roosevelt County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 957,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/957/",
+        "html_url": "http://localhost:8080/states/new-mexico/sandoval/",
+        "slug": "sandoval",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Sandoval County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1897,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1897/",
+        "html_url": "http://localhost:8080/states/new-mexico/san-juan/",
+        "slug": "san-juan",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "San Juan County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 523,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/523/",
+        "html_url": "http://localhost:8080/states/new-mexico/san-miguel/",
+        "slug": "san-miguel",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "San Miguel County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2624,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2624/",
+        "html_url": "http://localhost:8080/states/new-mexico/santa-fe/",
+        "slug": "santa-fe",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Santa Fe County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3014,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3014/",
+        "html_url": "http://localhost:8080/states/new-mexico/sierra/",
+        "slug": "sierra",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Sierra County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1299,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1299/",
+        "html_url": "http://localhost:8080/states/new-mexico/socorro/",
+        "slug": "socorro",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Socorro County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 803,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/803/",
+        "html_url": "http://localhost:8080/states/new-mexico/taos/",
+        "slug": "taos",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Taos County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2111,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2111/",
+        "html_url": "http://localhost:8080/states/new-mexico/torrance/",
+        "slug": "torrance",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Torrance County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 284,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/284/",
+        "html_url": "http://localhost:8080/states/new-mexico/union/",
+        "slug": "union",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Union County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3219,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3219/",
+        "html_url": "http://localhost:8080/states/new-mexico/valencia/",
+        "slug": "valencia",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Valencia County",
+      "body": "",
+      "live": true
+    }
+  ],
+  "problems": [
+    {
+      "id": 11182,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11182/",
+        "html_url": "http://localhost:8080/states/new-mexico/new-mexico-council-districts-12634/",
+        "slug": "new-mexico-council-districts-12634",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:21.909319-05:00",
+        "alias_of": null
+      },
+      "title": "Albuquerque, New Mexico Council Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17198,
+                "name": "New Mexico - Albuquerque - 2021 Precincts",
+                "type": "fill",
+                "source_layer": "nm_abq_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nm_abq_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - Albuquerque - 2021 Precincts Interactive Layer",
+                  "id": "new-mexico-albuquerque-2021-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Mexico - Albuquerque - 2021 Precincts Border",
+                  "id": "new-mexico-albuquerque-2021-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "a2cbd384-e585-4fbd-9433-4b15925b0d83"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17199,
+                "name": "New Mexico - Albuquerque - 2021 Precincts",
+                "type": "circle",
+                "source_layer": "nm_abq_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nm_abq_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - Albuquerque - 2021 Precincts Centroids",
+                  "id": "new-mexico-albuquerque-2021-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "b042de89-af9d-44ef-883c-73f3f79695e9"
+        }
+      ],
+      "unit_count": 9,
+      "unit_type": "Precincts",
+      "unit_name": "City Council",
+      "unit_name_plural": "Council Districts",
+      "bounds": [
+        [-106.8728, 34.9468],
+        [-106.4712, 35.218]
+      ]
+    },
+    {
+      "id": 11172,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11172/",
+        "html_url": "http://localhost:8080/states/new-mexico/new-mexico-congressional-districts-12624/",
+        "slug": "new-mexico-congressional-districts-12624",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:18.585488-05:00",
+        "alias_of": null
+      },
+      "title": "New Mexico Congressional Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17188,
+                "name": "New Mexico - 2021 Precincts",
+                "type": "fill",
+                "source_layer": "new_mexico_precincts2",
+                "source_type": "vector",
+                "url": "mapbox://districtr.new_mexico_precincts2"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - 2021 Precincts Interactive Layer",
+                  "id": "new-mexico-2021-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Mexico - 2021 Precincts Border",
+                  "id": "new-mexico-2021-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "96e8aac3-94fb-4904-805c-8a5c9a3a66c4"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17189,
+                "name": "New Mexico - 2021 Precincts",
+                "type": "circle",
+                "source_layer": "new_mexico_precincts2_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.new_mexico_precincts2_points"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - 2021 Precincts Centroids",
+                  "id": "new-mexico-2021-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "1e80df48-e6fb-4ac7-b7ae-00ceb73263b3"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17190,
+                "name": "New Mexico - 2020 Precincts",
+                "type": "fill",
+                "source_layer": "nm_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nm_precincts"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - 2020 Precincts Interactive Layer",
+                  "id": "new-mexico-2020-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Mexico - 2020 Precincts Border",
+                  "id": "new-mexico-2020-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "d4fc7722-b4b2-4e21-9774-0e8a0f3898ec"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17191,
+                "name": "New Mexico - 2020 Precincts",
+                "type": "circle",
+                "source_layer": "nm_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nm_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - 2020 Precincts Centroids",
+                  "id": "new-mexico-2020-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "794c2a16-89d2-418b-bb7a-f73c3596d6bb"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17192,
+                "name": "New Mexico - Precincts",
+                "type": "fill",
+                "source_layer": "new_mexico_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.new_mexico_precincts"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - Precincts Interactive Layer",
+                  "id": "new-mexico-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Mexico - Precincts Border",
+                  "id": "new-mexico-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "10f60589-daec-4403-9183-e9e3094abdd9"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17193,
+                "name": "New Mexico - Precincts",
+                "type": "circle",
+                "source_layer": "new_mexico_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.new_mexico_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - Precincts Centroids",
+                  "id": "new-mexico-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "fff5269b-8785-405f-b74d-57ab505c5320"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17194,
+                "name": "New Mexico - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "NMoct11_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.NMoct11_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - 2020 VTDs Interactive Layer",
+                  "id": "new-mexico-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Mexico - 2020 VTDs Border",
+                  "id": "new-mexico-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "6bd3c20a-9a0d-491a-91f4-53cfa4d8e5bd"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17195,
+                "name": "New Mexico - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "NMoct11_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.NMoct11_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - 2020 VTDs Centroids",
+                  "id": "new-mexico-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "fb84cb23-6d38-46a4-b3d5-1f23d981ad2d"
+        }
+      ],
+      "unit_count": 3,
+      "unit_type": "Precincts",
+      "unit_name": "Congress",
+      "unit_name_plural": "Congressional Districts",
+      "bounds": [
+        [-109.0504, 31.3322],
+        [-103.002, 37.0002]
+      ]
+    },
+    {
+      "id": 11178,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11178/",
+        "html_url": "http://localhost:8080/states/new-mexico/new-mexico-congressional-districts-12630/",
+        "slug": "new-mexico-congressional-districts-12630",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:20.983193-05:00",
+        "alias_of": null
+      },
+      "title": "New Mexico Congressional Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17192,
+                "name": "New Mexico - Precincts",
+                "type": "fill",
+                "source_layer": "new_mexico_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.new_mexico_precincts"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - Precincts Interactive Layer",
+                  "id": "new-mexico-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Mexico - Precincts Border",
+                  "id": "new-mexico-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "7b421542-6ff4-4617-bc82-8e1a719c6726"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17193,
+                "name": "New Mexico - Precincts",
+                "type": "circle",
+                "source_layer": "new_mexico_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.new_mexico_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - Precincts Centroids",
+                  "id": "new-mexico-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "6982b333-d19b-4b28-83e2-b880363ce1fa"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17190,
+                "name": "New Mexico - 2020 Precincts",
+                "type": "fill",
+                "source_layer": "nm_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nm_precincts"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - 2020 Precincts Interactive Layer",
+                  "id": "new-mexico-2020-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Mexico - 2020 Precincts Border",
+                  "id": "new-mexico-2020-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "53108944-287a-43af-846d-c13b81d73a19"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17191,
+                "name": "New Mexico - 2020 Precincts",
+                "type": "circle",
+                "source_layer": "nm_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nm_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - 2020 Precincts Centroids",
+                  "id": "new-mexico-2020-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "0a180f9c-ced8-46e5-b9e6-587768110d55"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17194,
+                "name": "New Mexico - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "NMoct11_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.NMoct11_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - 2020 VTDs Interactive Layer",
+                  "id": "new-mexico-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Mexico - 2020 VTDs Border",
+                  "id": "new-mexico-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "ef637f5b-cad1-4358-b1ea-ac8815961193"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17195,
+                "name": "New Mexico - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "NMoct11_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.NMoct11_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - 2020 VTDs Centroids",
+                  "id": "new-mexico-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "0d7d166f-494f-41dc-9f10-84b87c2ee371"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17188,
+                "name": "New Mexico - 2021 Precincts",
+                "type": "fill",
+                "source_layer": "new_mexico_precincts2",
+                "source_type": "vector",
+                "url": "mapbox://districtr.new_mexico_precincts2"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - 2021 Precincts Interactive Layer",
+                  "id": "new-mexico-2021-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Mexico - 2021 Precincts Border",
+                  "id": "new-mexico-2021-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "136df461-3510-4713-b8eb-4a8d085d4876"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17189,
+                "name": "New Mexico - 2021 Precincts",
+                "type": "circle",
+                "source_layer": "new_mexico_precincts2_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.new_mexico_precincts2_points"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - 2021 Precincts Centroids",
+                  "id": "new-mexico-2021-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "1d55619a-eb43-46b0-9aa0-439ed4fae7c0"
+        }
+      ],
+      "unit_count": 3,
+      "unit_type": "Precincts",
+      "unit_name": "Congress",
+      "unit_name_plural": "Congressional Districts",
+      "bounds": [
+        [-109.0504, 31.3322],
+        [-103.002, 37.0002]
+      ]
+    },
+    {
+      "id": 11175,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11175/",
+        "html_url": "http://localhost:8080/states/new-mexico/new-mexico-congressional-districts-12627/",
+        "slug": "new-mexico-congressional-districts-12627",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:19.715673-05:00",
+        "alias_of": null
+      },
+      "title": "New Mexico , New Mexico Congressional Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17196,
+                "name": "New Mexico - New Mexico  - Block Groups",
+                "type": "circle",
+                "source_layer": "new_mexico_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.new_mexico_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - New Mexico  - Block Groups Centroids",
+                  "id": "new-mexico-new-mexico-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "a99ce824-f212-485a-a6a7-4da1915911ec"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17197,
+                "name": "New Mexico - New Mexico  - Block Groups",
+                "type": "fill",
+                "source_layer": "new_mexico_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.new_mexico_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - New Mexico  - Block Groups Interactive Layer",
+                  "id": "new-mexico-new-mexico-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Mexico - New Mexico  - Block Groups Border",
+                  "id": "new-mexico-new-mexico-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "b372f78d-51e6-4fa2-88ab-6d01c2d26ff8"
+        }
+      ],
+      "unit_count": 3,
+      "unit_type": "Block Groups",
+      "unit_name": "Congress",
+      "unit_name_plural": "Congressional Districts",
+      "bounds": [
+        [-109.0502, 31.3322],
+        [-103.002, 37.0003]
+      ]
+    },
+    {
+      "id": 11177,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11177/",
+        "html_url": "http://localhost:8080/states/new-mexico/new-mexico-state-house-districts-12629/",
+        "slug": "new-mexico-state-house-districts-12629",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:20.035129-05:00",
+        "alias_of": null
+      },
+      "title": "New Mexico , New Mexico State House Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17196,
+                "name": "New Mexico - New Mexico  - Block Groups",
+                "type": "circle",
+                "source_layer": "new_mexico_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.new_mexico_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - New Mexico  - Block Groups Centroids",
+                  "id": "new-mexico-new-mexico-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "327a63c1-ed9b-46bb-ad80-0df1d240ab49"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17197,
+                "name": "New Mexico - New Mexico  - Block Groups",
+                "type": "fill",
+                "source_layer": "new_mexico_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.new_mexico_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - New Mexico  - Block Groups Interactive Layer",
+                  "id": "new-mexico-new-mexico-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Mexico - New Mexico  - Block Groups Border",
+                  "id": "new-mexico-new-mexico-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "7fc5dc69-5755-46ba-b42c-530134683f04"
+        }
+      ],
+      "unit_count": 70,
+      "unit_type": "Block Groups",
+      "unit_name": "State House",
+      "unit_name_plural": "State House Districts",
+      "bounds": [
+        [-109.0502, 31.3322],
+        [-103.002, 37.0003]
+      ]
+    },
+    {
+      "id": 11176,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11176/",
+        "html_url": "http://localhost:8080/states/new-mexico/new-mexico-state-senate-districts-12628/",
+        "slug": "new-mexico-state-senate-districts-12628",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:19.878296-05:00",
+        "alias_of": null
+      },
+      "title": "New Mexico , New Mexico State Senate Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17196,
+                "name": "New Mexico - New Mexico  - Block Groups",
+                "type": "circle",
+                "source_layer": "new_mexico_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.new_mexico_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - New Mexico  - Block Groups Centroids",
+                  "id": "new-mexico-new-mexico-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "25cd85a0-65fd-4545-aaa3-a331ed0ddae4"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17197,
+                "name": "New Mexico - New Mexico  - Block Groups",
+                "type": "fill",
+                "source_layer": "new_mexico_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.new_mexico_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - New Mexico  - Block Groups Interactive Layer",
+                  "id": "new-mexico-new-mexico-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Mexico - New Mexico  - Block Groups Border",
+                  "id": "new-mexico-new-mexico-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "357b2bfd-7357-42d8-993b-6516666cb6e9"
+        }
+      ],
+      "unit_count": 42,
+      "unit_type": "Block Groups",
+      "unit_name": "State Senate",
+      "unit_name_plural": "State Senate Districts",
+      "bounds": [
+        [-109.0502, 31.3322],
+        [-103.002, 37.0003]
+      ]
+    },
+    {
+      "id": 11181,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11181/",
+        "html_url": "http://localhost:8080/states/new-mexico/new-mexico-public-education-commission-districts-12633/",
+        "slug": "new-mexico-public-education-commission-districts-12633",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:21.517291-05:00",
+        "alias_of": null
+      },
+      "title": "New Mexico Public Education Commission Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17192,
+                "name": "New Mexico - Precincts",
+                "type": "fill",
+                "source_layer": "new_mexico_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.new_mexico_precincts"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - Precincts Interactive Layer",
+                  "id": "new-mexico-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Mexico - Precincts Border",
+                  "id": "new-mexico-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "9ec5ea9d-79c0-4475-a7d0-a8aaac954481"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17193,
+                "name": "New Mexico - Precincts",
+                "type": "circle",
+                "source_layer": "new_mexico_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.new_mexico_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - Precincts Centroids",
+                  "id": "new-mexico-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "2b394a4c-2b6f-440e-9b3c-f3f225b7a15f"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17190,
+                "name": "New Mexico - 2020 Precincts",
+                "type": "fill",
+                "source_layer": "nm_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nm_precincts"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - 2020 Precincts Interactive Layer",
+                  "id": "new-mexico-2020-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Mexico - 2020 Precincts Border",
+                  "id": "new-mexico-2020-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "5c4f9296-c506-4139-9277-d6b53e1b3b65"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17191,
+                "name": "New Mexico - 2020 Precincts",
+                "type": "circle",
+                "source_layer": "nm_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nm_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - 2020 Precincts Centroids",
+                  "id": "new-mexico-2020-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "dd7c71ad-efbd-4615-98e9-66ff33a90832"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17194,
+                "name": "New Mexico - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "NMoct11_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.NMoct11_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - 2020 VTDs Interactive Layer",
+                  "id": "new-mexico-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Mexico - 2020 VTDs Border",
+                  "id": "new-mexico-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "761c0f2e-8e67-4289-b9df-7ceb4d0a84c7"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17195,
+                "name": "New Mexico - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "NMoct11_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.NMoct11_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - 2020 VTDs Centroids",
+                  "id": "new-mexico-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "8947681c-5057-4c5f-a23d-60acb56760a0"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17188,
+                "name": "New Mexico - 2021 Precincts",
+                "type": "fill",
+                "source_layer": "new_mexico_precincts2",
+                "source_type": "vector",
+                "url": "mapbox://districtr.new_mexico_precincts2"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - 2021 Precincts Interactive Layer",
+                  "id": "new-mexico-2021-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Mexico - 2021 Precincts Border",
+                  "id": "new-mexico-2021-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "37d92f85-d36b-471b-a07e-47a90cadf92c"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17189,
+                "name": "New Mexico - 2021 Precincts",
+                "type": "circle",
+                "source_layer": "new_mexico_precincts2_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.new_mexico_precincts2_points"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - 2021 Precincts Centroids",
+                  "id": "new-mexico-2021-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "768ee5f8-e256-47ba-bd83-de047f32b467"
+        }
+      ],
+      "unit_count": 10,
+      "unit_type": "Precincts",
+      "unit_name": "Public Education Commission",
+      "unit_name_plural": "Public Education Commission Districts",
+      "bounds": [
+        [-109.0504, 31.3322],
+        [-103.002, 37.0002]
+      ]
+    },
+    {
+      "id": 11174,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11174/",
+        "html_url": "http://localhost:8080/states/new-mexico/new-mexico-state-house-districts-12626/",
+        "slug": "new-mexico-state-house-districts-12626",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:18.944342-05:00",
+        "alias_of": null
+      },
+      "title": "New Mexico State House Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17188,
+                "name": "New Mexico - 2021 Precincts",
+                "type": "fill",
+                "source_layer": "new_mexico_precincts2",
+                "source_type": "vector",
+                "url": "mapbox://districtr.new_mexico_precincts2"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - 2021 Precincts Interactive Layer",
+                  "id": "new-mexico-2021-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Mexico - 2021 Precincts Border",
+                  "id": "new-mexico-2021-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "320cb8a2-5c9a-42ee-83da-29c4c790541a"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17189,
+                "name": "New Mexico - 2021 Precincts",
+                "type": "circle",
+                "source_layer": "new_mexico_precincts2_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.new_mexico_precincts2_points"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - 2021 Precincts Centroids",
+                  "id": "new-mexico-2021-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "e5d32e0d-9b2f-43fe-8217-b19b0afc9c61"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17190,
+                "name": "New Mexico - 2020 Precincts",
+                "type": "fill",
+                "source_layer": "nm_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nm_precincts"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - 2020 Precincts Interactive Layer",
+                  "id": "new-mexico-2020-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Mexico - 2020 Precincts Border",
+                  "id": "new-mexico-2020-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "84febaff-6548-4018-a9e5-4647ab525dbe"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17191,
+                "name": "New Mexico - 2020 Precincts",
+                "type": "circle",
+                "source_layer": "nm_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nm_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - 2020 Precincts Centroids",
+                  "id": "new-mexico-2020-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "784c9e5c-f598-4194-89e9-d072b3171217"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17192,
+                "name": "New Mexico - Precincts",
+                "type": "fill",
+                "source_layer": "new_mexico_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.new_mexico_precincts"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - Precincts Interactive Layer",
+                  "id": "new-mexico-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Mexico - Precincts Border",
+                  "id": "new-mexico-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "d3082247-6de4-45a3-9678-1fec82280252"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17193,
+                "name": "New Mexico - Precincts",
+                "type": "circle",
+                "source_layer": "new_mexico_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.new_mexico_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - Precincts Centroids",
+                  "id": "new-mexico-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "749332fc-f7a1-4474-b22f-847e8077c1f8"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17194,
+                "name": "New Mexico - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "NMoct11_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.NMoct11_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - 2020 VTDs Interactive Layer",
+                  "id": "new-mexico-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Mexico - 2020 VTDs Border",
+                  "id": "new-mexico-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "67b3c5b2-1ac2-466c-a708-73ab9bcacf4d"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17195,
+                "name": "New Mexico - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "NMoct11_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.NMoct11_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - 2020 VTDs Centroids",
+                  "id": "new-mexico-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "a6717ad0-3977-416f-aea7-848c12bf0534"
+        }
+      ],
+      "unit_count": 70,
+      "unit_type": "Precincts",
+      "unit_name": "State House",
+      "unit_name_plural": "State House Districts",
+      "bounds": [
+        [-109.0504, 31.3322],
+        [-103.002, 37.0002]
+      ]
+    },
+    {
+      "id": 11180,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11180/",
+        "html_url": "http://localhost:8080/states/new-mexico/new-mexico-state-house-districts-12632/",
+        "slug": "new-mexico-state-house-districts-12632",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:21.339763-05:00",
+        "alias_of": null
+      },
+      "title": "New Mexico State House Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17192,
+                "name": "New Mexico - Precincts",
+                "type": "fill",
+                "source_layer": "new_mexico_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.new_mexico_precincts"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - Precincts Interactive Layer",
+                  "id": "new-mexico-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Mexico - Precincts Border",
+                  "id": "new-mexico-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "50040200-c2e1-4981-9a7c-5d91a67c174b"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17193,
+                "name": "New Mexico - Precincts",
+                "type": "circle",
+                "source_layer": "new_mexico_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.new_mexico_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - Precincts Centroids",
+                  "id": "new-mexico-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "85074fd4-b14d-472d-8e34-193a2859db69"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17190,
+                "name": "New Mexico - 2020 Precincts",
+                "type": "fill",
+                "source_layer": "nm_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nm_precincts"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - 2020 Precincts Interactive Layer",
+                  "id": "new-mexico-2020-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Mexico - 2020 Precincts Border",
+                  "id": "new-mexico-2020-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "c4643d4f-49c9-45f7-b23d-b4defc32b515"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17191,
+                "name": "New Mexico - 2020 Precincts",
+                "type": "circle",
+                "source_layer": "nm_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nm_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - 2020 Precincts Centroids",
+                  "id": "new-mexico-2020-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "ad08c904-8e64-4e59-9870-9cf990a7dcdb"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17194,
+                "name": "New Mexico - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "NMoct11_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.NMoct11_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - 2020 VTDs Interactive Layer",
+                  "id": "new-mexico-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Mexico - 2020 VTDs Border",
+                  "id": "new-mexico-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "f6698fd7-8138-4069-8269-c98cfb661034"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17195,
+                "name": "New Mexico - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "NMoct11_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.NMoct11_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - 2020 VTDs Centroids",
+                  "id": "new-mexico-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "bb69ba2d-0777-457e-97ab-64d3575127e4"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17188,
+                "name": "New Mexico - 2021 Precincts",
+                "type": "fill",
+                "source_layer": "new_mexico_precincts2",
+                "source_type": "vector",
+                "url": "mapbox://districtr.new_mexico_precincts2"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - 2021 Precincts Interactive Layer",
+                  "id": "new-mexico-2021-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Mexico - 2021 Precincts Border",
+                  "id": "new-mexico-2021-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "c14a7f6c-0b48-481f-b599-1928922f397d"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17189,
+                "name": "New Mexico - 2021 Precincts",
+                "type": "circle",
+                "source_layer": "new_mexico_precincts2_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.new_mexico_precincts2_points"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - 2021 Precincts Centroids",
+                  "id": "new-mexico-2021-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "44588155-408b-4595-afb6-e0bfc781d9cd"
+        }
+      ],
+      "unit_count": 70,
+      "unit_type": "Precincts",
+      "unit_name": "State House",
+      "unit_name_plural": "State House Districts",
+      "bounds": [
+        [-109.0504, 31.3322],
+        [-103.002, 37.0002]
+      ]
+    },
+    {
+      "id": 11179,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11179/",
+        "html_url": "http://localhost:8080/states/new-mexico/new-mexico-state-senate-districts-12631/",
+        "slug": "new-mexico-state-senate-districts-12631",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:21.160448-05:00",
+        "alias_of": null
+      },
+      "title": "New Mexico State Senate Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17192,
+                "name": "New Mexico - Precincts",
+                "type": "fill",
+                "source_layer": "new_mexico_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.new_mexico_precincts"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - Precincts Interactive Layer",
+                  "id": "new-mexico-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Mexico - Precincts Border",
+                  "id": "new-mexico-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "cfb222e8-fb23-459b-821d-a530055449d3"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17193,
+                "name": "New Mexico - Precincts",
+                "type": "circle",
+                "source_layer": "new_mexico_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.new_mexico_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - Precincts Centroids",
+                  "id": "new-mexico-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "8be5c197-1912-470f-8dc3-52f82bce3538"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17190,
+                "name": "New Mexico - 2020 Precincts",
+                "type": "fill",
+                "source_layer": "nm_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nm_precincts"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - 2020 Precincts Interactive Layer",
+                  "id": "new-mexico-2020-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Mexico - 2020 Precincts Border",
+                  "id": "new-mexico-2020-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "5a39dd4f-9b25-4696-874b-b0364eeab857"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17191,
+                "name": "New Mexico - 2020 Precincts",
+                "type": "circle",
+                "source_layer": "nm_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nm_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - 2020 Precincts Centroids",
+                  "id": "new-mexico-2020-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "5d0a7542-5566-4192-b648-3a4ebd1983be"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17194,
+                "name": "New Mexico - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "NMoct11_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.NMoct11_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - 2020 VTDs Interactive Layer",
+                  "id": "new-mexico-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Mexico - 2020 VTDs Border",
+                  "id": "new-mexico-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "e40a73c7-8381-4f62-a280-e799b3aeb472"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17195,
+                "name": "New Mexico - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "NMoct11_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.NMoct11_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - 2020 VTDs Centroids",
+                  "id": "new-mexico-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "551befef-0ba0-458d-abed-9172528e54eb"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17188,
+                "name": "New Mexico - 2021 Precincts",
+                "type": "fill",
+                "source_layer": "new_mexico_precincts2",
+                "source_type": "vector",
+                "url": "mapbox://districtr.new_mexico_precincts2"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - 2021 Precincts Interactive Layer",
+                  "id": "new-mexico-2021-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Mexico - 2021 Precincts Border",
+                  "id": "new-mexico-2021-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "2359eded-3756-4af9-a81d-c2f7bb09306b"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17189,
+                "name": "New Mexico - 2021 Precincts",
+                "type": "circle",
+                "source_layer": "new_mexico_precincts2_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.new_mexico_precincts2_points"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - 2021 Precincts Centroids",
+                  "id": "new-mexico-2021-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "0216847d-94ae-43b1-a067-e810fa9ddd18"
+        }
+      ],
+      "unit_count": 42,
+      "unit_type": "Precincts",
+      "unit_name": "State Senate",
+      "unit_name_plural": "State Senate Districts",
+      "bounds": [
+        [-109.0504, 31.3322],
+        [-103.002, 37.0002]
+      ]
+    },
+    {
+      "id": 11173,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11173/",
+        "html_url": "http://localhost:8080/states/new-mexico/new-mexico-state-senate-districts-12625/",
+        "slug": "new-mexico-state-senate-districts-12625",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:18.767303-05:00",
+        "alias_of": null
+      },
+      "title": "New Mexico State Senate Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17188,
+                "name": "New Mexico - 2021 Precincts",
+                "type": "fill",
+                "source_layer": "new_mexico_precincts2",
+                "source_type": "vector",
+                "url": "mapbox://districtr.new_mexico_precincts2"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - 2021 Precincts Interactive Layer",
+                  "id": "new-mexico-2021-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Mexico - 2021 Precincts Border",
+                  "id": "new-mexico-2021-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "61d93c75-f1ce-4da9-92ae-40630e5a33ee"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17189,
+                "name": "New Mexico - 2021 Precincts",
+                "type": "circle",
+                "source_layer": "new_mexico_precincts2_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.new_mexico_precincts2_points"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - 2021 Precincts Centroids",
+                  "id": "new-mexico-2021-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "5378c4b2-e7bc-4099-bb0c-4cb0f9c0d3a7"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17190,
+                "name": "New Mexico - 2020 Precincts",
+                "type": "fill",
+                "source_layer": "nm_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nm_precincts"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - 2020 Precincts Interactive Layer",
+                  "id": "new-mexico-2020-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Mexico - 2020 Precincts Border",
+                  "id": "new-mexico-2020-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "1cda4938-75b9-401c-870d-1c52053535c2"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17191,
+                "name": "New Mexico - 2020 Precincts",
+                "type": "circle",
+                "source_layer": "nm_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nm_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - 2020 Precincts Centroids",
+                  "id": "new-mexico-2020-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "c81cd1a4-aeaa-469f-af49-5c909c66e76b"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17192,
+                "name": "New Mexico - Precincts",
+                "type": "fill",
+                "source_layer": "new_mexico_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.new_mexico_precincts"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - Precincts Interactive Layer",
+                  "id": "new-mexico-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Mexico - Precincts Border",
+                  "id": "new-mexico-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "49f78e1b-d47b-4281-af52-52ca001a35c7"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17193,
+                "name": "New Mexico - Precincts",
+                "type": "circle",
+                "source_layer": "new_mexico_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.new_mexico_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - Precincts Centroids",
+                  "id": "new-mexico-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "81b04b1e-68ec-4286-9536-eb12065fe0b5"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17194,
+                "name": "New Mexico - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "NMoct11_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.NMoct11_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - 2020 VTDs Interactive Layer",
+                  "id": "new-mexico-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Mexico - 2020 VTDs Border",
+                  "id": "new-mexico-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "03c65a95-d8bb-4026-bf23-9f14747061bd"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17195,
+                "name": "New Mexico - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "NMoct11_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.NMoct11_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - 2020 VTDs Centroids",
+                  "id": "new-mexico-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "08f113a5-89a2-4483-baf5-d15094f6244b"
+        }
+      ],
+      "unit_count": 42,
+      "unit_type": "Precincts",
+      "unit_name": "State Senate",
+      "unit_name_plural": "State Senate Districts",
+      "bounds": [
+        [-109.0504, 31.3322],
+        [-103.002, 37.0002]
+      ]
+    },
+    {
+      "id": 11171,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11171/",
+        "html_url": "http://localhost:8080/states/new-mexico/new-mexico-council-districts-12623/",
+        "slug": "new-mexico-council-districts-12623",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:17.795505-05:00",
+        "alias_of": null
+      },
+      "title": "Santa Fe, New Mexico Council Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17186,
+                "name": "New Mexico - Santa Fe - Blocks",
+                "type": "circle",
+                "source_layer": "santafe_blocks_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.santafe_blocks_points"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - Santa Fe - Blocks Centroids",
+                  "id": "new-mexico-santa-fe-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "4258fc51-8b26-4855-a65b-b65799a7d456"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17187,
+                "name": "New Mexico - Santa Fe - Blocks",
+                "type": "fill",
+                "source_layer": "santafe_blocks",
+                "source_type": "vector",
+                "url": "mapbox://districtr.santafe_blocks"
+              },
+              "layers": [
+                {
+                  "name": "New Mexico - Santa Fe - Blocks Interactive Layer",
+                  "id": "new-mexico-santa-fe-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Mexico - Santa Fe - Blocks Border",
+                  "id": "new-mexico-santa-fe-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "6ca4b2a0-0798-4e16-8955-8a0694894acc"
+        }
+      ],
+      "unit_count": 5,
+      "unit_type": "Blocks",
+      "unit_name": "Test",
+      "unit_name_plural": "Council Districts",
+      "bounds": [
+        [-106.214, 35.5497],
+        [-105.8095, 35.8324]
+      ]
+    }
+  ]
+}

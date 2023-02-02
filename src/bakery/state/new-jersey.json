@@ -1,0 +1,706 @@
+{
+  "id": 35,
+  "meta": {
+    "type": "client.MapIndexPage",
+    "detail_url": "http://localhost:8080/wagtail-api/pages/35/",
+    "html_url": "http://localhost:8080/states/new-jersey/",
+    "slug": "new-jersey",
+    "show_in_menus": false,
+    "seo_title": "",
+    "search_description": "",
+    "first_published_at": null,
+    "alias_of": null,
+    "locale": "en"
+  },
+  "title": "New Jersey",
+  "counties": [
+    {
+      "id": 3239,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3239/",
+        "html_url": "http://localhost:8080/states/new-jersey/atlantic/",
+        "slug": "atlantic",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Atlantic County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2448,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2448/",
+        "html_url": "http://localhost:8080/states/new-jersey/bergen/",
+        "slug": "bergen",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Bergen County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 987,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/987/",
+        "html_url": "http://localhost:8080/states/new-jersey/burlington/",
+        "slug": "burlington",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Burlington County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 287,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/287/",
+        "html_url": "http://localhost:8080/states/new-jersey/camden/",
+        "slug": "camden",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Camden County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 912,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/912/",
+        "html_url": "http://localhost:8080/states/new-jersey/cape-may/",
+        "slug": "cape-may",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Cape May County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2247,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2247/",
+        "html_url": "http://localhost:8080/states/new-jersey/cumberland/",
+        "slug": "cumberland",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Cumberland County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2340,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2340/",
+        "html_url": "http://localhost:8080/states/new-jersey/essex/",
+        "slug": "essex",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Essex County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2176,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2176/",
+        "html_url": "http://localhost:8080/states/new-jersey/gloucester/",
+        "slug": "gloucester",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Gloucester County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1415,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1415/",
+        "html_url": "http://localhost:8080/states/new-jersey/hudson/",
+        "slug": "hudson",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Hudson County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2983,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2983/",
+        "html_url": "http://localhost:8080/states/new-jersey/hunterdon/",
+        "slug": "hunterdon",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Hunterdon County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3275,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3275/",
+        "html_url": "http://localhost:8080/states/new-jersey/mercer/",
+        "slug": "mercer",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Mercer County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1110,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1110/",
+        "html_url": "http://localhost:8080/states/new-jersey/middlesex/",
+        "slug": "middlesex",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Middlesex County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1678,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1678/",
+        "html_url": "http://localhost:8080/states/new-jersey/monmouth/",
+        "slug": "monmouth",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Monmouth County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2295,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2295/",
+        "html_url": "http://localhost:8080/states/new-jersey/morris/",
+        "slug": "morris",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Morris County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1814,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1814/",
+        "html_url": "http://localhost:8080/states/new-jersey/ocean/",
+        "slug": "ocean",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Ocean County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2741,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2741/",
+        "html_url": "http://localhost:8080/states/new-jersey/passaic/",
+        "slug": "passaic",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Passaic County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2818,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2818/",
+        "html_url": "http://localhost:8080/states/new-jersey/salem/",
+        "slug": "salem",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Salem County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1767,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1767/",
+        "html_url": "http://localhost:8080/states/new-jersey/somerset/",
+        "slug": "somerset",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Somerset County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 186,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/186/",
+        "html_url": "http://localhost:8080/states/new-jersey/sussex/",
+        "slug": "sussex",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Sussex County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 551,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/551/",
+        "html_url": "http://localhost:8080/states/new-jersey/union/",
+        "slug": "union",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Union County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2524,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2524/",
+        "html_url": "http://localhost:8080/states/new-jersey/warren/",
+        "slug": "warren",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Warren County",
+      "body": "",
+      "live": true
+    }
+  ],
+  "problems": [
+    {
+      "id": 11169,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11169/",
+        "html_url": "http://localhost:8080/states/new-jersey/new-jersey-congressional-districts-12621/",
+        "slug": "new-jersey-congressional-districts-12621",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:17.260156-05:00",
+        "alias_of": null
+      },
+      "title": "New Jersey Congressional Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17182,
+                "name": "New Jersey - 2020 Block Groups",
+                "type": "fill",
+                "source_layer": "nj_bg20_blockgroups20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nj_bg20_blockgroups20"
+              },
+              "layers": [
+                {
+                  "name": "New Jersey - 2020 Block Groups Interactive Layer",
+                  "id": "new-jersey-2020-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Jersey - 2020 Block Groups Border",
+                  "id": "new-jersey-2020-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "634162d7-c012-4f03-9491-2d4cd87841ae"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17183,
+                "name": "New Jersey - 2020 Block Groups",
+                "type": "circle",
+                "source_layer": "nj_bg20_blockgroups20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nj_bg20_blockgroups20_points"
+              },
+              "layers": [
+                {
+                  "name": "New Jersey - 2020 Block Groups Centroids",
+                  "id": "new-jersey-2020-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "13c41229-ccdc-468f-bcfa-b65268bf0298"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17184,
+                "name": "New Jersey - Block Groups",
+                "type": "fill",
+                "source_layer": "newjersey_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.newjersey_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "New Jersey - Block Groups Interactive Layer",
+                  "id": "new-jersey-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Jersey - Block Groups Border",
+                  "id": "new-jersey-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "e777c2ed-1767-4ea6-9535-18156d0bf414"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17185,
+                "name": "New Jersey - Block Groups",
+                "type": "circle",
+                "source_layer": "newjersey_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.newjersey_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "New Jersey - Block Groups Centroids",
+                  "id": "new-jersey-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "1799af2a-0003-4b7f-94c3-7fa472d273fd"
+        }
+      ],
+      "unit_count": 12,
+      "unit_type": "Block Groups",
+      "unit_name": "Congress",
+      "unit_name_plural": "Congressional Districts",
+      "bounds": [
+        [-75.5598, 38.9244],
+        [-73.894, 41.3574]
+      ]
+    },
+    {
+      "id": 11170,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11170/",
+        "html_url": "http://localhost:8080/states/new-jersey/new-jersey-state-legislative-districts-12622/",
+        "slug": "new-jersey-state-legislative-districts-12622",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:17.425278-05:00",
+        "alias_of": null
+      },
+      "title": "New Jersey State Legislative Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17182,
+                "name": "New Jersey - 2020 Block Groups",
+                "type": "fill",
+                "source_layer": "nj_bg20_blockgroups20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nj_bg20_blockgroups20"
+              },
+              "layers": [
+                {
+                  "name": "New Jersey - 2020 Block Groups Interactive Layer",
+                  "id": "new-jersey-2020-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Jersey - 2020 Block Groups Border",
+                  "id": "new-jersey-2020-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "dd3556a0-6061-4f52-88aa-007a03b6b047"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17183,
+                "name": "New Jersey - 2020 Block Groups",
+                "type": "circle",
+                "source_layer": "nj_bg20_blockgroups20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nj_bg20_blockgroups20_points"
+              },
+              "layers": [
+                {
+                  "name": "New Jersey - 2020 Block Groups Centroids",
+                  "id": "new-jersey-2020-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "bddbf327-66cb-4a2f-84ab-3b0fdfe6ba5d"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17184,
+                "name": "New Jersey - Block Groups",
+                "type": "fill",
+                "source_layer": "newjersey_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.newjersey_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "New Jersey - Block Groups Interactive Layer",
+                  "id": "new-jersey-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Jersey - Block Groups Border",
+                  "id": "new-jersey-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "db0a3dc0-3ddf-44dc-a244-51e6a47eb89a"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17185,
+                "name": "New Jersey - Block Groups",
+                "type": "circle",
+                "source_layer": "newjersey_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.newjersey_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "New Jersey - Block Groups Centroids",
+                  "id": "new-jersey-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "1cd0ead6-c275-4b26-af5f-bd95c4ae6673"
+        }
+      ],
+      "unit_count": 40,
+      "unit_type": "Block Groups",
+      "unit_name": "State Legislature",
+      "unit_name_plural": "State Legislative Districts",
+      "bounds": [
+        [-75.5598, 38.9244],
+        [-73.894, 41.3574]
+      ]
+    }
+  ]
+}

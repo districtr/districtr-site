@@ -1,0 +1,879 @@
+{
+  "id": 33,
+  "meta": {
+    "type": "client.MapIndexPage",
+    "detail_url": "http://localhost:8080/wagtail-api/pages/33/",
+    "html_url": "http://localhost:8080/states/nevada/",
+    "slug": "nevada",
+    "show_in_menus": false,
+    "seo_title": "",
+    "search_description": "",
+    "first_published_at": null,
+    "alias_of": null,
+    "locale": "en"
+  },
+  "title": "Nevada",
+  "counties": [
+    {
+      "id": 1163,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1163/",
+        "html_url": "http://localhost:8080/states/nevada/carson-city/",
+        "slug": "carson-city",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Carson City",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 159,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/159/",
+        "html_url": "http://localhost:8080/states/nevada/churchill/",
+        "slug": "churchill",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Churchill County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 226,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/226/",
+        "html_url": "http://localhost:8080/states/nevada/clark/",
+        "slug": "clark",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Clark County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1072,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1072/",
+        "html_url": "http://localhost:8080/states/nevada/douglas/",
+        "slug": "douglas",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Douglas County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1729,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1729/",
+        "html_url": "http://localhost:8080/states/nevada/elko/",
+        "slug": "elko",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Elko County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2836,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2836/",
+        "html_url": "http://localhost:8080/states/nevada/esmeralda/",
+        "slug": "esmeralda",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Esmeralda County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1505,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1505/",
+        "html_url": "http://localhost:8080/states/nevada/eureka/",
+        "slug": "eureka",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Eureka County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 196,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/196/",
+        "html_url": "http://localhost:8080/states/nevada/humboldt/",
+        "slug": "humboldt",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Humboldt County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1796,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1796/",
+        "html_url": "http://localhost:8080/states/nevada/lander/",
+        "slug": "lander",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lander County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2449,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2449/",
+        "html_url": "http://localhost:8080/states/nevada/lincoln/",
+        "slug": "lincoln",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lincoln County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1738,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1738/",
+        "html_url": "http://localhost:8080/states/nevada/lyon/",
+        "slug": "lyon",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lyon County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 517,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/517/",
+        "html_url": "http://localhost:8080/states/nevada/mineral/",
+        "slug": "mineral",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Mineral County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 805,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/805/",
+        "html_url": "http://localhost:8080/states/nevada/nye/",
+        "slug": "nye",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Nye County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2739,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2739/",
+        "html_url": "http://localhost:8080/states/nevada/pershing/",
+        "slug": "pershing",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Pershing County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2121,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2121/",
+        "html_url": "http://localhost:8080/states/nevada/storey/",
+        "slug": "storey",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Storey County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2116,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2116/",
+        "html_url": "http://localhost:8080/states/nevada/washoe/",
+        "slug": "washoe",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Washoe County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1083,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1083/",
+        "html_url": "http://localhost:8080/states/nevada/white-pine/",
+        "slug": "white-pine",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "White Pine County",
+      "body": "",
+      "live": true
+    }
+  ],
+  "problems": [
+    {
+      "id": 11165,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11165/",
+        "html_url": "http://localhost:8080/states/nevada/nevada-commission-districts-12617/",
+        "slug": "nevada-commission-districts-12617",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:15.549268-05:00",
+        "alias_of": null
+      },
+      "title": "Clark County, Nevada Commission Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17174,
+                "name": "Nevada - Clark County - Blocks",
+                "type": "fill",
+                "source_layer": "clarknv_blocks",
+                "source_type": "vector",
+                "url": "mapbox://districtr.clarknv_blocks"
+              },
+              "layers": [
+                {
+                  "name": "Nevada - Clark County - Blocks Interactive Layer",
+                  "id": "nevada-clark-county-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Nevada - Clark County - Blocks Border",
+                  "id": "nevada-clark-county-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "f77406d3-6b75-452e-aac6-4cf833b69646"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17175,
+                "name": "Nevada - Clark County - Blocks",
+                "type": "circle",
+                "source_layer": "clarknv_blocks_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.clarknv_blocks_points"
+              },
+              "layers": [
+                {
+                  "name": "Nevada - Clark County - Blocks Centroids",
+                  "id": "nevada-clark-county-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "6354c797-b73b-4383-b592-af3f864449d7"
+        }
+      ],
+      "unit_count": 7,
+      "unit_type": "Blocks",
+      "unit_name": "Commission",
+      "unit_name_plural": "Commission Districts",
+      "bounds": [
+        [-115.8969, 35.0019],
+        [-114.0428, 36.8537]
+      ]
+    },
+    {
+      "id": 11162,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11162/",
+        "html_url": "http://localhost:8080/states/nevada/nevada-congressional-districts-12614/",
+        "slug": "nevada-congressional-districts-12614",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:14.800016-05:00",
+        "alias_of": null
+      },
+      "title": "Nevada Congressional Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17170,
+                "name": "Nevada - 2020 Block Groups",
+                "type": "fill",
+                "source_layer": "nv_bg20_blockgroups20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nv_bg20_blockgroups20"
+              },
+              "layers": [
+                {
+                  "name": "Nevada - 2020 Block Groups Interactive Layer",
+                  "id": "nevada-2020-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Nevada - 2020 Block Groups Border",
+                  "id": "nevada-2020-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "75a572e1-d16e-4ab4-8d20-08f1ff8e900f"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17171,
+                "name": "Nevada - 2020 Block Groups",
+                "type": "circle",
+                "source_layer": "nv_bg20_blockgroups20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nv_bg20_blockgroups20_points"
+              },
+              "layers": [
+                {
+                  "name": "Nevada - 2020 Block Groups Centroids",
+                  "id": "nevada-2020-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "9e38495f-c9c5-43ec-8e81-e4d11ef299c5"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17172,
+                "name": "Nevada - Block Groups",
+                "type": "fill",
+                "source_layer": "nevada_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nevada_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Nevada - Block Groups Interactive Layer",
+                  "id": "nevada-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Nevada - Block Groups Border",
+                  "id": "nevada-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "bfc13326-b1b7-4eaf-919e-02c485f92539"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17173,
+                "name": "Nevada - Block Groups",
+                "type": "circle",
+                "source_layer": "nevada_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nevada_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Nevada - Block Groups Centroids",
+                  "id": "nevada-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "e2a3b0fb-d18c-410b-86eb-4c179c311c4a"
+        }
+      ],
+      "unit_count": 4,
+      "unit_type": "Block Groups",
+      "unit_name": "Congress",
+      "unit_name_plural": "Congressional Districts",
+      "bounds": [
+        [-120.0065, 35.0019],
+        [-114.0396, 42.0022]
+      ]
+    },
+    {
+      "id": 11163,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11163/",
+        "html_url": "http://localhost:8080/states/nevada/nevada-state-assembly-districts-12615/",
+        "slug": "nevada-state-assembly-districts-12615",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:14.983708-05:00",
+        "alias_of": null
+      },
+      "title": "Nevada State Assembly Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17170,
+                "name": "Nevada - 2020 Block Groups",
+                "type": "fill",
+                "source_layer": "nv_bg20_blockgroups20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nv_bg20_blockgroups20"
+              },
+              "layers": [
+                {
+                  "name": "Nevada - 2020 Block Groups Interactive Layer",
+                  "id": "nevada-2020-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Nevada - 2020 Block Groups Border",
+                  "id": "nevada-2020-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "3589fee5-48eb-40f8-a4fc-384fd6f688e4"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17171,
+                "name": "Nevada - 2020 Block Groups",
+                "type": "circle",
+                "source_layer": "nv_bg20_blockgroups20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nv_bg20_blockgroups20_points"
+              },
+              "layers": [
+                {
+                  "name": "Nevada - 2020 Block Groups Centroids",
+                  "id": "nevada-2020-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "ed11c483-b76e-49e0-878a-e7cec1d68fde"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17172,
+                "name": "Nevada - Block Groups",
+                "type": "fill",
+                "source_layer": "nevada_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nevada_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Nevada - Block Groups Interactive Layer",
+                  "id": "nevada-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Nevada - Block Groups Border",
+                  "id": "nevada-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "0cd2496c-ceda-4dbf-a435-69c9f0336507"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17173,
+                "name": "Nevada - Block Groups",
+                "type": "circle",
+                "source_layer": "nevada_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nevada_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Nevada - Block Groups Centroids",
+                  "id": "nevada-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "bbd36b7a-f2c0-451f-8788-d275fb9f5d0d"
+        }
+      ],
+      "unit_count": 42,
+      "unit_type": "Block Groups",
+      "unit_name": "State Assembly",
+      "unit_name_plural": "State Assembly Districts",
+      "bounds": [
+        [-120.0065, 35.0019],
+        [-114.0396, 42.0022]
+      ]
+    },
+    {
+      "id": 11164,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11164/",
+        "html_url": "http://localhost:8080/states/nevada/nevada-state-senate-districts-12616/",
+        "slug": "nevada-state-senate-districts-12616",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:15.154164-05:00",
+        "alias_of": null
+      },
+      "title": "Nevada State Senate Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17170,
+                "name": "Nevada - 2020 Block Groups",
+                "type": "fill",
+                "source_layer": "nv_bg20_blockgroups20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nv_bg20_blockgroups20"
+              },
+              "layers": [
+                {
+                  "name": "Nevada - 2020 Block Groups Interactive Layer",
+                  "id": "nevada-2020-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Nevada - 2020 Block Groups Border",
+                  "id": "nevada-2020-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "b743ea4b-204f-4142-b59e-7c5f330fe76a"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17171,
+                "name": "Nevada - 2020 Block Groups",
+                "type": "circle",
+                "source_layer": "nv_bg20_blockgroups20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nv_bg20_blockgroups20_points"
+              },
+              "layers": [
+                {
+                  "name": "Nevada - 2020 Block Groups Centroids",
+                  "id": "nevada-2020-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "e8fee2c1-8289-4afe-a739-8b7f0ff8c41f"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17172,
+                "name": "Nevada - Block Groups",
+                "type": "fill",
+                "source_layer": "nevada_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nevada_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Nevada - Block Groups Interactive Layer",
+                  "id": "nevada-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Nevada - Block Groups Border",
+                  "id": "nevada-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "eee504c2-c6ec-4274-9b70-dfdddd9edcc7"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17173,
+                "name": "Nevada - Block Groups",
+                "type": "circle",
+                "source_layer": "nevada_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nevada_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Nevada - Block Groups Centroids",
+                  "id": "nevada-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "fa53ea7f-b468-42fe-9f3e-ea3548ded645"
+        }
+      ],
+      "unit_count": 21,
+      "unit_type": "Block Groups",
+      "unit_name": "State Senate",
+      "unit_name_plural": "State Senate Districts",
+      "bounds": [
+        [-120.0065, 35.0019],
+        [-114.0396, 42.0022]
+      ]
+    }
+  ]
+}

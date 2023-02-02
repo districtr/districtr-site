@@ -1,0 +1,833 @@
+{
+  "id": 11,
+  "meta": {
+    "type": "client.MapIndexPage",
+    "detail_url": "http://localhost:8080/wagtail-api/pages/11/",
+    "html_url": "http://localhost:8080/states/connecticut/",
+    "slug": "connecticut",
+    "show_in_menus": false,
+    "seo_title": "",
+    "search_description": "",
+    "first_published_at": null,
+    "alias_of": null,
+    "locale": "en"
+  },
+  "title": "Connecticut",
+  "counties": [
+    {
+      "id": 1466,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1466/",
+        "html_url": "http://localhost:8080/states/connecticut/capitol/",
+        "slug": "capitol",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Capitol Planning Region",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1467,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1467/",
+        "html_url": "http://localhost:8080/states/connecticut/greater-bridgeport/",
+        "slug": "greater-bridgeport",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Greater Bridgeport Planning Region",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1468,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1468/",
+        "html_url": "http://localhost:8080/states/connecticut/lower-connecticut-river-valley/",
+        "slug": "lower-connecticut-river-valley",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lower Connecticut River Valley Planning Region",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1469,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1469/",
+        "html_url": "http://localhost:8080/states/connecticut/naugatuck-valley/",
+        "slug": "naugatuck-valley",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Naugatuck Valley Planning Region",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1470,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1470/",
+        "html_url": "http://localhost:8080/states/connecticut/northeastern-connecticut/",
+        "slug": "northeastern-connecticut",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Northeastern Connecticut Planning Region",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1471,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1471/",
+        "html_url": "http://localhost:8080/states/connecticut/northwest-hills/",
+        "slug": "northwest-hills",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Northwest Hills Planning Region",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1472,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1472/",
+        "html_url": "http://localhost:8080/states/connecticut/south-central-connecticut/",
+        "slug": "south-central-connecticut",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "South Central Connecticut Planning Region",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1473,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1473/",
+        "html_url": "http://localhost:8080/states/connecticut/southeastern-connecticut/",
+        "slug": "southeastern-connecticut",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Southeastern Connecticut Planning Region",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1474,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1474/",
+        "html_url": "http://localhost:8080/states/connecticut/western-connecticut/",
+        "slug": "western-connecticut",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Western Connecticut Planning Region",
+      "body": "",
+      "live": true
+    }
+  ],
+  "problems": [
+    {
+      "id": 11053,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11053/",
+        "html_url": "http://localhost:8080/states/connecticut/connecticut-congressional-districts-12505/",
+        "slug": "connecticut-congressional-districts-12505",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:33.491726-05:00",
+        "alias_of": null
+      },
+      "title": "Connecticut Congressional Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16968,
+                "name": "Connecticut - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "ct_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ct_vtds20?v=2"
+              },
+              "layers": [
+                {
+                  "name": "Connecticut - 2020 VTDs Interactive Layer",
+                  "id": "connecticut-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Connecticut - 2020 VTDs Border",
+                  "id": "connecticut-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "9c6e7e7f-5336-4767-a565-4f770df165ac"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16969,
+                "name": "Connecticut - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "ct_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ct_vtds20_points?v=2"
+              },
+              "layers": [
+                {
+                  "name": "Connecticut - 2020 VTDs Centroids",
+                  "id": "connecticut-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "9a61d1f5-5415-4395-9cbb-df8ef1b0969a"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16970,
+                "name": "Connecticut - Precincts",
+                "type": "fill",
+                "source_layer": "connecticut_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.connecticut_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Connecticut - Precincts Interactive Layer",
+                  "id": "connecticut-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Connecticut - Precincts Border",
+                  "id": "connecticut-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "07638d5c-fa9e-45b8-a322-c4398de3184b"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16971,
+                "name": "Connecticut - Precincts",
+                "type": "circle",
+                "source_layer": "connecticut_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.connecticut_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Connecticut - Precincts Centroids",
+                  "id": "connecticut-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "f79bb83d-687d-4d7b-a006-49bfeb2f517b"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16972,
+                "name": "Connecticut - Block Groups",
+                "type": "fill",
+                "source_layer": "connecticut_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.connecticut_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Connecticut - Block Groups Interactive Layer",
+                  "id": "connecticut-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Connecticut - Block Groups Border",
+                  "id": "connecticut-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "94d34725-cc52-4b22-bf8a-5cb45f3ad6d0"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16973,
+                "name": "Connecticut - Block Groups",
+                "type": "circle",
+                "source_layer": "connecticut_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.connecticut_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Connecticut - Block Groups Centroids",
+                  "id": "connecticut-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "919f1513-2470-4f23-9e24-5056dcac8b57"
+        }
+      ],
+      "unit_count": 5,
+      "unit_type": "VTDs",
+      "unit_name": "Congress",
+      "unit_name_plural": "Congressional Districts",
+      "bounds": [
+        [-73.7278, 40.9767],
+        [-71.7872, 42.0506]
+      ]
+    },
+    {
+      "id": 11054,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11054/",
+        "html_url": "http://localhost:8080/states/connecticut/connecticut-state-house-districts-12506/",
+        "slug": "connecticut-state-house-districts-12506",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:33.661506-05:00",
+        "alias_of": null
+      },
+      "title": "Connecticut State House Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16968,
+                "name": "Connecticut - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "ct_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ct_vtds20?v=2"
+              },
+              "layers": [
+                {
+                  "name": "Connecticut - 2020 VTDs Interactive Layer",
+                  "id": "connecticut-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Connecticut - 2020 VTDs Border",
+                  "id": "connecticut-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "840ed63c-c345-4a24-be4d-ddcc86c307e9"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16969,
+                "name": "Connecticut - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "ct_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ct_vtds20_points?v=2"
+              },
+              "layers": [
+                {
+                  "name": "Connecticut - 2020 VTDs Centroids",
+                  "id": "connecticut-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "72ef70f8-766d-4630-ab36-107de02176ab"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16970,
+                "name": "Connecticut - Precincts",
+                "type": "fill",
+                "source_layer": "connecticut_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.connecticut_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Connecticut - Precincts Interactive Layer",
+                  "id": "connecticut-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Connecticut - Precincts Border",
+                  "id": "connecticut-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "e43548d9-67e8-4931-8c19-897229abb210"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16971,
+                "name": "Connecticut - Precincts",
+                "type": "circle",
+                "source_layer": "connecticut_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.connecticut_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Connecticut - Precincts Centroids",
+                  "id": "connecticut-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "421daa49-de55-4e89-9b58-825d9a0e2a16"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16972,
+                "name": "Connecticut - Block Groups",
+                "type": "fill",
+                "source_layer": "connecticut_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.connecticut_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Connecticut - Block Groups Interactive Layer",
+                  "id": "connecticut-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Connecticut - Block Groups Border",
+                  "id": "connecticut-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "86eafb72-fc50-492f-8a12-ce78f398fb04"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16973,
+                "name": "Connecticut - Block Groups",
+                "type": "circle",
+                "source_layer": "connecticut_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.connecticut_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Connecticut - Block Groups Centroids",
+                  "id": "connecticut-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "3f598b10-6ec5-4f8b-a54b-7b09a11b6cf8"
+        }
+      ],
+      "unit_count": 151,
+      "unit_type": "VTDs",
+      "unit_name": "State House",
+      "unit_name_plural": "State House Districts",
+      "bounds": [
+        [-73.7278, 40.9767],
+        [-71.7872, 42.0506]
+      ]
+    },
+    {
+      "id": 11055,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11055/",
+        "html_url": "http://localhost:8080/states/connecticut/connecticut-state-senate-districts-12507/",
+        "slug": "connecticut-state-senate-districts-12507",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:33.834641-05:00",
+        "alias_of": null
+      },
+      "title": "Connecticut State Senate Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16968,
+                "name": "Connecticut - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "ct_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ct_vtds20?v=2"
+              },
+              "layers": [
+                {
+                  "name": "Connecticut - 2020 VTDs Interactive Layer",
+                  "id": "connecticut-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Connecticut - 2020 VTDs Border",
+                  "id": "connecticut-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "4e9c9852-e927-4eaf-98fd-0671a281d8e5"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16969,
+                "name": "Connecticut - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "ct_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ct_vtds20_points?v=2"
+              },
+              "layers": [
+                {
+                  "name": "Connecticut - 2020 VTDs Centroids",
+                  "id": "connecticut-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "0d23c5e3-2a10-49ad-b85e-cdaf75a58df7"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16970,
+                "name": "Connecticut - Precincts",
+                "type": "fill",
+                "source_layer": "connecticut_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.connecticut_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Connecticut - Precincts Interactive Layer",
+                  "id": "connecticut-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Connecticut - Precincts Border",
+                  "id": "connecticut-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "dc236437-3e98-472a-a353-b15a1305dee7"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16971,
+                "name": "Connecticut - Precincts",
+                "type": "circle",
+                "source_layer": "connecticut_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.connecticut_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Connecticut - Precincts Centroids",
+                  "id": "connecticut-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "4f74e87c-d835-43a5-aa7f-c76e13a48ac8"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16972,
+                "name": "Connecticut - Block Groups",
+                "type": "fill",
+                "source_layer": "connecticut_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.connecticut_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Connecticut - Block Groups Interactive Layer",
+                  "id": "connecticut-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Connecticut - Block Groups Border",
+                  "id": "connecticut-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "cd7a72f2-417e-4902-b79c-5a3df1e5e92d"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16973,
+                "name": "Connecticut - Block Groups",
+                "type": "circle",
+                "source_layer": "connecticut_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.connecticut_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Connecticut - Block Groups Centroids",
+                  "id": "connecticut-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "32c90dc3-8405-46e0-9f8f-2c29f2268050"
+        }
+      ],
+      "unit_count": 36,
+      "unit_type": "VTDs",
+      "unit_name": "State Senate",
+      "unit_name_plural": "State Senate Districts",
+      "bounds": [
+        [-73.7278, 40.9767],
+        [-71.7872, 42.0506]
+      ]
+    }
+  ]
+}

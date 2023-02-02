@@ -1,0 +1,2066 @@
+{
+  "id": 5,
+  "meta": {
+    "type": "client.MapIndexPage",
+    "detail_url": "http://localhost:8080/wagtail-api/pages/5/",
+    "html_url": "http://localhost:8080/states/alabama/",
+    "slug": "alabama",
+    "show_in_menus": false,
+    "seo_title": "",
+    "search_description": "",
+    "first_published_at": null,
+    "alias_of": null,
+    "locale": "en"
+  },
+  "title": "Alabama",
+  "counties": [
+    {
+      "id": 1397,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1397/",
+        "html_url": "http://localhost:8080/states/alabama/autauga/",
+        "slug": "autauga",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Autauga County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1316,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1316/",
+        "html_url": "http://localhost:8080/states/alabama/baldwin/",
+        "slug": "baldwin",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Baldwin County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1902,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1902/",
+        "html_url": "http://localhost:8080/states/alabama/barbour/",
+        "slug": "barbour",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Barbour County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3088,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3088/",
+        "html_url": "http://localhost:8080/states/alabama/bibb/",
+        "slug": "bibb",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Bibb County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 928,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/928/",
+        "html_url": "http://localhost:8080/states/alabama/blount/",
+        "slug": "blount",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Blount County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1388,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1388/",
+        "html_url": "http://localhost:8080/states/alabama/bullock/",
+        "slug": "bullock",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Bullock County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 388,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/388/",
+        "html_url": "http://localhost:8080/states/alabama/butler/",
+        "slug": "butler",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Butler County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2265,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2265/",
+        "html_url": "http://localhost:8080/states/alabama/calhoun/",
+        "slug": "calhoun",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Calhoun County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 556,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/556/",
+        "html_url": "http://localhost:8080/states/alabama/chambers/",
+        "slug": "chambers",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Chambers County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 281,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/281/",
+        "html_url": "http://localhost:8080/states/alabama/cherokee/",
+        "slug": "cherokee",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Cherokee County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3181,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3181/",
+        "html_url": "http://localhost:8080/states/alabama/chilton/",
+        "slug": "chilton",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Chilton County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1491,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1491/",
+        "html_url": "http://localhost:8080/states/alabama/choctaw/",
+        "slug": "choctaw",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Choctaw County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2132,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2132/",
+        "html_url": "http://localhost:8080/states/alabama/clarke/",
+        "slug": "clarke",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Clarke County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 80,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/80/",
+        "html_url": "http://localhost:8080/states/alabama/clay/",
+        "slug": "clay",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Clay County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1879,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1879/",
+        "html_url": "http://localhost:8080/states/alabama/cleburne/",
+        "slug": "cleburne",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Cleburne County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3187,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3187/",
+        "html_url": "http://localhost:8080/states/alabama/coffee/",
+        "slug": "coffee",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Coffee County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 322,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/322/",
+        "html_url": "http://localhost:8080/states/alabama/colbert/",
+        "slug": "colbert",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Colbert County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2647,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2647/",
+        "html_url": "http://localhost:8080/states/alabama/conecuh/",
+        "slug": "conecuh",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Conecuh County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1055,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1055/",
+        "html_url": "http://localhost:8080/states/alabama/coosa/",
+        "slug": "coosa",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Coosa County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3193,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3193/",
+        "html_url": "http://localhost:8080/states/alabama/covington/",
+        "slug": "covington",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Covington County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2211,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2211/",
+        "html_url": "http://localhost:8080/states/alabama/crenshaw/",
+        "slug": "crenshaw",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Crenshaw County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1525,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1525/",
+        "html_url": "http://localhost:8080/states/alabama/cullman/",
+        "slug": "cullman",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Cullman County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2009,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2009/",
+        "html_url": "http://localhost:8080/states/alabama/dale/",
+        "slug": "dale",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Dale County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1613,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1613/",
+        "html_url": "http://localhost:8080/states/alabama/dallas/",
+        "slug": "dallas",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Dallas County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 113,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/113/",
+        "html_url": "http://localhost:8080/states/alabama/dekalb/",
+        "slug": "dekalb",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "DeKalb County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2999,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2999/",
+        "html_url": "http://localhost:8080/states/alabama/elmore/",
+        "slug": "elmore",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Elmore County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 868,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/868/",
+        "html_url": "http://localhost:8080/states/alabama/escambia/",
+        "slug": "escambia",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Escambia County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3154,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3154/",
+        "html_url": "http://localhost:8080/states/alabama/etowah/",
+        "slug": "etowah",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Etowah County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 555,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/555/",
+        "html_url": "http://localhost:8080/states/alabama/fayette/",
+        "slug": "fayette",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Fayette County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2578,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2578/",
+        "html_url": "http://localhost:8080/states/alabama/franklin/",
+        "slug": "franklin",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Franklin County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1945,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1945/",
+        "html_url": "http://localhost:8080/states/alabama/geneva/",
+        "slug": "geneva",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Geneva County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 332,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/332/",
+        "html_url": "http://localhost:8080/states/alabama/greene/",
+        "slug": "greene",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Greene County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 320,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/320/",
+        "html_url": "http://localhost:8080/states/alabama/hale/",
+        "slug": "hale",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Hale County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3253,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3253/",
+        "html_url": "http://localhost:8080/states/alabama/henry/",
+        "slug": "henry",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Henry County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2135,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2135/",
+        "html_url": "http://localhost:8080/states/alabama/houston/",
+        "slug": "houston",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Houston County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1278,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1278/",
+        "html_url": "http://localhost:8080/states/alabama/jackson/",
+        "slug": "jackson",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Jackson County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3054,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3054/",
+        "html_url": "http://localhost:8080/states/alabama/jefferson/",
+        "slug": "jefferson",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Jefferson County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2534,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2534/",
+        "html_url": "http://localhost:8080/states/alabama/lamar/",
+        "slug": "lamar",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lamar County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1783,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1783/",
+        "html_url": "http://localhost:8080/states/alabama/lauderdale/",
+        "slug": "lauderdale",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lauderdale County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2366,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2366/",
+        "html_url": "http://localhost:8080/states/alabama/lawrence/",
+        "slug": "lawrence",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lawrence County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 524,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/524/",
+        "html_url": "http://localhost:8080/states/alabama/lee/",
+        "slug": "lee",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lee County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 883,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/883/",
+        "html_url": "http://localhost:8080/states/alabama/limestone/",
+        "slug": "limestone",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Limestone County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1024,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1024/",
+        "html_url": "http://localhost:8080/states/alabama/lowndes/",
+        "slug": "lowndes",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lowndes County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1437,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1437/",
+        "html_url": "http://localhost:8080/states/alabama/macon/",
+        "slug": "macon",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Macon County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2197,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2197/",
+        "html_url": "http://localhost:8080/states/alabama/madison/",
+        "slug": "madison",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Madison County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 100,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/100/",
+        "html_url": "http://localhost:8080/states/alabama/marengo/",
+        "slug": "marengo",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Marengo County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1010,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1010/",
+        "html_url": "http://localhost:8080/states/alabama/marion/",
+        "slug": "marion",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Marion County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 846,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/846/",
+        "html_url": "http://localhost:8080/states/alabama/marshall/",
+        "slug": "marshall",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Marshall County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 553,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/553/",
+        "html_url": "http://localhost:8080/states/alabama/mobile/",
+        "slug": "mobile",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Mobile County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 970,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/970/",
+        "html_url": "http://localhost:8080/states/alabama/monroe/",
+        "slug": "monroe",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Monroe County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3071,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3071/",
+        "html_url": "http://localhost:8080/states/alabama/montgomery/",
+        "slug": "montgomery",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Montgomery County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2509,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2509/",
+        "html_url": "http://localhost:8080/states/alabama/morgan/",
+        "slug": "morgan",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Morgan County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 321,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/321/",
+        "html_url": "http://localhost:8080/states/alabama/perry/",
+        "slug": "perry",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Perry County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1762,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1762/",
+        "html_url": "http://localhost:8080/states/alabama/pickens/",
+        "slug": "pickens",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Pickens County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1116,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1116/",
+        "html_url": "http://localhost:8080/states/alabama/pike/",
+        "slug": "pike",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Pike County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3064,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3064/",
+        "html_url": "http://localhost:8080/states/alabama/randolph/",
+        "slug": "randolph",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Randolph County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2544,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2544/",
+        "html_url": "http://localhost:8080/states/alabama/russell/",
+        "slug": "russell",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Russell County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1543,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1543/",
+        "html_url": "http://localhost:8080/states/alabama/shelby/",
+        "slug": "shelby",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Shelby County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1454,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1454/",
+        "html_url": "http://localhost:8080/states/alabama/st-clair/",
+        "slug": "st-clair",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "St. Clair County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1141,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1141/",
+        "html_url": "http://localhost:8080/states/alabama/sumter/",
+        "slug": "sumter",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Sumter County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1155,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1155/",
+        "html_url": "http://localhost:8080/states/alabama/talladega/",
+        "slug": "talladega",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Talladega County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2091,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2091/",
+        "html_url": "http://localhost:8080/states/alabama/tallapoosa/",
+        "slug": "tallapoosa",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Tallapoosa County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 661,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/661/",
+        "html_url": "http://localhost:8080/states/alabama/tuscaloosa/",
+        "slug": "tuscaloosa",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Tuscaloosa County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3055,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3055/",
+        "html_url": "http://localhost:8080/states/alabama/walker/",
+        "slug": "walker",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Walker County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2185,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2185/",
+        "html_url": "http://localhost:8080/states/alabama/washington/",
+        "slug": "washington",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Washington County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 662,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/662/",
+        "html_url": "http://localhost:8080/states/alabama/wilcox/",
+        "slug": "wilcox",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Wilcox County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1142,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1142/",
+        "html_url": "http://localhost:8080/states/alabama/winston/",
+        "slug": "winston",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Winston County",
+      "body": "",
+      "live": true
+    }
+  ],
+  "problems": [
+    {
+      "id": 10893,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/10893/",
+        "html_url": "http://localhost:8080/states/alabama/alabama-congressional-districts-12345/",
+        "slug": "alabama-congressional-districts-12345",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:26:48.532141-05:00",
+        "alias_of": null
+      },
+      "title": "Alabama Congressional Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16495,
+                "name": "Alabama - Block Groups",
+                "type": "fill",
+                "source_layer": "alabama_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.alabama_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Alabama - Block Groups Interactive Layer",
+                  "id": "alabama-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Alabama - Block Groups Border",
+                  "id": "alabama-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "7315ea14-a49b-4024-87e4-36b8b730498c"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16496,
+                "name": "Alabama - Block Groups",
+                "type": "circle",
+                "source_layer": "alabama_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.alabama_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Alabama - Block Groups Centroids",
+                  "id": "alabama-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "61f8b362-92bf-47d2-9fbe-1c6318e92ee7"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16497,
+                "name": "Alabama - 2019 Block Groups",
+                "type": "fill",
+                "source_layer": "alabama2019_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.alabama2019_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Alabama - 2019 Block Groups Interactive Layer",
+                  "id": "alabama-2019-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Alabama - 2019 Block Groups Border",
+                  "id": "alabama-2019-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "66fd834c-a825-4f79-885d-fe040a0e66bb"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16498,
+                "name": "Alabama - 2019 Block Groups",
+                "type": "circle",
+                "source_layer": "alabama2019_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.alabama2019_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Alabama - 2019 Block Groups Centroids",
+                  "id": "alabama-2019-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "196e1214-cd16-43f0-a5f6-6d993ade5cb4"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16499,
+                "name": "Alabama - 2020 Block Groups",
+                "type": "circle",
+                "source_layer": "al_20_blockgroups20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.al_20_blockgroups20_points"
+              },
+              "layers": [
+                {
+                  "name": "Alabama - 2020 Block Groups Centroids",
+                  "id": "alabama-2020-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "f3cc826a-5079-4452-ac65-38b0691114e4"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16500,
+                "name": "Alabama - 2020 Block Groups",
+                "type": "fill",
+                "source_layer": "al_20_blockgroups20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.al_20_blockgroups20"
+              },
+              "layers": [
+                {
+                  "name": "Alabama - 2020 Block Groups Interactive Layer",
+                  "id": "alabama-2020-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Alabama - 2020 Block Groups Border",
+                  "id": "alabama-2020-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "ad841b4b-9550-4b02-8f85-d1e871f296e5"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16501,
+                "name": "Alabama - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "al_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.al_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "Alabama - 2020 VTDs Interactive Layer",
+                  "id": "alabama-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Alabama - 2020 VTDs Border",
+                  "id": "alabama-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "7e19862e-60ce-400e-b23f-b11bab990fcf"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16502,
+                "name": "Alabama - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "al_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.al_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "Alabama - 2020 VTDs Centroids",
+                  "id": "alabama-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "76bed0d7-b639-4e83-8a39-d1bde3350beb"
+        }
+      ],
+      "unit_count": 7,
+      "unit_type": "Block Groups",
+      "unit_name": "Congress",
+      "unit_name_plural": "Congressional Districts",
+      "bounds": [
+        [-88.4732, 30.1444],
+        [-84.8882, 35.008]
+      ]
+    },
+    {
+      "id": 10894,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/10894/",
+        "html_url": "http://localhost:8080/states/alabama/alabama-state-house-districts-12346/",
+        "slug": "alabama-state-house-districts-12346",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:26:48.690952-05:00",
+        "alias_of": null
+      },
+      "title": "Alabama State House Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16495,
+                "name": "Alabama - Block Groups",
+                "type": "fill",
+                "source_layer": "alabama_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.alabama_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Alabama - Block Groups Interactive Layer",
+                  "id": "alabama-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Alabama - Block Groups Border",
+                  "id": "alabama-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "7b78fa4a-c61d-48f5-925b-8bdfe45da64d"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16496,
+                "name": "Alabama - Block Groups",
+                "type": "circle",
+                "source_layer": "alabama_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.alabama_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Alabama - Block Groups Centroids",
+                  "id": "alabama-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "8748f322-b03a-4cf8-ad5a-a51065ce78cf"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16497,
+                "name": "Alabama - 2019 Block Groups",
+                "type": "fill",
+                "source_layer": "alabama2019_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.alabama2019_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Alabama - 2019 Block Groups Interactive Layer",
+                  "id": "alabama-2019-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Alabama - 2019 Block Groups Border",
+                  "id": "alabama-2019-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "f2337fd7-201e-4b25-80ef-41ecd4206b16"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16498,
+                "name": "Alabama - 2019 Block Groups",
+                "type": "circle",
+                "source_layer": "alabama2019_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.alabama2019_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Alabama - 2019 Block Groups Centroids",
+                  "id": "alabama-2019-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "56b35a2c-1cb6-4e50-b730-6b555f37598b"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16499,
+                "name": "Alabama - 2020 Block Groups",
+                "type": "circle",
+                "source_layer": "al_20_blockgroups20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.al_20_blockgroups20_points"
+              },
+              "layers": [
+                {
+                  "name": "Alabama - 2020 Block Groups Centroids",
+                  "id": "alabama-2020-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "2c165499-4ae0-4bbe-a5be-50f4705e0138"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16500,
+                "name": "Alabama - 2020 Block Groups",
+                "type": "fill",
+                "source_layer": "al_20_blockgroups20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.al_20_blockgroups20"
+              },
+              "layers": [
+                {
+                  "name": "Alabama - 2020 Block Groups Interactive Layer",
+                  "id": "alabama-2020-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Alabama - 2020 Block Groups Border",
+                  "id": "alabama-2020-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "12c48b5b-0cae-4e93-bf2b-033041d2ec29"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16501,
+                "name": "Alabama - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "al_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.al_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "Alabama - 2020 VTDs Interactive Layer",
+                  "id": "alabama-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Alabama - 2020 VTDs Border",
+                  "id": "alabama-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "7ec4a4de-1c6a-4208-8664-a5a5a0702de2"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16502,
+                "name": "Alabama - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "al_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.al_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "Alabama - 2020 VTDs Centroids",
+                  "id": "alabama-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "07f0f7a9-a657-4722-a00a-57c06554f4d4"
+        }
+      ],
+      "unit_count": 105,
+      "unit_type": "Block Groups",
+      "unit_name": "State House",
+      "unit_name_plural": "State House Districts",
+      "bounds": [
+        [-88.4732, 30.1444],
+        [-84.8882, 35.008]
+      ]
+    },
+    {
+      "id": 10895,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/10895/",
+        "html_url": "http://localhost:8080/states/alabama/alabama-state-senate-districts-12347/",
+        "slug": "alabama-state-senate-districts-12347",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:26:48.853011-05:00",
+        "alias_of": null
+      },
+      "title": "Alabama State Senate Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16495,
+                "name": "Alabama - Block Groups",
+                "type": "fill",
+                "source_layer": "alabama_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.alabama_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Alabama - Block Groups Interactive Layer",
+                  "id": "alabama-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Alabama - Block Groups Border",
+                  "id": "alabama-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "1b09e192-e46f-44e9-ae4a-1ff25f92012b"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16496,
+                "name": "Alabama - Block Groups",
+                "type": "circle",
+                "source_layer": "alabama_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.alabama_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Alabama - Block Groups Centroids",
+                  "id": "alabama-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "f930ac83-e668-4d23-8ce3-5f9bee9903d7"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16497,
+                "name": "Alabama - 2019 Block Groups",
+                "type": "fill",
+                "source_layer": "alabama2019_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.alabama2019_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Alabama - 2019 Block Groups Interactive Layer",
+                  "id": "alabama-2019-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Alabama - 2019 Block Groups Border",
+                  "id": "alabama-2019-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "ebbadb54-ed4d-46f9-8b66-a7b3994ea77f"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16498,
+                "name": "Alabama - 2019 Block Groups",
+                "type": "circle",
+                "source_layer": "alabama2019_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.alabama2019_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Alabama - 2019 Block Groups Centroids",
+                  "id": "alabama-2019-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "3522efdc-a020-43ba-a931-237d54de27f9"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16499,
+                "name": "Alabama - 2020 Block Groups",
+                "type": "circle",
+                "source_layer": "al_20_blockgroups20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.al_20_blockgroups20_points"
+              },
+              "layers": [
+                {
+                  "name": "Alabama - 2020 Block Groups Centroids",
+                  "id": "alabama-2020-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "313905ee-3448-415a-80ca-6a8ee793ec41"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16500,
+                "name": "Alabama - 2020 Block Groups",
+                "type": "fill",
+                "source_layer": "al_20_blockgroups20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.al_20_blockgroups20"
+              },
+              "layers": [
+                {
+                  "name": "Alabama - 2020 Block Groups Interactive Layer",
+                  "id": "alabama-2020-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Alabama - 2020 Block Groups Border",
+                  "id": "alabama-2020-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "1b76519b-d252-4aa7-8d82-6b2413f0c08e"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16501,
+                "name": "Alabama - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "al_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.al_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "Alabama - 2020 VTDs Interactive Layer",
+                  "id": "alabama-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Alabama - 2020 VTDs Border",
+                  "id": "alabama-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "d20b4e3a-bb5d-4735-860c-61ffcbe9e07a"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16502,
+                "name": "Alabama - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "al_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.al_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "Alabama - 2020 VTDs Centroids",
+                  "id": "alabama-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "383941a6-57dd-4b35-9fe9-2f7e60288e55"
+        }
+      ],
+      "unit_count": 35,
+      "unit_type": "Block Groups",
+      "unit_name": "State Senate",
+      "unit_name_plural": "State Senate Districts",
+      "bounds": [
+        [-88.4732, 30.1444],
+        [-84.8882, 35.008]
+      ]
+    }
+  ]
+}

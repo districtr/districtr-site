@@ -1,0 +1,1302 @@
+{
+  "id": 6,
+  "meta": {
+    "type": "client.MapIndexPage",
+    "detail_url": "http://localhost:8080/wagtail-api/pages/6/",
+    "html_url": "http://localhost:8080/states/alaska/",
+    "slug": "alaska",
+    "show_in_menus": false,
+    "seo_title": "",
+    "search_description": "",
+    "first_published_at": null,
+    "alias_of": null,
+    "locale": "en"
+  },
+  "title": "Alaska",
+  "counties": [
+    {
+      "id": 2137,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2137/",
+        "html_url": "http://localhost:8080/states/alaska/aleutians-east/",
+        "slug": "aleutians-east",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Aleutians East Borough",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2464,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2464/",
+        "html_url": "http://localhost:8080/states/alaska/aleutians-west/",
+        "slug": "aleutians-west",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Aleutians West Census Area",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 713,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/713/",
+        "html_url": "http://localhost:8080/states/alaska/anchorage/",
+        "slug": "anchorage",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Anchorage Municipality",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1585,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1585/",
+        "html_url": "http://localhost:8080/states/alaska/bethel/",
+        "slug": "bethel",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Bethel Census Area",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1777,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1777/",
+        "html_url": "http://localhost:8080/states/alaska/bristol-bay/",
+        "slug": "bristol-bay",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Bristol Bay Borough",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3030,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3030/",
+        "html_url": "http://localhost:8080/states/alaska/chugach/",
+        "slug": "chugach",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Chugach Census Area",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3029,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3029/",
+        "html_url": "http://localhost:8080/states/alaska/copper-river/",
+        "slug": "copper-river",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Copper River Census Area",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1345,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1345/",
+        "html_url": "http://localhost:8080/states/alaska/denali/",
+        "slug": "denali",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Denali Borough",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1871,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1871/",
+        "html_url": "http://localhost:8080/states/alaska/dillingham/",
+        "slug": "dillingham",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Dillingham Census Area",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1509,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1509/",
+        "html_url": "http://localhost:8080/states/alaska/fairbanks-north-star/",
+        "slug": "fairbanks-north-star",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Fairbanks North Star Borough",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1531,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1531/",
+        "html_url": "http://localhost:8080/states/alaska/haines/",
+        "slug": "haines",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Haines Borough",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3269,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3269/",
+        "html_url": "http://localhost:8080/states/alaska/hoonah-angoon/",
+        "slug": "hoonah-angoon",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Hoonah-Angoon Census Area",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 880,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/880/",
+        "html_url": "http://localhost:8080/states/alaska/juneau/",
+        "slug": "juneau",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Juneau City and Borough",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1315,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1315/",
+        "html_url": "http://localhost:8080/states/alaska/kenai-peninsula/",
+        "slug": "kenai-peninsula",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Kenai Peninsula Borough",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 143,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/143/",
+        "html_url": "http://localhost:8080/states/alaska/ketchikan-gateway/",
+        "slug": "ketchikan-gateway",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Ketchikan Gateway Borough",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2465,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2465/",
+        "html_url": "http://localhost:8080/states/alaska/kodiak-island/",
+        "slug": "kodiak-island",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Kodiak Island Borough",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2205,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2205/",
+        "html_url": "http://localhost:8080/states/alaska/kusilvak/",
+        "slug": "kusilvak",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Kusilvak Census Area",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1706,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1706/",
+        "html_url": "http://localhost:8080/states/alaska/lake-and-peninsula/",
+        "slug": "lake-and-peninsula",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lake and Peninsula Borough",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1954,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1954/",
+        "html_url": "http://localhost:8080/states/alaska/matanuska-susitna/",
+        "slug": "matanuska-susitna",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Matanuska-Susitna Borough",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2450,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2450/",
+        "html_url": "http://localhost:8080/states/alaska/nome/",
+        "slug": "nome",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Nome Census Area",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2319,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2319/",
+        "html_url": "http://localhost:8080/states/alaska/north-slope/",
+        "slug": "north-slope",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "North Slope Borough",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 318,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/318/",
+        "html_url": "http://localhost:8080/states/alaska/northwest-arctic/",
+        "slug": "northwest-arctic",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Northwest Arctic Borough",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 861,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/861/",
+        "html_url": "http://localhost:8080/states/alaska/petersburg/",
+        "slug": "petersburg",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Petersburg Borough",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 860,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/860/",
+        "html_url": "http://localhost:8080/states/alaska/prince-of-wales-hyder/",
+        "slug": "prince-of-wales-hyder",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Prince of Wales-Hyder Census Area",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 393,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/393/",
+        "html_url": "http://localhost:8080/states/alaska/sitka/",
+        "slug": "sitka",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Sitka City and Borough",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3268,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3268/",
+        "html_url": "http://localhost:8080/states/alaska/skagway/",
+        "slug": "skagway",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Skagway Municipality",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1350,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1350/",
+        "html_url": "http://localhost:8080/states/alaska/southeast-fairbanks/",
+        "slug": "southeast-fairbanks",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Southeast Fairbanks Census Area",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 863,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/863/",
+        "html_url": "http://localhost:8080/states/alaska/wrangell/",
+        "slug": "wrangell",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Wrangell City and Borough",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2637,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2637/",
+        "html_url": "http://localhost:8080/states/alaska/yakutat/",
+        "slug": "yakutat",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Yakutat City and Borough",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 596,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/596/",
+        "html_url": "http://localhost:8080/states/alaska/yukon-koyukuk/",
+        "slug": "yukon-koyukuk",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Yukon-Koyukuk Census Area",
+      "body": "",
+      "live": true
+    }
+  ],
+  "problems": [
+    {
+      "id": 10897,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/10897/",
+        "html_url": "http://localhost:8080/states/alaska/alaska-state-house-districts-12349/",
+        "slug": "alaska-state-house-districts-12349",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:26:49.646335-05:00",
+        "alias_of": null
+      },
+      "title": "Alaska State House Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16503,
+                "name": "Alaska - Precincts",
+                "type": "fill",
+                "source_layer": "alaska_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.alaska_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Alaska - Precincts Interactive Layer",
+                  "id": "alaska-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Alaska - Precincts Border",
+                  "id": "alaska-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "01cbb5ae-52b5-472d-8e77-dc8f29de6214"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16504,
+                "name": "Alaska - Precincts",
+                "type": "circle",
+                "source_layer": "alaska_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.alaska_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Alaska - Precincts Centroids",
+                  "id": "alaska-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "acc004bf-d348-4196-8e30-5d41c6949430"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16505,
+                "name": "Alaska - Block Groups",
+                "type": "circle",
+                "source_layer": "alaska_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.alaska_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Alaska - Block Groups Centroids",
+                  "id": "alaska-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "8dd958ff-5d53-485d-9d72-de120a9614f1"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16506,
+                "name": "Alaska - Block Groups",
+                "type": "fill",
+                "source_layer": "alaska_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.alaska_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Alaska - Block Groups Interactive Layer",
+                  "id": "alaska-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Alaska - Block Groups Border",
+                  "id": "alaska-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "c719cea7-d515-46c0-9f43-d04519da3c7f"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16507,
+                "name": "Alaska - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "ak_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ak_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "Alaska - 2020 VTDs Interactive Layer",
+                  "id": "alaska-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Alaska - 2020 VTDs Border",
+                  "id": "alaska-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "b44a6a72-da4e-4c0c-a611-d1804bd86d2c"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16508,
+                "name": "Alaska - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "ak_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ak_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "Alaska - 2020 VTDs Centroids",
+                  "id": "alaska-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "ae197f71-c052-41e5-b13a-862d587a58fa"
+        }
+      ],
+      "unit_count": 40,
+      "unit_type": "Precincts",
+      "unit_name": "State House",
+      "unit_name_plural": "State House Districts",
+      "bounds": [
+        [-179.2311, 51.1751],
+        [-130.0, 71.4411]
+      ]
+    },
+    {
+      "id": 10899,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/10899/",
+        "html_url": "http://localhost:8080/states/alaska/alaska-state-house-districts-12351/",
+        "slug": "alaska-state-house-districts-12351",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:26:50.290063-05:00",
+        "alias_of": null
+      },
+      "title": "Alaska State House Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16509,
+                "name": "Alaska - Blocks",
+                "type": "circle",
+                "source_layer": "alaska_blocks_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.alaska_blocks_points"
+              },
+              "layers": [
+                {
+                  "name": "Alaska - Blocks Centroids",
+                  "id": "alaska-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "d1bbe810-5992-4a79-8014-746749b9d266"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16510,
+                "name": "Alaska - Blocks",
+                "type": "fill",
+                "source_layer": "alaska_blocks",
+                "source_type": "vector",
+                "url": "mapbox://districtr.alaska_blocks"
+              },
+              "layers": [
+                {
+                  "name": "Alaska - Blocks Interactive Layer",
+                  "id": "alaska-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Alaska - Blocks Border",
+                  "id": "alaska-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "5551a777-02ce-4801-8153-bd525c1f0587"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16511,
+                "name": "Alaska - 2020 Blocks",
+                "type": "fill",
+                "source_layer": "ak_blocks20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ak_blocks20?v=2"
+              },
+              "layers": [
+                {
+                  "name": "Alaska - 2020 Blocks Interactive Layer",
+                  "id": "alaska-2020-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Alaska - 2020 Blocks Border",
+                  "id": "alaska-2020-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "717f28e6-5b2e-4fb8-96b5-69e398977df0"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16512,
+                "name": "Alaska - 2020 Blocks",
+                "type": "circle",
+                "source_layer": "ak_blocks20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ak_blocks20_points?v=2"
+              },
+              "layers": [
+                {
+                  "name": "Alaska - 2020 Blocks Centroids",
+                  "id": "alaska-2020-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "7ca4f9d7-6f1a-4f41-8881-a11724e65260"
+        }
+      ],
+      "unit_count": 40,
+      "unit_type": "Blocks",
+      "unit_name": "State House",
+      "unit_name_plural": "State House Districts",
+      "bounds": [
+        [-179.2311, 51.1751],
+        [-129.98, 71.4398]
+      ]
+    },
+    {
+      "id": 10898,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/10898/",
+        "html_url": "http://localhost:8080/states/alaska/alaska-state-senate-districts-12350/",
+        "slug": "alaska-state-senate-districts-12350",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:26:50.146113-05:00",
+        "alias_of": null
+      },
+      "title": "Alaska State Senate Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16509,
+                "name": "Alaska - Blocks",
+                "type": "circle",
+                "source_layer": "alaska_blocks_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.alaska_blocks_points"
+              },
+              "layers": [
+                {
+                  "name": "Alaska - Blocks Centroids",
+                  "id": "alaska-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "ca516283-dadb-417d-8f23-bd77da8d317e"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16510,
+                "name": "Alaska - Blocks",
+                "type": "fill",
+                "source_layer": "alaska_blocks",
+                "source_type": "vector",
+                "url": "mapbox://districtr.alaska_blocks"
+              },
+              "layers": [
+                {
+                  "name": "Alaska - Blocks Interactive Layer",
+                  "id": "alaska-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Alaska - Blocks Border",
+                  "id": "alaska-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "68061ed1-cff5-4c52-93de-89c33b7543bf"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16511,
+                "name": "Alaska - 2020 Blocks",
+                "type": "fill",
+                "source_layer": "ak_blocks20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ak_blocks20?v=2"
+              },
+              "layers": [
+                {
+                  "name": "Alaska - 2020 Blocks Interactive Layer",
+                  "id": "alaska-2020-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Alaska - 2020 Blocks Border",
+                  "id": "alaska-2020-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "4d674b8f-1e7d-4206-b07b-a72b6110e7ac"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16512,
+                "name": "Alaska - 2020 Blocks",
+                "type": "circle",
+                "source_layer": "ak_blocks20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ak_blocks20_points?v=2"
+              },
+              "layers": [
+                {
+                  "name": "Alaska - 2020 Blocks Centroids",
+                  "id": "alaska-2020-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "0caba0f5-5c44-49b6-bf83-09920dc821c3"
+        }
+      ],
+      "unit_count": 20,
+      "unit_type": "Blocks",
+      "unit_name": "State Senate",
+      "unit_name_plural": "State Senate Districts",
+      "bounds": [
+        [-179.2311, 51.1751],
+        [-129.98, 71.4398]
+      ]
+    },
+    {
+      "id": 10896,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/10896/",
+        "html_url": "http://localhost:8080/states/alaska/alaska-state-senate-districts-12348/",
+        "slug": "alaska-state-senate-districts-12348",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:26:49.381109-05:00",
+        "alias_of": null
+      },
+      "title": "Alaska State Senate Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16503,
+                "name": "Alaska - Precincts",
+                "type": "fill",
+                "source_layer": "alaska_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.alaska_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Alaska - Precincts Interactive Layer",
+                  "id": "alaska-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Alaska - Precincts Border",
+                  "id": "alaska-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "06f7c4d7-186e-4249-b9e8-c6252e71f5d1"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16504,
+                "name": "Alaska - Precincts",
+                "type": "circle",
+                "source_layer": "alaska_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.alaska_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Alaska - Precincts Centroids",
+                  "id": "alaska-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "08417274-5989-40ab-8801-494bee793021"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16505,
+                "name": "Alaska - Block Groups",
+                "type": "circle",
+                "source_layer": "alaska_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.alaska_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Alaska - Block Groups Centroids",
+                  "id": "alaska-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "3e7a7009-4b89-430e-b104-2673a38633a4"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16506,
+                "name": "Alaska - Block Groups",
+                "type": "fill",
+                "source_layer": "alaska_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.alaska_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Alaska - Block Groups Interactive Layer",
+                  "id": "alaska-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Alaska - Block Groups Border",
+                  "id": "alaska-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "c6e40a21-9594-4918-9e7b-642b932421e0"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16507,
+                "name": "Alaska - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "ak_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ak_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "Alaska - 2020 VTDs Interactive Layer",
+                  "id": "alaska-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Alaska - 2020 VTDs Border",
+                  "id": "alaska-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "9eeeda29-43d0-4862-b28b-b179eb4c9bf8"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16508,
+                "name": "Alaska - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "ak_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ak_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "Alaska - 2020 VTDs Centroids",
+                  "id": "alaska-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "9606c122-6c82-4438-bbb0-954715f86502"
+        }
+      ],
+      "unit_count": 20,
+      "unit_type": "Precincts",
+      "unit_name": "State Senate",
+      "unit_name_plural": "State Senate Districts",
+      "bounds": [
+        [-179.2311, 51.1751],
+        [-130.0, 71.4411]
+      ]
+    }
+  ]
+}

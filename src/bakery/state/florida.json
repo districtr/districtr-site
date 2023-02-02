@@ -1,0 +1,2850 @@
+{
+  "id": 14,
+  "meta": {
+    "type": "client.MapIndexPage",
+    "detail_url": "http://localhost:8080/wagtail-api/pages/14/",
+    "html_url": "http://localhost:8080/states/florida/",
+    "slug": "florida",
+    "show_in_menus": false,
+    "seo_title": "",
+    "search_description": "",
+    "first_published_at": null,
+    "alias_of": null,
+    "locale": "en"
+  },
+  "title": "Florida",
+  "counties": [
+    {
+      "id": 2714,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2714/",
+        "html_url": "http://localhost:8080/states/florida/alachua/",
+        "slug": "alachua",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Alachua County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2262,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2262/",
+        "html_url": "http://localhost:8080/states/florida/baker/",
+        "slug": "baker",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Baker County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1782,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1782/",
+        "html_url": "http://localhost:8080/states/florida/bay/",
+        "slug": "bay",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Bay County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1245,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1245/",
+        "html_url": "http://localhost:8080/states/florida/bradford/",
+        "slug": "bradford",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Bradford County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2840,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2840/",
+        "html_url": "http://localhost:8080/states/florida/brevard/",
+        "slug": "brevard",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Brevard County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 358,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/358/",
+        "html_url": "http://localhost:8080/states/florida/broward/",
+        "slug": "broward",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Broward County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 794,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/794/",
+        "html_url": "http://localhost:8080/states/florida/calhoun/",
+        "slug": "calhoun",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Calhoun County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3278,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3278/",
+        "html_url": "http://localhost:8080/states/florida/charlotte/",
+        "slug": "charlotte",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Charlotte County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 483,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/483/",
+        "html_url": "http://localhost:8080/states/florida/citrus/",
+        "slug": "citrus",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Citrus County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2445,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2445/",
+        "html_url": "http://localhost:8080/states/florida/clay/",
+        "slug": "clay",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Clay County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2258,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2258/",
+        "html_url": "http://localhost:8080/states/florida/collier/",
+        "slug": "collier",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Collier County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2232,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2232/",
+        "html_url": "http://localhost:8080/states/florida/columbia/",
+        "slug": "columbia",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Columbia County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 740,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/740/",
+        "html_url": "http://localhost:8080/states/florida/desoto/",
+        "slug": "desoto",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "DeSoto County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1348,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1348/",
+        "html_url": "http://localhost:8080/states/florida/dixie/",
+        "slug": "dixie",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Dixie County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1301,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1301/",
+        "html_url": "http://localhost:8080/states/florida/duval/",
+        "slug": "duval",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Duval County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1429,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1429/",
+        "html_url": "http://localhost:8080/states/florida/escambia/",
+        "slug": "escambia",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Escambia County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1669,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1669/",
+        "html_url": "http://localhost:8080/states/florida/flagler/",
+        "slug": "flagler",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Flagler County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1073,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1073/",
+        "html_url": "http://localhost:8080/states/florida/franklin/",
+        "slug": "franklin",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Franklin County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3057,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3057/",
+        "html_url": "http://localhost:8080/states/florida/gadsden/",
+        "slug": "gadsden",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Gadsden County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 441,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/441/",
+        "html_url": "http://localhost:8080/states/florida/gilchrist/",
+        "slug": "gilchrist",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Gilchrist County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 753,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/753/",
+        "html_url": "http://localhost:8080/states/florida/glades/",
+        "slug": "glades",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Glades County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3179,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3179/",
+        "html_url": "http://localhost:8080/states/florida/gulf/",
+        "slug": "gulf",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Gulf County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1953,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1953/",
+        "html_url": "http://localhost:8080/states/florida/hamilton/",
+        "slug": "hamilton",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Hamilton County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2728,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2728/",
+        "html_url": "http://localhost:8080/states/florida/hardee/",
+        "slug": "hardee",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Hardee County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 270,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/270/",
+        "html_url": "http://localhost:8080/states/florida/hendry/",
+        "slug": "hendry",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Hendry County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 139,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/139/",
+        "html_url": "http://localhost:8080/states/florida/hernando/",
+        "slug": "hernando",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Hernando County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 476,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/476/",
+        "html_url": "http://localhost:8080/states/florida/highlands/",
+        "slug": "highlands",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Highlands County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3274,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3274/",
+        "html_url": "http://localhost:8080/states/florida/hillsborough/",
+        "slug": "hillsborough",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Hillsborough County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2233,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2233/",
+        "html_url": "http://localhost:8080/states/florida/holmes/",
+        "slug": "holmes",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Holmes County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3005,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3005/",
+        "html_url": "http://localhost:8080/states/florida/indian-river/",
+        "slug": "indian-river",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Indian River County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2653,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2653/",
+        "html_url": "http://localhost:8080/states/florida/jackson/",
+        "slug": "jackson",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Jackson County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1874,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1874/",
+        "html_url": "http://localhost:8080/states/florida/jefferson/",
+        "slug": "jefferson",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Jefferson County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1923,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1923/",
+        "html_url": "http://localhost:8080/states/florida/lafayette/",
+        "slug": "lafayette",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lafayette County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 942,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/942/",
+        "html_url": "http://localhost:8080/states/florida/lake/",
+        "slug": "lake",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lake County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1739,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1739/",
+        "html_url": "http://localhost:8080/states/florida/lee/",
+        "slug": "lee",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lee County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3191,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3191/",
+        "html_url": "http://localhost:8080/states/florida/leon/",
+        "slug": "leon",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Leon County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1956,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1956/",
+        "html_url": "http://localhost:8080/states/florida/levy/",
+        "slug": "levy",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Levy County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2855,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2855/",
+        "html_url": "http://localhost:8080/states/florida/liberty/",
+        "slug": "liberty",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Liberty County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2459,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2459/",
+        "html_url": "http://localhost:8080/states/florida/madison/",
+        "slug": "madison",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Madison County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 786,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/786/",
+        "html_url": "http://localhost:8080/states/florida/manatee/",
+        "slug": "manatee",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Manatee County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2522,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2522/",
+        "html_url": "http://localhost:8080/states/florida/marion/",
+        "slug": "marion",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Marion County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1338,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1338/",
+        "html_url": "http://localhost:8080/states/florida/martin/",
+        "slug": "martin",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Martin County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 445,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/445/",
+        "html_url": "http://localhost:8080/states/florida/miami-dade/",
+        "slug": "miami-dade",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Miami-Dade County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1464,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1464/",
+        "html_url": "http://localhost:8080/states/florida/monroe/",
+        "slug": "monroe",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Monroe County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2760,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2760/",
+        "html_url": "http://localhost:8080/states/florida/nassau/",
+        "slug": "nassau",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Nassau County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2170,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2170/",
+        "html_url": "http://localhost:8080/states/florida/okaloosa/",
+        "slug": "okaloosa",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Okaloosa County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 656,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/656/",
+        "html_url": "http://localhost:8080/states/florida/okeechobee/",
+        "slug": "okeechobee",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Okeechobee County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 301,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/301/",
+        "html_url": "http://localhost:8080/states/florida/orange/",
+        "slug": "orange",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Orange County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2516,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2516/",
+        "html_url": "http://localhost:8080/states/florida/osceola/",
+        "slug": "osceola",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Osceola County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 386,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/386/",
+        "html_url": "http://localhost:8080/states/florida/palm-beach/",
+        "slug": "palm-beach",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Palm Beach County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1086,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1086/",
+        "html_url": "http://localhost:8080/states/florida/pasco/",
+        "slug": "pasco",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Pasco County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1002,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1002/",
+        "html_url": "http://localhost:8080/states/florida/pinellas/",
+        "slug": "pinellas",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Pinellas County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2089,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2089/",
+        "html_url": "http://localhost:8080/states/florida/polk/",
+        "slug": "polk",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Polk County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1855,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1855/",
+        "html_url": "http://localhost:8080/states/florida/putnam/",
+        "slug": "putnam",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Putnam County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2778,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2778/",
+        "html_url": "http://localhost:8080/states/florida/santa-rosa/",
+        "slug": "santa-rosa",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Santa Rosa County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2286,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2286/",
+        "html_url": "http://localhost:8080/states/florida/sarasota/",
+        "slug": "sarasota",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Sarasota County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1143,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1143/",
+        "html_url": "http://localhost:8080/states/florida/seminole/",
+        "slug": "seminole",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Seminole County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 714,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/714/",
+        "html_url": "http://localhost:8080/states/florida/st-johns/",
+        "slug": "st-johns",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "St. Johns County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2147,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2147/",
+        "html_url": "http://localhost:8080/states/florida/st-lucie/",
+        "slug": "st-lucie",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "St. Lucie County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1087,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1087/",
+        "html_url": "http://localhost:8080/states/florida/sumter/",
+        "slug": "sumter",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Sumter County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2407,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2407/",
+        "html_url": "http://localhost:8080/states/florida/suwannee/",
+        "slug": "suwannee",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Suwannee County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2414,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2414/",
+        "html_url": "http://localhost:8080/states/florida/taylor/",
+        "slug": "taylor",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Taylor County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2419,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2419/",
+        "html_url": "http://localhost:8080/states/florida/union/",
+        "slug": "union",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Union County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 146,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/146/",
+        "html_url": "http://localhost:8080/states/florida/volusia/",
+        "slug": "volusia",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Volusia County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 140,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/140/",
+        "html_url": "http://localhost:8080/states/florida/wakulla/",
+        "slug": "wakulla",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Wakulla County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 141,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/141/",
+        "html_url": "http://localhost:8080/states/florida/walton/",
+        "slug": "walton",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Walton County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2761,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2761/",
+        "html_url": "http://localhost:8080/states/florida/washington/",
+        "slug": "washington",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Washington County",
+      "body": "",
+      "live": true
+    }
+  ],
+  "problems": [
+    {
+      "id": 11058,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11058/",
+        "html_url": "http://localhost:8080/states/florida/florida-commission-districts-12510/",
+        "slug": "florida-commission-districts-12510",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:35.007236-05:00",
+        "alias_of": null
+      },
+      "title": "City of Miami, Florida Commission Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16980,
+                "name": "Florida - City of Miami - Blocks",
+                "type": "fill",
+                "source_layer": "miamifl_blocks",
+                "source_type": "vector",
+                "url": "mapbox://districtr.miamifl_blocks"
+              },
+              "layers": [
+                {
+                  "name": "Florida - City of Miami - Blocks Interactive Layer",
+                  "id": "florida-city-of-miami-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Florida - City of Miami - Blocks Border",
+                  "id": "florida-city-of-miami-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "c413b131-0bf5-436b-81ed-3d50ee2c74d1"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16981,
+                "name": "Florida - City of Miami - Blocks",
+                "type": "circle",
+                "source_layer": "miamifl_blocks_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.miamifl_blocks_points"
+              },
+              "layers": [
+                {
+                  "name": "Florida - City of Miami - Blocks Centroids",
+                  "id": "florida-city-of-miami-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "9884c509-4394-405f-a538-46c373d988a2"
+        }
+      ],
+      "unit_count": 5,
+      "unit_type": "Blocks",
+      "unit_name": "City Commission",
+      "unit_name_plural": "Commission Districts",
+      "bounds": [
+        [-80.3198, 25.709],
+        [-80.1397, 25.8556]
+      ]
+    },
+    {
+      "id": 11061,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11061/",
+        "html_url": "http://localhost:8080/states/florida/florida-congressional-districts-12513/",
+        "slug": "florida-congressional-districts-12513",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:36.544335-05:00",
+        "alias_of": null
+      },
+      "title": "Florida Congressional Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16986,
+                "name": "Florida - 2020 Block Groups",
+                "type": "circle",
+                "source_layer": "fl_20_blockgroups20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.fl_20_blockgroups20_points"
+              },
+              "layers": [
+                {
+                  "name": "Florida - 2020 Block Groups Centroids",
+                  "id": "florida-2020-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "a0b7bcab-a8d9-4519-929d-b465373adb99"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16987,
+                "name": "Florida - 2020 Block Groups",
+                "type": "fill",
+                "source_layer": "fl_20_blockgroups20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.fl_20_blockgroups20"
+              },
+              "layers": [
+                {
+                  "name": "Florida - 2020 Block Groups Interactive Layer",
+                  "id": "florida-2020-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Florida - 2020 Block Groups Border",
+                  "id": "florida-2020-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "85db2c0d-d87c-48ac-9cdf-068662a83592"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16988,
+                "name": "Florida - Block Groups",
+                "type": "circle",
+                "source_layer": "florida_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.florida_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Florida - Block Groups Centroids",
+                  "id": "florida-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "53f28ffa-7204-4520-a7f4-8faceda7b457"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16989,
+                "name": "Florida - Block Groups",
+                "type": "fill",
+                "source_layer": "florida_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.florida_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Florida - Block Groups Interactive Layer",
+                  "id": "florida-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Florida - Block Groups Border",
+                  "id": "florida-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "f0d74f82-c431-466f-be63-8db0fb286310"
+        }
+      ],
+      "unit_count": 27,
+      "unit_type": "Block Groups",
+      "unit_name": "Congress",
+      "unit_name_plural": "Congressional Districts",
+      "bounds": [
+        [-87.6349, 24.3963],
+        [-79.9743, 31.001]
+      ]
+    },
+    {
+      "id": 11060,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11060/",
+        "html_url": "http://localhost:8080/states/florida/florida-reapportioned-congressional-districts-12512/",
+        "slug": "florida-reapportioned-congressional-districts-12512",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:36.380052-05:00",
+        "alias_of": null
+      },
+      "title": "Florida Reapportioned Congressional Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16986,
+                "name": "Florida - 2020 Block Groups",
+                "type": "circle",
+                "source_layer": "fl_20_blockgroups20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.fl_20_blockgroups20_points"
+              },
+              "layers": [
+                {
+                  "name": "Florida - 2020 Block Groups Centroids",
+                  "id": "florida-2020-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "d84d21b5-6b0d-45ec-9176-52460a85e3e4"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16987,
+                "name": "Florida - 2020 Block Groups",
+                "type": "fill",
+                "source_layer": "fl_20_blockgroups20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.fl_20_blockgroups20"
+              },
+              "layers": [
+                {
+                  "name": "Florida - 2020 Block Groups Interactive Layer",
+                  "id": "florida-2020-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Florida - 2020 Block Groups Border",
+                  "id": "florida-2020-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "550cbbce-c4f6-4736-a750-c3cf679569dc"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16988,
+                "name": "Florida - Block Groups",
+                "type": "circle",
+                "source_layer": "florida_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.florida_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Florida - Block Groups Centroids",
+                  "id": "florida-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "dc47dba1-0d45-4e87-a69a-61ef5cc3bc7e"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16989,
+                "name": "Florida - Block Groups",
+                "type": "fill",
+                "source_layer": "florida_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.florida_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Florida - Block Groups Interactive Layer",
+                  "id": "florida-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Florida - Block Groups Border",
+                  "id": "florida-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "3de15ae6-6885-4253-81bf-245c60aa4a85"
+        }
+      ],
+      "unit_count": 28,
+      "unit_type": "Block Groups",
+      "unit_name": "2020 Reapportioned Congress",
+      "unit_name_plural": "Reapportioned Congressional Districts",
+      "bounds": [
+        [-87.6349, 24.3963],
+        [-79.9743, 31.001]
+      ]
+    },
+    {
+      "id": 11062,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11062/",
+        "html_url": "http://localhost:8080/states/florida/florida-state-house-districts-12514/",
+        "slug": "florida-state-house-districts-12514",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:36.711040-05:00",
+        "alias_of": null
+      },
+      "title": "Florida State House Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16986,
+                "name": "Florida - 2020 Block Groups",
+                "type": "circle",
+                "source_layer": "fl_20_blockgroups20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.fl_20_blockgroups20_points"
+              },
+              "layers": [
+                {
+                  "name": "Florida - 2020 Block Groups Centroids",
+                  "id": "florida-2020-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "30e8582e-6f1d-4bf6-a37c-e5440c3f62e3"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16987,
+                "name": "Florida - 2020 Block Groups",
+                "type": "fill",
+                "source_layer": "fl_20_blockgroups20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.fl_20_blockgroups20"
+              },
+              "layers": [
+                {
+                  "name": "Florida - 2020 Block Groups Interactive Layer",
+                  "id": "florida-2020-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Florida - 2020 Block Groups Border",
+                  "id": "florida-2020-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "b403b556-547d-432f-b1de-bb6be7943db6"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16988,
+                "name": "Florida - Block Groups",
+                "type": "circle",
+                "source_layer": "florida_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.florida_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Florida - Block Groups Centroids",
+                  "id": "florida-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "4ccd9468-1068-4fe8-9db0-dd8641a72446"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16989,
+                "name": "Florida - Block Groups",
+                "type": "fill",
+                "source_layer": "florida_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.florida_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Florida - Block Groups Interactive Layer",
+                  "id": "florida-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Florida - Block Groups Border",
+                  "id": "florida-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "5b583fcb-020d-47cd-975e-c27dfc7c2cb0"
+        }
+      ],
+      "unit_count": 120,
+      "unit_type": "Block Groups",
+      "unit_name": "State House",
+      "unit_name_plural": "State House Districts",
+      "bounds": [
+        [-87.6349, 24.3963],
+        [-79.9743, 31.001]
+      ]
+    },
+    {
+      "id": 11063,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11063/",
+        "html_url": "http://localhost:8080/states/florida/florida-state-senate-districts-12515/",
+        "slug": "florida-state-senate-districts-12515",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:36.874973-05:00",
+        "alias_of": null
+      },
+      "title": "Florida State Senate Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16986,
+                "name": "Florida - 2020 Block Groups",
+                "type": "circle",
+                "source_layer": "fl_20_blockgroups20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.fl_20_blockgroups20_points"
+              },
+              "layers": [
+                {
+                  "name": "Florida - 2020 Block Groups Centroids",
+                  "id": "florida-2020-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "b55dfc4c-f1f7-460f-86df-053c1ecba2cc"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16987,
+                "name": "Florida - 2020 Block Groups",
+                "type": "fill",
+                "source_layer": "fl_20_blockgroups20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.fl_20_blockgroups20"
+              },
+              "layers": [
+                {
+                  "name": "Florida - 2020 Block Groups Interactive Layer",
+                  "id": "florida-2020-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Florida - 2020 Block Groups Border",
+                  "id": "florida-2020-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "92add910-c904-4cc5-878d-b259d8647d11"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16988,
+                "name": "Florida - Block Groups",
+                "type": "circle",
+                "source_layer": "florida_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.florida_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Florida - Block Groups Centroids",
+                  "id": "florida-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "058131a6-e055-4f3d-8115-f0c8d68fc3ce"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16989,
+                "name": "Florida - Block Groups",
+                "type": "fill",
+                "source_layer": "florida_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.florida_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Florida - Block Groups Interactive Layer",
+                  "id": "florida-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Florida - Block Groups Border",
+                  "id": "florida-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "5f5f0a98-832b-433c-a77a-9a679765c25a"
+        }
+      ],
+      "unit_count": 40,
+      "unit_type": "Block Groups",
+      "unit_name": "State Senate",
+      "unit_name_plural": "State Senate Districts",
+      "bounds": [
+        [-87.6349, 24.3963],
+        [-79.9743, 31.001]
+      ]
+    },
+    {
+      "id": 11070,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11070/",
+        "html_url": "http://localhost:8080/states/florida/florida-wards-12522/",
+        "slug": "florida-wards-12522",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:39.451504-05:00",
+        "alias_of": null
+      },
+      "title": "Fort Myers, Florida Wards",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17006,
+                "name": "Florida - Fort Myers - 2020 Blocks",
+                "type": "circle",
+                "source_layer": "ftmyers_blocks20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ftmyers_blocks20_points"
+              },
+              "layers": [
+                {
+                  "name": "Florida - Fort Myers - 2020 Blocks Centroids",
+                  "id": "florida-fort-myers-2020-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "db8229ea-73cf-408c-90de-eec9e6b5a952"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17007,
+                "name": "Florida - Fort Myers - 2020 Blocks",
+                "type": "fill",
+                "source_layer": "ftmyers_blocks20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ftmyers_blocks20"
+              },
+              "layers": [
+                {
+                  "name": "Florida - Fort Myers - 2020 Blocks Interactive Layer",
+                  "id": "florida-fort-myers-2020-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Florida - Fort Myers - 2020 Blocks Border",
+                  "id": "florida-fort-myers-2020-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "3febbb3d-6a3e-4f08-a55d-932c85ba371f"
+        }
+      ],
+      "unit_count": 6,
+      "unit_type": "Blocks",
+      "unit_name": "City Council",
+      "unit_name_plural": "Wards",
+      "bounds": [
+        [-81.9137, 26.5481],
+        [-81.7496, 26.6891]
+      ]
+    },
+    {
+      "id": 11064,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11064/",
+        "html_url": "http://localhost:8080/states/florida/florida-commission-districts-12516/",
+        "slug": "florida-commission-districts-12516",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:37.251459-05:00",
+        "alias_of": null
+      },
+      "title": "Hillsborough County, Florida Commission Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16990,
+                "name": "Florida - Hillsborough County - 2020 Block Groups",
+                "type": "circle",
+                "source_layer": "fl_hills_20_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.fl_hills_20_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Florida - Hillsborough County - 2020 Block Groups Centroids",
+                  "id": "florida-hillsborough-county-2020-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "d8accb43-34e4-47f9-8f97-e4c59f9425de"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16991,
+                "name": "Florida - Hillsborough County - 2020 Block Groups",
+                "type": "fill",
+                "source_layer": "fl_hills_20_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.fl_hills_20_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Florida - Hillsborough County - 2020 Block Groups Interactive Layer",
+                  "id": "florida-hillsborough-county-2020-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Florida - Hillsborough County - 2020 Block Groups Border",
+                  "id": "florida-hillsborough-county-2020-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "e2dceb2c-3f66-4d3a-99b1-25ea71e7f557"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16992,
+                "name": "Florida - Hillsborough County - Block Groups",
+                "type": "circle",
+                "source_layer": "fl_hills_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.fl_hills_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Florida - Hillsborough County - Block Groups Centroids",
+                  "id": "florida-hillsborough-county-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "a532a4b7-2d13-4459-973c-2d075c869007"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16993,
+                "name": "Florida - Hillsborough County - Block Groups",
+                "type": "fill",
+                "source_layer": "fl_hills_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.fl_hills_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Florida - Hillsborough County - Block Groups Interactive Layer",
+                  "id": "florida-hillsborough-county-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Florida - Hillsborough County - Block Groups Border",
+                  "id": "florida-hillsborough-county-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "7fe516ef-3dd4-4765-be35-2a3e87d19215"
+        }
+      ],
+      "unit_count": 4,
+      "unit_type": "Block Groups",
+      "unit_name": "Commission Districts",
+      "unit_name_plural": "Commission Districts",
+      "bounds": [
+        [-82.7709, 27.5706],
+        [-82.054, 28.1734]
+      ]
+    },
+    {
+      "id": 11067,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11067/",
+        "html_url": "http://localhost:8080/states/florida/florida-commission-districts-12519/",
+        "slug": "florida-commission-districts-12519",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:38.366752-05:00",
+        "alias_of": null
+      },
+      "title": "Kissimmee, Florida Commission Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17000,
+                "name": "Florida - Kissimmee - Blocks",
+                "type": "circle",
+                "source_layer": "kissimmee_blocks_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.kissimmee_blocks_points"
+              },
+              "layers": [
+                {
+                  "name": "Florida - Kissimmee - Blocks Centroids",
+                  "id": "florida-kissimmee-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "2813e906-ebf1-427c-9241-adf8c7014dd7"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17001,
+                "name": "Florida - Kissimmee - Blocks",
+                "type": "fill",
+                "source_layer": "kissimmee_blocks",
+                "source_type": "vector",
+                "url": "mapbox://districtr.kissimmee_blocks"
+              },
+              "layers": [
+                {
+                  "name": "Florida - Kissimmee - Blocks Interactive Layer",
+                  "id": "florida-kissimmee-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Florida - Kissimmee - Blocks Border",
+                  "id": "florida-kissimmee-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "b38de669-9927-4c5a-8e01-b290893fe2bb"
+        }
+      ],
+      "unit_count": 4,
+      "unit_type": "Blocks",
+      "unit_name": "City Commission",
+      "unit_name_plural": "Commission Districts",
+      "bounds": [
+        [-81.4858, 28.2483],
+        [-81.3136, 28.348]
+      ]
+    },
+    {
+      "id": 11059,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11059/",
+        "html_url": "http://localhost:8080/states/florida/florida-commission-districts-12511/",
+        "slug": "florida-commission-districts-12511",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:35.396840-05:00",
+        "alias_of": null
+      },
+      "title": "Miami-Dade County, Florida Commission Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16982,
+                "name": "Florida - Miami-Dade County - 2020 Block Groups",
+                "type": "circle",
+                "source_layer": "miamidade_20_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.miamidade_20_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Florida - Miami-Dade County - 2020 Block Groups Centroids",
+                  "id": "florida-miami-dade-county-2020-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "8d8e3a51-bf65-4ed7-8268-5b4a9c0e94d7"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16983,
+                "name": "Florida - Miami-Dade County - 2020 Block Groups",
+                "type": "fill",
+                "source_layer": "miamidade_20_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.miamidade_20_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Florida - Miami-Dade County - 2020 Block Groups Interactive Layer",
+                  "id": "florida-miami-dade-county-2020-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Florida - Miami-Dade County - 2020 Block Groups Border",
+                  "id": "florida-miami-dade-county-2020-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "7b8d9226-e8f0-436c-a7cb-4fa7d2c9e846"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16984,
+                "name": "Florida - Miami-Dade County - Block Groups",
+                "type": "fill",
+                "source_layer": "miamidade3_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.miamidade3_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Florida - Miami-Dade County - Block Groups Interactive Layer",
+                  "id": "florida-miami-dade-county-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Florida - Miami-Dade County - Block Groups Border",
+                  "id": "florida-miami-dade-county-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "f6254219-f29b-49bb-9fc4-c80ab767cd42"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16985,
+                "name": "Florida - Miami-Dade County - Block Groups",
+                "type": "circle",
+                "source_layer": "miamidade3_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.miamidade3_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Florida - Miami-Dade County - Block Groups Centroids",
+                  "id": "florida-miami-dade-county-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "03c498e3-c077-493d-8cf7-c6a142dae8bb"
+        }
+      ],
+      "unit_count": 13,
+      "unit_type": "Block Groups",
+      "unit_name": "County Commission",
+      "unit_name_plural": "Commission Districts",
+      "bounds": [
+        [-80.8736, 25.1374],
+        [-80.1102, 25.9794]
+      ]
+    },
+    {
+      "id": 11065,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11065/",
+        "html_url": "http://localhost:8080/states/florida/florida-commission-districts-12517/",
+        "slug": "florida-commission-districts-12517",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:37.630650-05:00",
+        "alias_of": null
+      },
+      "title": "Orange County, Florida Commission Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16994,
+                "name": "Florida - Orange County - Block Groups",
+                "type": "circle",
+                "source_layer": "fl_orange_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.fl_orange_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Florida - Orange County - Block Groups Centroids",
+                  "id": "florida-orange-county-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "7ffb15f0-54c9-41ae-a6eb-47a51f0d02f5"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16995,
+                "name": "Florida - Orange County - Block Groups",
+                "type": "fill",
+                "source_layer": "fl_orange_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.fl_orange_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Florida - Orange County - Block Groups Interactive Layer",
+                  "id": "florida-orange-county-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Florida - Orange County - Block Groups Border",
+                  "id": "florida-orange-county-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "6ccc56ad-c0cf-4893-bc05-e0465d0d11f8"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16996,
+                "name": "Florida - Orange County - 2020 Block Groups",
+                "type": "circle",
+                "source_layer": "fl_orange_20_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.fl_orange_20_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Florida - Orange County - 2020 Block Groups Centroids",
+                  "id": "florida-orange-county-2020-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "dad4a4a4-fc4f-4ce3-a18a-fc859b4a991e"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16997,
+                "name": "Florida - Orange County - 2020 Block Groups",
+                "type": "fill",
+                "source_layer": "fl_orange_20_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.fl_orange_20_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Florida - Orange County - 2020 Block Groups Interactive Layer",
+                  "id": "florida-orange-county-2020-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Florida - Orange County - 2020 Block Groups Border",
+                  "id": "florida-orange-county-2020-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "06e01c9e-2bda-4512-9e6d-29cd993323cc"
+        }
+      ],
+      "unit_count": 6,
+      "unit_type": "Block Groups",
+      "unit_name": "County Commission",
+      "unit_name_plural": "Commission Districts",
+      "bounds": [
+        [-81.6586, 28.3469],
+        [-80.8629, 28.7862]
+      ]
+    },
+    {
+      "id": 11068,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11068/",
+        "html_url": "http://localhost:8080/states/florida/florida-commissioner-districts-12520/",
+        "slug": "florida-commissioner-districts-12520",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:38.728517-05:00",
+        "alias_of": null
+      },
+      "title": "Orlando, Florida Commissioner Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17002,
+                "name": "Florida - Orlando - Blocks",
+                "type": "circle",
+                "source_layer": "orlando_blocks_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.orlando_blocks_points"
+              },
+              "layers": [
+                {
+                  "name": "Florida - Orlando - Blocks Centroids",
+                  "id": "florida-orlando-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "1dbd4698-8f04-4ac9-ba8d-5048d554f3ea"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17003,
+                "name": "Florida - Orlando - Blocks",
+                "type": "fill",
+                "source_layer": "orlando_blocks",
+                "source_type": "vector",
+                "url": "mapbox://districtr.orlando_blocks"
+              },
+              "layers": [
+                {
+                  "name": "Florida - Orlando - Blocks Interactive Layer",
+                  "id": "florida-orlando-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Florida - Orlando - Blocks Border",
+                  "id": "florida-orlando-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "650df512-b35a-4c8e-bdf8-9f2decc72a45"
+        }
+      ],
+      "unit_count": 6,
+      "unit_type": "Blocks",
+      "unit_name": "City Commission",
+      "unit_name_plural": "Commissioner Districts",
+      "bounds": [
+        [-81.5077, 28.348],
+        [-81.1609, 28.6143]
+      ]
+    },
+    {
+      "id": 11066,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11066/",
+        "html_url": "http://localhost:8080/states/florida/florida-commission-districts-12518/",
+        "slug": "florida-commission-districts-12518",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:38.007374-05:00",
+        "alias_of": null
+      },
+      "title": "Osceola County, Florida Commission Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16998,
+                "name": "Florida - Osceola County - Blocks",
+                "type": "circle",
+                "source_layer": "fl_osceola_blocks_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.fl_osceola_blocks_points"
+              },
+              "layers": [
+                {
+                  "name": "Florida - Osceola County - Blocks Centroids",
+                  "id": "florida-osceola-county-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "2977de10-d231-4d33-ab89-e5ef3490104e"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 16999,
+                "name": "Florida - Osceola County - Blocks",
+                "type": "fill",
+                "source_layer": "fl_osceola_blocks",
+                "source_type": "vector",
+                "url": "mapbox://districtr.fl_osceola_blocks"
+              },
+              "layers": [
+                {
+                  "name": "Florida - Osceola County - Blocks Interactive Layer",
+                  "id": "florida-osceola-county-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Florida - Osceola County - Blocks Border",
+                  "id": "florida-osceola-county-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "78603168-1a23-48ae-9e25-37513e4b0abb"
+        }
+      ],
+      "unit_count": 5,
+      "unit_type": "Blocks",
+      "unit_name": "County Commission",
+      "unit_name_plural": "Commission Districts",
+      "bounds": [
+        [-81.6573, 27.642],
+        [-80.8614, 28.3486]
+      ]
+    },
+    {
+      "id": 11069,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11069/",
+        "html_url": "http://localhost:8080/states/florida/florida-council-districts-12521/",
+        "slug": "florida-council-districts-12521",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:39.089208-05:00",
+        "alias_of": null
+      },
+      "title": "Tampa, Florida Council Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17004,
+                "name": "Florida - Tampa - Blocks",
+                "type": "circle",
+                "source_layer": "tampa_blocks_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.tampa_blocks_points"
+              },
+              "layers": [
+                {
+                  "name": "Florida - Tampa - Blocks Centroids",
+                  "id": "florida-tampa-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "5f95c5a1-e028-4394-9866-a7448c7c697d"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17005,
+                "name": "Florida - Tampa - Blocks",
+                "type": "fill",
+                "source_layer": "tampa_blocks",
+                "source_type": "vector",
+                "url": "mapbox://districtr.tampa_blocks"
+              },
+              "layers": [
+                {
+                  "name": "Florida - Tampa - Blocks Interactive Layer",
+                  "id": "florida-tampa-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Florida - Tampa - Blocks Border",
+                  "id": "florida-tampa-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "d3e78d28-53c5-4138-b6df-cb52f18b2743"
+        }
+      ],
+      "unit_count": 4,
+      "unit_type": "Blocks",
+      "unit_name": "City Council",
+      "unit_name_plural": "Council Districts",
+      "bounds": [
+        [-82.5739, 27.8208],
+        [-82.2597, 28.1715]
+      ]
+    }
+  ]
+}

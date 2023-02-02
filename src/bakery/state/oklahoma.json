@@ -1,0 +1,2057 @@
+{
+  "id": 41,
+  "meta": {
+    "type": "client.MapIndexPage",
+    "detail_url": "http://localhost:8080/wagtail-api/pages/41/",
+    "html_url": "http://localhost:8080/states/oklahoma/",
+    "slug": "oklahoma",
+    "show_in_menus": false,
+    "seo_title": "",
+    "search_description": "",
+    "first_published_at": null,
+    "alias_of": null,
+    "locale": "en"
+  },
+  "title": "Oklahoma",
+  "counties": [
+    {
+      "id": 93,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/93/",
+        "html_url": "http://localhost:8080/states/oklahoma/adair/",
+        "slug": "adair",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Adair County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 348,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/348/",
+        "html_url": "http://localhost:8080/states/oklahoma/alfalfa/",
+        "slug": "alfalfa",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Alfalfa County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 939,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/939/",
+        "html_url": "http://localhost:8080/states/oklahoma/atoka/",
+        "slug": "atoka",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Atoka County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2375,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2375/",
+        "html_url": "http://localhost:8080/states/oklahoma/beaver/",
+        "slug": "beaver",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Beaver County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1881,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1881/",
+        "html_url": "http://localhost:8080/states/oklahoma/beckham/",
+        "slug": "beckham",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Beckham County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1271,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1271/",
+        "html_url": "http://localhost:8080/states/oklahoma/blaine/",
+        "slug": "blaine",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Blaine County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2560,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2560/",
+        "html_url": "http://localhost:8080/states/oklahoma/bryan/",
+        "slug": "bryan",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Bryan County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 585,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/585/",
+        "html_url": "http://localhost:8080/states/oklahoma/caddo/",
+        "slug": "caddo",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Caddo County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 147,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/147/",
+        "html_url": "http://localhost:8080/states/oklahoma/canadian/",
+        "slug": "canadian",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Canadian County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 801,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/801/",
+        "html_url": "http://localhost:8080/states/oklahoma/carter/",
+        "slug": "carter",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Carter County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1914,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1914/",
+        "html_url": "http://localhost:8080/states/oklahoma/cherokee/",
+        "slug": "cherokee",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Cherokee County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2527,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2527/",
+        "html_url": "http://localhost:8080/states/oklahoma/choctaw/",
+        "slug": "choctaw",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Choctaw County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3201,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3201/",
+        "html_url": "http://localhost:8080/states/oklahoma/cimarron/",
+        "slug": "cimarron",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Cimarron County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1834,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1834/",
+        "html_url": "http://localhost:8080/states/oklahoma/cleveland/",
+        "slug": "cleveland",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Cleveland County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 700,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/700/",
+        "html_url": "http://localhost:8080/states/oklahoma/coal/",
+        "slug": "coal",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Coal County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1816,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1816/",
+        "html_url": "http://localhost:8080/states/oklahoma/comanche/",
+        "slug": "comanche",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Comanche County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 817,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/817/",
+        "html_url": "http://localhost:8080/states/oklahoma/cotton/",
+        "slug": "cotton",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Cotton County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1906,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1906/",
+        "html_url": "http://localhost:8080/states/oklahoma/craig/",
+        "slug": "craig",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Craig County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1295,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1295/",
+        "html_url": "http://localhost:8080/states/oklahoma/creek/",
+        "slug": "creek",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Creek County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1757,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1757/",
+        "html_url": "http://localhost:8080/states/oklahoma/custer/",
+        "slug": "custer",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Custer County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1681,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1681/",
+        "html_url": "http://localhost:8080/states/oklahoma/delaware/",
+        "slug": "delaware",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Delaware County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2385,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2385/",
+        "html_url": "http://localhost:8080/states/oklahoma/dewey/",
+        "slug": "dewey",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Dewey County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1763,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1763/",
+        "html_url": "http://localhost:8080/states/oklahoma/ellis/",
+        "slug": "ellis",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Ellis County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3297,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3297/",
+        "html_url": "http://localhost:8080/states/oklahoma/garfield/",
+        "slug": "garfield",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Garfield County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1895,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1895/",
+        "html_url": "http://localhost:8080/states/oklahoma/garvin/",
+        "slug": "garvin",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Garvin County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3124,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3124/",
+        "html_url": "http://localhost:8080/states/oklahoma/grady/",
+        "slug": "grady",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Grady County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2803,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2803/",
+        "html_url": "http://localhost:8080/states/oklahoma/grant/",
+        "slug": "grant",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Grant County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 812,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/812/",
+        "html_url": "http://localhost:8080/states/oklahoma/greer/",
+        "slug": "greer",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Greer County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1189,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1189/",
+        "html_url": "http://localhost:8080/states/oklahoma/harmon/",
+        "slug": "harmon",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Harmon County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 328,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/328/",
+        "html_url": "http://localhost:8080/states/oklahoma/harper/",
+        "slug": "harper",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Harper County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3046,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3046/",
+        "html_url": "http://localhost:8080/states/oklahoma/haskell/",
+        "slug": "haskell",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Haskell County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 496,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/496/",
+        "html_url": "http://localhost:8080/states/oklahoma/hughes/",
+        "slug": "hughes",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Hughes County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1595,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1595/",
+        "html_url": "http://localhost:8080/states/oklahoma/jackson/",
+        "slug": "jackson",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Jackson County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2200,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2200/",
+        "html_url": "http://localhost:8080/states/oklahoma/jefferson/",
+        "slug": "jefferson",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Jefferson County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1792,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1792/",
+        "html_url": "http://localhost:8080/states/oklahoma/johnston/",
+        "slug": "johnston",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Johnston County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1196,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1196/",
+        "html_url": "http://localhost:8080/states/oklahoma/kay/",
+        "slug": "kay",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Kay County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2747,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2747/",
+        "html_url": "http://localhost:8080/states/oklahoma/kingfisher/",
+        "slug": "kingfisher",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Kingfisher County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1307,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1307/",
+        "html_url": "http://localhost:8080/states/oklahoma/kiowa/",
+        "slug": "kiowa",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Kiowa County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2603,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2603/",
+        "html_url": "http://localhost:8080/states/oklahoma/latimer/",
+        "slug": "latimer",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Latimer County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2337,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2337/",
+        "html_url": "http://localhost:8080/states/oklahoma/le-flore/",
+        "slug": "le-flore",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Le Flore County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 453,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/453/",
+        "html_url": "http://localhost:8080/states/oklahoma/lincoln/",
+        "slug": "lincoln",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lincoln County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1993,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1993/",
+        "html_url": "http://localhost:8080/states/oklahoma/logan/",
+        "slug": "logan",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Logan County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1434,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1434/",
+        "html_url": "http://localhost:8080/states/oklahoma/love/",
+        "slug": "love",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Love County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1599,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1599/",
+        "html_url": "http://localhost:8080/states/oklahoma/major/",
+        "slug": "major",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Major County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 243,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/243/",
+        "html_url": "http://localhost:8080/states/oklahoma/marshall/",
+        "slug": "marshall",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Marshall County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 694,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/694/",
+        "html_url": "http://localhost:8080/states/oklahoma/mayes/",
+        "slug": "mayes",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Mayes County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2334,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2334/",
+        "html_url": "http://localhost:8080/states/oklahoma/mcclain/",
+        "slug": "mcclain",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "McClain County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 837,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/837/",
+        "html_url": "http://localhost:8080/states/oklahoma/mccurtain/",
+        "slug": "mccurtain",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "McCurtain County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2704,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2704/",
+        "html_url": "http://localhost:8080/states/oklahoma/mcintosh/",
+        "slug": "mcintosh",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "McIntosh County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2877,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2877/",
+        "html_url": "http://localhost:8080/states/oklahoma/murray/",
+        "slug": "murray",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Murray County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 504,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/504/",
+        "html_url": "http://localhost:8080/states/oklahoma/muskogee/",
+        "slug": "muskogee",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Muskogee County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1450,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1450/",
+        "html_url": "http://localhost:8080/states/oklahoma/noble/",
+        "slug": "noble",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Noble County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2961,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2961/",
+        "html_url": "http://localhost:8080/states/oklahoma/nowata/",
+        "slug": "nowata",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Nowata County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2277,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2277/",
+        "html_url": "http://localhost:8080/states/oklahoma/okfuskee/",
+        "slug": "okfuskee",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Okfuskee County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1791,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1791/",
+        "html_url": "http://localhost:8080/states/oklahoma/oklahoma/",
+        "slug": "oklahoma",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Oklahoma County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 943,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/943/",
+        "html_url": "http://localhost:8080/states/oklahoma/okmulgee/",
+        "slug": "okmulgee",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Okmulgee County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1919,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1919/",
+        "html_url": "http://localhost:8080/states/oklahoma/osage/",
+        "slug": "osage",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Osage County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 536,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/536/",
+        "html_url": "http://localhost:8080/states/oklahoma/ottawa/",
+        "slug": "ottawa",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Ottawa County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2240,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2240/",
+        "html_url": "http://localhost:8080/states/oklahoma/pawnee/",
+        "slug": "pawnee",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Pawnee County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3192,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3192/",
+        "html_url": "http://localhost:8080/states/oklahoma/payne/",
+        "slug": "payne",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Payne County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1996,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1996/",
+        "html_url": "http://localhost:8080/states/oklahoma/pittsburg/",
+        "slug": "pittsburg",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Pittsburg County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1294,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1294/",
+        "html_url": "http://localhost:8080/states/oklahoma/pontotoc/",
+        "slug": "pontotoc",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Pontotoc County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1298,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1298/",
+        "html_url": "http://localhost:8080/states/oklahoma/pottawatomie/",
+        "slug": "pottawatomie",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Pottawatomie County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1831,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1831/",
+        "html_url": "http://localhost:8080/states/oklahoma/pushmataha/",
+        "slug": "pushmataha",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Pushmataha County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2531,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2531/",
+        "html_url": "http://localhost:8080/states/oklahoma/roger-mills/",
+        "slug": "roger-mills",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Roger Mills County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 582,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/582/",
+        "html_url": "http://localhost:8080/states/oklahoma/rogers/",
+        "slug": "rogers",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Rogers County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1035,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1035/",
+        "html_url": "http://localhost:8080/states/oklahoma/seminole/",
+        "slug": "seminole",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Seminole County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 112,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/112/",
+        "html_url": "http://localhost:8080/states/oklahoma/sequoyah/",
+        "slug": "sequoyah",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Sequoyah County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2683,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2683/",
+        "html_url": "http://localhost:8080/states/oklahoma/stephens/",
+        "slug": "stephens",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Stephens County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2674,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2674/",
+        "html_url": "http://localhost:8080/states/oklahoma/texas/",
+        "slug": "texas",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Texas County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1940,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1940/",
+        "html_url": "http://localhost:8080/states/oklahoma/tillman/",
+        "slug": "tillman",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Tillman County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2703,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2703/",
+        "html_url": "http://localhost:8080/states/oklahoma/tulsa/",
+        "slug": "tulsa",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Tulsa County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1842,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1842/",
+        "html_url": "http://localhost:8080/states/oklahoma/wagoner/",
+        "slug": "wagoner",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Wagoner County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 962,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/962/",
+        "html_url": "http://localhost:8080/states/oklahoma/washington/",
+        "slug": "washington",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Washington County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1546,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1546/",
+        "html_url": "http://localhost:8080/states/oklahoma/washita/",
+        "slug": "washita",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Washita County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1103,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1103/",
+        "html_url": "http://localhost:8080/states/oklahoma/woods/",
+        "slug": "woods",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Woods County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2675,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2675/",
+        "html_url": "http://localhost:8080/states/oklahoma/woodward/",
+        "slug": "woodward",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Woodward County",
+      "body": "",
+      "live": true
+    }
+  ],
+  "problems": [
+    {
+      "id": 11227,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11227/",
+        "html_url": "http://localhost:8080/states/oklahoma/oklahoma-congressional-districts-12679/",
+        "slug": "oklahoma-congressional-districts-12679",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:39.696170-05:00",
+        "alias_of": null
+      },
+      "title": "Oklahoma Congressional Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17290,
+                "name": "Oklahoma - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "ok_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ok_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "Oklahoma - 2020 VTDs Interactive Layer",
+                  "id": "oklahoma-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Oklahoma - 2020 VTDs Border",
+                  "id": "oklahoma-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "d3e966af-399f-4ba0-91d1-68488b2df19f"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17291,
+                "name": "Oklahoma - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "ok_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ok_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "Oklahoma - 2020 VTDs Centroids",
+                  "id": "oklahoma-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "9a7995b4-ed72-46b8-ab19-c3f381d58b80"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17292,
+                "name": "Oklahoma - Precincts",
+                "type": "fill",
+                "source_layer": "oklahoma_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.oklahoma_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Oklahoma - Precincts Interactive Layer",
+                  "id": "oklahoma-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Oklahoma - Precincts Border",
+                  "id": "oklahoma-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "c2be2190-8e75-41c0-a00c-d021e45abe86"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17293,
+                "name": "Oklahoma - Precincts",
+                "type": "circle",
+                "source_layer": "oklahoma_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.oklahoma_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Oklahoma - Precincts Centroids",
+                  "id": "oklahoma-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "470db992-253d-4da1-b4b5-0a6fcadb1cc3"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17294,
+                "name": "Oklahoma - Block Groups",
+                "type": "circle",
+                "source_layer": "oklahoma_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.oklahoma_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Oklahoma - Block Groups Centroids",
+                  "id": "oklahoma-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "6a9199d2-5686-4378-85a1-bddd42d1be29"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17295,
+                "name": "Oklahoma - Block Groups",
+                "type": "fill",
+                "source_layer": "oklahoma_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.oklahoma_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Oklahoma - Block Groups Interactive Layer",
+                  "id": "oklahoma-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Oklahoma - Block Groups Border",
+                  "id": "oklahoma-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "5f162c0f-99da-4383-9cf3-263b84b82bcf"
+        }
+      ],
+      "unit_count": 5,
+      "unit_type": "VTDs",
+      "unit_name": "Congress",
+      "unit_name_plural": "Congressional Districts",
+      "bounds": [
+        [-103.0025, 33.6158],
+        [-94.4307, 37.0023]
+      ]
+    },
+    {
+      "id": 11229,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11229/",
+        "html_url": "http://localhost:8080/states/oklahoma/oklahoma-state-house-districts-12681/",
+        "slug": "oklahoma-state-house-districts-12681",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:40.130442-05:00",
+        "alias_of": null
+      },
+      "title": "Oklahoma State House Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17290,
+                "name": "Oklahoma - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "ok_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ok_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "Oklahoma - 2020 VTDs Interactive Layer",
+                  "id": "oklahoma-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Oklahoma - 2020 VTDs Border",
+                  "id": "oklahoma-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "ba33c109-6f2c-4b0d-8a67-9941dbef11ac"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17291,
+                "name": "Oklahoma - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "ok_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ok_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "Oklahoma - 2020 VTDs Centroids",
+                  "id": "oklahoma-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "1ca23983-30c0-47a3-85f3-a870a2faf7af"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17292,
+                "name": "Oklahoma - Precincts",
+                "type": "fill",
+                "source_layer": "oklahoma_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.oklahoma_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Oklahoma - Precincts Interactive Layer",
+                  "id": "oklahoma-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Oklahoma - Precincts Border",
+                  "id": "oklahoma-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "0293d706-4465-4f56-8b29-bb3fb9015bc9"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17293,
+                "name": "Oklahoma - Precincts",
+                "type": "circle",
+                "source_layer": "oklahoma_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.oklahoma_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Oklahoma - Precincts Centroids",
+                  "id": "oklahoma-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "56f32d51-5a80-4d2f-9ddc-395064389d36"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17294,
+                "name": "Oklahoma - Block Groups",
+                "type": "circle",
+                "source_layer": "oklahoma_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.oklahoma_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Oklahoma - Block Groups Centroids",
+                  "id": "oklahoma-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "0b08151e-a473-41a7-b18d-fe9eb64f1691"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17295,
+                "name": "Oklahoma - Block Groups",
+                "type": "fill",
+                "source_layer": "oklahoma_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.oklahoma_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Oklahoma - Block Groups Interactive Layer",
+                  "id": "oklahoma-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Oklahoma - Block Groups Border",
+                  "id": "oklahoma-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "ece50846-624e-4cde-8bb8-54cf78700d9c"
+        }
+      ],
+      "unit_count": 101,
+      "unit_type": "VTDs",
+      "unit_name": "State House",
+      "unit_name_plural": "State House Districts",
+      "bounds": [
+        [-103.0025, 33.6158],
+        [-94.4307, 37.0023]
+      ]
+    },
+    {
+      "id": 11228,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11228/",
+        "html_url": "http://localhost:8080/states/oklahoma/oklahoma-state-senate-districts-12680/",
+        "slug": "oklahoma-state-senate-districts-12680",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:39.908704-05:00",
+        "alias_of": null
+      },
+      "title": "Oklahoma State Senate Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17290,
+                "name": "Oklahoma - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "ok_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ok_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "Oklahoma - 2020 VTDs Interactive Layer",
+                  "id": "oklahoma-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Oklahoma - 2020 VTDs Border",
+                  "id": "oklahoma-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "08826e7c-9b6c-409a-b130-c1829b782ba0"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17291,
+                "name": "Oklahoma - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "ok_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ok_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "Oklahoma - 2020 VTDs Centroids",
+                  "id": "oklahoma-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "80e9f9fe-94ac-4972-b96c-3446c03a8d6a"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17292,
+                "name": "Oklahoma - Precincts",
+                "type": "fill",
+                "source_layer": "oklahoma_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.oklahoma_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Oklahoma - Precincts Interactive Layer",
+                  "id": "oklahoma-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Oklahoma - Precincts Border",
+                  "id": "oklahoma-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "1f4f5bc3-12e3-4865-a1a7-2339c0f22f09"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17293,
+                "name": "Oklahoma - Precincts",
+                "type": "circle",
+                "source_layer": "oklahoma_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.oklahoma_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Oklahoma - Precincts Centroids",
+                  "id": "oklahoma-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "95a0045d-ec1e-4ad0-8485-b265a663c673"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17294,
+                "name": "Oklahoma - Block Groups",
+                "type": "circle",
+                "source_layer": "oklahoma_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.oklahoma_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Oklahoma - Block Groups Centroids",
+                  "id": "oklahoma-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "e1995c20-ec99-4a74-bf84-7d370c3a444f"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17295,
+                "name": "Oklahoma - Block Groups",
+                "type": "fill",
+                "source_layer": "oklahoma_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.oklahoma_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Oklahoma - Block Groups Interactive Layer",
+                  "id": "oklahoma-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Oklahoma - Block Groups Border",
+                  "id": "oklahoma-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "b6cc53e6-0395-4b4e-b1c9-0ddaa6f6d7b5"
+        }
+      ],
+      "unit_count": 48,
+      "unit_type": "VTDs",
+      "unit_name": "State Senate",
+      "unit_name_plural": "State Senate Districts",
+      "bounds": [
+        [-103.0025, 33.6158],
+        [-94.4307, 37.0023]
+      ]
+    }
+  ]
+}

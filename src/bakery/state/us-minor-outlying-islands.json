@@ -1,0 +1,18 @@
+{
+  "id": 60,
+  "meta": {
+    "type": "client.MapIndexPage",
+    "detail_url": "http://localhost:8080/wagtail-api/pages/60/",
+    "html_url": "http://localhost:8080/states/us-minor-outlying-islands/",
+    "slug": "us-minor-outlying-islands",
+    "show_in_menus": false,
+    "seo_title": "",
+    "search_description": "",
+    "first_published_at": null,
+    "alias_of": null,
+    "locale": "en"
+  },
+  "title": "U.S. Minor Outlying Islands",
+  "counties": [],
+  "problems": []
+}

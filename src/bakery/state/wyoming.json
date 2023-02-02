@@ -1,0 +1,994 @@
+{
+  "id": 55,
+  "meta": {
+    "type": "client.MapIndexPage",
+    "detail_url": "http://localhost:8080/wagtail-api/pages/55/",
+    "html_url": "http://localhost:8080/states/wyoming/",
+    "slug": "wyoming",
+    "show_in_menus": false,
+    "seo_title": "",
+    "search_description": "",
+    "first_published_at": null,
+    "alias_of": null,
+    "locale": "en"
+  },
+  "title": "Wyoming",
+  "counties": [
+    {
+      "id": 2403,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2403/",
+        "html_url": "http://localhost:8080/states/wyoming/albany/",
+        "slug": "albany",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Albany County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 601,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/601/",
+        "html_url": "http://localhost:8080/states/wyoming/big-horn/",
+        "slug": "big-horn",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Big Horn County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1537,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1537/",
+        "html_url": "http://localhost:8080/states/wyoming/campbell/",
+        "slug": "campbell",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Campbell County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1169,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1169/",
+        "html_url": "http://localhost:8080/states/wyoming/carbon/",
+        "slug": "carbon",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Carbon County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 841,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/841/",
+        "html_url": "http://localhost:8080/states/wyoming/converse/",
+        "slug": "converse",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Converse County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1049,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1049/",
+        "html_url": "http://localhost:8080/states/wyoming/crook/",
+        "slug": "crook",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Crook County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 178,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/178/",
+        "html_url": "http://localhost:8080/states/wyoming/fremont/",
+        "slug": "fremont",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Fremont County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3158,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3158/",
+        "html_url": "http://localhost:8080/states/wyoming/goshen/",
+        "slug": "goshen",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Goshen County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 625,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/625/",
+        "html_url": "http://localhost:8080/states/wyoming/hot-springs/",
+        "slug": "hot-springs",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Hot Springs County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2491,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2491/",
+        "html_url": "http://localhost:8080/states/wyoming/johnson/",
+        "slug": "johnson",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Johnson County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1888,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1888/",
+        "html_url": "http://localhost:8080/states/wyoming/laramie/",
+        "slug": "laramie",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Laramie County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 101,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/101/",
+        "html_url": "http://localhost:8080/states/wyoming/lincoln/",
+        "slug": "lincoln",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lincoln County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1662,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1662/",
+        "html_url": "http://localhost:8080/states/wyoming/natrona/",
+        "slug": "natrona",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Natrona County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2709,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2709/",
+        "html_url": "http://localhost:8080/states/wyoming/niobrara/",
+        "slug": "niobrara",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Niobrara County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2404,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2404/",
+        "html_url": "http://localhost:8080/states/wyoming/park/",
+        "slug": "park",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Park County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2015,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2015/",
+        "html_url": "http://localhost:8080/states/wyoming/platte/",
+        "slug": "platte",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Platte County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2539,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2539/",
+        "html_url": "http://localhost:8080/states/wyoming/sheridan/",
+        "slug": "sheridan",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Sheridan County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3110,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3110/",
+        "html_url": "http://localhost:8080/states/wyoming/sublette/",
+        "slug": "sublette",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Sublette County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1042,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1042/",
+        "html_url": "http://localhost:8080/states/wyoming/sweetwater/",
+        "slug": "sweetwater",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Sweetwater County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2892,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2892/",
+        "html_url": "http://localhost:8080/states/wyoming/teton/",
+        "slug": "teton",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Teton County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 195,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/195/",
+        "html_url": "http://localhost:8080/states/wyoming/uinta/",
+        "slug": "uinta",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Uinta County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 675,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/675/",
+        "html_url": "http://localhost:8080/states/wyoming/washakie/",
+        "slug": "washakie",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Washakie County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2194,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2194/",
+        "html_url": "http://localhost:8080/states/wyoming/weston/",
+        "slug": "weston",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Weston County",
+      "body": "",
+      "live": true
+    }
+  ],
+  "problems": [
+    {
+      "id": 11317,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11317/",
+        "html_url": "http://localhost:8080/states/wyoming/wyoming-state-house-districts-12769/",
+        "slug": "wyoming-state-house-districts-12769",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:29:13.117184-05:00",
+        "alias_of": null
+      },
+      "title": "Wyoming State House Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17437,
+                "name": "Wyoming - 2020 Block Groups",
+                "type": "circle",
+                "source_layer": "wy_20_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wy_20_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Wyoming - 2020 Block Groups Centroids",
+                  "id": "wyoming-2020-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "dee2f8bb-2230-4580-8017-6c0ea4a9aaca"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17438,
+                "name": "Wyoming - 2020 Block Groups",
+                "type": "fill",
+                "source_layer": "wy_20_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wy_20_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Wyoming - 2020 Block Groups Interactive Layer",
+                  "id": "wyoming-2020-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Wyoming - 2020 Block Groups Border",
+                  "id": "wyoming-2020-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "66cdd732-3135-4d35-8c8b-84d1acdf926f"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17439,
+                "name": "Wyoming - 2020 Blocks",
+                "type": "circle",
+                "source_layer": "wy_20_blocks_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wy_20_blocks_points"
+              },
+              "layers": [
+                {
+                  "name": "Wyoming - 2020 Blocks Centroids",
+                  "id": "wyoming-2020-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "d4eaca0b-594c-4ffe-a22d-449ea897ddb8"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17440,
+                "name": "Wyoming - 2020 Blocks",
+                "type": "fill",
+                "source_layer": "wy_20_blocks",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wy_20_blocks"
+              },
+              "layers": [
+                {
+                  "name": "Wyoming - 2020 Blocks Interactive Layer",
+                  "id": "wyoming-2020-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Wyoming - 2020 Blocks Border",
+                  "id": "wyoming-2020-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "e285375c-e439-4700-ab8c-0c8f79374f84"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17441,
+                "name": "Wyoming - Blocks",
+                "type": "circle",
+                "source_layer": "wyoming_blocks_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wyoming_blocks_points"
+              },
+              "layers": [
+                {
+                  "name": "Wyoming - Blocks Centroids",
+                  "id": "wyoming-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "8e30c3cd-1440-4961-b334-4e7812ce07f3"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17442,
+                "name": "Wyoming - Blocks",
+                "type": "fill",
+                "source_layer": "wyoming_blocks",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wyoming_blocks"
+              },
+              "layers": [
+                {
+                  "name": "Wyoming - Blocks Interactive Layer",
+                  "id": "wyoming-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Wyoming - Blocks Border",
+                  "id": "wyoming-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "243cceec-523a-4fe3-9b2d-46d9d118f16f"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17443,
+                "name": "Wyoming - Block Groups",
+                "type": "fill",
+                "source_layer": "wyoming_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wyoming_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Wyoming - Block Groups Interactive Layer",
+                  "id": "wyoming-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Wyoming - Block Groups Border",
+                  "id": "wyoming-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "5bac712d-38cc-46bd-8152-08cf7e09a255"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17444,
+                "name": "Wyoming - Block Groups",
+                "type": "circle",
+                "source_layer": "wyoming_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wyoming_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Wyoming - Block Groups Centroids",
+                  "id": "wyoming-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "6371ee02-f3b6-4a65-afc3-06c2fbdb07d5"
+        }
+      ],
+      "unit_count": 60,
+      "unit_type": "Block Groups",
+      "unit_name": "State House",
+      "unit_name_plural": "State House Districts",
+      "bounds": [
+        [-111.0569, 40.9946],
+        [-104.0522, 45.0059]
+      ]
+    },
+    {
+      "id": 11318,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11318/",
+        "html_url": "http://localhost:8080/states/wyoming/wyoming-state-senate-districts-12770/",
+        "slug": "wyoming-state-senate-districts-12770",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:29:13.295660-05:00",
+        "alias_of": null
+      },
+      "title": "Wyoming State Senate Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17437,
+                "name": "Wyoming - 2020 Block Groups",
+                "type": "circle",
+                "source_layer": "wy_20_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wy_20_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Wyoming - 2020 Block Groups Centroids",
+                  "id": "wyoming-2020-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "e0488f9e-0e35-4ba1-836d-b584a3585601"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17438,
+                "name": "Wyoming - 2020 Block Groups",
+                "type": "fill",
+                "source_layer": "wy_20_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wy_20_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Wyoming - 2020 Block Groups Interactive Layer",
+                  "id": "wyoming-2020-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Wyoming - 2020 Block Groups Border",
+                  "id": "wyoming-2020-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "a2ee2bf7-05ce-4a7a-912f-ce5685b8f837"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17439,
+                "name": "Wyoming - 2020 Blocks",
+                "type": "circle",
+                "source_layer": "wy_20_blocks_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wy_20_blocks_points"
+              },
+              "layers": [
+                {
+                  "name": "Wyoming - 2020 Blocks Centroids",
+                  "id": "wyoming-2020-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "3a3b1a28-7a29-4711-b76a-0dff66c8544b"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17440,
+                "name": "Wyoming - 2020 Blocks",
+                "type": "fill",
+                "source_layer": "wy_20_blocks",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wy_20_blocks"
+              },
+              "layers": [
+                {
+                  "name": "Wyoming - 2020 Blocks Interactive Layer",
+                  "id": "wyoming-2020-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Wyoming - 2020 Blocks Border",
+                  "id": "wyoming-2020-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "dcc163ae-fb8f-47f4-97cc-03e886627291"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17441,
+                "name": "Wyoming - Blocks",
+                "type": "circle",
+                "source_layer": "wyoming_blocks_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wyoming_blocks_points"
+              },
+              "layers": [
+                {
+                  "name": "Wyoming - Blocks Centroids",
+                  "id": "wyoming-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "8a8d9e2e-25c2-4c36-83ad-09d9011f00c9"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17442,
+                "name": "Wyoming - Blocks",
+                "type": "fill",
+                "source_layer": "wyoming_blocks",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wyoming_blocks"
+              },
+              "layers": [
+                {
+                  "name": "Wyoming - Blocks Interactive Layer",
+                  "id": "wyoming-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Wyoming - Blocks Border",
+                  "id": "wyoming-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "a529b26f-41f6-4f7d-939c-15c1bde3ad30"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17443,
+                "name": "Wyoming - Block Groups",
+                "type": "fill",
+                "source_layer": "wyoming_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wyoming_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Wyoming - Block Groups Interactive Layer",
+                  "id": "wyoming-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Wyoming - Block Groups Border",
+                  "id": "wyoming-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "50cd61fa-00c4-423b-9407-021fd2375de0"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17444,
+                "name": "Wyoming - Block Groups",
+                "type": "circle",
+                "source_layer": "wyoming_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.wyoming_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Wyoming - Block Groups Centroids",
+                  "id": "wyoming-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "c704bd5c-2242-44cc-9f96-b36db47ec670"
+        }
+      ],
+      "unit_count": 30,
+      "unit_type": "Block Groups",
+      "unit_name": "State Senate",
+      "unit_name_plural": "State Senate Districts",
+      "bounds": [
+        [-111.0569, 40.9946],
+        [-104.0522, 45.0059]
+      ]
+    }
+  ]
+}

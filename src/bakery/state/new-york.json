@@ -1,0 +1,2278 @@
+{
+  "id": 37,
+  "meta": {
+    "type": "client.MapIndexPage",
+    "detail_url": "http://localhost:8080/wagtail-api/pages/37/",
+    "html_url": "http://localhost:8080/states/new-york/",
+    "slug": "new-york",
+    "show_in_menus": false,
+    "seo_title": "",
+    "search_description": "",
+    "first_published_at": null,
+    "alias_of": null,
+    "locale": "en"
+  },
+  "title": "New York",
+  "counties": [
+    {
+      "id": 683,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/683/",
+        "html_url": "http://localhost:8080/states/new-york/albany/",
+        "slug": "albany",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Albany County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 249,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/249/",
+        "html_url": "http://localhost:8080/states/new-york/allegany/",
+        "slug": "allegany",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Allegany County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3235,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3235/",
+        "html_url": "http://localhost:8080/states/new-york/bronx/",
+        "slug": "bronx",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Bronx County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2241,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2241/",
+        "html_url": "http://localhost:8080/states/new-york/broome/",
+        "slug": "broome",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Broome County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2004,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2004/",
+        "html_url": "http://localhost:8080/states/new-york/cattaraugus/",
+        "slug": "cattaraugus",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Cattaraugus County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 819,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/819/",
+        "html_url": "http://localhost:8080/states/new-york/cayuga/",
+        "slug": "cayuga",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Cayuga County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2554,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2554/",
+        "html_url": "http://localhost:8080/states/new-york/chautauqua/",
+        "slug": "chautauqua",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Chautauqua County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2505,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2505/",
+        "html_url": "http://localhost:8080/states/new-york/chemung/",
+        "slug": "chemung",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Chemung County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2684,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2684/",
+        "html_url": "http://localhost:8080/states/new-york/chenango/",
+        "slug": "chenango",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Chenango County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1020,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1020/",
+        "html_url": "http://localhost:8080/states/new-york/clinton/",
+        "slug": "clinton",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Clinton County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2525,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2525/",
+        "html_url": "http://localhost:8080/states/new-york/columbia/",
+        "slug": "columbia",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Columbia County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1400,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1400/",
+        "html_url": "http://localhost:8080/states/new-york/cortland/",
+        "slug": "cortland",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Cortland County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3035,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3035/",
+        "html_url": "http://localhost:8080/states/new-york/delaware/",
+        "slug": "delaware",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Delaware County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 619,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/619/",
+        "html_url": "http://localhost:8080/states/new-york/dutchess/",
+        "slug": "dutchess",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Dutchess County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1550,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1550/",
+        "html_url": "http://localhost:8080/states/new-york/erie/",
+        "slug": "erie",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Erie County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 494,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/494/",
+        "html_url": "http://localhost:8080/states/new-york/essex/",
+        "slug": "essex",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Essex County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2620,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2620/",
+        "html_url": "http://localhost:8080/states/new-york/franklin/",
+        "slug": "franklin",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Franklin County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2749,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2749/",
+        "html_url": "http://localhost:8080/states/new-york/fulton/",
+        "slug": "fulton",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Fulton County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2420,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2420/",
+        "html_url": "http://localhost:8080/states/new-york/genesee/",
+        "slug": "genesee",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Genesee County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 835,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/835/",
+        "html_url": "http://localhost:8080/states/new-york/greene/",
+        "slug": "greene",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Greene County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 593,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/593/",
+        "html_url": "http://localhost:8080/states/new-york/hamilton/",
+        "slug": "hamilton",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Hamilton County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 842,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/842/",
+        "html_url": "http://localhost:8080/states/new-york/herkimer/",
+        "slug": "herkimer",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Herkimer County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1017,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1017/",
+        "html_url": "http://localhost:8080/states/new-york/jefferson/",
+        "slug": "jefferson",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Jefferson County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2482,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2482/",
+        "html_url": "http://localhost:8080/states/new-york/kings/",
+        "slug": "kings",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Kings County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1321,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1321/",
+        "html_url": "http://localhost:8080/states/new-york/lewis/",
+        "slug": "lewis",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lewis County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3008,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3008/",
+        "html_url": "http://localhost:8080/states/new-york/livingston/",
+        "slug": "livingston",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Livingston County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1150,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1150/",
+        "html_url": "http://localhost:8080/states/new-york/madison/",
+        "slug": "madison",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Madison County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2148,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2148/",
+        "html_url": "http://localhost:8080/states/new-york/monroe/",
+        "slug": "monroe",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Monroe County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1810,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1810/",
+        "html_url": "http://localhost:8080/states/new-york/montgomery/",
+        "slug": "montgomery",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Montgomery County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1088,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1088/",
+        "html_url": "http://localhost:8080/states/new-york/nassau/",
+        "slug": "nassau",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Nassau County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2519,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2519/",
+        "html_url": "http://localhost:8080/states/new-york/new-york/",
+        "slug": "new-york",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "New York County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2443,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2443/",
+        "html_url": "http://localhost:8080/states/new-york/niagara/",
+        "slug": "niagara",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Niagara County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1994,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1994/",
+        "html_url": "http://localhost:8080/states/new-york/oneida/",
+        "slug": "oneida",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Oneida County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2658,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2658/",
+        "html_url": "http://localhost:8080/states/new-york/onondaga/",
+        "slug": "onondaga",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Onondaga County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1396,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1396/",
+        "html_url": "http://localhost:8080/states/new-york/ontario/",
+        "slug": "ontario",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Ontario County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3228,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3228/",
+        "html_url": "http://localhost:8080/states/new-york/orange/",
+        "slug": "orange",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Orange County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1898,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1898/",
+        "html_url": "http://localhost:8080/states/new-york/orleans/",
+        "slug": "orleans",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Orleans County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 279,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/279/",
+        "html_url": "http://localhost:8080/states/new-york/oswego/",
+        "slug": "oswego",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Oswego County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 630,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/630/",
+        "html_url": "http://localhost:8080/states/new-york/otsego/",
+        "slug": "otsego",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Otsego County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1592,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1592/",
+        "html_url": "http://localhost:8080/states/new-york/putnam/",
+        "slug": "putnam",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Putnam County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2406,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2406/",
+        "html_url": "http://localhost:8080/states/new-york/queens/",
+        "slug": "queens",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Queens County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2257,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2257/",
+        "html_url": "http://localhost:8080/states/new-york/rensselaer/",
+        "slug": "rensselaer",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Rensselaer County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1475,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1475/",
+        "html_url": "http://localhost:8080/states/new-york/richmond/",
+        "slug": "richmond",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Richmond County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2909,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2909/",
+        "html_url": "http://localhost:8080/states/new-york/rockland/",
+        "slug": "rockland",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Rockland County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 241,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/241/",
+        "html_url": "http://localhost:8080/states/new-york/saratoga/",
+        "slug": "saratoga",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Saratoga County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3229,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3229/",
+        "html_url": "http://localhost:8080/states/new-york/schenectady/",
+        "slug": "schenectady",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Schenectady County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2239,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2239/",
+        "html_url": "http://localhost:8080/states/new-york/schoharie/",
+        "slug": "schoharie",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Schoharie County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 431,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/431/",
+        "html_url": "http://localhost:8080/states/new-york/schuyler/",
+        "slug": "schuyler",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Schuyler County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2326,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2326/",
+        "html_url": "http://localhost:8080/states/new-york/seneca/",
+        "slug": "seneca",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Seneca County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 114,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/114/",
+        "html_url": "http://localhost:8080/states/new-york/steuben/",
+        "slug": "steuben",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Steuben County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 398,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/398/",
+        "html_url": "http://localhost:8080/states/new-york/st-lawrence/",
+        "slug": "st-lawrence",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "St. Lawrence County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 519,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/519/",
+        "html_url": "http://localhost:8080/states/new-york/suffolk/",
+        "slug": "suffolk",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Suffolk County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1835,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1835/",
+        "html_url": "http://localhost:8080/states/new-york/sullivan/",
+        "slug": "sullivan",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Sullivan County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2101,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2101/",
+        "html_url": "http://localhost:8080/states/new-york/tioga/",
+        "slug": "tioga",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Tioga County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 677,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/677/",
+        "html_url": "http://localhost:8080/states/new-york/tompkins/",
+        "slug": "tompkins",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Tompkins County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 286,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/286/",
+        "html_url": "http://localhost:8080/states/new-york/ulster/",
+        "slug": "ulster",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Ulster County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 937,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/937/",
+        "html_url": "http://localhost:8080/states/new-york/warren/",
+        "slug": "warren",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Warren County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1151,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1151/",
+        "html_url": "http://localhost:8080/states/new-york/washington/",
+        "slug": "washington",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Washington County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2439,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2439/",
+        "html_url": "http://localhost:8080/states/new-york/wayne/",
+        "slug": "wayne",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Wayne County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1206,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1206/",
+        "html_url": "http://localhost:8080/states/new-york/westchester/",
+        "slug": "westchester",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Westchester County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2506,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2506/",
+        "html_url": "http://localhost:8080/states/new-york/wyoming/",
+        "slug": "wyoming",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Wyoming County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2095,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2095/",
+        "html_url": "http://localhost:8080/states/new-york/yates/",
+        "slug": "yates",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Yates County",
+      "body": "",
+      "live": true
+    }
+  ],
+  "problems": [
+    {
+      "id": 11185,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11185/",
+        "html_url": "http://localhost:8080/states/new-york/new-york-town-council-districts-12637/",
+        "slug": "new-york-town-council-districts-12637",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:23.208210-05:00",
+        "alias_of": null
+      },
+      "title": "Islip, New York Town Council Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17205,
+                "name": "New York - Islip - Blocks",
+                "type": "fill",
+                "source_layer": "islip_blocks",
+                "source_type": "vector",
+                "url": "mapbox://districtr.islip_blocks"
+              },
+              "layers": [
+                {
+                  "name": "New York - Islip - Blocks Interactive Layer",
+                  "id": "new-york-islip-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New York - Islip - Blocks Border",
+                  "id": "new-york-islip-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "1736fa29-a2d0-4023-b85a-7d1367fb4b0c"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17206,
+                "name": "New York - Islip - Blocks",
+                "type": "circle",
+                "source_layer": "islip_blocks_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.islip_blocks_points"
+              },
+              "layers": [
+                {
+                  "name": "New York - Islip - Blocks Centroids",
+                  "id": "new-york-islip-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "32db987c-fd10-40d2-9cef-1cc9ddd74587"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17207,
+                "name": "New York - Islip - Election Districts",
+                "type": "circle",
+                "source_layer": "islip_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.islip_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "New York - Islip - Election Districts Centroids",
+                  "id": "new-york-islip-election-districts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "9549166a-45bc-4a6a-84ed-40901843a779"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17208,
+                "name": "New York - Islip - Election Districts",
+                "type": "fill",
+                "source_layer": "islip_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.islip_precincts"
+              },
+              "layers": [
+                {
+                  "name": "New York - Islip - Election Districts Interactive Layer",
+                  "id": "new-york-islip-election-districts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New York - Islip - Election Districts Border",
+                  "id": "new-york-islip-election-districts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "479649a0-9019-4f8b-8e5e-27804e97d7da"
+        }
+      ],
+      "unit_count": 4,
+      "unit_type": "Blocks",
+      "unit_name": "Town Council",
+      "unit_name_plural": "Town Council Districts",
+      "bounds": [
+        [-73.3183, 40.5557],
+        [-73.0379, 40.833]
+      ]
+    },
+    {
+      "id": 11186,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11186/",
+        "html_url": "http://localhost:8080/states/new-york/new-york-town-council-districts-12638/",
+        "slug": "new-york-town-council-districts-12638",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:23.383195-05:00",
+        "alias_of": null
+      },
+      "title": "Islip, New York Town Council Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17205,
+                "name": "New York - Islip - Blocks",
+                "type": "fill",
+                "source_layer": "islip_blocks",
+                "source_type": "vector",
+                "url": "mapbox://districtr.islip_blocks"
+              },
+              "layers": [
+                {
+                  "name": "New York - Islip - Blocks Interactive Layer",
+                  "id": "new-york-islip-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New York - Islip - Blocks Border",
+                  "id": "new-york-islip-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "35c87789-a4e4-4cc6-a75b-a8cd383a1070"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17206,
+                "name": "New York - Islip - Blocks",
+                "type": "circle",
+                "source_layer": "islip_blocks_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.islip_blocks_points"
+              },
+              "layers": [
+                {
+                  "name": "New York - Islip - Blocks Centroids",
+                  "id": "new-york-islip-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "8303ad4a-1bbb-4d87-9e9e-b629af2d1bad"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17207,
+                "name": "New York - Islip - Election Districts",
+                "type": "circle",
+                "source_layer": "islip_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.islip_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "New York - Islip - Election Districts Centroids",
+                  "id": "new-york-islip-election-districts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "46bc5d78-7f29-40c9-a7d3-aba6d37eb394"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17208,
+                "name": "New York - Islip - Election Districts",
+                "type": "fill",
+                "source_layer": "islip_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.islip_precincts"
+              },
+              "layers": [
+                {
+                  "name": "New York - Islip - Election Districts Interactive Layer",
+                  "id": "new-york-islip-election-districts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New York - Islip - Election Districts Border",
+                  "id": "new-york-islip-election-districts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "1a27b0d2-6fcb-4ae1-9254-85625316db88"
+        }
+      ],
+      "unit_count": 6,
+      "unit_type": "Blocks",
+      "unit_name": "Town Council",
+      "unit_name_plural": "Town Council Districts",
+      "bounds": [
+        [-73.3183, 40.5557],
+        [-73.0379, 40.833]
+      ]
+    },
+    {
+      "id": 11184,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11184/",
+        "html_url": "http://localhost:8080/states/new-york/new-york-city-council-districts-12636/",
+        "slug": "new-york-city-council-districts-12636",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:22.645162-05:00",
+        "alias_of": null
+      },
+      "title": "Ithaca, New York City Council Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17203,
+                "name": "New York - Ithaca - Blocks",
+                "type": "circle",
+                "source_layer": "ithacany_blocks_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ithacany_blocks_points"
+              },
+              "layers": [
+                {
+                  "name": "New York - Ithaca - Blocks Centroids",
+                  "id": "new-york-ithaca-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "455b4872-4791-4126-b65c-fbc260e22652"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17204,
+                "name": "New York - Ithaca - Blocks",
+                "type": "fill",
+                "source_layer": "ithacany_blocks",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ithacany_blocks"
+              },
+              "layers": [
+                {
+                  "name": "New York - Ithaca - Blocks Interactive Layer",
+                  "id": "new-york-ithaca-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New York - Ithaca - Blocks Border",
+                  "id": "new-york-ithaca-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "f0a5ef3e-b68d-4bdc-91a7-59439e1f8ad1"
+        }
+      ],
+      "unit_count": 7,
+      "unit_type": "Blocks",
+      "unit_name": "City Council",
+      "unit_name_plural": "City Council Districts",
+      "bounds": [
+        [-76.5269, 42.4183],
+        [-76.4698, 42.4671]
+      ]
+    },
+    {
+      "id": 11183,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11183/",
+        "html_url": "http://localhost:8080/states/new-york/new-york-city-council-districts-12635/",
+        "slug": "new-york-city-council-districts-12635",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:22.284054-05:00",
+        "alias_of": null
+      },
+      "title": "New York City, New York City Council Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17200,
+                "name": "New York - New York City - 2020 Blocks",
+                "type": "fill",
+                "source_layer": "nyc_22_poponly_blocks",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nyc_22_poponly_blocks?v=2"
+              },
+              "layers": [
+                {
+                  "name": "New York - New York City - 2020 Blocks Interactive Layer",
+                  "id": "new-york-new-york-city-2020-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New York - New York City - 2020 Blocks Border",
+                  "id": "new-york-new-york-city-2020-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "c176896a-32b8-4ae5-a2e2-2e4cfc1f34b6"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17201,
+                "name": "New York - New York City - 2020 Blocks",
+                "type": "circle",
+                "source_layer": "nyc_demo_bg_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nyc_demo_bg_blockgroups_points?v=2"
+              },
+              "layers": [
+                {
+                  "name": "New York - New York City - 2020 Blocks Centroids",
+                  "id": "new-york-new-york-city-2020-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "f13bbcfa-2776-4a95-ae0d-ab6d95fdad1c"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17202,
+                "name": "New York - New York City - 2020 Blocks",
+                "type": "fill",
+                "source_layer": "nyc_demo_bg_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nyc_demo_bg_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "New York - New York City - 2020 Blocks Interactive Layer",
+                  "id": "new-york-new-york-city-2020-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New York - New York City - 2020 Blocks Border",
+                  "id": "new-york-new-york-city-2020-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "8dffa3b9-0c37-4688-8fe5-f1eb96bf6382"
+        }
+      ],
+      "unit_count": 51,
+      "unit_type": "Blocks",
+      "unit_name": "City Council",
+      "unit_name_plural": "City Council Districts",
+      "bounds": [
+        [-74.2588, 40.4766],
+        [-73.7002, 40.9177]
+      ]
+    },
+    {
+      "id": 11188,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11188/",
+        "html_url": "http://localhost:8080/states/new-york/new-york-congressional-districts-12640/",
+        "slug": "new-york-congressional-districts-12640",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:24.511975-05:00",
+        "alias_of": null
+      },
+      "title": "New York Congressional Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17209,
+                "name": "New York - 2020 Block Groups",
+                "type": "fill",
+                "source_layer": "ny_bg20_blockgroups20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ny_bg20_blockgroups20"
+              },
+              "layers": [
+                {
+                  "name": "New York - 2020 Block Groups Interactive Layer",
+                  "id": "new-york-2020-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New York - 2020 Block Groups Border",
+                  "id": "new-york-2020-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "39c55d21-45c7-4da9-801c-7b3101cad520"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17210,
+                "name": "New York - 2020 Block Groups",
+                "type": "circle",
+                "source_layer": "ny_bg20_blockgroups20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ny_bg20_blockgroups20_points"
+              },
+              "layers": [
+                {
+                  "name": "New York - 2020 Block Groups Centroids",
+                  "id": "new-york-2020-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "8332bc2c-be0f-4c2e-80ae-da609a68a7f4"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17211,
+                "name": "New York - Block Groups",
+                "type": "fill",
+                "source_layer": "ny_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ny_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "New York - Block Groups Interactive Layer",
+                  "id": "new-york-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New York - Block Groups Border",
+                  "id": "new-york-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "d3825531-8ffd-4adc-a8d2-b3ba19b39aca"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17212,
+                "name": "New York - Block Groups",
+                "type": "circle",
+                "source_layer": "ny_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ny_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "New York - Block Groups Centroids",
+                  "id": "new-york-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "e32046e2-7476-4213-842f-dc1d0c3da1fa"
+        }
+      ],
+      "unit_count": 27,
+      "unit_type": "Block Groups",
+      "unit_name": "Congress",
+      "unit_name_plural": "Congressional Districts",
+      "bounds": [
+        [-79.7626, 40.4774],
+        [-71.7775, 45.0159]
+      ]
+    },
+    {
+      "id": 11187,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11187/",
+        "html_url": "http://localhost:8080/states/new-york/new-york-reapportioned-congressional-districts-12639/",
+        "slug": "new-york-reapportioned-congressional-districts-12639",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:24.346937-05:00",
+        "alias_of": null
+      },
+      "title": "New York Reapportioned Congressional Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17209,
+                "name": "New York - 2020 Block Groups",
+                "type": "fill",
+                "source_layer": "ny_bg20_blockgroups20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ny_bg20_blockgroups20"
+              },
+              "layers": [
+                {
+                  "name": "New York - 2020 Block Groups Interactive Layer",
+                  "id": "new-york-2020-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New York - 2020 Block Groups Border",
+                  "id": "new-york-2020-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "168b26e9-00dd-4cc1-8651-156b92b18de6"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17210,
+                "name": "New York - 2020 Block Groups",
+                "type": "circle",
+                "source_layer": "ny_bg20_blockgroups20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ny_bg20_blockgroups20_points"
+              },
+              "layers": [
+                {
+                  "name": "New York - 2020 Block Groups Centroids",
+                  "id": "new-york-2020-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "bfa3739b-e772-46ee-b45c-a15c3a92a3a9"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17211,
+                "name": "New York - Block Groups",
+                "type": "fill",
+                "source_layer": "ny_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ny_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "New York - Block Groups Interactive Layer",
+                  "id": "new-york-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New York - Block Groups Border",
+                  "id": "new-york-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "388b1ebe-4a30-49c3-a2d4-bc6e3650144e"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17212,
+                "name": "New York - Block Groups",
+                "type": "circle",
+                "source_layer": "ny_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ny_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "New York - Block Groups Centroids",
+                  "id": "new-york-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "d8eecd78-2495-4cfb-8cf3-a0af18e2f01f"
+        }
+      ],
+      "unit_count": 26,
+      "unit_type": "Block Groups",
+      "unit_name": "2020 Reapportioned Congress",
+      "unit_name_plural": "Reapportioned Congressional Districts",
+      "bounds": [
+        [-79.7626, 40.4774],
+        [-71.7775, 45.0159]
+      ]
+    },
+    {
+      "id": 11189,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11189/",
+        "html_url": "http://localhost:8080/states/new-york/new-york-state-assembly-districts-12641/",
+        "slug": "new-york-state-assembly-districts-12641",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:24.675710-05:00",
+        "alias_of": null
+      },
+      "title": "New York State Assembly Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17209,
+                "name": "New York - 2020 Block Groups",
+                "type": "fill",
+                "source_layer": "ny_bg20_blockgroups20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ny_bg20_blockgroups20"
+              },
+              "layers": [
+                {
+                  "name": "New York - 2020 Block Groups Interactive Layer",
+                  "id": "new-york-2020-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New York - 2020 Block Groups Border",
+                  "id": "new-york-2020-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "cab032bc-1036-4993-a8bb-9de722511732"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17210,
+                "name": "New York - 2020 Block Groups",
+                "type": "circle",
+                "source_layer": "ny_bg20_blockgroups20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ny_bg20_blockgroups20_points"
+              },
+              "layers": [
+                {
+                  "name": "New York - 2020 Block Groups Centroids",
+                  "id": "new-york-2020-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "302d2d14-70f6-4735-a510-cdde8079f15c"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17211,
+                "name": "New York - Block Groups",
+                "type": "fill",
+                "source_layer": "ny_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ny_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "New York - Block Groups Interactive Layer",
+                  "id": "new-york-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New York - Block Groups Border",
+                  "id": "new-york-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "8d1e283d-2946-4407-b209-40ef932e94cf"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17212,
+                "name": "New York - Block Groups",
+                "type": "circle",
+                "source_layer": "ny_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ny_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "New York - Block Groups Centroids",
+                  "id": "new-york-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "227a63d0-7ea1-4cb5-9460-8875a8cf038a"
+        }
+      ],
+      "unit_count": 150,
+      "unit_type": "Block Groups",
+      "unit_name": "State Assembly",
+      "unit_name_plural": "State Assembly Districts",
+      "bounds": [
+        [-79.7626, 40.4774],
+        [-71.7775, 45.0159]
+      ]
+    },
+    {
+      "id": 11190,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11190/",
+        "html_url": "http://localhost:8080/states/new-york/new-york-state-senate-districts-12642/",
+        "slug": "new-york-state-senate-districts-12642",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:24.841196-05:00",
+        "alias_of": null
+      },
+      "title": "New York State Senate Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17209,
+                "name": "New York - 2020 Block Groups",
+                "type": "fill",
+                "source_layer": "ny_bg20_blockgroups20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ny_bg20_blockgroups20"
+              },
+              "layers": [
+                {
+                  "name": "New York - 2020 Block Groups Interactive Layer",
+                  "id": "new-york-2020-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New York - 2020 Block Groups Border",
+                  "id": "new-york-2020-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "ade73e76-d1de-4423-b4d9-b2024928839c"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17210,
+                "name": "New York - 2020 Block Groups",
+                "type": "circle",
+                "source_layer": "ny_bg20_blockgroups20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ny_bg20_blockgroups20_points"
+              },
+              "layers": [
+                {
+                  "name": "New York - 2020 Block Groups Centroids",
+                  "id": "new-york-2020-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "6ae8c138-93e2-4d4f-9bf5-36e84f650216"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17211,
+                "name": "New York - Block Groups",
+                "type": "fill",
+                "source_layer": "ny_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ny_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "New York - Block Groups Interactive Layer",
+                  "id": "new-york-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New York - Block Groups Border",
+                  "id": "new-york-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "a8e519ce-ec0e-483a-a9a4-089a15d8c05c"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17212,
+                "name": "New York - Block Groups",
+                "type": "circle",
+                "source_layer": "ny_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ny_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "New York - Block Groups Centroids",
+                  "id": "new-york-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "74c50cc7-e99f-485d-9d59-3da9df90d413"
+        }
+      ],
+      "unit_count": 63,
+      "unit_type": "Block Groups",
+      "unit_name": "State Senate",
+      "unit_name_plural": "State Senate Districts",
+      "bounds": [
+        [-79.7626, 40.4774],
+        [-71.7775, 45.0159]
+      ]
+    }
+  ]
+}

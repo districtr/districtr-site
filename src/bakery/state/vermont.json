@@ -1,0 +1,706 @@
+{
+  "id": 50,
+  "meta": {
+    "type": "client.MapIndexPage",
+    "detail_url": "http://localhost:8080/wagtail-api/pages/50/",
+    "html_url": "http://localhost:8080/states/vermont/",
+    "slug": "vermont",
+    "show_in_menus": false,
+    "seo_title": "",
+    "search_description": "",
+    "first_published_at": null,
+    "alias_of": null,
+    "locale": "en"
+  },
+  "title": "Vermont",
+  "counties": [
+    {
+      "id": 3026,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3026/",
+        "html_url": "http://localhost:8080/states/vermont/addison/",
+        "slug": "addison",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Addison County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2444,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2444/",
+        "html_url": "http://localhost:8080/states/vermont/bennington/",
+        "slug": "bennington",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Bennington County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2280,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2280/",
+        "html_url": "http://localhost:8080/states/vermont/caledonia/",
+        "slug": "caledonia",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Caledonia County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2773,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2773/",
+        "html_url": "http://localhost:8080/states/vermont/chittenden/",
+        "slug": "chittenden",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Chittenden County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 971,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/971/",
+        "html_url": "http://localhost:8080/states/vermont/essex/",
+        "slug": "essex",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Essex County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 164,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/164/",
+        "html_url": "http://localhost:8080/states/vermont/franklin/",
+        "slug": "franklin",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Franklin County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2513,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2513/",
+        "html_url": "http://localhost:8080/states/vermont/grand-isle/",
+        "slug": "grand-isle",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Grand Isle County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1270,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1270/",
+        "html_url": "http://localhost:8080/states/vermont/lamoille/",
+        "slug": "lamoille",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Lamoille County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 478,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/478/",
+        "html_url": "http://localhost:8080/states/vermont/orange/",
+        "slug": "orange",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Orange County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3285,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3285/",
+        "html_url": "http://localhost:8080/states/vermont/orleans/",
+        "slug": "orleans",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Orleans County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 988,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/988/",
+        "html_url": "http://localhost:8080/states/vermont/rutland/",
+        "slug": "rutland",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Rutland County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2899,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2899/",
+        "html_url": "http://localhost:8080/states/vermont/washington/",
+        "slug": "washington",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Washington County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3284,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3284/",
+        "html_url": "http://localhost:8080/states/vermont/windham/",
+        "slug": "windham",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Windham County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2805,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2805/",
+        "html_url": "http://localhost:8080/states/vermont/windsor/",
+        "slug": "windsor",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Windsor County",
+      "body": "",
+      "live": true
+    }
+  ],
+  "problems": [
+    {
+      "id": 11288,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11288/",
+        "html_url": "http://localhost:8080/states/vermont/vermont-state-senate-seats-12740/",
+        "slug": "vermont-state-senate-seats-12740",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:29:02.153755-05:00",
+        "alias_of": null
+      },
+      "title": "Vermont State Senate Seats",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17387,
+                "name": "Vermont - Towns",
+                "type": "fill",
+                "source_layer": "vermont_towns",
+                "source_type": "vector",
+                "url": "mapbox://districtr.vermont_towns"
+              },
+              "layers": [
+                {
+                  "name": "Vermont - Towns Interactive Layer",
+                  "id": "vermont-towns-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Vermont - Towns Border",
+                  "id": "vermont-towns-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "967a4991-9046-468b-8220-ceb78546f2eb"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17388,
+                "name": "Vermont - Towns",
+                "type": "circle",
+                "source_layer": "vermont_towns_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.vermont_towns_points"
+              },
+              "layers": [
+                {
+                  "name": "Vermont - Towns Centroids",
+                  "id": "vermont-towns-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "7dec6500-f522-412e-821a-f2f5da808a1d"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17389,
+                "name": "Vermont - 2020 Block Groups",
+                "type": "circle",
+                "source_layer": "vermont20_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.vermont20_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Vermont - 2020 Block Groups Centroids",
+                  "id": "vermont-2020-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "9c819836-1168-47ae-96a4-a99827bc0e05"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17390,
+                "name": "Vermont - 2020 Block Groups",
+                "type": "fill",
+                "source_layer": "vermont20_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.vermont20_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Vermont - 2020 Block Groups Interactive Layer",
+                  "id": "vermont-2020-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Vermont - 2020 Block Groups Border",
+                  "id": "vermont-2020-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "0e9270e2-ebfc-4ad0-94e4-3913fc933c84"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17391,
+                "name": "Vermont - Block Groups",
+                "type": "fill",
+                "source_layer": "vermont_bg_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.vermont_bg_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Vermont - Block Groups Interactive Layer",
+                  "id": "vermont-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Vermont - Block Groups Border",
+                  "id": "vermont-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "8b79af69-142b-4a7b-ad51-a06c4ba6e616"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17392,
+                "name": "Vermont - Block Groups",
+                "type": "circle",
+                "source_layer": "vermont_bg_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.vermont_bg_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Vermont - Block Groups Centroids",
+                  "id": "vermont-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "39a294f9-537d-48a2-871c-7b5e3f50446c"
+        }
+      ],
+      "unit_count": 30,
+      "unit_type": "Towns",
+      "unit_name": "State Senate",
+      "unit_name_plural": "State Senate Seats",
+      "bounds": [
+        [-73.4379, 42.7268],
+        [-71.465, 45.0167]
+      ]
+    },
+    {
+      "id": 11287,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11287/",
+        "html_url": "http://localhost:8080/states/vermont/vermont-three-member-senate-districts-12739/",
+        "slug": "vermont-three-member-senate-districts-12739",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:29:01.979692-05:00",
+        "alias_of": null
+      },
+      "title": "Vermont Three-Member Senate Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17387,
+                "name": "Vermont - Towns",
+                "type": "fill",
+                "source_layer": "vermont_towns",
+                "source_type": "vector",
+                "url": "mapbox://districtr.vermont_towns"
+              },
+              "layers": [
+                {
+                  "name": "Vermont - Towns Interactive Layer",
+                  "id": "vermont-towns-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Vermont - Towns Border",
+                  "id": "vermont-towns-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "2c13bfe4-b586-4029-8d9c-8abc20a0301d"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17388,
+                "name": "Vermont - Towns",
+                "type": "circle",
+                "source_layer": "vermont_towns_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.vermont_towns_points"
+              },
+              "layers": [
+                {
+                  "name": "Vermont - Towns Centroids",
+                  "id": "vermont-towns-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "4981c884-f598-4c54-87aa-372c1a125dc0"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17389,
+                "name": "Vermont - 2020 Block Groups",
+                "type": "circle",
+                "source_layer": "vermont20_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.vermont20_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Vermont - 2020 Block Groups Centroids",
+                  "id": "vermont-2020-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "f5f90906-0e29-468c-a45f-dfca13c8f0e6"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17390,
+                "name": "Vermont - 2020 Block Groups",
+                "type": "fill",
+                "source_layer": "vermont20_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.vermont20_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Vermont - 2020 Block Groups Interactive Layer",
+                  "id": "vermont-2020-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Vermont - 2020 Block Groups Border",
+                  "id": "vermont-2020-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "6fb0755e-93df-4aba-8427-417e31e98c43"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17391,
+                "name": "Vermont - Block Groups",
+                "type": "fill",
+                "source_layer": "vermont_bg_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.vermont_bg_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Vermont - Block Groups Interactive Layer",
+                  "id": "vermont-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Vermont - Block Groups Border",
+                  "id": "vermont-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "aba8051d-7d5c-4667-858c-57f8ec3164a3"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17392,
+                "name": "Vermont - Block Groups",
+                "type": "circle",
+                "source_layer": "vermont_bg_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.vermont_bg_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Vermont - Block Groups Centroids",
+                  "id": "vermont-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "3bc6dd17-f402-4a4d-90b6-7351b4db878b"
+        }
+      ],
+      "unit_count": 10,
+      "unit_type": "Towns",
+      "unit_name": "State Senate",
+      "unit_name_plural": "Three-Member Senate Districts",
+      "bounds": [
+        [-73.4379, 42.7268],
+        [-71.465, 45.0167]
+      ]
+    }
+  ]
+}

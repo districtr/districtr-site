@@ -1,0 +1,173 @@
+{
+  "id": 13,
+  "meta": {
+    "type": "client.MapIndexPage",
+    "detail_url": "http://localhost:8080/wagtail-api/pages/13/",
+    "html_url": "http://localhost:8080/states/district-of-columbia/",
+    "slug": "district-of-columbia",
+    "show_in_menus": false,
+    "seo_title": "",
+    "search_description": "",
+    "first_published_at": null,
+    "alias_of": null,
+    "locale": "en"
+  },
+  "title": "District of Columbia",
+  "counties": [],
+  "problems": [
+    {
+      "id": 11295,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11295/",
+        "html_url": "http://localhost:8080/states/district-of-columbia/district-of-columbia-wards-12747/",
+        "slug": "district-of-columbia-wards-12747",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:29:04.806147-05:00",
+        "alias_of": null
+      },
+      "title": "District of Columbia Wards",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17403,
+                "name": "District of Columbia - 2020 Block Groups",
+                "type": "circle",
+                "source_layer": "dc2020_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.dc2020_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "District of Columbia - 2020 Block Groups Centroids",
+                  "id": "district-of-columbia-2020-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "f29f8c0e-7f71-442a-88d8-9ce198a37c14"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17404,
+                "name": "District of Columbia - 2020 Block Groups",
+                "type": "fill",
+                "source_layer": "dc2020_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.dc2020_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "District of Columbia - 2020 Block Groups Interactive Layer",
+                  "id": "district-of-columbia-2020-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "District of Columbia - 2020 Block Groups Border",
+                  "id": "district-of-columbia-2020-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "dd7aac62-5a72-4594-a6d1-046c64de7ec6"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17405,
+                "name": "District of Columbia - Block Groups",
+                "type": "circle",
+                "source_layer": "dc_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.dc_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "District of Columbia - Block Groups Centroids",
+                  "id": "district-of-columbia-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "6b2fea5f-8d88-4c1f-ad62-0ec214c10c49"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17406,
+                "name": "District of Columbia - Block Groups",
+                "type": "fill",
+                "source_layer": "dc_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.dc_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "District of Columbia - Block Groups Interactive Layer",
+                  "id": "district-of-columbia-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "District of Columbia - Block Groups Border",
+                  "id": "district-of-columbia-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "586d1dca-c0db-44b7-a020-1a498364e5a8"
+        }
+      ],
+      "unit_count": 8,
+      "unit_type": "Block Groups",
+      "unit_name": "Wards",
+      "unit_name_plural": "Wards",
+      "bounds": [
+        [-77.1198, 38.7916],
+        [-76.9094, 38.9955]
+      ]
+    }
+  ]
+}

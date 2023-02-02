@@ -1,0 +1,761 @@
+{
+  "id": 16,
+  "meta": {
+    "type": "client.MapIndexPage",
+    "detail_url": "http://localhost:8080/wagtail-api/pages/16/",
+    "html_url": "http://localhost:8080/states/hawaii/",
+    "slug": "hawaii",
+    "show_in_menus": false,
+    "seo_title": "",
+    "search_description": "",
+    "first_published_at": null,
+    "alias_of": null,
+    "locale": "en"
+  },
+  "title": "Hawaii",
+  "counties": [
+    {
+      "id": 2809,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2809/",
+        "html_url": "http://localhost:8080/states/hawaii/hawaii/",
+        "slug": "hawaii",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Hawaii County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 440,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/440/",
+        "html_url": "http://localhost:8080/states/hawaii/honolulu/",
+        "slug": "honolulu",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Honolulu County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2155,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2155/",
+        "html_url": "http://localhost:8080/states/hawaii/kalawao/",
+        "slug": "kalawao",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Kalawao County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2156,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2156/",
+        "html_url": "http://localhost:8080/states/hawaii/kauai/",
+        "slug": "kauai",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Kauai County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2775,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2775/",
+        "html_url": "http://localhost:8080/states/hawaii/maui/",
+        "slug": "maui",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Maui County",
+      "body": "",
+      "live": true
+    }
+  ],
+  "problems": [
+    {
+      "id": 11075,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11075/",
+        "html_url": "http://localhost:8080/states/hawaii/hawaii-congressional-districts-12527/",
+        "slug": "hawaii-congressional-districts-12527",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:42.070065-05:00",
+        "alias_of": null
+      },
+      "title": "Hawaii Congressional Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17016,
+                "name": "Hawaii - 2020 Block Groups",
+                "type": "fill",
+                "source_layer": "hi_bg20_blockgroups20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.hi_bg20_blockgroups20"
+              },
+              "layers": [
+                {
+                  "name": "Hawaii - 2020 Block Groups Interactive Layer",
+                  "id": "hawaii-2020-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Hawaii - 2020 Block Groups Border",
+                  "id": "hawaii-2020-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "6c03f0bd-faa1-45f4-a86d-60cb8b957c85"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17017,
+                "name": "Hawaii - 2020 Block Groups",
+                "type": "circle",
+                "source_layer": "hi_bg20_blockgroups20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.hi_bg20_blockgroups20_points"
+              },
+              "layers": [
+                {
+                  "name": "Hawaii - 2020 Block Groups Centroids",
+                  "id": "hawaii-2020-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "f49da6df-7de0-41c1-9202-e90bb6802450"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17018,
+                "name": "Hawaii - Block Groups",
+                "type": "circle",
+                "source_layer": "hawaii_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.hawaii_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Hawaii - Block Groups Centroids",
+                  "id": "hawaii-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "730d6538-7755-486e-9659-6e53ccd412ed"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17019,
+                "name": "Hawaii - Block Groups",
+                "type": "fill",
+                "source_layer": "hawaii_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.hawaii_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Hawaii - Block Groups Interactive Layer",
+                  "id": "hawaii-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Hawaii - Block Groups Border",
+                  "id": "hawaii-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "5cb53a53-2ffa-41d4-b615-78a0f01e7363"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17020,
+                "name": "Hawaii - Precincts",
+                "type": "fill",
+                "source_layer": "hawaii_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.hawaii_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Hawaii - Precincts Interactive Layer",
+                  "id": "hawaii-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Hawaii - Precincts Border",
+                  "id": "hawaii-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "8daecaba-89ec-4f09-b73d-9e3bafa7d2be"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17021,
+                "name": "Hawaii - Precincts",
+                "type": "circle",
+                "source_layer": "hawaii_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.hawaii_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Hawaii - Precincts Centroids",
+                  "id": "hawaii-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "12472228-18d8-4f73-aeaf-c37330631ac0"
+        }
+      ],
+      "unit_count": 2,
+      "unit_type": "Block Groups",
+      "unit_name": "Congress",
+      "unit_name_plural": "Congressional Districts",
+      "bounds": [
+        [-160.2459, 18.9107],
+        [-154.8067, 22.2327]
+      ]
+    },
+    {
+      "id": 11077,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11077/",
+        "html_url": "http://localhost:8080/states/hawaii/hawaii-state-house-districts-12529/",
+        "slug": "hawaii-state-house-districts-12529",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:42.413928-05:00",
+        "alias_of": null
+      },
+      "title": "Hawaii State House Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17016,
+                "name": "Hawaii - 2020 Block Groups",
+                "type": "fill",
+                "source_layer": "hi_bg20_blockgroups20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.hi_bg20_blockgroups20"
+              },
+              "layers": [
+                {
+                  "name": "Hawaii - 2020 Block Groups Interactive Layer",
+                  "id": "hawaii-2020-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Hawaii - 2020 Block Groups Border",
+                  "id": "hawaii-2020-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "dda71ee9-7999-4e45-a375-ba37d66363e2"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17017,
+                "name": "Hawaii - 2020 Block Groups",
+                "type": "circle",
+                "source_layer": "hi_bg20_blockgroups20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.hi_bg20_blockgroups20_points"
+              },
+              "layers": [
+                {
+                  "name": "Hawaii - 2020 Block Groups Centroids",
+                  "id": "hawaii-2020-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "b86dc63d-d1b2-46fc-9c43-3b79498cd0af"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17018,
+                "name": "Hawaii - Block Groups",
+                "type": "circle",
+                "source_layer": "hawaii_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.hawaii_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Hawaii - Block Groups Centroids",
+                  "id": "hawaii-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "94ec4f3c-96a0-4515-a00c-3055b264b975"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17019,
+                "name": "Hawaii - Block Groups",
+                "type": "fill",
+                "source_layer": "hawaii_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.hawaii_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Hawaii - Block Groups Interactive Layer",
+                  "id": "hawaii-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Hawaii - Block Groups Border",
+                  "id": "hawaii-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "8c357194-265b-4ec3-827d-43bbb7ac4232"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17020,
+                "name": "Hawaii - Precincts",
+                "type": "fill",
+                "source_layer": "hawaii_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.hawaii_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Hawaii - Precincts Interactive Layer",
+                  "id": "hawaii-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Hawaii - Precincts Border",
+                  "id": "hawaii-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "5096aee2-321c-4c8b-bd6b-e5202b495f8f"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17021,
+                "name": "Hawaii - Precincts",
+                "type": "circle",
+                "source_layer": "hawaii_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.hawaii_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Hawaii - Precincts Centroids",
+                  "id": "hawaii-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "6e60d784-5895-45d5-adbc-c3333a8dccc5"
+        }
+      ],
+      "unit_count": 51,
+      "unit_type": "Block Groups",
+      "unit_name": "State House",
+      "unit_name_plural": "State House Districts",
+      "bounds": [
+        [-160.2459, 18.9107],
+        [-154.8067, 22.2327]
+      ]
+    },
+    {
+      "id": 11076,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11076/",
+        "html_url": "http://localhost:8080/states/hawaii/hawaii-state-senate-districts-12528/",
+        "slug": "hawaii-state-senate-districts-12528",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:42.244275-05:00",
+        "alias_of": null
+      },
+      "title": "Hawaii State Senate Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17016,
+                "name": "Hawaii - 2020 Block Groups",
+                "type": "fill",
+                "source_layer": "hi_bg20_blockgroups20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.hi_bg20_blockgroups20"
+              },
+              "layers": [
+                {
+                  "name": "Hawaii - 2020 Block Groups Interactive Layer",
+                  "id": "hawaii-2020-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Hawaii - 2020 Block Groups Border",
+                  "id": "hawaii-2020-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "a65cacdc-6e44-4dd3-8275-5f6415bd8f90"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17017,
+                "name": "Hawaii - 2020 Block Groups",
+                "type": "circle",
+                "source_layer": "hi_bg20_blockgroups20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.hi_bg20_blockgroups20_points"
+              },
+              "layers": [
+                {
+                  "name": "Hawaii - 2020 Block Groups Centroids",
+                  "id": "hawaii-2020-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "e1e04469-0f6c-46b1-891a-2b593f93e75f"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17018,
+                "name": "Hawaii - Block Groups",
+                "type": "circle",
+                "source_layer": "hawaii_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.hawaii_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Hawaii - Block Groups Centroids",
+                  "id": "hawaii-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "708c5c05-392d-42f3-bc57-a958b4c5d9f5"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17019,
+                "name": "Hawaii - Block Groups",
+                "type": "fill",
+                "source_layer": "hawaii_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.hawaii_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Hawaii - Block Groups Interactive Layer",
+                  "id": "hawaii-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Hawaii - Block Groups Border",
+                  "id": "hawaii-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "b6cbb81c-2c6c-4e32-82ef-7166cbc9481d"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17020,
+                "name": "Hawaii - Precincts",
+                "type": "fill",
+                "source_layer": "hawaii_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.hawaii_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Hawaii - Precincts Interactive Layer",
+                  "id": "hawaii-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Hawaii - Precincts Border",
+                  "id": "hawaii-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "75e7095d-bc72-4482-a3f9-7cf5584f630e"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17021,
+                "name": "Hawaii - Precincts",
+                "type": "circle",
+                "source_layer": "hawaii_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.hawaii_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Hawaii - Precincts Centroids",
+                  "id": "hawaii-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "58e2396e-e16d-48c1-b9e2-2440a4b801ae"
+        }
+      ],
+      "unit_count": 25,
+      "unit_type": "Block Groups",
+      "unit_name": "State Senate",
+      "unit_name_plural": "State Senate Districts",
+      "bounds": [
+        [-160.2459, 18.9107],
+        [-154.8067, 22.2327]
+      ]
+    }
+  ]
+}

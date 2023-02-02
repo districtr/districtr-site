@@ -1,0 +1,851 @@
+{
+  "id": 34,
+  "meta": {
+    "type": "client.MapIndexPage",
+    "detail_url": "http://localhost:8080/wagtail-api/pages/34/",
+    "html_url": "http://localhost:8080/states/new-hampshire/",
+    "slug": "new-hampshire",
+    "show_in_menus": false,
+    "seo_title": "",
+    "search_description": "",
+    "first_published_at": null,
+    "alias_of": null,
+    "locale": "en"
+  },
+  "title": "New Hampshire",
+  "counties": [
+    {
+      "id": 3267,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3267/",
+        "html_url": "http://localhost:8080/states/new-hampshire/belknap/",
+        "slug": "belknap",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Belknap County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1999,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1999/",
+        "html_url": "http://localhost:8080/states/new-hampshire/carroll/",
+        "slug": "carroll",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Carroll County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 913,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/913/",
+        "html_url": "http://localhost:8080/states/new-hampshire/cheshire/",
+        "slug": "cheshire",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Cheshire County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 995,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/995/",
+        "html_url": "http://localhost:8080/states/new-hampshire/coos/",
+        "slug": "coos",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Coos County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 460,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/460/",
+        "html_url": "http://localhost:8080/states/new-hampshire/grafton/",
+        "slug": "grafton",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Grafton County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2177,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2177/",
+        "html_url": "http://localhost:8080/states/new-hampshire/hillsborough/",
+        "slug": "hillsborough",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Hillsborough County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1521,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1521/",
+        "html_url": "http://localhost:8080/states/new-hampshire/merrimack/",
+        "slug": "merrimack",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Merrimack County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2092,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2092/",
+        "html_url": "http://localhost:8080/states/new-hampshire/rockingham/",
+        "slug": "rockingham",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Rockingham County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3094,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3094/",
+        "html_url": "http://localhost:8080/states/new-hampshire/strafford/",
+        "slug": "strafford",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Strafford County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 828,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/828/",
+        "html_url": "http://localhost:8080/states/new-hampshire/sullivan/",
+        "slug": "sullivan",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Sullivan County",
+      "body": "",
+      "live": true
+    }
+  ],
+  "problems": [
+    {
+      "id": 11166,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11166/",
+        "html_url": "http://localhost:8080/states/new-hampshire/new-hampshire-congressional-districts-12618/",
+        "slug": "new-hampshire-congressional-districts-12618",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:16.326569-05:00",
+        "alias_of": null
+      },
+      "title": "New Hampshire Congressional Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17176,
+                "name": "New Hampshire - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "nh_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nh_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "New Hampshire - 2020 VTDs Interactive Layer",
+                  "id": "new-hampshire-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Hampshire - 2020 VTDs Border",
+                  "id": "new-hampshire-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "e38231b6-5d05-4f76-b7bc-6efe0773fe49"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17177,
+                "name": "New Hampshire - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "nh_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nh_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "New Hampshire - 2020 VTDs Centroids",
+                  "id": "new-hampshire-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "6853e68d-46f8-4420-bb80-1ab4fe9bddd7"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17178,
+                "name": "New Hampshire - Precincts",
+                "type": "circle",
+                "source_layer": "newhampshire_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.newhampshire_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "New Hampshire - Precincts Centroids",
+                  "id": "new-hampshire-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "f350b843-d444-4aa2-9cca-e54818eb9bff"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17179,
+                "name": "New Hampshire - Precincts",
+                "type": "fill",
+                "source_layer": "newhampshire_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.newhampshire_precincts"
+              },
+              "layers": [
+                {
+                  "name": "New Hampshire - Precincts Interactive Layer",
+                  "id": "new-hampshire-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Hampshire - Precincts Border",
+                  "id": "new-hampshire-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "94e20c25-e158-4434-909b-a899c86b7983"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17180,
+                "name": "New Hampshire - Block Groups",
+                "type": "circle",
+                "source_layer": "newhampshire_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.newhampshire_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "New Hampshire - Block Groups Centroids",
+                  "id": "new-hampshire-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "12e1db98-78ff-4eae-b00d-61a3cb77a5e8"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17181,
+                "name": "New Hampshire - Block Groups",
+                "type": "fill",
+                "source_layer": "newhampshire_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.newhampshire_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "New Hampshire - Block Groups Interactive Layer",
+                  "id": "new-hampshire-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Hampshire - Block Groups Border",
+                  "id": "new-hampshire-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "ad106bec-7b54-4342-824b-33767cc2cb1d"
+        }
+      ],
+      "unit_count": 2,
+      "unit_type": "VTDs",
+      "unit_name": "Congress",
+      "unit_name_plural": "Congressional Districts",
+      "bounds": [
+        [-72.5571, 42.697],
+        [-70.7022, 45.3057]
+      ]
+    },
+    {
+      "id": 11167,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11167/",
+        "html_url": "http://localhost:8080/states/new-hampshire/new-hampshire-executive-council-districts-12619/",
+        "slug": "new-hampshire-executive-council-districts-12619",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:16.500876-05:00",
+        "alias_of": null
+      },
+      "title": "New Hampshire Executive Council Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17176,
+                "name": "New Hampshire - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "nh_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nh_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "New Hampshire - 2020 VTDs Interactive Layer",
+                  "id": "new-hampshire-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Hampshire - 2020 VTDs Border",
+                  "id": "new-hampshire-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "b0d03208-e5bb-4afa-b376-83997c5e5276"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17177,
+                "name": "New Hampshire - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "nh_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nh_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "New Hampshire - 2020 VTDs Centroids",
+                  "id": "new-hampshire-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "89b7f667-1b14-4cf8-be4b-655aa66c5c0b"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17178,
+                "name": "New Hampshire - Precincts",
+                "type": "circle",
+                "source_layer": "newhampshire_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.newhampshire_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "New Hampshire - Precincts Centroids",
+                  "id": "new-hampshire-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "a82af0e9-ff7a-493b-b7ff-7837994bceeb"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17179,
+                "name": "New Hampshire - Precincts",
+                "type": "fill",
+                "source_layer": "newhampshire_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.newhampshire_precincts"
+              },
+              "layers": [
+                {
+                  "name": "New Hampshire - Precincts Interactive Layer",
+                  "id": "new-hampshire-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Hampshire - Precincts Border",
+                  "id": "new-hampshire-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "5e269698-b207-45ee-8b1c-4196385df3c1"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17180,
+                "name": "New Hampshire - Block Groups",
+                "type": "circle",
+                "source_layer": "newhampshire_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.newhampshire_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "New Hampshire - Block Groups Centroids",
+                  "id": "new-hampshire-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "413d7de7-759a-49c5-83c2-af5dca9d4e4c"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17181,
+                "name": "New Hampshire - Block Groups",
+                "type": "fill",
+                "source_layer": "newhampshire_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.newhampshire_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "New Hampshire - Block Groups Interactive Layer",
+                  "id": "new-hampshire-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Hampshire - Block Groups Border",
+                  "id": "new-hampshire-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "e2124f4e-d7db-4e2c-9ccc-5499ac3346eb"
+        }
+      ],
+      "unit_count": 5,
+      "unit_type": "VTDs",
+      "unit_name": "Executive Council",
+      "unit_name_plural": "Executive Council Districts",
+      "bounds": [
+        [-72.5571, 42.697],
+        [-70.7022, 45.3057]
+      ]
+    },
+    {
+      "id": 11168,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11168/",
+        "html_url": "http://localhost:8080/states/new-hampshire/new-hampshire-state-senate-districts-12620/",
+        "slug": "new-hampshire-state-senate-districts-12620",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:16.673445-05:00",
+        "alias_of": null
+      },
+      "title": "New Hampshire State Senate Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17176,
+                "name": "New Hampshire - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "nh_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nh_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "New Hampshire - 2020 VTDs Interactive Layer",
+                  "id": "new-hampshire-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Hampshire - 2020 VTDs Border",
+                  "id": "new-hampshire-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "cba5c596-388a-4233-9870-43c6ff68351e"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17177,
+                "name": "New Hampshire - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "nh_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.nh_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "New Hampshire - 2020 VTDs Centroids",
+                  "id": "new-hampshire-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "929c2cff-d500-4e20-b7a9-d91b52803805"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17178,
+                "name": "New Hampshire - Precincts",
+                "type": "circle",
+                "source_layer": "newhampshire_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.newhampshire_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "New Hampshire - Precincts Centroids",
+                  "id": "new-hampshire-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "d6cfd019-bc8c-4c8e-9887-adda9627db44"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17179,
+                "name": "New Hampshire - Precincts",
+                "type": "fill",
+                "source_layer": "newhampshire_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.newhampshire_precincts"
+              },
+              "layers": [
+                {
+                  "name": "New Hampshire - Precincts Interactive Layer",
+                  "id": "new-hampshire-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Hampshire - Precincts Border",
+                  "id": "new-hampshire-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "b888411b-8c51-4c73-8179-713757184f12"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17180,
+                "name": "New Hampshire - Block Groups",
+                "type": "circle",
+                "source_layer": "newhampshire_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.newhampshire_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "New Hampshire - Block Groups Centroids",
+                  "id": "new-hampshire-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "ad257f1b-9488-4ba6-989f-e131d5f3ca26"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17181,
+                "name": "New Hampshire - Block Groups",
+                "type": "fill",
+                "source_layer": "newhampshire_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.newhampshire_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "New Hampshire - Block Groups Interactive Layer",
+                  "id": "new-hampshire-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "New Hampshire - Block Groups Border",
+                  "id": "new-hampshire-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "11fa16a5-5309-4b5e-86e1-803b1bb729cd"
+        }
+      ],
+      "unit_count": 24,
+      "unit_type": "VTDs",
+      "unit_name": "State Senate",
+      "unit_name_plural": "State Senate Districts",
+      "bounds": [
+        [-72.5571, 42.697],
+        [-70.7022, 45.3057]
+      ]
+    }
+  ]
+}

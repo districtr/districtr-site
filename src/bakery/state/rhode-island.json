@@ -1,0 +1,1006 @@
+{
+  "id": 44,
+  "meta": {
+    "type": "client.MapIndexPage",
+    "detail_url": "http://localhost:8080/wagtail-api/pages/44/",
+    "html_url": "http://localhost:8080/states/rhode-island/",
+    "slug": "rhode-island",
+    "show_in_menus": false,
+    "seo_title": "",
+    "search_description": "",
+    "first_published_at": null,
+    "alias_of": null,
+    "locale": "en"
+  },
+  "title": "Rhode Island",
+  "counties": [
+    {
+      "id": 2989,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2989/",
+        "html_url": "http://localhost:8080/states/rhode-island/bristol/",
+        "slug": "bristol",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Bristol County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3283,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3283/",
+        "html_url": "http://localhost:8080/states/rhode-island/kent/",
+        "slug": "kent",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Kent County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2991,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2991/",
+        "html_url": "http://localhost:8080/states/rhode-island/newport/",
+        "slug": "newport",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Newport County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1714,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1714/",
+        "html_url": "http://localhost:8080/states/rhode-island/providence/",
+        "slug": "providence",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Providence County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1410,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1410/",
+        "html_url": "http://localhost:8080/states/rhode-island/washington/",
+        "slug": "washington",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Washington County",
+      "body": "",
+      "live": true
+    }
+  ],
+  "problems": [
+    {
+      "id": 11257,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11257/",
+        "html_url": "http://localhost:8080/states/rhode-island/rhode-island-city-council-and-mayoral-wards-12709/",
+        "slug": "rhode-island-city-council-and-mayoral-wards-12709",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:50.615915-05:00",
+        "alias_of": null
+      },
+      "title": "Cranston, Rhode Island City Council and Mayoral Wards",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17333,
+                "name": "Rhode Island - Cranston - 2020 Blocks",
+                "type": "circle",
+                "source_layer": "cranston_blocks20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.cranston_blocks20_points"
+              },
+              "layers": [
+                {
+                  "name": "Rhode Island - Cranston - 2020 Blocks Centroids",
+                  "id": "rhode-island-cranston-2020-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "6af375ac-d2e5-491d-94d1-2b7dce6fa477"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17334,
+                "name": "Rhode Island - Cranston - 2020 Blocks",
+                "type": "fill",
+                "source_layer": "cranston_blocks20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.cranston_blocks20"
+              },
+              "layers": [
+                {
+                  "name": "Rhode Island - Cranston - 2020 Blocks Interactive Layer",
+                  "id": "rhode-island-cranston-2020-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Rhode Island - Cranston - 2020 Blocks Border",
+                  "id": "rhode-island-cranston-2020-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "fa05d2ed-9464-4f18-8019-8e13b3e0f3ef"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17335,
+                "name": "Rhode Island - Cranston - Blocks",
+                "type": "fill",
+                "source_layer": "cranston_ri_blocks",
+                "source_type": "vector",
+                "url": "mapbox://districtr.cranston_ri_blocks"
+              },
+              "layers": [
+                {
+                  "name": "Rhode Island - Cranston - Blocks Interactive Layer",
+                  "id": "rhode-island-cranston-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Rhode Island - Cranston - Blocks Border",
+                  "id": "rhode-island-cranston-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "cf42c604-c6bc-486a-a5b7-10df4756078f"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17336,
+                "name": "Rhode Island - Cranston - Blocks",
+                "type": "circle",
+                "source_layer": "cranston_ri_blocks_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.cranston_ri_blocks_points"
+              },
+              "layers": [
+                {
+                  "name": "Rhode Island - Cranston - Blocks Centroids",
+                  "id": "rhode-island-cranston-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "4d3795a8-8d2e-46fd-a63e-53a3871669b8"
+        }
+      ],
+      "unit_count": 6,
+      "unit_type": "Blocks",
+      "unit_name": "City Council",
+      "unit_name_plural": "City Council and Mayoral Wards",
+      "bounds": [
+        [-71.5596, 41.7301],
+        [-71.3837, 41.807]
+      ]
+    },
+    {
+      "id": 11256,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11256/",
+        "html_url": "http://localhost:8080/states/rhode-island/rhode-island-city-council-wards-12708/",
+        "slug": "rhode-island-city-council-wards-12708",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:50.240428-05:00",
+        "alias_of": null
+      },
+      "title": "Providence, Rhode Island City Council Wards",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17331,
+                "name": "Rhode Island - Providence - Blocks",
+                "type": "fill",
+                "source_layer": "providence_ri_blocks",
+                "source_type": "vector",
+                "url": "mapbox://districtr.providence_ri_blocks"
+              },
+              "layers": [
+                {
+                  "name": "Rhode Island - Providence - Blocks Interactive Layer",
+                  "id": "rhode-island-providence-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Rhode Island - Providence - Blocks Border",
+                  "id": "rhode-island-providence-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "74e913a7-d12b-4e00-89e6-da4b58234d1f"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17332,
+                "name": "Rhode Island - Providence - Blocks",
+                "type": "circle",
+                "source_layer": "providence_ri_blocks_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.providence_ri_blocks_points"
+              },
+              "layers": [
+                {
+                  "name": "Rhode Island - Providence - Blocks Centroids",
+                  "id": "rhode-island-providence-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "abebc98d-9e66-47c1-8a3f-cd8b99a5b7b3"
+        }
+      ],
+      "unit_count": 15,
+      "unit_type": "Blocks",
+      "unit_name": "City Council",
+      "unit_name_plural": "City Council Wards",
+      "bounds": [
+        [-71.4727, 41.7724],
+        [-71.3766, 41.8616]
+      ]
+    },
+    {
+      "id": 11253,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11253/",
+        "html_url": "http://localhost:8080/states/rhode-island/rhode-island-congressional-districts-12705/",
+        "slug": "rhode-island-congressional-districts-12705",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:49.517490-05:00",
+        "alias_of": null
+      },
+      "title": "Rhode Island Congressional Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17325,
+                "name": "Rhode Island - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "ri_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ri_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "Rhode Island - 2020 VTDs Interactive Layer",
+                  "id": "rhode-island-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Rhode Island - 2020 VTDs Border",
+                  "id": "rhode-island-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "282e725f-df39-432f-bce5-13d294b162fd"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17326,
+                "name": "Rhode Island - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "ri_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ri_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "Rhode Island - 2020 VTDs Centroids",
+                  "id": "rhode-island-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "413bd4d1-69eb-4bf3-9282-3d98fe6ed468"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17327,
+                "name": "Rhode Island - Precincts",
+                "type": "fill",
+                "source_layer": "rhode_island_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.rhode_island_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Rhode Island - Precincts Interactive Layer",
+                  "id": "rhode-island-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Rhode Island - Precincts Border",
+                  "id": "rhode-island-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "76b76039-87c2-42b2-a48b-8d189ae69b71"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17328,
+                "name": "Rhode Island - Precincts",
+                "type": "circle",
+                "source_layer": "rhode_island_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.rhode_island_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Rhode Island - Precincts Centroids",
+                  "id": "rhode-island-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "6dbfb185-ead5-4fc8-b97e-7006c8512681"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17329,
+                "name": "Rhode Island - Block Groups",
+                "type": "circle",
+                "source_layer": "rhode_island_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.rhode_island_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Rhode Island - Block Groups Centroids",
+                  "id": "rhode-island-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "29871c9d-a6ee-4625-a39c-6671dc52765a"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17330,
+                "name": "Rhode Island - Block Groups",
+                "type": "fill",
+                "source_layer": "rhode_island_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.rhode_island_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Rhode Island - Block Groups Interactive Layer",
+                  "id": "rhode-island-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Rhode Island - Block Groups Border",
+                  "id": "rhode-island-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "e0620b7e-b8fb-44b1-b87d-8776518ccd4b"
+        }
+      ],
+      "unit_count": 2,
+      "unit_type": "VTDs",
+      "unit_name": "Congress",
+      "unit_name_plural": "Congressional Districts",
+      "bounds": [
+        [-71.8937, 41.1455],
+        [-71.1199, 42.0188]
+      ]
+    },
+    {
+      "id": 11255,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11255/",
+        "html_url": "http://localhost:8080/states/rhode-island/rhode-island-state-house-districts-12707/",
+        "slug": "rhode-island-state-house-districts-12707",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:49.861679-05:00",
+        "alias_of": null
+      },
+      "title": "Rhode Island State House Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17325,
+                "name": "Rhode Island - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "ri_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ri_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "Rhode Island - 2020 VTDs Interactive Layer",
+                  "id": "rhode-island-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Rhode Island - 2020 VTDs Border",
+                  "id": "rhode-island-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "22b06d32-a65d-4c1f-bd10-592b37b7bda4"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17326,
+                "name": "Rhode Island - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "ri_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ri_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "Rhode Island - 2020 VTDs Centroids",
+                  "id": "rhode-island-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "c4b71fc6-cc59-4adc-82a8-c5568d47f2a3"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17327,
+                "name": "Rhode Island - Precincts",
+                "type": "fill",
+                "source_layer": "rhode_island_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.rhode_island_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Rhode Island - Precincts Interactive Layer",
+                  "id": "rhode-island-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Rhode Island - Precincts Border",
+                  "id": "rhode-island-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "2443ed3f-9819-415b-b642-3b18029a7e79"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17328,
+                "name": "Rhode Island - Precincts",
+                "type": "circle",
+                "source_layer": "rhode_island_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.rhode_island_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Rhode Island - Precincts Centroids",
+                  "id": "rhode-island-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "d8cd40a9-3502-4df0-b3c0-7f514d3713e8"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17329,
+                "name": "Rhode Island - Block Groups",
+                "type": "circle",
+                "source_layer": "rhode_island_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.rhode_island_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Rhode Island - Block Groups Centroids",
+                  "id": "rhode-island-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "b2bc408a-aed3-4b0f-8b7f-8121b487855e"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17330,
+                "name": "Rhode Island - Block Groups",
+                "type": "fill",
+                "source_layer": "rhode_island_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.rhode_island_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Rhode Island - Block Groups Interactive Layer",
+                  "id": "rhode-island-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Rhode Island - Block Groups Border",
+                  "id": "rhode-island-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "a01ff3cc-e812-423b-b91e-fe5f6ef77f47"
+        }
+      ],
+      "unit_count": 75,
+      "unit_type": "VTDs",
+      "unit_name": "State House",
+      "unit_name_plural": "State House Districts",
+      "bounds": [
+        [-71.8937, 41.1455],
+        [-71.1199, 42.0188]
+      ]
+    },
+    {
+      "id": 11254,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11254/",
+        "html_url": "http://localhost:8080/states/rhode-island/rhode-island-state-senate-districts-12706/",
+        "slug": "rhode-island-state-senate-districts-12706",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:49.691530-05:00",
+        "alias_of": null
+      },
+      "title": "Rhode Island State Senate Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17325,
+                "name": "Rhode Island - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "ri_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ri_vtds20"
+              },
+              "layers": [
+                {
+                  "name": "Rhode Island - 2020 VTDs Interactive Layer",
+                  "id": "rhode-island-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Rhode Island - 2020 VTDs Border",
+                  "id": "rhode-island-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "ceb9698e-2cb5-402a-854e-dc77a2488f1d"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17326,
+                "name": "Rhode Island - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "ri_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ri_vtds20_points"
+              },
+              "layers": [
+                {
+                  "name": "Rhode Island - 2020 VTDs Centroids",
+                  "id": "rhode-island-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "88ff9393-d3e2-48b5-927e-82dea7d7ea66"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17327,
+                "name": "Rhode Island - Precincts",
+                "type": "fill",
+                "source_layer": "rhode_island_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.rhode_island_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Rhode Island - Precincts Interactive Layer",
+                  "id": "rhode-island-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Rhode Island - Precincts Border",
+                  "id": "rhode-island-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "77d6f15b-714e-4d27-8237-573edafaa32d"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17328,
+                "name": "Rhode Island - Precincts",
+                "type": "circle",
+                "source_layer": "rhode_island_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.rhode_island_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Rhode Island - Precincts Centroids",
+                  "id": "rhode-island-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "59dd14e8-e169-438c-8cc8-f1746828d40a"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17329,
+                "name": "Rhode Island - Block Groups",
+                "type": "circle",
+                "source_layer": "rhode_island_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.rhode_island_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Rhode Island - Block Groups Centroids",
+                  "id": "rhode-island-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "cf92ae9e-0690-45b5-b980-be8e988b5807"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17330,
+                "name": "Rhode Island - Block Groups",
+                "type": "fill",
+                "source_layer": "rhode_island_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.rhode_island_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Rhode Island - Block Groups Interactive Layer",
+                  "id": "rhode-island-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Rhode Island - Block Groups Border",
+                  "id": "rhode-island-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "c6e57d0a-8185-4207-b153-bc2788eb78d8"
+        }
+      ],
+      "unit_count": 38,
+      "unit_type": "VTDs",
+      "unit_name": "State Senate",
+      "unit_name_plural": "State Senate Districts",
+      "bounds": [
+        [-71.8937, 41.1455],
+        [-71.1199, 42.0188]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1833 @@
+{
+  "id": 26,
+  "meta": {
+    "type": "client.MapIndexPage",
+    "detail_url": "http://localhost:8080/wagtail-api/pages/26/",
+    "html_url": "http://localhost:8080/states/massachusetts/",
+    "slug": "massachusetts",
+    "show_in_menus": false,
+    "seo_title": "",
+    "search_description": "",
+    "first_published_at": null,
+    "alias_of": null,
+    "locale": "en"
+  },
+  "title": "Massachusetts",
+  "counties": [
+    {
+      "id": 422,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/422/",
+        "html_url": "http://localhost:8080/states/massachusetts/barnstable/",
+        "slug": "barnstable",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Barnstable County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1105,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1105/",
+        "html_url": "http://localhost:8080/states/massachusetts/berkshire/",
+        "slug": "berkshire",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Berkshire County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1118,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1118/",
+        "html_url": "http://localhost:8080/states/massachusetts/bristol/",
+        "slug": "bristol",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Bristol County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 990,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/990/",
+        "html_url": "http://localhost:8080/states/massachusetts/dukes/",
+        "slug": "dukes",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Dukes County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 2872,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/2872/",
+        "html_url": "http://localhost:8080/states/massachusetts/essex/",
+        "slug": "essex",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Essex County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3289,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3289/",
+        "html_url": "http://localhost:8080/states/massachusetts/franklin/",
+        "slug": "franklin",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Franklin County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1051,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1051/",
+        "html_url": "http://localhost:8080/states/massachusetts/hampden/",
+        "slug": "hampden",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Hampden County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 125,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/125/",
+        "html_url": "http://localhost:8080/states/massachusetts/hampshire/",
+        "slug": "hampshire",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Hampshire County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 1393,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/1393/",
+        "html_url": "http://localhost:8080/states/massachusetts/middlesex/",
+        "slug": "middlesex",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Middlesex County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 777,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/777/",
+        "html_url": "http://localhost:8080/states/massachusetts/nantucket/",
+        "slug": "nantucket",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Nantucket County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3162,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3162/",
+        "html_url": "http://localhost:8080/states/massachusetts/norfolk/",
+        "slug": "norfolk",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Norfolk County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 3234,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/3234/",
+        "html_url": "http://localhost:8080/states/massachusetts/plymouth/",
+        "slug": "plymouth",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Plymouth County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 129,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/129/",
+        "html_url": "http://localhost:8080/states/massachusetts/suffolk/",
+        "slug": "suffolk",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Suffolk County",
+      "body": "",
+      "live": true
+    },
+    {
+      "id": 611,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapIndexPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/611/",
+        "html_url": "http://localhost:8080/states/massachusetts/worcester/",
+        "slug": "worcester",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": null,
+        "alias_of": null
+      },
+      "title": "Worcester County",
+      "body": "",
+      "live": true
+    }
+  ],
+  "problems": [
+    {
+      "id": 11128,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11128/",
+        "html_url": "http://localhost:8080/states/massachusetts/massachusetts-council-districts-12580/",
+        "slug": "massachusetts-council-districts-12580",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:01.483275-05:00",
+        "alias_of": null
+      },
+      "title": "Boston, Massachusetts Council Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17109,
+                "name": "Massachusetts - Boston - 2022 Precincts",
+                "type": "fill",
+                "source_layer": "boston22_precincts20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.boston22_precincts20"
+              },
+              "layers": [
+                {
+                  "name": "Massachusetts - Boston - 2022 Precincts Interactive Layer",
+                  "id": "massachusetts-boston-2022-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Massachusetts - Boston - 2022 Precincts Border",
+                  "id": "massachusetts-boston-2022-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "50d6495c-7901-42d2-972c-b954f728d3a3"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17110,
+                "name": "Massachusetts - Boston - 2022 Precincts",
+                "type": "circle",
+                "source_layer": "boston22_precincts20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.boston22_precincts20_points"
+              },
+              "layers": [
+                {
+                  "name": "Massachusetts - Boston - 2022 Precincts Centroids",
+                  "id": "massachusetts-boston-2022-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "9dfffc3d-d93b-4fdc-b185-dce329eb57e7"
+        }
+      ],
+      "unit_count": 9,
+      "unit_type": "Precincts",
+      "unit_name": "City Council",
+      "unit_name_plural": "Council Districts",
+      "bounds": [
+        [-71.1912, 42.2279],
+        [-70.98, 42.4008]
+      ]
+    },
+    {
+      "id": 11117,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11117/",
+        "html_url": "http://localhost:8080/states/massachusetts/massachusetts-city-council-districts-12569/",
+        "slug": "massachusetts-city-council-districts-12569",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:57.802309-05:00",
+        "alias_of": null
+      },
+      "title": "Lowell, Massachusetts City Council Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17091,
+                "name": "Massachusetts - Lowell - Blocks",
+                "type": "fill",
+                "source_layer": "lowell_blocks",
+                "source_type": "vector",
+                "url": "mapbox://districtr.lowell_blocks"
+              },
+              "layers": [
+                {
+                  "name": "Massachusetts - Lowell - Blocks Interactive Layer",
+                  "id": "massachusetts-lowell-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Massachusetts - Lowell - Blocks Border",
+                  "id": "massachusetts-lowell-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "a0f9714b-526e-46e5-b5a0-b610ac3c3d66"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17092,
+                "name": "Massachusetts - Lowell - Blocks",
+                "type": "circle",
+                "source_layer": "lowell_blocks_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.lowell_blocks_points"
+              },
+              "layers": [
+                {
+                  "name": "Massachusetts - Lowell - Blocks Centroids",
+                  "id": "massachusetts-lowell-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "3545ffc5-a368-40e7-8a19-206c7d0ae6c4"
+        }
+      ],
+      "unit_count": 7,
+      "unit_type": "Blocks",
+      "unit_name": "City Council",
+      "unit_name_plural": "City Council Districts",
+      "bounds": [
+        [-71.3825, 42.6065],
+        [-71.2713, 42.6665]
+      ]
+    },
+    {
+      "id": 11118,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11118/",
+        "html_url": "http://localhost:8080/states/massachusetts/massachusetts-city-council-districts-12570/",
+        "slug": "massachusetts-city-council-districts-12570",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:57.960237-05:00",
+        "alias_of": null
+      },
+      "title": "Lowell, Massachusetts City Council Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17091,
+                "name": "Massachusetts - Lowell - Blocks",
+                "type": "fill",
+                "source_layer": "lowell_blocks",
+                "source_type": "vector",
+                "url": "mapbox://districtr.lowell_blocks"
+              },
+              "layers": [
+                {
+                  "name": "Massachusetts - Lowell - Blocks Interactive Layer",
+                  "id": "massachusetts-lowell-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Massachusetts - Lowell - Blocks Border",
+                  "id": "massachusetts-lowell-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "b7d47e67-e375-4bfb-b21d-9c6bf023886a"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17092,
+                "name": "Massachusetts - Lowell - Blocks",
+                "type": "circle",
+                "source_layer": "lowell_blocks_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.lowell_blocks_points"
+              },
+              "layers": [
+                {
+                  "name": "Massachusetts - Lowell - Blocks Centroids",
+                  "id": "massachusetts-lowell-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "ec764627-4326-45ce-acd8-6676165939cc"
+        }
+      ],
+      "unit_count": 8,
+      "unit_type": "Blocks",
+      "unit_name": "City Council",
+      "unit_name_plural": "City Council Districts",
+      "bounds": [
+        [-71.3825, 42.6065],
+        [-71.2713, 42.6665]
+      ]
+    },
+    {
+      "id": 11119,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11119/",
+        "html_url": "http://localhost:8080/states/massachusetts/massachusetts-city-council-districts-12571/",
+        "slug": "massachusetts-city-council-districts-12571",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:58.118459-05:00",
+        "alias_of": null
+      },
+      "title": "Lowell, Massachusetts City Council Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17091,
+                "name": "Massachusetts - Lowell - Blocks",
+                "type": "fill",
+                "source_layer": "lowell_blocks",
+                "source_type": "vector",
+                "url": "mapbox://districtr.lowell_blocks"
+              },
+              "layers": [
+                {
+                  "name": "Massachusetts - Lowell - Blocks Interactive Layer",
+                  "id": "massachusetts-lowell-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Massachusetts - Lowell - Blocks Border",
+                  "id": "massachusetts-lowell-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "4fd5dec5-4e87-4879-9d3f-326b7646c91b"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17092,
+                "name": "Massachusetts - Lowell - Blocks",
+                "type": "circle",
+                "source_layer": "lowell_blocks_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.lowell_blocks_points"
+              },
+              "layers": [
+                {
+                  "name": "Massachusetts - Lowell - Blocks Centroids",
+                  "id": "massachusetts-lowell-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "fbaa841c-b7b3-4d9f-98e3-af7dc0e8dae0"
+        }
+      ],
+      "unit_count": 9,
+      "unit_type": "Blocks",
+      "unit_name": "City Council",
+      "unit_name_plural": "City Council Districts",
+      "bounds": [
+        [-71.3825, 42.6065],
+        [-71.2713, 42.6665]
+      ]
+    },
+    {
+      "id": 11116,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11116/",
+        "html_url": "http://localhost:8080/states/massachusetts/massachusetts-city-council-districts-12568/",
+        "slug": "massachusetts-city-council-districts-12568",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:57.646242-05:00",
+        "alias_of": null
+      },
+      "title": "Lowell, Massachusetts City Council Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17091,
+                "name": "Massachusetts - Lowell - Blocks",
+                "type": "fill",
+                "source_layer": "lowell_blocks",
+                "source_type": "vector",
+                "url": "mapbox://districtr.lowell_blocks"
+              },
+              "layers": [
+                {
+                  "name": "Massachusetts - Lowell - Blocks Interactive Layer",
+                  "id": "massachusetts-lowell-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Massachusetts - Lowell - Blocks Border",
+                  "id": "massachusetts-lowell-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "77a4f046-37ca-44a8-8f9e-fa33e92e76a2"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17092,
+                "name": "Massachusetts - Lowell - Blocks",
+                "type": "circle",
+                "source_layer": "lowell_blocks_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.lowell_blocks_points"
+              },
+              "layers": [
+                {
+                  "name": "Massachusetts - Lowell - Blocks Centroids",
+                  "id": "massachusetts-lowell-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "014c54c6-0f35-42ac-aeae-250e1381f3d8"
+        }
+      ],
+      "unit_count": 3,
+      "unit_type": "Blocks",
+      "unit_name": "City Council",
+      "unit_name_plural": "City Council Districts",
+      "bounds": [
+        [-71.3825, 42.6065],
+        [-71.2713, 42.6665]
+      ]
+    },
+    {
+      "id": 11120,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11120/",
+        "html_url": "http://localhost:8080/states/massachusetts/massachusetts-congressional-districts-12572/",
+        "slug": "massachusetts-congressional-districts-12572",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:58.517767-05:00",
+        "alias_of": null
+      },
+      "title": "Massachusetts Congressional Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17093,
+                "name": "Massachusetts - Towns",
+                "type": "fill",
+                "source_layer": "ma_towns",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ma_towns"
+              },
+              "layers": [
+                {
+                  "name": "Massachusetts - Towns Interactive Layer",
+                  "id": "massachusetts-towns-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Massachusetts - Towns Border",
+                  "id": "massachusetts-towns-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "b6f6c04a-e7ce-4166-a455-78bec751637b"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17094,
+                "name": "Massachusetts - Towns",
+                "type": "circle",
+                "source_layer": "ma_towns_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ma_towns_points"
+              },
+              "layers": [
+                {
+                  "name": "Massachusetts - Towns Centroids",
+                  "id": "massachusetts-towns-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "0b5de740-933b-41c2-b7c6-694e429c29ce"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17095,
+                "name": "Massachusetts - Precincts, 2002-2010",
+                "type": "fill",
+                "source_layer": "ma_precincts_02_10",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ma_precincts_02_10"
+              },
+              "layers": [
+                {
+                  "name": "Massachusetts - Precincts, 2002-2010 Interactive Layer",
+                  "id": "massachusetts-precincts-2002-2010-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Massachusetts - Precincts, 2002-2010 Border",
+                  "id": "massachusetts-precincts-2002-2010-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "22866b74-ce8f-471c-bd46-dc47dd99f0ba"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17096,
+                "name": "Massachusetts - Precincts, 2002-2010",
+                "type": "circle",
+                "source_layer": "ma_precincts_02_10_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ma_precincts_02_10_points"
+              },
+              "layers": [
+                {
+                  "name": "Massachusetts - Precincts, 2002-2010 Centroids",
+                  "id": "massachusetts-precincts-2002-2010-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "8a66c0f1-777e-44a8-aeab-8c5349ccf149"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17097,
+                "name": "Massachusetts - Precincts, 2012-2016",
+                "type": "circle",
+                "source_layer": "ma21_precincts_12_16_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ma21_precincts_12_16_points"
+              },
+              "layers": [
+                {
+                  "name": "Massachusetts - Precincts, 2012-2016 Centroids",
+                  "id": "massachusetts-precincts-2012-2016-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "0ad6f364-78b7-464d-9122-6161aedc328c"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17098,
+                "name": "Massachusetts - Precincts, 2012-2016",
+                "type": "fill",
+                "source_layer": "ma21_precincts_12_16",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ma21_precincts_12_16"
+              },
+              "layers": [
+                {
+                  "name": "Massachusetts - Precincts, 2012-2016 Interactive Layer",
+                  "id": "massachusetts-precincts-2012-2016-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Massachusetts - Precincts, 2012-2016 Border",
+                  "id": "massachusetts-precincts-2012-2016-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "a0dba9c3-38c2-4537-8439-0790229c1f9b"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17099,
+                "name": "Massachusetts - Block Groups",
+                "type": "circle",
+                "source_layer": "ma_blockgroups_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ma_blockgroups_points"
+              },
+              "layers": [
+                {
+                  "name": "Massachusetts - Block Groups Centroids",
+                  "id": "massachusetts-block-groups-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "506e1096-fd37-4038-8cf5-1e25b62f2ebb"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17100,
+                "name": "Massachusetts - Block Groups",
+                "type": "fill",
+                "source_layer": "ma_blockgroups",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ma_blockgroups"
+              },
+              "layers": [
+                {
+                  "name": "Massachusetts - Block Groups Interactive Layer",
+                  "id": "massachusetts-block-groups-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Massachusetts - Block Groups Border",
+                  "id": "massachusetts-block-groups-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "0ea1299c-7ddd-4081-b238-9be167b6d0ac"
+        }
+      ],
+      "unit_count": 9,
+      "unit_type": "Towns",
+      "unit_name": "Congress",
+      "unit_name_plural": "Congressional Districts",
+      "bounds": [
+        [-73.5081, 41.23],
+        [-69.9233, 42.8868]
+      ]
+    },
+    {
+      "id": 11121,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11121/",
+        "html_url": "http://localhost:8080/states/massachusetts/massachusetts-congressional-districts-12573/",
+        "slug": "massachusetts-congressional-districts-12573",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:59.318969-05:00",
+        "alias_of": null
+      },
+      "title": "Massachusetts Congressional Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17101,
+                "name": "Massachusetts - Precincts",
+                "type": "fill",
+                "source_layer": "ma_vra_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ma_vra_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Massachusetts - Precincts Interactive Layer",
+                  "id": "massachusetts-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Massachusetts - Precincts Border",
+                  "id": "massachusetts-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "2f32f5a5-9242-48e5-8053-ab51c6a72a1e"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17102,
+                "name": "Massachusetts - Precincts",
+                "type": "circle",
+                "source_layer": "ma_vra_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ma_vra_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Massachusetts - Precincts Centroids",
+                  "id": "massachusetts-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "f61a8d3b-b0b0-49ce-acb4-083201eb3d90"
+        }
+      ],
+      "unit_count": 9,
+      "unit_type": "Precincts",
+      "unit_name": "Congress",
+      "unit_name_plural": "Congressional Districts",
+      "bounds": [
+        [-73.5081, 41.238],
+        [-69.928, 42.8868]
+      ]
+    },
+    {
+      "id": 11124,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11124/",
+        "html_url": "http://localhost:8080/states/massachusetts/massachusetts-congressional-districts-12576/",
+        "slug": "massachusetts-congressional-districts-12576",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:00.422390-05:00",
+        "alias_of": null
+      },
+      "title": "Massachusetts Congressional Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17103,
+                "name": "Massachusetts - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "ma_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ma_vtds20?v=2"
+              },
+              "layers": [
+                {
+                  "name": "Massachusetts - 2020 VTDs Interactive Layer",
+                  "id": "massachusetts-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Massachusetts - 2020 VTDs Border",
+                  "id": "massachusetts-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "158e416c-9a39-47bc-a4bb-e339e412b650"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17104,
+                "name": "Massachusetts - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "ma_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ma_vtds20_points?v=2"
+              },
+              "layers": [
+                {
+                  "name": "Massachusetts - 2020 VTDs Centroids",
+                  "id": "massachusetts-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "c9f76250-5a19-440b-bbc8-9ea9ce0812e2"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17105,
+                "name": "Massachusetts - Precincts",
+                "type": "fill",
+                "source_layer": "ma_vra2_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ma_vra2_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Massachusetts - Precincts Interactive Layer",
+                  "id": "massachusetts-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Massachusetts - Precincts Border",
+                  "id": "massachusetts-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "97bdaf84-6919-4be8-83e7-9a033ac47412"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17106,
+                "name": "Massachusetts - Precincts",
+                "type": "circle",
+                "source_layer": "ma_vra2_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ma_vra2_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Massachusetts - Precincts Centroids",
+                  "id": "massachusetts-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "f4bdc966-e3ca-45b0-b397-64c1641e6e81"
+        }
+      ],
+      "unit_count": 9,
+      "unit_type": "VTDs",
+      "unit_name": "Congress",
+      "unit_name_plural": "Congressional Districts",
+      "bounds": [
+        [-73.5081, 41.238],
+        [-69.928, 42.8868]
+      ]
+    },
+    {
+      "id": 11123,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11123/",
+        "html_url": "http://localhost:8080/states/massachusetts/massachusetts-state-house-districts-12575/",
+        "slug": "massachusetts-state-house-districts-12575",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:59.640202-05:00",
+        "alias_of": null
+      },
+      "title": "Massachusetts State House Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17101,
+                "name": "Massachusetts - Precincts",
+                "type": "fill",
+                "source_layer": "ma_vra_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ma_vra_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Massachusetts - Precincts Interactive Layer",
+                  "id": "massachusetts-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Massachusetts - Precincts Border",
+                  "id": "massachusetts-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "4cb426f8-2ba1-4b86-9ac8-f799923fb843"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17102,
+                "name": "Massachusetts - Precincts",
+                "type": "circle",
+                "source_layer": "ma_vra_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ma_vra_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Massachusetts - Precincts Centroids",
+                  "id": "massachusetts-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "9f1bd3a3-154d-4660-af98-ab22dbb83311"
+        }
+      ],
+      "unit_count": 160,
+      "unit_type": "Precincts",
+      "unit_name": "State House",
+      "unit_name_plural": "State House Districts",
+      "bounds": [
+        [-73.5081, 41.238],
+        [-69.928, 42.8868]
+      ]
+    },
+    {
+      "id": 11126,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11126/",
+        "html_url": "http://localhost:8080/states/massachusetts/massachusetts-state-house-districts-12578/",
+        "slug": "massachusetts-state-house-districts-12578",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:00.752463-05:00",
+        "alias_of": null
+      },
+      "title": "Massachusetts State House Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17103,
+                "name": "Massachusetts - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "ma_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ma_vtds20?v=2"
+              },
+              "layers": [
+                {
+                  "name": "Massachusetts - 2020 VTDs Interactive Layer",
+                  "id": "massachusetts-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Massachusetts - 2020 VTDs Border",
+                  "id": "massachusetts-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "db420871-5b07-4d88-b1d4-657f4739d163"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17104,
+                "name": "Massachusetts - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "ma_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ma_vtds20_points?v=2"
+              },
+              "layers": [
+                {
+                  "name": "Massachusetts - 2020 VTDs Centroids",
+                  "id": "massachusetts-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "dfe65d3d-ae45-49d6-b844-f9d40cd8bae6"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17105,
+                "name": "Massachusetts - Precincts",
+                "type": "fill",
+                "source_layer": "ma_vra2_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ma_vra2_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Massachusetts - Precincts Interactive Layer",
+                  "id": "massachusetts-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Massachusetts - Precincts Border",
+                  "id": "massachusetts-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "32d0fbe3-b379-4db0-82ef-eef00c25f13f"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17106,
+                "name": "Massachusetts - Precincts",
+                "type": "circle",
+                "source_layer": "ma_vra2_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ma_vra2_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Massachusetts - Precincts Centroids",
+                  "id": "massachusetts-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "e52cef3b-5c0b-44e2-a869-b9928b5568e8"
+        }
+      ],
+      "unit_count": 160,
+      "unit_type": "VTDs",
+      "unit_name": "State House",
+      "unit_name_plural": "State House Districts",
+      "bounds": [
+        [-73.5081, 41.238],
+        [-69.928, 42.8868]
+      ]
+    },
+    {
+      "id": 11125,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11125/",
+        "html_url": "http://localhost:8080/states/massachusetts/massachusetts-state-senate-districts-12577/",
+        "slug": "massachusetts-state-senate-districts-12577",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:00.587342-05:00",
+        "alias_of": null
+      },
+      "title": "Massachusetts State Senate Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17103,
+                "name": "Massachusetts - 2020 VTDs",
+                "type": "fill",
+                "source_layer": "ma_vtds20",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ma_vtds20?v=2"
+              },
+              "layers": [
+                {
+                  "name": "Massachusetts - 2020 VTDs Interactive Layer",
+                  "id": "massachusetts-2020-vtds-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Massachusetts - 2020 VTDs Border",
+                  "id": "massachusetts-2020-vtds-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "88b0e350-d970-4dbb-8168-5ba163333e3b"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17104,
+                "name": "Massachusetts - 2020 VTDs",
+                "type": "circle",
+                "source_layer": "ma_vtds20_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ma_vtds20_points?v=2"
+              },
+              "layers": [
+                {
+                  "name": "Massachusetts - 2020 VTDs Centroids",
+                  "id": "massachusetts-2020-vtds-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "a28ff1e3-5efc-4925-a4d3-ff761a11556a"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17105,
+                "name": "Massachusetts - Precincts",
+                "type": "fill",
+                "source_layer": "ma_vra2_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ma_vra2_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Massachusetts - Precincts Interactive Layer",
+                  "id": "massachusetts-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Massachusetts - Precincts Border",
+                  "id": "massachusetts-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "df2b17cc-d2fe-4364-88f5-3f2315de6c60"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17106,
+                "name": "Massachusetts - Precincts",
+                "type": "circle",
+                "source_layer": "ma_vra2_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ma_vra2_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Massachusetts - Precincts Centroids",
+                  "id": "massachusetts-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "96c953d2-0aa5-4ec4-983e-ce657725e24f"
+        }
+      ],
+      "unit_count": 40,
+      "unit_type": "VTDs",
+      "unit_name": "State Senate",
+      "unit_name_plural": "State Senate Districts",
+      "bounds": [
+        [-73.5081, 41.238],
+        [-69.928, 42.8868]
+      ]
+    },
+    {
+      "id": 11122,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11122/",
+        "html_url": "http://localhost:8080/states/massachusetts/massachusetts-state-senate-districts-12574/",
+        "slug": "massachusetts-state-senate-districts-12574",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:27:59.478208-05:00",
+        "alias_of": null
+      },
+      "title": "Massachusetts State Senate Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17101,
+                "name": "Massachusetts - Precincts",
+                "type": "fill",
+                "source_layer": "ma_vra_precincts",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ma_vra_precincts"
+              },
+              "layers": [
+                {
+                  "name": "Massachusetts - Precincts Interactive Layer",
+                  "id": "massachusetts-precincts-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Massachusetts - Precincts Border",
+                  "id": "massachusetts-precincts-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "ad15f7ed-dff0-49e9-83c5-c825e80ccbde"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17102,
+                "name": "Massachusetts - Precincts",
+                "type": "circle",
+                "source_layer": "ma_vra_precincts_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ma_vra_precincts_points"
+              },
+              "layers": [
+                {
+                  "name": "Massachusetts - Precincts Centroids",
+                  "id": "massachusetts-precincts-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "3056995a-85a1-4d40-9b54-00ef114e9d89"
+        }
+      ],
+      "unit_count": 40,
+      "unit_type": "Precincts",
+      "unit_name": "State Senate",
+      "unit_name_plural": "State Senate Districts",
+      "bounds": [
+        [-73.5081, 41.238],
+        [-69.928, 42.8868]
+      ]
+    },
+    {
+      "id": 11127,
+      "meta": {
+        "locale": "en",
+        "type": "client.MapDetailPage",
+        "detail_url": "http://localhost:8080/wagtail-api/pages/11127/",
+        "html_url": "http://localhost:8080/states/massachusetts/massachusetts-school-committee-districts-12579/",
+        "slug": "massachusetts-school-committee-districts-12579",
+        "show_in_menus": false,
+        "seo_title": "",
+        "search_description": "",
+        "first_published_at": "2023-01-26T18:28:01.120328-05:00",
+        "alias_of": null
+      },
+      "title": "Worcester, Massachusetts School Committee Districts",
+      "body": "",
+      "live": true,
+      "sources": [
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17107,
+                "name": "Massachusetts - Worcester - 2020 Blocks",
+                "type": "fill",
+                "source_layer": "ma_worcester_fix_blocks",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ma_worcester_fix_blocks"
+              },
+              "layers": [
+                {
+                  "name": "Massachusetts - Worcester - 2020 Blocks Interactive Layer",
+                  "id": "massachusetts-worcester-2020-blocks-draw",
+                  "type": "fill",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": true
+                },
+                {
+                  "name": "Massachusetts - Worcester - 2020 Blocks Border",
+                  "id": "massachusetts-worcester-2020-blocks-border",
+                  "type": "line",
+                  "layout": "{\"visibility\": \"visible\"}",
+                  "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "7c2720c1-2bc8-4d0d-bf03-c6e2fe4f8537"
+        },
+        {
+          "type": "sources",
+          "value": [
+            {
+              "source": {
+                "id": 17108,
+                "name": "Massachusetts - Worcester - 2020 Blocks",
+                "type": "circle",
+                "source_layer": "ma_worcester_fix_blocks_points",
+                "source_type": "vector",
+                "url": "mapbox://districtr.ma_worcester_fix_blocks_points"
+              },
+              "layers": [
+                {
+                  "name": "Massachusetts - Worcester - 2020 Blocks Centroids",
+                  "id": "massachusetts-worcester-2020-blocks-centroids",
+                  "type": "circle",
+                  "layout": "{\"visibility\": \"none\"}",
+                  "paint": "{}",
+                  "filter": "{}",
+                  "is_interactive": false
+                }
+              ]
+            }
+          ],
+          "id": "e31cb38c-fdaa-492f-a93c-eef93aed863c"
+        }
+      ],
+      "unit_count": 6,
+      "unit_type": "2020 Blocks",
+      "unit_name": "School Committee",
+      "unit_name_plural": "School Committee Districts",
+      "bounds": [
+        [-71.884, 42.2101],
+        [-71.7312, 42.3412]
+      ]
+    }
+  ]
+}

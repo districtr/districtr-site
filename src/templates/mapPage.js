@@ -3,7 +3,7 @@ import { graphql } from 'gatsby'
 import * as React from 'react'
 
 import MapLayout from '../components/mapLayout'
-import Seo from '../components/seo'
+import SEO from '../components/seo'
 
 const MapPageView = (props) => {
   const { problem } = props.data
@@ -202,23 +202,17 @@ const MapPageView = (props) => {
   )
 }
 
-/**
- * Head export to define metadata for the page
- *
- * See: https://www.gatsbyjs.com/docs/reference/built-in-components/gatsby-head/
- */
-export const Head = () => (
-  <>
-    <Seo title="Home" />
-    <body className={'map-page'} />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,400;0,600;0,700;1,400;1,600&display=swap"
-      rel="stylesheet"
-    />
-  </>
-)
+export const Head = ({ data }) => {
+  const problem = data.problem
+
+  return (
+    <>
+      <SEO title={problem.title} description={`${problem.unit_count} ${problem.unit_name_plural}`} />
+      <html className={'map-page'} />
+      <body className={'map-page'} />
+    </>
+  )
+}
 
 export default MapPageView
 

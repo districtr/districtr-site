@@ -1,9 +1,8 @@
-// If you don't want to use TypeScript you can delete this file!
 import { HeadFC, Link, PageProps, graphql } from 'gatsby'
 import * as React from 'react'
 
 import Layout from '../components/layout'
-import Seo from '../components/seo'
+import SEO from '../components/seo'
 
 type DataProps = {
   site: {
@@ -28,7 +27,9 @@ const HomePage: React.FC<PageProps<DataProps>> = ({ data, location }) => (
   </Layout>
 )
 
-export const Head: HeadFC<DataProps> = () => <Seo title="Using TypeScript" />
+export const Head: HeadFC = () => (
+  <SEO title="Home Page" description="The open-source web app for drawing districting plans." />
+)
 
 export default HomePage
 

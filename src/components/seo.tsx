@@ -1,8 +1,13 @@
 import { graphql, useStaticQuery } from 'gatsby'
-import PropTypes from 'prop-types'
-import * as React from 'react'
+import React from 'react'
 
-function Seo({ description, title, children }) {
+interface SEOProps {
+  description: string
+  title: string
+  children?: React.ReactNode
+}
+
+const SEO: React.FC<SEOProps> = ({ description, title, children }) => {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -21,7 +26,7 @@ function Seo({ description, title, children }) {
   const defaultTitle = site.siteMetadata?.title
 
   return (
-    <>
+    <React.Fragment data-testid="SEO">
       <title>{defaultTitle ? `${title} | ${defaultTitle}` : title}</title>
       <meta name="description" content={metaDescription} />
       <meta property="og:title" content={title} />
@@ -32,17 +37,8 @@ function Seo({ description, title, children }) {
       <meta name="twitter:title" content={title} />
       <meta name="twitter:description" content={metaDescription} />
       {children}
-    </>
+    </React.Fragment>
   )
 }
 
-Seo.defaultProps = {
-  description: ``
-}
-
-Seo.propTypes = {
-  description: PropTypes.string,
-  title: PropTypes.string.isRequired
-}
-
-export default Seo
+export default SEO

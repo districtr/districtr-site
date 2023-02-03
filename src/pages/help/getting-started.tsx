@@ -2,7 +2,7 @@ import { Link } from 'gatsby'
 import * as React from 'react'
 
 import Layout from '../../components/layout'
-import Seo from '../../components/seo'
+import SEO from '../../components/seo'
 
 const GettingStarted = () => (
   <Layout>
@@ -17,6 +17,6 @@ const GettingStarted = () => (
   </Layout>
 )
 
-export const Head = () => <Seo title="Getting Started" />
+export const Head = () => <SEO title="Getting Started" description="Quickly learn how to use Districtr." />
 
 export default GettingStarted

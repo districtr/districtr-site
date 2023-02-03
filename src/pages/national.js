@@ -1,4 +1,4 @@
-import { Districtr } from '@districtr/districtr-mapbox-gl'
+import { Districtr } from 'districtr-mapbox-gl'
 import * as React from 'react'
 
 import MapLayout from '../components/mapLayout'

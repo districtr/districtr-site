@@ -1,10 +1,4 @@
-/**
- * Layout component that queries for data
- * with Gatsby's useStaticQuery component
- *
- * See: https://www.gatsbyjs.com/docs/use-static-query/
- */
-import '@districtr/districtr-mapbox-gl/build/districtr-mapbox-gl.css'
+import 'districtr-mapbox-gl/build/districtr-mapbox-gl.css'
 import * as React from 'react'
 
 import './layout.css'

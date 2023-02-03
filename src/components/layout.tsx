@@ -1,4 +1,4 @@
-import '@districtr/districtr-mapbox-gl/build/index.css'
+import 'districtr-mapbox-gl/build/districtr-mapbox-gl.css'
 import { graphql, useStaticQuery } from 'gatsby'
 import * as React from 'react'
 

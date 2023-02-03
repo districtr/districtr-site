@@ -1,15 +1,17 @@
 # Districtr
 
+Staging Site at `creative-axolotl-795334.netlify.app`
+
 ## Introduction
 
-Districtr is the open-source web app that empowers all people to draw districting plans. This is the Districtr website build on Gatsby
+Districtr is the open-source web app that empowers all people to draw districting plans. This is the Districtr website build on Gatsby.
 
 ### Related Districtr Projects
 
 This platform is part of a suite of programs that create Districtr.org.
 
-- districtr-cms: A Wagtail CMS and API that manage the pages and data on the Districtr site..
-- districtr-mapbox-gl: The Districtr React Component
+- [districtr-cms](https://github.com/districtr/districtr-cms): A Wagtail CMS and API that manage the pages and data on the Districtr site..
+- [districtr-mapbox-gl](https://github.com/districtr/districtr-mapbox-gl): The Districtr React Component
 - Other Districtr and MGGG data tools
 
 ### Contributing

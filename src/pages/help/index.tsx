@@ -20,5 +20,3 @@ const HelpCenter = () => (
 export const Head = () => <SEO title="Help Center" description="Articles on how to use Districtr." />
 
 export default HelpCenter
-]
-' 

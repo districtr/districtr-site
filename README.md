@@ -1,6 +1,6 @@
 # Districtr
 
-Staging Site at `creative-axolotl-795334.netlify.app`
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e17c7f99-b8a8-4bf4-a2dd-5de46ff65861/deploy-status)](https://app.netlify.com/sites/creative-axolotl-795334/deploys)
 
 ## Introduction
 

@@ -1,0 +1,2711 @@
+{
+  "P0010001": {
+    "dataSegment": "01",
+    "name": "Total:",
+    "shortName": "Total",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010002": {
+    "dataSegment": "01",
+    "name": "Population of one race:",
+    "shortName": "One Race",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010003": {
+    "dataSegment": "01",
+    "name": "White alone",
+    "shortName": "White alone",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010004": {
+    "dataSegment": "01",
+    "name": "Black or African American alone",
+    "shortName": "Black alone",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010005": {
+    "dataSegment": "01",
+    "name": "American Indian and Alaska Native alone",
+    "shortName": "A.I. and A.N. alone",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010006": {
+    "dataSegment": "01",
+    "name": "Asian alone",
+    "shortName": "Asian alone",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010007": {
+    "dataSegment": "01",
+    "name": "Native Hawaiian and Other Pacific Islander alone",
+    "shortName": "N.H. and P.I. alone",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010008": {
+    "dataSegment": "01",
+    "name": "Some Other Race alone",
+    "shortName": "Other alone",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010009": {
+    "dataSegment": "01",
+    "name": "Population of two or more races:",
+    "shortName": "Two or More Races",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010010": {
+    "dataSegment": "01",
+    "name": "Population of two races:",
+    "shortName": "Two Races",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010011": {
+    "dataSegment": "01",
+    "name": "White; Black or African American",
+    "shortName": "White / Black",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010012": {
+    "dataSegment": "01",
+    "name": "White; American Indian and Alaska Native",
+    "shortName": "White / A.I. and A.N.",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010013": {
+    "dataSegment": "01",
+    "name": "White; Asian",
+    "shortName": "White / Asian",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010014": {
+    "dataSegment": "01",
+    "name": "White; Native Hawaiian and Other Pacific Islander",
+    "shortName": "White / N.H. and P.I.",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010015": {
+    "dataSegment": "01",
+    "name": "White; Some Other Race",
+    "shortName": "White / Other",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010016": {
+    "dataSegment": "01",
+    "name": "Black or African American; American Indian and Alaska Native",
+    "shortName": "Black / A.I. and A.N.",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010017": {
+    "dataSegment": "01",
+    "name": "Black or African American; Asian",
+    "shortName": "Black / Asian",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010018": {
+    "dataSegment": "01",
+    "name": "Black or African American; Native Hawaiian and Other Pacific Islander",
+    "shortName": "Black / N.H. and P.I.",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010019": {
+    "dataSegment": "01",
+    "name": "Black or African American; Some Other Race",
+    "shortName": "Black / Other",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010020": {
+    "dataSegment": "01",
+    "name": "American Indian and Alaska Native; Asian",
+    "shortName": "A.I. and A.N. / Asian",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010021": {
+    "dataSegment": "01",
+    "name": "American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander",
+    "shortName": "A.I. and A.N. / N.H. and P.I.",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010022": {
+    "dataSegment": "01",
+    "name": "American Indian and Alaska Native; Some Other Race",
+    "shortName": "A.I. and A.N. / Other",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010023": {
+    "dataSegment": "01",
+    "name": "Asian; Native Hawaiian and Other Pacific Islander",
+    "shortName": "Asian / N.H. and P.I.",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010024": {
+    "dataSegment": "01",
+    "name": "Asian; Some Other Race",
+    "shortName": "Asian / Other",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010025": {
+    "dataSegment": "01",
+    "name": "Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "N.H. and P.I. / Other",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010026": {
+    "dataSegment": "01",
+    "name": "Population of three races:",
+    "shortName": "Three Races",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010027": {
+    "dataSegment": "01",
+    "name": "White; Black or African American; American Indian and Alaska Native",
+    "shortName": "White / Black / A.I. and A.N.",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010028": {
+    "dataSegment": "01",
+    "name": "White; Black or African American; Asian",
+    "shortName": "White / Black / Asian",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010029": {
+    "dataSegment": "01",
+    "name": "White; Black or African American; Native Hawaiian and Other Pacific Islander",
+    "shortName": "White / Black / N.H. and P.I.",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010030": {
+    "dataSegment": "01",
+    "name": "White; Black or African American; Some Other Race",
+    "shortName": "White / Black / Other",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010031": {
+    "dataSegment": "01",
+    "name": "White; American Indian and Alaska Native; Asian",
+    "shortName": "White / A.I. and A.N. / Asian",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010032": {
+    "dataSegment": "01",
+    "name": "White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander",
+    "shortName": "White / A.I. and A.N. / N.H. and P.I.",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010033": {
+    "dataSegment": "01",
+    "name": "White; American Indian and Alaska Native; Some Other Race",
+    "shortName": "White / A.I. and A.N. / Other",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010034": {
+    "dataSegment": "01",
+    "name": "White; Asian; Native Hawaiian and Other Pacific Islander",
+    "shortName": "White / Asian / N.H. and P.I.",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010035": {
+    "dataSegment": "01",
+    "name": "White; Asian; Some Other Race",
+    "shortName": "White / Asian / Other",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010036": {
+    "dataSegment": "01",
+    "name": "White; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "White / N.H. and P.I. / Other",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010037": {
+    "dataSegment": "01",
+    "name": "Black or African American; American Indian and Alaska Native; Asian",
+    "shortName": "Black / A.I. and A.N. / Asian",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010038": {
+    "dataSegment": "01",
+    "name": "Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander",
+    "shortName": "Black / A.I. and A.N. / N.H. and P.I.",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010039": {
+    "dataSegment": "01",
+    "name": "Black or African American; American Indian and Alaska Native; Some Other Race",
+    "shortName": "Black / A.I. and A.N. / Other",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010040": {
+    "dataSegment": "01",
+    "name": "Black or African American; Asian; Native Hawaiian and Other Pacific Islander",
+    "shortName": "Black / Asian / N.H. and P.I.",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010041": {
+    "dataSegment": "01",
+    "name": "Black or African American; Asian; Some Other Race",
+    "shortName": "Black / Asian / Other",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010042": {
+    "dataSegment": "01",
+    "name": "Black or African American; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "Black / N.H. and P.I. / Other",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010043": {
+    "dataSegment": "01",
+    "name": "American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander",
+    "shortName": "A.I. and A.N. / Asian / N.H. and P.I.",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010044": {
+    "dataSegment": "01",
+    "name": "American Indian and Alaska Native; Asian; Some Other Race",
+    "shortName": "A.I. and A.N. / Asian / Other",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010045": {
+    "dataSegment": "01",
+    "name": "American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "A.I. and A.N. / N.H. and P.I. / Other",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010046": {
+    "dataSegment": "01",
+    "name": "Asian; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "Asian / N.H. and P.I. / Other",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010047": {
+    "dataSegment": "01",
+    "name": "Population of four races:",
+    "shortName": "Four Races",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010048": {
+    "dataSegment": "01",
+    "name": "White; Black or African American; American Indian and Alaska Native; Asian",
+    "shortName": "White / Black / A.I. and A.N. / Asian",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010049": {
+    "dataSegment": "01",
+    "name": "White; Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander",
+    "shortName": "White / Black / A.I. and A.N. / N.H. and P.I.",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010050": {
+    "dataSegment": "01",
+    "name": "White; Black or African American; American Indian and Alaska Native; Some Other Race",
+    "shortName": "White / Black / A.I. and A.N. / Other",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010051": {
+    "dataSegment": "01",
+    "name": "White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander",
+    "shortName": "White / Black / Asian / N.H. and P.I.",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010052": {
+    "dataSegment": "01",
+    "name": "White; Black or African American; Asian; Some Other Race",
+    "shortName": "White / Black / Asian / Other",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010053": {
+    "dataSegment": "01",
+    "name": "White; Black or African American; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "White / Black / N.H. and P.I. / Other",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010054": {
+    "dataSegment": "01",
+    "name": "White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander",
+    "shortName": "White / A.I. and A.N. / Asian / N.H. and P.I.",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010055": {
+    "dataSegment": "01",
+    "name": "White; American Indian and Alaska Native; Asian; Some Other Race",
+    "shortName": "White / A.I. and A.N. / Asian / Other",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010056": {
+    "dataSegment": "01",
+    "name": "White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "White / A.I. and A.N. / N.H. and P.I. / Other",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010057": {
+    "dataSegment": "01",
+    "name": "White; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "White / Asian / N.H. and P.I. / Other",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010058": {
+    "dataSegment": "01",
+    "name": "Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander",
+    "shortName": "Black / A.I. and A.N. / Asian / N.H. and P.I.",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010059": {
+    "dataSegment": "01",
+    "name": "Black or African American; American Indian and Alaska Native; Asian; Some Other Race",
+    "shortName": "Black / A.I. and A.N. / Asian / Other",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010060": {
+    "dataSegment": "01",
+    "name": "Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "Black / A.I. and A.N. / N.H. and P.I. / Other",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010061": {
+    "dataSegment": "01",
+    "name": "Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "Black / Asian / N.H. and P.I. / Other",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010062": {
+    "dataSegment": "01",
+    "name": "American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "A.I. and A.N. / Asian / N.H. and P.I. / Other",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010063": {
+    "dataSegment": "01",
+    "name": "Population of five races:",
+    "shortName": "Five Races",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010064": {
+    "dataSegment": "01",
+    "name": "White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander",
+    "shortName": "White / Black / A.I. and A.N. / Asian / N.H. and P.I.",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010065": {
+    "dataSegment": "01",
+    "name": "White; Black or African American; American Indian and Alaska Native; Asian; Some Other Race",
+    "shortName": "White / Black / A.I. and A.N. / Asian / Other",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010066": {
+    "dataSegment": "01",
+    "name": "White; Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "White / Black / A.I. and A.N. / N.H. and P.I. / Other",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010067": {
+    "dataSegment": "01",
+    "name": "White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "White / Black / Asian / N.H. and P.I. / Other",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010068": {
+    "dataSegment": "01",
+    "name": "White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "White / A.I. and A.N. / Asian / N.H. and P.I. / Other",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010069": {
+    "dataSegment": "01",
+    "name": "Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "Black / A.I. and A.N. / Asian / N.H. and P.I. / Other",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010070": {
+    "dataSegment": "01",
+    "name": "Population of six races:",
+    "shortName": "Six Races",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0010071": {
+    "dataSegment": "01",
+    "name": "White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "White / Black / A.I. and A.N. / Asian / N.H. and P.I. / Other",
+    "category": "P1",
+    "categoryName": "Race",
+    "categoryShortName": "All",
+    "universe": "Total Population"
+  },
+  "P0020001": {
+    "dataSegment": "01",
+    "name": "Total:",
+    "shortName": "Total",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020002": {
+    "dataSegment": "01",
+    "name": "Hispanic or Latino",
+    "shortName": "Hispanic or Latino",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020003": {
+    "dataSegment": "01",
+    "name": "Not Hispanic or Latino:",
+    "shortName": "Not Hispanic or Latino",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020004": {
+    "dataSegment": "01",
+    "name": "Population of one race:",
+    "shortName": "One Race",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020005": {
+    "dataSegment": "01",
+    "name": "White alone",
+    "shortName": "White alone",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020006": {
+    "dataSegment": "01",
+    "name": "Black or African American alone",
+    "shortName": "Black alone",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020007": {
+    "dataSegment": "01",
+    "name": "American Indian and Alaska Native alone",
+    "shortName": "A.I. and A.N. alone",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020008": {
+    "dataSegment": "01",
+    "name": "Asian alone",
+    "shortName": "Asian alone",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020009": {
+    "dataSegment": "01",
+    "name": "Native Hawaiian and Other Pacific Islander alone",
+    "shortName": "N.H. and P.I. alone",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020010": {
+    "dataSegment": "01",
+    "name": "Some Other Race alone",
+    "shortName": "Other alone",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020011": {
+    "dataSegment": "01",
+    "name": "Population of two or more races:",
+    "shortName": "Two or more races",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020012": {
+    "dataSegment": "01",
+    "name": "Population of two races:",
+    "shortName": "Two Races",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020013": {
+    "dataSegment": "01",
+    "name": "White; Black or African American",
+    "shortName": "White / Black",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020014": {
+    "dataSegment": "01",
+    "name": "White; American Indian and Alaska Native",
+    "shortName": "White / A.I. and A.N.",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020015": {
+    "dataSegment": "01",
+    "name": "White; Asian",
+    "shortName": "White / Asian",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020016": {
+    "dataSegment": "01",
+    "name": "White; Native Hawaiian and Other Pacific Islander",
+    "shortName": "White / N.H. and P.I.",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020017": {
+    "dataSegment": "01",
+    "name": "White; Some Other Race",
+    "shortName": "White / Other",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020018": {
+    "dataSegment": "01",
+    "name": "Black or African American; American Indian and Alaska Native",
+    "shortName": "Black / A.I. and A.N.",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020019": {
+    "dataSegment": "01",
+    "name": "Black or African American; Asian",
+    "shortName": "Black / Asian",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020020": {
+    "dataSegment": "01",
+    "name": "Black or African American; Native Hawaiian and Other Pacific Islander",
+    "shortName": "Black / N.H. and P.I.",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020021": {
+    "dataSegment": "01",
+    "name": "Black or African American; Some Other Race",
+    "shortName": "Black / Other",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020022": {
+    "dataSegment": "01",
+    "name": "American Indian and Alaska Native; Asian",
+    "shortName": "A.I. and A.N. / Asian",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020023": {
+    "dataSegment": "01",
+    "name": "American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander",
+    "shortName": "A.I. and A.N. / N.H. and P.I.",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020024": {
+    "dataSegment": "01",
+    "name": "American Indian and Alaska Native; Some Other Race",
+    "shortName": "A.I. and A.N. / Other",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020025": {
+    "dataSegment": "01",
+    "name": "Asian; Native Hawaiian and Other Pacific Islander",
+    "shortName": "Asian / N.H. and P.I.",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020026": {
+    "dataSegment": "01",
+    "name": "Asian; Some Other Race",
+    "shortName": "Asian / Other",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020027": {
+    "dataSegment": "01",
+    "name": "Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "N.H. and P.I. / Other",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020028": {
+    "dataSegment": "01",
+    "name": "Population of three races:",
+    "shortName": "Three Races",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020029": {
+    "dataSegment": "01",
+    "name": "White; Black or African American; American Indian and Alaska Native",
+    "shortName": "White / Black / A.I. and A.N.",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020030": {
+    "dataSegment": "01",
+    "name": "White; Black or African American; Asian",
+    "shortName": "White / Black / Asian",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020031": {
+    "dataSegment": "01",
+    "name": "White; Black or African American; Native Hawaiian and Other Pacific Islander",
+    "shortName": "White / Black / N.H. and P.I.",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020032": {
+    "dataSegment": "01",
+    "name": "White; Black or African American; Some Other Race",
+    "shortName": "White / Black / Other",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020033": {
+    "dataSegment": "01",
+    "name": "White; American Indian and Alaska Native; Asian",
+    "shortName": "White / A.I. and A.N. / Asian",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020034": {
+    "dataSegment": "01",
+    "name": "White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander",
+    "shortName": "White / A.I. and A.N. / N.H. and P.I.",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020035": {
+    "dataSegment": "01",
+    "name": "White; American Indian and Alaska Native; Some Other Race",
+    "shortName": "White / A.I. and A.N. / Other",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020036": {
+    "dataSegment": "01",
+    "name": "White; Asian; Native Hawaiian and Other Pacific Islander",
+    "shortName": "White / Asian / N.H. and P.I.",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020037": {
+    "dataSegment": "01",
+    "name": "White; Asian; Some Other Race",
+    "shortName": "White / Asian / Other",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020038": {
+    "dataSegment": "01",
+    "name": "White; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "White / N.H. and P.I. / Other",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020039": {
+    "dataSegment": "01",
+    "name": "Black or African American; American Indian and Alaska Native; Asian",
+    "shortName": "Black / A.I. and A.N. / Asian",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020040": {
+    "dataSegment": "01",
+    "name": "Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander",
+    "shortName": "Black / A.I. and A.N. / N.H. and P.I.",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020041": {
+    "dataSegment": "01",
+    "name": "Black or African American; American Indian and Alaska Native; Some Other Race",
+    "shortName": "Black / A.I. and A.N. / Other",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020042": {
+    "dataSegment": "01",
+    "name": "Black or African American; Asian; Native Hawaiian and Other Pacific Islander",
+    "shortName": "Black / Asian / N.H. and P.I.",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020043": {
+    "dataSegment": "01",
+    "name": "Black or African American; Asian; Some Other Race",
+    "shortName": "Black / Asian / Other",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020044": {
+    "dataSegment": "01",
+    "name": "Black or African American; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "Black / N.H. and P.I. / Other",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020045": {
+    "dataSegment": "01",
+    "name": "American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander",
+    "shortName": "A.I. and A.N. / Asian / N.H. and P.I.",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020046": {
+    "dataSegment": "01",
+    "name": "American Indian and Alaska Native; Asian; Some Other Race",
+    "shortName": "A.I. and A.N. / Asian / Other",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020047": {
+    "dataSegment": "01",
+    "name": "American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "A.I. and A.N. / N.H. and P.I. / Other",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020048": {
+    "dataSegment": "01",
+    "name": "Asian; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "Asian / N.H. and P.I. / Other",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020049": {
+    "dataSegment": "01",
+    "name": "Population of four races:",
+    "shortName": "Four Races",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020050": {
+    "dataSegment": "01",
+    "name": "White; Black or African American; American Indian and Alaska Native; Asian",
+    "shortName": "White / Black / A.I. and A.N. / Asian",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020051": {
+    "dataSegment": "01",
+    "name": "White; Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander",
+    "shortName": "White / Black / A.I. and A.N. / N.H. and P.I.",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020052": {
+    "dataSegment": "01",
+    "name": "White; Black or African American; American Indian and Alaska Native; Some Other Race",
+    "shortName": "White / Black / A.I. and A.N. / Other",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020053": {
+    "dataSegment": "01",
+    "name": "White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander",
+    "shortName": "White / Black / Asian / N.H. and P.I.",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020054": {
+    "dataSegment": "01",
+    "name": "White; Black or African American; Asian; Some Other Race",
+    "shortName": "White / Black / Asian / Other",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020055": {
+    "dataSegment": "01",
+    "name": "White; Black or African American; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "White / Black / N.H. and P.I. / Other",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020056": {
+    "dataSegment": "01",
+    "name": "White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander",
+    "shortName": "White / A.I. and A.N. / Asian / N.H. and P.I.",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020057": {
+    "dataSegment": "01",
+    "name": "White; American Indian and Alaska Native; Asian; Some Other Race",
+    "shortName": "White / A.I. and A.N. / Asian / Other",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020058": {
+    "dataSegment": "01",
+    "name": "White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "White / A.I. and A.N. / N.H. and P.I. / Other",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020059": {
+    "dataSegment": "01",
+    "name": "White; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "White / Asian / N.H. and P.I. / Other",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020060": {
+    "dataSegment": "01",
+    "name": "Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander",
+    "shortName": "Black / A.I. and A.N. / Asian / N.H. and P.I.",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020061": {
+    "dataSegment": "01",
+    "name": "Black or African American; American Indian and Alaska Native; Asian; Some Other Race",
+    "shortName": "Black / A.I. and A.N. / Asian / Other",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020062": {
+    "dataSegment": "01",
+    "name": "Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "Black / A.I. and A.N. / N.H. and P.I. / Other",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020063": {
+    "dataSegment": "01",
+    "name": "Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "Black / Asian / N.H. and P.I. / Other",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020064": {
+    "dataSegment": "01",
+    "name": "American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "A.I. and A.N. / Asian / N.H. and P.I. / Other",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020065": {
+    "dataSegment": "01",
+    "name": "Population of five races:",
+    "shortName": "Five Races",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020066": {
+    "dataSegment": "01",
+    "name": "White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander",
+    "shortName": "White / Black / A.I. and A.N. / Asian / N.H. and P.I.",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020067": {
+    "dataSegment": "01",
+    "name": "White; Black or African American; American Indian and Alaska Native; Asian; Some Other Race",
+    "shortName": "White / Black / A.I. and A.N. / Asian / Other",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020068": {
+    "dataSegment": "01",
+    "name": "White; Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "White / Black / A.I. and A.N. / N.H. and P.I. / Other",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020069": {
+    "dataSegment": "01",
+    "name": "White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "White / Black / Asian / N.H. and P.I. / Other",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020070": {
+    "dataSegment": "01",
+    "name": "White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "White / A.I. and A.N. / Asian / N.H. and P.I. / Other",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020071": {
+    "dataSegment": "01",
+    "name": "Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "Black / A.I. and A.N. / Asian / N.H. and P.I. / Other",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020072": {
+    "dataSegment": "01",
+    "name": "Population of six races:",
+    "shortName": "Six Races",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0020073": {
+    "dataSegment": "01",
+    "name": "White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "White / Black / A.I. and A.N. / Asian / N.H. and P.I. / Other",
+    "category": "P2",
+    "categoryName": "Hispanic or Latino",
+    "categoryShortName": "Hispanic",
+    "universe": "Total Population"
+  },
+  "P0030001": {
+    "dataSegment": "02",
+    "name": "Total:",
+    "shortName": "Total",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030002": {
+    "dataSegment": "02",
+    "name": "Population of one race:",
+    "shortName": "One Race",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030003": {
+    "dataSegment": "02",
+    "name": "White alone",
+    "shortName": "White alone",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030004": {
+    "dataSegment": "02",
+    "name": "Black or African American alone",
+    "shortName": "Black alone",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030005": {
+    "dataSegment": "02",
+    "name": "American Indian and Alaska Native alone",
+    "shortName": "A.I. and A.N. alone",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030006": {
+    "dataSegment": "02",
+    "name": "Asian alone",
+    "shortName": "Asian alone",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030007": {
+    "dataSegment": "02",
+    "name": "Native Hawaiian and Other Pacific Islander alone",
+    "shortName": "N.H. and P.I. alone",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030008": {
+    "dataSegment": "02",
+    "name": "Some Other Race alone",
+    "shortName": "Other alone",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030009": {
+    "dataSegment": "02",
+    "name": "Population of two or more races:",
+    "shortName": "Two or more races",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030010": {
+    "dataSegment": "02",
+    "name": "Population of two races:",
+    "shortName": "Two Races",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030011": {
+    "dataSegment": "02",
+    "name": "White; Black or African American",
+    "shortName": "White / Black",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030012": {
+    "dataSegment": "02",
+    "name": "White; American Indian and Alaska Native",
+    "shortName": "White / A.I. and A.N.",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030013": {
+    "dataSegment": "02",
+    "name": "White; Asian",
+    "shortName": "White / Asian",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030014": {
+    "dataSegment": "02",
+    "name": "White; Native Hawaiian and Other Pacific Islander",
+    "shortName": "White / N.H. and P.I.",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030015": {
+    "dataSegment": "02",
+    "name": "White; Some Other Race",
+    "shortName": "White / Other",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030016": {
+    "dataSegment": "02",
+    "name": "Black or African American; American Indian and Alaska Native",
+    "shortName": "Black / A.I. and A.N.",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030017": {
+    "dataSegment": "02",
+    "name": "Black or African American; Asian",
+    "shortName": "Black / Asian",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030018": {
+    "dataSegment": "02",
+    "name": "Black or African American; Native Hawaiian and Other Pacific Islander",
+    "shortName": "Black / N.H. and P.I.",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030019": {
+    "dataSegment": "02",
+    "name": "Black or African American; Some Other Race",
+    "shortName": "Black / Other",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030020": {
+    "dataSegment": "02",
+    "name": "American Indian and Alaska Native; Asian",
+    "shortName": "A.I. and A.N. / Asian",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030021": {
+    "dataSegment": "02",
+    "name": "American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander",
+    "shortName": "A.I. and A.N. / N.H. and P.I.",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030022": {
+    "dataSegment": "02",
+    "name": "American Indian and Alaska Native; Some Other Race",
+    "shortName": "A.I. and A.N. / Other",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030023": {
+    "dataSegment": "02",
+    "name": "Asian; Native Hawaiian and Other Pacific Islander",
+    "shortName": "Asian / N.H. and P.I.",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030024": {
+    "dataSegment": "02",
+    "name": "Asian; Some Other Race",
+    "shortName": "Asian / Other",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030025": {
+    "dataSegment": "02",
+    "name": "Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "N.H. and P.I. / Other",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030026": {
+    "dataSegment": "02",
+    "name": "Population of three races:",
+    "shortName": "Three Races",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030027": {
+    "dataSegment": "02",
+    "name": "White; Black or African American; American Indian and Alaska Native",
+    "shortName": "White / Black / A.I. and A.N.",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030028": {
+    "dataSegment": "02",
+    "name": "White; Black or African American; Asian",
+    "shortName": "White / Black / Asian",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030029": {
+    "dataSegment": "02",
+    "name": "White; Black or African American; Native Hawaiian and Other Pacific Islander",
+    "shortName": "White / Black / N.H. and P.I.",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030030": {
+    "dataSegment": "02",
+    "name": "White; Black or African American; Some Other Race",
+    "shortName": "White / Black / Other",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030031": {
+    "dataSegment": "02",
+    "name": "White; American Indian and Alaska Native; Asian",
+    "shortName": "White / A.I. and A.N. / Asian",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030032": {
+    "dataSegment": "02",
+    "name": "White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander",
+    "shortName": "White / A.I. and A.N. / N.H. and P.I.",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030033": {
+    "dataSegment": "02",
+    "name": "White; American Indian and Alaska Native; Some Other Race",
+    "shortName": "White / A.I. and A.N. / Other",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030034": {
+    "dataSegment": "02",
+    "name": "White; Asian; Native Hawaiian and Other Pacific Islander",
+    "shortName": "White / Asian / N.H. and P.I.",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030035": {
+    "dataSegment": "02",
+    "name": "White; Asian; Some Other Race",
+    "shortName": "White / Asian / Other",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030036": {
+    "dataSegment": "02",
+    "name": "White; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "White / N.H. and P.I. / Other",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030037": {
+    "dataSegment": "02",
+    "name": "Black or African American; American Indian and Alaska Native; Asian",
+    "shortName": "Black / A.I. and A.N. / Asian",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030038": {
+    "dataSegment": "02",
+    "name": "Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander",
+    "shortName": "Black / A.I. and A.N. / N.H. and P.I.",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030039": {
+    "dataSegment": "02",
+    "name": "Black or African American; American Indian and Alaska Native; Some Other Race",
+    "shortName": "Black / A.I. and A.N. / Other",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030040": {
+    "dataSegment": "02",
+    "name": "Black or African American; Asian; Native Hawaiian and Other Pacific Islander",
+    "shortName": "Black / Asian / N.H. and P.I.",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030041": {
+    "dataSegment": "02",
+    "name": "Black or African American; Asian; Some Other Race",
+    "shortName": "Black / Asian / Other",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030042": {
+    "dataSegment": "02",
+    "name": "Black or African American; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "Black / N.H. and P.I. / Other",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030043": {
+    "dataSegment": "02",
+    "name": "American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander",
+    "shortName": "A.I. and A.N. / Asian / N.H. and P.I.",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030044": {
+    "dataSegment": "02",
+    "name": "American Indian and Alaska Native; Asian; Some Other Race",
+    "shortName": "A.I. and A.N. / Asian / Other",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030045": {
+    "dataSegment": "02",
+    "name": "American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "A.I. and A.N. / N.H. and P.I. / Other",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030046": {
+    "dataSegment": "02",
+    "name": "Asian; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "Asian / N.H. and P.I. / Other",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030047": {
+    "dataSegment": "02",
+    "name": "Population of four races:",
+    "shortName": "Four Races",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030048": {
+    "dataSegment": "02",
+    "name": "White; Black or African American; American Indian and Alaska Native; Asian",
+    "shortName": "White / Black / A.I. and A.N. / Asian",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030049": {
+    "dataSegment": "02",
+    "name": "White; Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander",
+    "shortName": "White / Black / A.I. and A.N. / N.H. and P.I.",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030050": {
+    "dataSegment": "02",
+    "name": "White; Black or African American; American Indian and Alaska Native; Some Other Race",
+    "shortName": "White / Black / A.I. and A.N. / Other",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030051": {
+    "dataSegment": "02",
+    "name": "White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander",
+    "shortName": "White / Black / Asian / N.H. and P.I.",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030052": {
+    "dataSegment": "02",
+    "name": "White; Black or African American; Asian; Some Other Race",
+    "shortName": "White / Black / Asian / Other",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030053": {
+    "dataSegment": "02",
+    "name": "White; Black or African American; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "White / Black / N.H. and P.I. / Other",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030054": {
+    "dataSegment": "02",
+    "name": "White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander",
+    "shortName": "White / A.I. and A.N. / Asian / N.H. and P.I.",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030055": {
+    "dataSegment": "02",
+    "name": "White; American Indian and Alaska Native; Asian; Some Other Race",
+    "shortName": "White / A.I. and A.N. / Asian / Other",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030056": {
+    "dataSegment": "02",
+    "name": "White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "White / A.I. and A.N. / N.H. and P.I. / Other",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030057": {
+    "dataSegment": "02",
+    "name": "White; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "White / Asian / N.H. and P.I. / Other",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030058": {
+    "dataSegment": "02",
+    "name": "Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander",
+    "shortName": "Black / A.I. and A.N. / Asian / N.H. and P.I.",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030059": {
+    "dataSegment": "02",
+    "name": "Black or African American; American Indian and Alaska Native; Asian; Some Other Race",
+    "shortName": "Black / A.I. and A.N. / Asian / Other",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030060": {
+    "dataSegment": "02",
+    "name": "Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "Black / A.I. and A.N. / N.H. and P.I. / Other",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030061": {
+    "dataSegment": "02",
+    "name": "Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "Black / Asian / N.H. and P.I. / Other",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030062": {
+    "dataSegment": "02",
+    "name": "American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "A.I. and A.N. / Asian / N.H. and P.I. / Other",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030063": {
+    "dataSegment": "02",
+    "name": "Population of five races:",
+    "shortName": "Five Races",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030064": {
+    "dataSegment": "02",
+    "name": "White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander",
+    "shortName": "White / Black / A.I. and A.N. / Asian / N.H. and P.I.",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030065": {
+    "dataSegment": "02",
+    "name": "White; Black or African American; American Indian and Alaska Native; Asian; Some Other Race",
+    "shortName": "White / Black / A.I. and A.N. / Asian / Other",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030066": {
+    "dataSegment": "02",
+    "name": "White; Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "White / Black / A.I. and A.N. / N.H. and P.I. / Other",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030067": {
+    "dataSegment": "02",
+    "name": "White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "White / Black / Asian / N.H. and P.I. / Other",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030068": {
+    "dataSegment": "02",
+    "name": "White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "White / A.I. and A.N. / Asian / N.H. and P.I. / Other",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030069": {
+    "dataSegment": "02",
+    "name": "Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "Black / A.I. and A.N. / Asian / N.H. and P.I. / Other",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030070": {
+    "dataSegment": "02",
+    "name": "Population of six races:",
+    "shortName": "Six Races",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0030071": {
+    "dataSegment": "02",
+    "name": "White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "White / Black / A.I. and A.N. / Asian / N.H. and P.I. / Other",
+    "category": "P3",
+    "categoryName": "Race over 18",
+    "categoryShortName": "VAP",
+    "universe": "Voting Age Population (Over 18)"
+  },
+  "P0040001": {
+    "dataSegment": "02",
+    "name": "Total:",
+    "shortName": "Total",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040002": {
+    "dataSegment": "02",
+    "name": "Hispanic or Latino",
+    "shortName": "Hispanic or Latino",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040003": {
+    "dataSegment": "02",
+    "name": "Not Hispanic or Latino:",
+    "shortName": "Not Hispanic or Latino",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040004": {
+    "dataSegment": "02",
+    "name": "Population of one race:",
+    "shortName": "One Race",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040005": {
+    "dataSegment": "02",
+    "name": "White alone",
+    "shortName": "White alone",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040006": {
+    "dataSegment": "02",
+    "name": "Black or African American alone",
+    "shortName": "Black alone",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040007": {
+    "dataSegment": "02",
+    "name": "American Indian and Alaska Native alone",
+    "shortName": "A.I. and A.N. alone",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040008": {
+    "dataSegment": "02",
+    "name": "Asian alone",
+    "shortName": "Asian alone",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040009": {
+    "dataSegment": "02",
+    "name": "Native Hawaiian and Other Pacific Islander alone",
+    "shortName": "N.H. and P.I. alone",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040010": {
+    "dataSegment": "02",
+    "name": "Some Other Race alone",
+    "shortName": "Other alone",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040011": {
+    "dataSegment": "02",
+    "name": "Population of two or more races:",
+    "shortName": "Two or more races",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040012": {
+    "dataSegment": "02",
+    "name": "Population of two races:",
+    "shortName": "Two Races",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040013": {
+    "dataSegment": "02",
+    "name": "White; Black or African American",
+    "shortName": "White / Black",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040014": {
+    "dataSegment": "02",
+    "name": "White; American Indian and Alaska Native",
+    "shortName": "White / A.I. and A.N.",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040015": {
+    "dataSegment": "02",
+    "name": "White; Asian",
+    "shortName": "White / Asian",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040016": {
+    "dataSegment": "02",
+    "name": "White; Native Hawaiian and Other Pacific Islander",
+    "shortName": "White / N.H. and P.I.",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040017": {
+    "dataSegment": "02",
+    "name": "White; Some Other Race",
+    "shortName": "White / Other",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040018": {
+    "dataSegment": "02",
+    "name": "Black or African American; American Indian and Alaska Native",
+    "shortName": "Black / A.I. and A.N.",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040019": {
+    "dataSegment": "02",
+    "name": "Black or African American; Asian",
+    "shortName": "Black / Asian",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040020": {
+    "dataSegment": "02",
+    "name": "Black or African American; Native Hawaiian and Other Pacific Islander",
+    "shortName": "Black / N.H. and P.I.",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040021": {
+    "dataSegment": "02",
+    "name": "Black or African American; Some Other Race",
+    "shortName": "Black / Other",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040022": {
+    "dataSegment": "02",
+    "name": "American Indian and Alaska Native; Asian",
+    "shortName": "A.I. and A.N. / Asian",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040023": {
+    "dataSegment": "02",
+    "name": "American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander",
+    "shortName": "A.I. and A.N. / N.H. and P.I.",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040024": {
+    "dataSegment": "02",
+    "name": "American Indian and Alaska Native; Some Other Race",
+    "shortName": "A.I. and A.N. / Other",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040025": {
+    "dataSegment": "02",
+    "name": "Asian; Native Hawaiian and Other Pacific Islander",
+    "shortName": "Asian / N.H. and P.I.",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040026": {
+    "dataSegment": "02",
+    "name": "Asian; Some Other Race",
+    "shortName": "Asian / Other",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040027": {
+    "dataSegment": "02",
+    "name": "Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "N.H. and P.I. / Other",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040028": {
+    "dataSegment": "02",
+    "name": "Population of three races:",
+    "shortName": "Three Races",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040029": {
+    "dataSegment": "02",
+    "name": "White; Black or African American; American Indian and Alaska Native",
+    "shortName": "White / Black / A.I. and A.N.",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040030": {
+    "dataSegment": "02",
+    "name": "White; Black or African American; Asian",
+    "shortName": "White / Black / Asian",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040031": {
+    "dataSegment": "02",
+    "name": "White; Black or African American; Native Hawaiian and Other Pacific Islander",
+    "shortName": "White / Black / N.H. and P.I.",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040032": {
+    "dataSegment": "02",
+    "name": "White; Black or African American; Some Other Race",
+    "shortName": "White / Black / Other",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040033": {
+    "dataSegment": "02",
+    "name": "White; American Indian and Alaska Native; Asian",
+    "shortName": "White / A.I. and A.N. / Asian",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040034": {
+    "dataSegment": "02",
+    "name": "White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander",
+    "shortName": "White / A.I. and A.N. / N.H. and P.I.",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040035": {
+    "dataSegment": "02",
+    "name": "White; American Indian and Alaska Native; Some Other Race",
+    "shortName": "White / A.I. and A.N. / Other",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040036": {
+    "dataSegment": "02",
+    "name": "White; Asian; Native Hawaiian and Other Pacific Islander",
+    "shortName": "White / Asian / N.H. and P.I.",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040037": {
+    "dataSegment": "02",
+    "name": "White; Asian; Some Other Race",
+    "shortName": "White / Asian / Other",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040038": {
+    "dataSegment": "02",
+    "name": "White; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "White / N.H. and P.I. / Other",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040039": {
+    "dataSegment": "02",
+    "name": "Black or African American; American Indian and Alaska Native; Asian",
+    "shortName": "Black / A.I. and A.N. / Asian",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040040": {
+    "dataSegment": "02",
+    "name": "Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander",
+    "shortName": "Black / A.I. and A.N. / N.H. and P.I.",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040041": {
+    "dataSegment": "02",
+    "name": "Black or African American; American Indian and Alaska Native; Some Other Race",
+    "shortName": "Black / A.I. and A.N. / Other",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040042": {
+    "dataSegment": "02",
+    "name": "Black or African American; Asian; Native Hawaiian and Other Pacific Islander",
+    "shortName": "Black / Asian / N.H. and P.I.",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040043": {
+    "dataSegment": "02",
+    "name": "Black or African American; Asian; Some Other Race",
+    "shortName": "Black / Asian / Other",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040044": {
+    "dataSegment": "02",
+    "name": "Black or African American; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "Black / N.H. and P.I. / Other",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040045": {
+    "dataSegment": "02",
+    "name": "American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander",
+    "shortName": "A.I. and A.N. / Asian / N.H. and P.I.",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040046": {
+    "dataSegment": "02",
+    "name": "American Indian and Alaska Native; Asian; Some Other Race",
+    "shortName": "A.I. and A.N. / Asian / Other",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040047": {
+    "dataSegment": "02",
+    "name": "American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "A.I. and A.N. / N.H. and P.I. / Other",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040048": {
+    "dataSegment": "02",
+    "name": "Asian; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "Asian / N.H. and P.I. / Other",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040049": {
+    "dataSegment": "02",
+    "name": "Population of four races:",
+    "shortName": "Four Races",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040050": {
+    "dataSegment": "02",
+    "name": "White; Black or African American; American Indian and Alaska Native; Asian",
+    "shortName": "White / Black / A.I. and A.N. / Asian",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040051": {
+    "dataSegment": "02",
+    "name": "White; Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander",
+    "shortName": "White / Black / A.I. and A.N. / N.H. and P.I.",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040052": {
+    "dataSegment": "02",
+    "name": "White; Black or African American; American Indian and Alaska Native; Some Other Race",
+    "shortName": "White / Black / A.I. and A.N. / Other",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040053": {
+    "dataSegment": "02",
+    "name": "White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander",
+    "shortName": "White / Black / Asian / N.H. and P.I.",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040054": {
+    "dataSegment": "02",
+    "name": "White; Black or African American; Asian; Some Other Race",
+    "shortName": "White / Black / Asian / Other",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040055": {
+    "dataSegment": "02",
+    "name": "White; Black or African American; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "White / Black / N.H. and P.I. / Other",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040056": {
+    "dataSegment": "02",
+    "name": "White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander",
+    "shortName": "White / A.I. and A.N. / Asian / N.H. and P.I.",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040057": {
+    "dataSegment": "02",
+    "name": "White; American Indian and Alaska Native; Asian; Some Other Race",
+    "shortName": "White / A.I. and A.N. / Asian / Other",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040058": {
+    "dataSegment": "02",
+    "name": "White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "White / A.I. and A.N. / N.H. and P.I. / Other",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040059": {
+    "dataSegment": "02",
+    "name": "White; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "White / Asian / N.H. and P.I. / Other",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040060": {
+    "dataSegment": "02",
+    "name": "Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander",
+    "shortName": "Black / A.I. and A.N. / Asian / N.H. and P.I.",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040061": {
+    "dataSegment": "02",
+    "name": "Black or African American; American Indian and Alaska Native; Asian; Some Other Race",
+    "shortName": "Black / A.I. and A.N. / Asian / Other",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040062": {
+    "dataSegment": "02",
+    "name": "Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "Black / A.I. and A.N. / N.H. and P.I. / Other",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040063": {
+    "dataSegment": "02",
+    "name": "Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "Black / Asian / N.H. and P.I. / Other",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040064": {
+    "dataSegment": "02",
+    "name": "American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "A.I. and A.N. / Asian / N.H. and P.I. / Other",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040065": {
+    "dataSegment": "02",
+    "name": "Population of five races:",
+    "shortName": "Five Races",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040066": {
+    "dataSegment": "02",
+    "name": "White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander",
+    "shortName": "White / Black / A.I. and A.N. / Asian / N.H. and P.I.",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040067": {
+    "dataSegment": "02",
+    "name": "White; Black or African American; American Indian and Alaska Native; Asian; Some Other Race",
+    "shortName": "White / Black / A.I. and A.N. / Asian / Other",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040068": {
+    "dataSegment": "02",
+    "name": "White; Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "White / Black / A.I. and A.N. / N.H. and P.I. / Other",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040069": {
+    "dataSegment": "02",
+    "name": "White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "White / Black / Asian / N.H. and P.I. / Other",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040070": {
+    "dataSegment": "02",
+    "name": "White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "White / A.I. and A.N. / Asian / N.H. and P.I. / Other",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040071": {
+    "dataSegment": "02",
+    "name": "Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "Black / A.I. and A.N. / Asian / N.H. and P.I. / Other",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040072": {
+    "dataSegment": "02",
+    "name": "Population of six races:",
+    "shortName": "Six Races",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "P0040073": {
+    "dataSegment": "02",
+    "name": "White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race",
+    "shortName": "White / Black / A.I. and A.N. / Asian / N.H. and P.I. / Other",
+    "category": "P4",
+    "categoryName": "Hispanic Over 18",
+    "categoryShortName": "HVAP",
+    "universe": "Hispanic Voting Age Population (Over 18)"
+  },
+  "H0010001": {
+    "dataSegment": "02",
+    "name": "Total:",
+    "shortName": "Total",
+    "category": "H1",
+    "categoryName": "Housing Units",
+    "categoryShortName": "Housing",
+    "universe": "Housing Units"
+  },
+  "H0010002": {
+    "dataSegment": "02",
+    "name": "Occupied",
+    "shortName": "Occupied",
+    "category": "H1",
+    "categoryName": "Housing Units",
+    "categoryShortName": "Housing",
+    "universe": "Housing Units"
+  },
+  "H0010003": {
+    "dataSegment": "02",
+    "name": "Vacant",
+    "shortName": "Vacant",
+    "category": "H1",
+    "categoryName": "Housing Units",
+    "categoryShortName": "Housing",
+    "universe": "Housing Units"
+  },
+  "P0050001": {
+    "dataSegment": "03",
+    "name": "Total:",
+    "shortName": "Total",
+    "category": "P5",
+    "categoryName": "Group Quarters",
+    "categoryShortName": "GCP",
+    "universe": "Population in Group Quarters"
+  },
+  "P0050002": {
+    "dataSegment": "03",
+    "name": "Institutionalized population:",
+    "shortName": "Institutionalized population",
+    "category": "P5",
+    "categoryName": "Group Quarters",
+    "categoryShortName": "GCP",
+    "universe": "Population in Group Quarters"
+  },
+  "P0050003": {
+    "dataSegment": "03",
+    "name": "Correctional facilities for adults",
+    "shortName": "Correctional facilities for adults",
+    "category": "P5",
+    "categoryName": "Group Quarters",
+    "categoryShortName": "GCP",
+    "universe": "Population in Group Quarters"
+  },
+  "P0050004": {
+    "dataSegment": "03",
+    "name": "Juvenile facilities",
+    "shortName": "Juvenile facilities",
+    "category": "P5",
+    "categoryName": "Group Quarters",
+    "categoryShortName": "GCP",
+    "universe": "Population in Group Quarters"
+  },
+  "P0050005": {
+    "dataSegment": "03",
+    "name": "Nursing facilities/Skilled-nursing facilities",
+    "shortName": "Nursing facilities/Skilled-nursing facilities",
+    "category": "P5",
+    "categoryName": "Group Quarters",
+    "categoryShortName": "GCP",
+    "universe": "Population in Group Quarters"
+  },
+  "P0050006": {
+    "dataSegment": "03",
+    "name": "Other institutional facilities",
+    "shortName": "Other institutional facilities",
+    "category": "P5",
+    "categoryName": "Group Quarters",
+    "categoryShortName": "GCP",
+    "universe": "Population in Group Quarters"
+  },
+  "P0050007": {
+    "dataSegment": "03",
+    "name": "Noninstitutionalized population:",
+    "shortName": "Noninstitutionalized population",
+    "category": "P5",
+    "categoryName": "Group Quarters",
+    "categoryShortName": "GCP",
+    "universe": "Population in Group Quarters"
+  },
+  "P0050008": {
+    "dataSegment": "03",
+    "name": "College/University student housing",
+    "shortName": "College/University student housing",
+    "category": "P5",
+    "categoryName": "Group Quarters",
+    "categoryShortName": "GCP",
+    "universe": "Population in Group Quarters"
+  },
+  "P0050009": {
+    "dataSegment": "03",
+    "name": "Military quarters",
+    "shortName": "Military quarters",
+    "category": "P5",
+    "categoryName": "Group Quarters",
+    "categoryShortName": "GCP",
+    "universe": "Population in Group Quarters"
+  },
+  "P0050010": {
+    "dataSegment": "03",
+    "name": "Other noninstitutional facilities",
+    "shortName": "Other noninstitutional facilities",
+    "category": "P5",
+    "categoryName": "Group Quarters",
+    "categoryShortName": "GCP",
+    "universe": "Population in Group Quarters"
+  }
+}

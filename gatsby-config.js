@@ -5,11 +5,9 @@ module.exports = {
     author: `@mggg`,
     siteUrl: `https://districtr.org/`
   },
-  flags: {
-    PARALLEL_QUERY_RUNNING: false
-  },
   plugins: [
     `gatsby-plugin-image`,
+    `gatsby-plugin-netlify`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {

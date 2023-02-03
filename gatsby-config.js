@@ -24,11 +24,13 @@ module.exports = {
         short_name: `Districtr`,
         start_url: `/`,
         background_color: `#FFFFFF`,
-        // This will impact how browsers show your PWA/website
-        // https://css-tricks.com/meta-theme-color-and-trickery/
-        // theme_color: `#663399`,
-        display: `minimal-ui`,
-        icon: `src/images/favicon.png` // This path is relative to the root of the site.
+        theme_color: `#663399`,
+        display: `fullscreen`,
+        display_override: [`standalone`, `minimal-ui`],
+        icon: `src/images/favicon.png`, // This path is relative to the root of the site.
+        cache_busting_mode: `none`,
+        orientation: `landscape`,
+        categories: [`education`, `social`, `government`, `politics`]
       }
     },
     {

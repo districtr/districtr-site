@@ -2627,11 +2627,7 @@ type Query_stateArgs = {
 
 
 type Query_stateJsonArgs = {
-  childCounty: InputMaybe<CountyFilterInput>;
-  childProblem: InputMaybe<ProblemFilterInput>;
   children: InputMaybe<NodeFilterListInput>;
-  childrenCounty: InputMaybe<CountyFilterListInput>;
-  childrenProblem: InputMaybe<ProblemFilterListInput>;
   counties: InputMaybe<StateJsonCountiesFilterListInput>;
   id: InputMaybe<StringQueryOperatorInput>;
   internal: InputMaybe<InternalFilterInput>;
@@ -3639,15 +3635,7 @@ type StateGroupConnection_sumArgs = {
 };
 
 type StateJson = Node & {
-  /** Returns the first child node of type County or null if there are no children of given type on this node */
-  readonly childCounty: Maybe<County>;
-  /** Returns the first child node of type Problem or null if there are no children of given type on this node */
-  readonly childProblem: Maybe<Problem>;
   readonly children: ReadonlyArray<Node>;
-  /** Returns all children nodes filtered by type County */
-  readonly childrenCounty: Maybe<ReadonlyArray<Maybe<County>>>;
-  /** Returns all children nodes filtered by type Problem */
-  readonly childrenProblem: Maybe<ReadonlyArray<Maybe<Problem>>>;
   readonly counties: Maybe<ReadonlyArray<Maybe<StateJsonCounties>>>;
   readonly id: Scalars['ID'];
   readonly internal: Internal;
@@ -3784,11 +3772,7 @@ type StateJsonEdge = {
 };
 
 type StateJsonFieldSelector = {
-  readonly childCounty: InputMaybe<CountyFieldSelector>;
-  readonly childProblem: InputMaybe<ProblemFieldSelector>;
   readonly children: InputMaybe<NodeFieldSelector>;
-  readonly childrenCounty: InputMaybe<CountyFieldSelector>;
-  readonly childrenProblem: InputMaybe<ProblemFieldSelector>;
   readonly counties: InputMaybe<StateJsonCountiesFieldSelector>;
   readonly id: InputMaybe<FieldSelectorEnum>;
   readonly internal: InputMaybe<InternalFieldSelector>;
@@ -3800,11 +3784,7 @@ type StateJsonFieldSelector = {
 };
 
 type StateJsonFilterInput = {
-  readonly childCounty: InputMaybe<CountyFilterInput>;
-  readonly childProblem: InputMaybe<ProblemFilterInput>;
   readonly children: InputMaybe<NodeFilterListInput>;
-  readonly childrenCounty: InputMaybe<CountyFilterListInput>;
-  readonly childrenProblem: InputMaybe<ProblemFilterListInput>;
   readonly counties: InputMaybe<StateJsonCountiesFilterListInput>;
   readonly id: InputMaybe<StringQueryOperatorInput>;
   readonly internal: InputMaybe<InternalFilterInput>;
@@ -4149,11 +4129,7 @@ type StateJsonProblemsSourcesValueSourceSortInput = {
 };
 
 type StateJsonSortInput = {
-  readonly childCounty: InputMaybe<CountySortInput>;
-  readonly childProblem: InputMaybe<ProblemSortInput>;
   readonly children: InputMaybe<NodeSortInput>;
-  readonly childrenCounty: InputMaybe<CountySortInput>;
-  readonly childrenProblem: InputMaybe<ProblemSortInput>;
   readonly counties: InputMaybe<StateJsonCountiesSortInput>;
   readonly id: InputMaybe<SortOrderEnum>;
   readonly internal: InputMaybe<InternalSortInput>;

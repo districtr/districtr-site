@@ -89,7 +89,7 @@ const StatesPage = () => {
     <MapLayout>
       <Districtr
         title="Draw 10 States"
-        mapboxAccessToken={`${process.env.MAPBOX_ACCESS_TOKEN}`}
+        mapboxAccessToken={`${process.env.GATSBY_MAPBOX_ACCESS_TOKEN}`}
         //@ts-ignore
         sources={sources}
         //@ts-ignore

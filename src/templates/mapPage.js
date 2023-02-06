@@ -229,7 +229,7 @@ const MapPageView = (props) => {
     <MapLayout>
       <Districtr
         title={problem.title}
-        mapboxAccessToken={`${process.env.MAPBOX_ACCESS_TOKEN}`}
+        mapboxAccessToken={`${process.env.GATSBY_MAPBOX_ACCESS_TOKEN}`}
         initialViewState={initialViewState}
         sources={sources}
         layers={layers}

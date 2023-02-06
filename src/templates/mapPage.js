@@ -182,6 +182,17 @@ const MapPageView = (props) => {
     })
   })
 
+  // sort interactiveLayerIds so the layer ending in "blocks-draw" is first
+  interactiveLayerIds.sort((a, b) => {
+    if (a.endsWith('blocks-draw')) {
+      return -1
+    } else if (b.endsWith('blocks-draw')) {
+      return 1
+    } else {
+      return 0
+    }
+  })
+
   return (
     <MapLayout>
       <Districtr

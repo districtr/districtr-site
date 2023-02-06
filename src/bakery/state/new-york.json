@@ -1555,7 +1555,7 @@
             {
               "source": {
                 "id": 17200,
-                "name": "New York - New York City - 2020 Blocks",
+                "name": "New York - New York City - 2020 Blocks - Population Only",
                 "type": "fill",
                 "source_layer": "nyc_22_poponly_blocks",
                 "source_type": "vector",
@@ -1618,7 +1618,7 @@
             {
               "source": {
                 "id": 17202,
-                "name": "New York - New York City - 2020 Blocks",
+                "name": "New York - New York City - 2020 Blocks Groups With Demographics",
                 "type": "fill",
                 "source_layer": "nyc_demo_bg_blockgroups",
                 "source_type": "vector",
@@ -1626,8 +1626,8 @@
               },
               "layers": [
                 {
-                  "name": "New York - New York City - 2020 Blocks Interactive Layer",
-                  "id": "new-york-new-york-city-2020-blocks-draw",
+                  "name": "New York - New York City - 2020 Blocks Groups Interactive Layer",
+                  "id": "new-york-new-york-city-2020-blockgroups-draw",
                   "type": "fill",
                   "layout": "{\"visibility\": \"visible\"}",
                   "paint": "{}",
@@ -1635,8 +1635,8 @@
                   "is_interactive": true
                 },
                 {
-                  "name": "New York - New York City - 2020 Blocks Border",
-                  "id": "new-york-new-york-city-2020-blocks-border",
+                  "name": "New York - New York City - 2020 Blocks Groups Border",
+                  "id": "new-york-new-york-city-2020-blockgroups-border",
                   "type": "line",
                   "layout": "{\"visibility\": \"visible\"}",
                   "paint": "{\"line-color\": \"#777777\",\"line-width\": [\"interpolate\", [\"linear\"], [\"zoom\"], 0, 0, 7, 1],\"line-opacity\": 0.8}",

@@ -37,7 +37,7 @@ const MapPageView = (props) => {
     }
   ]
 
-  const layers = [
+  let layers = [
     {
       name: 'U.S. County Borders',
       config: {
@@ -101,11 +101,18 @@ const MapPageView = (props) => {
 
           layer.columnSets.forEach((columnSet) => {
             if (columnSet.total) {
+              const layerId = `${layer.id}-${columnSet.name}-${columnSet.total.key}`
+                .toLowerCase()
+                .trim()
+                .replace(/[^\w\s-]/g, '')
+                .replace(/[\s_-]+/g, '-')
+                .replace(/^-+|-+$/g, '')
+
               layers.push({
                 name: `${columnSet.name} ${columnSet.total.name}`,
                 interactive: false,
                 config: {
-                  id: `${layer.id}-${columnSet.name}-${columnSet.total.name}`,
+                  id: layerId,
                   source: data.source.id.toString(),
                   'source-layer': data.source.source_layer,
                   type: 'symbol',
@@ -121,13 +128,23 @@ const MapPageView = (props) => {
                 }
               })
             }
+
             if (columnSet.subgroups) {
               columnSet.subgroups.forEach((subgroup) => {
+                const layerId = `${layer.id}-${columnSet.name}-${subgroup.key}`
+                  .toLowerCase()
+                  .trim()
+                  .replace(/[^\w\s-]/g, '')
+                  .replace(/[\s_-]+/g, '-')
+                  .replace(/^-+|-+$/g, '')
+
+                console.log(layerId)
+
                 layers.push({
                   name: `${columnSet.name} ${subgroup.name}`,
                   interactive: false,
                   config: {
-                    id: `${layer.id}-${columnSet.name}-${subgroup.name}`,
+                    id: layerId,
                     source: data.source.id.toString(),
                     'source-layer': data.source.source_layer,
                     type: 'symbol',
@@ -182,6 +199,11 @@ const MapPageView = (props) => {
     })
   })
 
+  //remove layers that have a duplicate config.id
+  layers = layers.filter((layer, index, self) => {
+    return index === self.findIndex((l) => l.config.id === layer.config.id)
+  })
+
   // sort interactiveLayerIds so the layer ending in "blocks-draw" is first
   interactiveLayerIds.sort((a, b) => {
     if (a.endsWith('blocks-draw')) {
@@ -192,6 +214,16 @@ const MapPageView = (props) => {
       return 0
     }
   })
+
+  console.log(problem.title)
+  console.log(initialViewState)
+  console.log(sources)
+  console.log(layers)
+  console.log(problem.unit_count)
+  console.log(problem.unit_name)
+  console.log(problem.unit_name_plural)
+  console.log(interactiveLayerIds)
+  console.log(columnSets)
 
   return (
     <MapLayout>

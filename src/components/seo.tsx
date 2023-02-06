@@ -7,7 +7,7 @@ interface SEOProps {
   children?: React.ReactNode
 }
 
-const SEO: React.FC<SEOProps> = ({ description, title, children }) => {
+const SEO = ({ description, title, children }: SEOProps): JSX.Element => {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -26,7 +26,7 @@ const SEO: React.FC<SEOProps> = ({ description, title, children }) => {
   const defaultTitle = site.siteMetadata?.title
 
   return (
-    <React.Fragment data-testid="SEO">
+    <>
       <title>{defaultTitle ? `${title} | ${defaultTitle}` : title}</title>
       <meta name="description" content={metaDescription} />
       <meta property="og:title" content={title} />
@@ -37,7 +37,7 @@ const SEO: React.FC<SEOProps> = ({ description, title, children }) => {
       <meta name="twitter:title" content={title} />
       <meta name="twitter:description" content={metaDescription} />
       {children}
-    </React.Fragment>
+    </>
   )
 }
 

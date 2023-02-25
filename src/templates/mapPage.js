@@ -10,13 +10,14 @@ const MapPageView = (props) => {
   console.log(problem)
 
   const initialViewState = {
-    longitude: -95.0,
-    latitude: 36.5,
+    center: [(problem.bounds[0][0] + problem.bounds[1][0]) / 2, (problem.bounds[0][1] + problem.bounds[1][1]) / 2],
+    latitude: (problem.bounds[0][1] + problem.bounds[1][1]) / 2,
+    longitude: (problem.bounds[0][0] + problem.bounds[1][0]) / 2,
     bounds: [
       [problem.bounds[0][0], problem.bounds[0][1]],
       [problem.bounds[1][0], problem.bounds[1][1]]
     ],
-    zoom: 5,
+    zoom: 10,
     bearing: 0,
     pitch: 0,
     padding: { top: 20, bottom: 20, left: 20, right: 20 },
@@ -137,8 +138,6 @@ const MapPageView = (props) => {
                   .replace(/[^\w\s-]/g, '')
                   .replace(/[\s_-]+/g, '-')
                   .replace(/^-+|-+$/g, '')
-
-                console.log(layerId)
 
                 layers.push({
                   name: `${columnSet.name} ${subgroup.name}`,

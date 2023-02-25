@@ -21,23 +21,25 @@ exports.onCreateNode = async ({ node, actions, createNodeId, createContentDigest
       // for every county in node.counties, create a county node
 
       node.counties.forEach((county) => {
-        const nodeContent = JSON.stringify(county)
-        const nodeMeta = {
-          id: createNodeId(`county-${county.meta.slug}`),
-          parent: node.id,
-          children: [],
-          pageId: county.id,
-          childrenUrl: `http://admin.districtr.org/wagtail-api/pages/?child_of=${county.id}&limit=1000`,
-          internal: {
-            type: `County`,
-            mediaType: `text/html`,
-            content: nodeContent,
-            contentDigest: createContentDigest(county)
+        if (node.meta.slug === 'california') {
+          const nodeContent = JSON.stringify(county)
+          const nodeMeta = {
+            id: createNodeId(`county-${county.meta.slug}`),
+            parent: node.id,
+            children: [],
+            pageId: county.id,
+            childrenUrl: `http://admin.districtr.org/wagtail-api/pages/?child_of=${county.id}&limit=1000`,
+            internal: {
+              type: `County`,
+              mediaType: `text/html`,
+              content: nodeContent,
+              contentDigest: createContentDigest(county)
+            }
           }
+          const countyNode = Object.assign({}, county, nodeMeta)
+          createNode(countyNode)
+          createParentChildLink({ parent: node, child: countyNode })
         }
-        const countyNode = Object.assign({}, county, nodeMeta)
-        createNode(countyNode)
-        createParentChildLink({ parent: node, child: countyNode })
       })
 
       // Import legacy columnsets into the new format

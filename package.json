@@ -11,7 +11,7 @@
     "@visx/responsive": "^3.0.0",
     "@visx/scale": "^3.0.0",
     "@visx/shape": "^3.0.0",
-    "districtr-mapbox-gl": "^0.1.0",
+    "districtr-mapbox-gl": "^0.2.0",
     "gatsby": "^5.5.0",
     "gatsby-plugin-image": "^3.5.0",
     "gatsby-plugin-manifest": "^5.5.0",

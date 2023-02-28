@@ -2627,7 +2627,11 @@ type Query_stateArgs = {
 
 
 type Query_stateJsonArgs = {
+  childCounty: InputMaybe<CountyFilterInput>;
+  childProblem: InputMaybe<ProblemFilterInput>;
   children: InputMaybe<NodeFilterListInput>;
+  childrenCounty: InputMaybe<CountyFilterListInput>;
+  childrenProblem: InputMaybe<ProblemFilterListInput>;
   counties: InputMaybe<StateJsonCountiesFilterListInput>;
   id: InputMaybe<StringQueryOperatorInput>;
   internal: InputMaybe<InternalFilterInput>;
@@ -3635,7 +3639,15 @@ type StateGroupConnection_sumArgs = {
 };
 
 type StateJson = Node & {
+  /** Returns the first child node of type County or null if there are no children of given type on this node */
+  readonly childCounty: Maybe<County>;
+  /** Returns the first child node of type Problem or null if there are no children of given type on this node */
+  readonly childProblem: Maybe<Problem>;
   readonly children: ReadonlyArray<Node>;
+  /** Returns all children nodes filtered by type County */
+  readonly childrenCounty: Maybe<ReadonlyArray<Maybe<County>>>;
+  /** Returns all children nodes filtered by type Problem */
+  readonly childrenProblem: Maybe<ReadonlyArray<Maybe<Problem>>>;
   readonly counties: Maybe<ReadonlyArray<Maybe<StateJsonCounties>>>;
   readonly id: Scalars['ID'];
   readonly internal: Internal;
@@ -3772,7 +3784,11 @@ type StateJsonEdge = {
 };
 
 type StateJsonFieldSelector = {
+  readonly childCounty: InputMaybe<CountyFieldSelector>;
+  readonly childProblem: InputMaybe<ProblemFieldSelector>;
   readonly children: InputMaybe<NodeFieldSelector>;
+  readonly childrenCounty: InputMaybe<CountyFieldSelector>;
+  readonly childrenProblem: InputMaybe<ProblemFieldSelector>;
   readonly counties: InputMaybe<StateJsonCountiesFieldSelector>;
   readonly id: InputMaybe<FieldSelectorEnum>;
   readonly internal: InputMaybe<InternalFieldSelector>;
@@ -3784,7 +3800,11 @@ type StateJsonFieldSelector = {
 };
 
 type StateJsonFilterInput = {
+  readonly childCounty: InputMaybe<CountyFilterInput>;
+  readonly childProblem: InputMaybe<ProblemFilterInput>;
   readonly children: InputMaybe<NodeFilterListInput>;
+  readonly childrenCounty: InputMaybe<CountyFilterListInput>;
+  readonly childrenProblem: InputMaybe<ProblemFilterListInput>;
   readonly counties: InputMaybe<StateJsonCountiesFilterListInput>;
   readonly id: InputMaybe<StringQueryOperatorInput>;
   readonly internal: InputMaybe<InternalFilterInput>;
@@ -4044,19 +4064,151 @@ type StateJsonProblemsSourcesValueFilterListInput = {
 };
 
 type StateJsonProblemsSourcesValueLayers = {
+  readonly columnSets: Maybe<ReadonlyArray<Maybe<StateJsonProblemsSourcesValueLayersColumnSets>>>;
   readonly filter: Maybe<Scalars['String']>;
   readonly id: Maybe<Scalars['String']>;
   readonly is_interactive: Maybe<Scalars['Boolean']>;
+  readonly key: Maybe<Scalars['String']>;
   readonly layout: Maybe<Scalars['String']>;
   readonly name: Maybe<Scalars['String']>;
   readonly paint: Maybe<Scalars['String']>;
   readonly type: Maybe<Scalars['String']>;
 };
 
+type StateJsonProblemsSourcesValueLayersColumnSets = {
+  readonly key: Maybe<Scalars['String']>;
+  readonly metadata: Maybe<StateJsonProblemsSourcesValueLayersColumnSetsMetadata>;
+  readonly name: Maybe<Scalars['String']>;
+  readonly subgroups: Maybe<ReadonlyArray<Maybe<StateJsonProblemsSourcesValueLayersColumnSetsSubgroups>>>;
+  readonly total: Maybe<StateJsonProblemsSourcesValueLayersColumnSetsTotal>;
+  readonly type: Maybe<Scalars['String']>;
+};
+
+type StateJsonProblemsSourcesValueLayersColumnSetsFieldSelector = {
+  readonly key: InputMaybe<FieldSelectorEnum>;
+  readonly metadata: InputMaybe<StateJsonProblemsSourcesValueLayersColumnSetsMetadataFieldSelector>;
+  readonly name: InputMaybe<FieldSelectorEnum>;
+  readonly subgroups: InputMaybe<StateJsonProblemsSourcesValueLayersColumnSetsSubgroupsFieldSelector>;
+  readonly total: InputMaybe<StateJsonProblemsSourcesValueLayersColumnSetsTotalFieldSelector>;
+  readonly type: InputMaybe<FieldSelectorEnum>;
+};
+
+type StateJsonProblemsSourcesValueLayersColumnSetsFilterInput = {
+  readonly key: InputMaybe<StringQueryOperatorInput>;
+  readonly metadata: InputMaybe<StateJsonProblemsSourcesValueLayersColumnSetsMetadataFilterInput>;
+  readonly name: InputMaybe<StringQueryOperatorInput>;
+  readonly subgroups: InputMaybe<StateJsonProblemsSourcesValueLayersColumnSetsSubgroupsFilterListInput>;
+  readonly total: InputMaybe<StateJsonProblemsSourcesValueLayersColumnSetsTotalFilterInput>;
+  readonly type: InputMaybe<StringQueryOperatorInput>;
+};
+
+type StateJsonProblemsSourcesValueLayersColumnSetsFilterListInput = {
+  readonly elemMatch: InputMaybe<StateJsonProblemsSourcesValueLayersColumnSetsFilterInput>;
+};
+
+type StateJsonProblemsSourcesValueLayersColumnSetsMetadata = {
+  readonly race: Maybe<Scalars['String']>;
+  readonly year: Maybe<Scalars['Int']>;
+};
+
+type StateJsonProblemsSourcesValueLayersColumnSetsMetadataFieldSelector = {
+  readonly race: InputMaybe<FieldSelectorEnum>;
+  readonly year: InputMaybe<FieldSelectorEnum>;
+};
+
+type StateJsonProblemsSourcesValueLayersColumnSetsMetadataFilterInput = {
+  readonly race: InputMaybe<StringQueryOperatorInput>;
+  readonly year: InputMaybe<IntQueryOperatorInput>;
+};
+
+type StateJsonProblemsSourcesValueLayersColumnSetsMetadataSortInput = {
+  readonly race: InputMaybe<SortOrderEnum>;
+  readonly year: InputMaybe<SortOrderEnum>;
+};
+
+type StateJsonProblemsSourcesValueLayersColumnSetsSortInput = {
+  readonly key: InputMaybe<SortOrderEnum>;
+  readonly metadata: InputMaybe<StateJsonProblemsSourcesValueLayersColumnSetsMetadataSortInput>;
+  readonly name: InputMaybe<SortOrderEnum>;
+  readonly subgroups: InputMaybe<StateJsonProblemsSourcesValueLayersColumnSetsSubgroupsSortInput>;
+  readonly total: InputMaybe<StateJsonProblemsSourcesValueLayersColumnSetsTotalSortInput>;
+  readonly type: InputMaybe<SortOrderEnum>;
+};
+
+type StateJsonProblemsSourcesValueLayersColumnSetsSubgroups = {
+  readonly key: Maybe<Scalars['String']>;
+  readonly max: Maybe<Scalars['Float']>;
+  readonly min: Maybe<Scalars['Int']>;
+  readonly name: Maybe<Scalars['String']>;
+  readonly sum: Maybe<Scalars['Float']>;
+};
+
+type StateJsonProblemsSourcesValueLayersColumnSetsSubgroupsFieldSelector = {
+  readonly key: InputMaybe<FieldSelectorEnum>;
+  readonly max: InputMaybe<FieldSelectorEnum>;
+  readonly min: InputMaybe<FieldSelectorEnum>;
+  readonly name: InputMaybe<FieldSelectorEnum>;
+  readonly sum: InputMaybe<FieldSelectorEnum>;
+};
+
+type StateJsonProblemsSourcesValueLayersColumnSetsSubgroupsFilterInput = {
+  readonly key: InputMaybe<StringQueryOperatorInput>;
+  readonly max: InputMaybe<FloatQueryOperatorInput>;
+  readonly min: InputMaybe<IntQueryOperatorInput>;
+  readonly name: InputMaybe<StringQueryOperatorInput>;
+  readonly sum: InputMaybe<FloatQueryOperatorInput>;
+};
+
+type StateJsonProblemsSourcesValueLayersColumnSetsSubgroupsFilterListInput = {
+  readonly elemMatch: InputMaybe<StateJsonProblemsSourcesValueLayersColumnSetsSubgroupsFilterInput>;
+};
+
+type StateJsonProblemsSourcesValueLayersColumnSetsSubgroupsSortInput = {
+  readonly key: InputMaybe<SortOrderEnum>;
+  readonly max: InputMaybe<SortOrderEnum>;
+  readonly min: InputMaybe<SortOrderEnum>;
+  readonly name: InputMaybe<SortOrderEnum>;
+  readonly sum: InputMaybe<SortOrderEnum>;
+};
+
+type StateJsonProblemsSourcesValueLayersColumnSetsTotal = {
+  readonly key: Maybe<Scalars['String']>;
+  readonly max: Maybe<Scalars['Float']>;
+  readonly min: Maybe<Scalars['Int']>;
+  readonly name: Maybe<Scalars['String']>;
+  readonly sum: Maybe<Scalars['Float']>;
+};
+
+type StateJsonProblemsSourcesValueLayersColumnSetsTotalFieldSelector = {
+  readonly key: InputMaybe<FieldSelectorEnum>;
+  readonly max: InputMaybe<FieldSelectorEnum>;
+  readonly min: InputMaybe<FieldSelectorEnum>;
+  readonly name: InputMaybe<FieldSelectorEnum>;
+  readonly sum: InputMaybe<FieldSelectorEnum>;
+};
+
+type StateJsonProblemsSourcesValueLayersColumnSetsTotalFilterInput = {
+  readonly key: InputMaybe<StringQueryOperatorInput>;
+  readonly max: InputMaybe<FloatQueryOperatorInput>;
+  readonly min: InputMaybe<IntQueryOperatorInput>;
+  readonly name: InputMaybe<StringQueryOperatorInput>;
+  readonly sum: InputMaybe<FloatQueryOperatorInput>;
+};
+
+type StateJsonProblemsSourcesValueLayersColumnSetsTotalSortInput = {
+  readonly key: InputMaybe<SortOrderEnum>;
+  readonly max: InputMaybe<SortOrderEnum>;
+  readonly min: InputMaybe<SortOrderEnum>;
+  readonly name: InputMaybe<SortOrderEnum>;
+  readonly sum: InputMaybe<SortOrderEnum>;
+};
+
 type StateJsonProblemsSourcesValueLayersFieldSelector = {
+  readonly columnSets: InputMaybe<StateJsonProblemsSourcesValueLayersColumnSetsFieldSelector>;
   readonly filter: InputMaybe<FieldSelectorEnum>;
   readonly id: InputMaybe<FieldSelectorEnum>;
   readonly is_interactive: InputMaybe<FieldSelectorEnum>;
+  readonly key: InputMaybe<FieldSelectorEnum>;
   readonly layout: InputMaybe<FieldSelectorEnum>;
   readonly name: InputMaybe<FieldSelectorEnum>;
   readonly paint: InputMaybe<FieldSelectorEnum>;
@@ -4064,9 +4216,11 @@ type StateJsonProblemsSourcesValueLayersFieldSelector = {
 };
 
 type StateJsonProblemsSourcesValueLayersFilterInput = {
+  readonly columnSets: InputMaybe<StateJsonProblemsSourcesValueLayersColumnSetsFilterListInput>;
   readonly filter: InputMaybe<StringQueryOperatorInput>;
   readonly id: InputMaybe<StringQueryOperatorInput>;
   readonly is_interactive: InputMaybe<BooleanQueryOperatorInput>;
+  readonly key: InputMaybe<StringQueryOperatorInput>;
   readonly layout: InputMaybe<StringQueryOperatorInput>;
   readonly name: InputMaybe<StringQueryOperatorInput>;
   readonly paint: InputMaybe<StringQueryOperatorInput>;
@@ -4078,9 +4232,11 @@ type StateJsonProblemsSourcesValueLayersFilterListInput = {
 };
 
 type StateJsonProblemsSourcesValueLayersSortInput = {
+  readonly columnSets: InputMaybe<StateJsonProblemsSourcesValueLayersColumnSetsSortInput>;
   readonly filter: InputMaybe<SortOrderEnum>;
   readonly id: InputMaybe<SortOrderEnum>;
   readonly is_interactive: InputMaybe<SortOrderEnum>;
+  readonly key: InputMaybe<SortOrderEnum>;
   readonly layout: InputMaybe<SortOrderEnum>;
   readonly name: InputMaybe<SortOrderEnum>;
   readonly paint: InputMaybe<SortOrderEnum>;
@@ -4129,7 +4285,11 @@ type StateJsonProblemsSourcesValueSourceSortInput = {
 };
 
 type StateJsonSortInput = {
+  readonly childCounty: InputMaybe<CountySortInput>;
+  readonly childProblem: InputMaybe<ProblemSortInput>;
   readonly children: InputMaybe<NodeSortInput>;
+  readonly childrenCounty: InputMaybe<CountySortInput>;
+  readonly childrenProblem: InputMaybe<ProblemSortInput>;
   readonly counties: InputMaybe<StateJsonCountiesSortInput>;
   readonly id: InputMaybe<SortOrderEnum>;
   readonly internal: InputMaybe<InternalSortInput>;

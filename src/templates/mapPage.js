@@ -230,6 +230,7 @@ const MapPageView = (props) => {
         title={problem.title}
         mapboxAccessToken={`${process.env.GATSBY_MAPBOX_ACCESS_TOKEN}`}
         initialViewState={initialViewState}
+        mapStyle={'light-v11'}
         sources={sources}
         layers={layers}
         unitCount={problem.unit_count}

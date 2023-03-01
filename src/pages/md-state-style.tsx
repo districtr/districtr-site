@@ -278,10 +278,14 @@ const MDTestPage = () => {
  * See: https://www.gatsbyjs.com/docs/reference/built-in-components/gatsby-head/
  */
 export const Head = () => (
-  <SEO
-    title="Draw Maryland Congressional Districts"
-    description="The open-source web app for drawing districting plans."
-  />
+  <>
+    <SEO
+      title="Draw Maryland Congressional Districts"
+      description="The open-source web app for drawing districting plans."
+    />
+    <html className={'map-page'} />
+    <body className={'map-page'} />
+  </>
 )
 
 export default MDTestPage

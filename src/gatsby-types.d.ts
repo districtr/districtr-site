@@ -4076,8 +4076,6 @@ type StateJsonProblemsSourcesValueLayers = {
 };
 
 type StateJsonProblemsSourcesValueLayersColumnSets = {
-  readonly key: Maybe<Scalars['String']>;
-  readonly metadata: Maybe<StateJsonProblemsSourcesValueLayersColumnSetsMetadata>;
   readonly name: Maybe<Scalars['String']>;
   readonly subgroups: Maybe<ReadonlyArray<Maybe<StateJsonProblemsSourcesValueLayersColumnSetsSubgroups>>>;
   readonly total: Maybe<StateJsonProblemsSourcesValueLayersColumnSetsTotal>;
@@ -4085,8 +4083,6 @@ type StateJsonProblemsSourcesValueLayersColumnSets = {
 };
 
 type StateJsonProblemsSourcesValueLayersColumnSetsFieldSelector = {
-  readonly key: InputMaybe<FieldSelectorEnum>;
-  readonly metadata: InputMaybe<StateJsonProblemsSourcesValueLayersColumnSetsMetadataFieldSelector>;
   readonly name: InputMaybe<FieldSelectorEnum>;
   readonly subgroups: InputMaybe<StateJsonProblemsSourcesValueLayersColumnSetsSubgroupsFieldSelector>;
   readonly total: InputMaybe<StateJsonProblemsSourcesValueLayersColumnSetsTotalFieldSelector>;
@@ -4094,8 +4090,6 @@ type StateJsonProblemsSourcesValueLayersColumnSetsFieldSelector = {
 };
 
 type StateJsonProblemsSourcesValueLayersColumnSetsFilterInput = {
-  readonly key: InputMaybe<StringQueryOperatorInput>;
-  readonly metadata: InputMaybe<StateJsonProblemsSourcesValueLayersColumnSetsMetadataFilterInput>;
   readonly name: InputMaybe<StringQueryOperatorInput>;
   readonly subgroups: InputMaybe<StateJsonProblemsSourcesValueLayersColumnSetsSubgroupsFilterListInput>;
   readonly total: InputMaybe<StateJsonProblemsSourcesValueLayersColumnSetsTotalFilterInput>;
@@ -4106,29 +4100,7 @@ type StateJsonProblemsSourcesValueLayersColumnSetsFilterListInput = {
   readonly elemMatch: InputMaybe<StateJsonProblemsSourcesValueLayersColumnSetsFilterInput>;
 };
 
-type StateJsonProblemsSourcesValueLayersColumnSetsMetadata = {
-  readonly race: Maybe<Scalars['String']>;
-  readonly year: Maybe<Scalars['Int']>;
-};
-
-type StateJsonProblemsSourcesValueLayersColumnSetsMetadataFieldSelector = {
-  readonly race: InputMaybe<FieldSelectorEnum>;
-  readonly year: InputMaybe<FieldSelectorEnum>;
-};
-
-type StateJsonProblemsSourcesValueLayersColumnSetsMetadataFilterInput = {
-  readonly race: InputMaybe<StringQueryOperatorInput>;
-  readonly year: InputMaybe<IntQueryOperatorInput>;
-};
-
-type StateJsonProblemsSourcesValueLayersColumnSetsMetadataSortInput = {
-  readonly race: InputMaybe<SortOrderEnum>;
-  readonly year: InputMaybe<SortOrderEnum>;
-};
-
 type StateJsonProblemsSourcesValueLayersColumnSetsSortInput = {
-  readonly key: InputMaybe<SortOrderEnum>;
-  readonly metadata: InputMaybe<StateJsonProblemsSourcesValueLayersColumnSetsMetadataSortInput>;
   readonly name: InputMaybe<SortOrderEnum>;
   readonly subgroups: InputMaybe<StateJsonProblemsSourcesValueLayersColumnSetsSubgroupsSortInput>;
   readonly total: InputMaybe<StateJsonProblemsSourcesValueLayersColumnSetsTotalSortInput>;

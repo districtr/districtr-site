@@ -297,7 +297,11 @@ const LATestPage = () => {
  * See: https://www.gatsbyjs.com/docs/reference/built-in-components/gatsby-head/
  */
 export const Head = () => (
-  <SEO title="Draw 10 States" description="The open-source web app for drawing districting plans." />
+  <>
+    <SEO title="Draw Los Angeles" description="The open-source web app for drawing districting plans." />
+    <html className={'map-page'} />
+    <body className={'map-page'} />
+  </>
 )
 
 export default LATestPage

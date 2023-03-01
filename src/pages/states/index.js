@@ -17,7 +17,7 @@ const StateIndexView = (props) => {
         }}
       >
         <p>
-          <Link to={`/national/`}>National Map</Link>{' '}
+          <Link to={`/`}>Home Page</Link>{' '}
         </p>
         <h1>States</h1>
         <ul>

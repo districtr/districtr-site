@@ -15,6 +15,10 @@ const HomePage: React.FC<PageProps<DataProps>> = ({ data, location }) => (
     <h1>Districtr Home Page</h1>
     <ul>
       <li>
+        <Link to="/md-state-style">Maryland (Block Groups)</Link>
+        <p>Testing tilesets for a full state.</p>
+      </li>
+      <li>
         <Link to="/la-county-style">LA County Map Test (Block Groups)</Link>
         <p>
           This map test using the updated Districtr Mapbox style and newly formatted vector tilesets. Draw by block

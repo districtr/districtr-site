@@ -25,8 +25,7 @@ module.exports = {
         start_url: `/`,
         background_color: `#FFFFFF`,
         theme_color: `#663399`,
-        display: `fullscreen`,
-        display_override: [`standalone`, `minimal-ui`],
+        display: `minimal-ui`,
         icon: `src/images/favicon.png`, // This path is relative to the root of the site.
         cache_busting_mode: `none`,
         orientation: `landscape`,

@@ -4,6 +4,7 @@ import { BiCloudUpload, BiExport, BiImport, BiSave, BiUpload } from 'react-icons
 
 import MapHeader from '../../../components/MapHeader'
 import MapLoader from '../../../components/MapLoader'
+import MapMenu from '../../../components/MapMenu'
 import { db } from '../../../components/db'
 import MapLayout from '../../../components/mapLayout'
 import SEO from '../../../components/seo'
@@ -337,52 +338,9 @@ const MDTestPage = () => {
         />
       )}
 
-      <MapHeader problem={problem} />
+      <MapHeader problem={problem} menuOpen={menuOpen} setMenuOpen={setMenuOpen} />
 
-      <div className={menuOpen ? 'districtr-menu-overlay districtr-menu-overlay--active' : 'districtr-menu-overlay'}>
-        <div className="districtr-menu-overlay-content">
-          <div className="districtr-menu-overlay-content-header">
-            <h2>Menu</h2>
-            <Button variant="secondary" onClick={() => setMenuOpen(!menuOpen)}>
-              Close
-            </Button>
-          </div>
-          <div className="districtr-menu-overlay-content-body">
-            <ul className="districtr-menu-overlay-content-body-list">
-              <li className="districtr-menu-overlay-content-body-list-item">
-                <Button variant="primary" onClick={() => alert('Publishing')}>
-                  <BiCloudUpload />
-                  &nbsp;Publish
-                </Button>
-              </li>
-              <li className="districtr-menu-overlay-content-body-list-item">
-                <Button variant="primary" onClick={() => alert('Saving')}>
-                  <BiSave />
-                  &nbsp;Save
-                </Button>
-              </li>
-              <li className="districtr-menu-overlay-content-body-list-item">
-                <Button variant="primary" onClick={() => alert('Loading')}>
-                  <BiUpload />
-                  &nbsp;Load
-                </Button>
-              </li>
-              <li className="districtr-menu-overlay-content-body-list-item">
-                <Button variant="primary" onClick={() => alert('Exporting')}>
-                  <BiExport />
-                  &nbsp;Export
-                </Button>
-              </li>
-              <li className="districtr-menu-overlay-content-body-list-item">
-                <Button variant="primary" onClick={() => alert('Importing')}>
-                  <BiImport />
-                  &nbsp;Import
-                </Button>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
+      <MapMenu menuOpen={menuOpen} setMenuOpen={setMenuOpen} />
 
       <Districtr
         title="Maryland Congressional Districts (Block Groups)"

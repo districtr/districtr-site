@@ -65,7 +65,7 @@ export const MapGrid = styled.div`
   width: 100%;
   display: grid;
   grid-template-columns: 1fr;
-  grid-auto-rows: auto;
+  grid-auto-rows: min-content;
   grid-gap: ${(props) => props.theme.spacing['sm']};
 `
 

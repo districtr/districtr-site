@@ -19,8 +19,7 @@ import {
 } from './MapHeader.styles'
 import { MapHeaderProps } from './MapHeader.types'
 
-const MapHeader: React.FC<MapHeaderProps> = ({ problem, children }) => {
-  const [menuOpen, setMenuOpen] = React.useState(false)
+const MapHeader: React.FC<MapHeaderProps> = ({ problem, menuOpen, setMenuOpen, children }) => {
   const [userMapTitle, setUserMapTitle] = React.useState(problem.title)
   const titleRef = React.useRef<HTMLInputElement>(null)
 

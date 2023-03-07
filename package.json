@@ -13,7 +13,7 @@
     "@visx/shape": "^3.0.0",
     "dexie": "^3.2.3",
     "dexie-react-hooks": "^1.1.1",
-    "districtr-mapbox-gl": "file:../districtr-mapbox-gl",
+    "districtr-mapbox-gl": "^0.4.3",
     "gatsby": "^5.5.0",
     "gatsby-plugin-image": "^3.5.0",
     "gatsby-plugin-manifest": "^5.5.0",

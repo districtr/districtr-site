@@ -1,10 +1,88 @@
-import { Districtr } from 'districtr-mapbox-gl'
+import { Button, Districtr, generateUnits } from 'districtr-mapbox-gl'
 import * as React from 'react'
+import { BiCloudUpload, BiExport, BiImport, BiSave, BiUpload } from 'react-icons/bi'
 
+import MapHeader from '../components/MapHeader'
+import MapLoader from '../components/MapLoader'
+import { db } from '../components/db'
 import MapLayout from '../components/mapLayout'
 import SEO from '../components/seo'
 
 const StatesPage = () => {
+  const problem = {
+    id: 'national-county',
+    title: 'Draw 10 New States Test (County)',
+    unit_count: 10,
+    unit_name: 'State',
+    unit_name_plural: 'States',
+    bounds: [
+      [-124.848974, 32.528832],
+      [-70.131211, 42.009518]
+    ],
+    meta: {
+      slug: 'national'
+    },
+    parent: {
+      id: 'ca',
+      title: 'California',
+      meta: {
+        slug: 'california'
+      }
+    }
+  }
+
+  const [userMapId, setUserMapId] = React.useState(null)
+  const [menuOpen, setMenuOpen] = React.useState(false)
+  const [loaderOpen, setLoaderOpen] = React.useState(true)
+  const [mapState, setMapState] = React.useState(null)
+  const [enableSave, setEnableSave] = React.useState(true)
+
+  React.useEffect(() => {
+    if (userMapId) {
+      setLoaderOpen(false)
+
+      // get the map state from the database
+      db.userMaps.get(userMapId).then((map) => {
+        console.log()
+        setMapState({ ...map })
+      })
+    }
+  }, [userMapId])
+
+  React.useEffect(() => {
+    if (mapState && userMapId) {
+      if (mapState.image) {
+        try {
+          db.userMaps.update(userMapId, {
+            image: mapState.image,
+            style: mapState.style,
+            problem: problem,
+            units: mapState.units,
+            unitAssignments: mapState.unitAssignments,
+            unitPopulatons: mapState.unitPopulations,
+            unitColumnPopulations: mapState.unitColumnPopulations,
+            dateModified: new Date()
+          })
+        } catch (error) {
+          console.log(error)
+        }
+      }
+    }
+  }, [mapState])
+
+  const interactiveLayerIds = ['counties-draw']
+
+  const initialViewState = {
+    longitude: -118.411,
+    latitude: 33.94,
+    bounds: problem.bounds,
+    zoom: 10,
+    bearing: 0,
+    pitch: 0,
+    padding: { top: 20, bottom: 20, left: 20, right: 20 },
+    fitBoundsOptions: { padding: 20 }
+  }
+
   const sources = [
     {
       id: 'counties',
@@ -74,33 +152,200 @@ const StatesPage = () => {
           name: 'Population',
           type: 'population',
           total: {
-            key: 'POP100',
-            max: 10014009,
-            min: 64,
-            sum: 331449281,
+            key: 'P2TOTPOP',
+            sum: 334735155,
             name: 'Total Population'
-          }
+          },
+          subgroups: [
+            {
+              key: 'P2HISP',
+              sum: 65329087,
+              name: 'Hispanic or Latino'
+            },
+            {
+              key: 'P2WHITE',
+              sum: 191722195,
+              name: 'White Alone'
+            },
+            {
+              key: 'P2BLACK',
+              sum: 39944624,
+              name: 'Black Alone'
+            },
+            {
+              key: 'P2AIAN',
+              sum: 2252011,
+              name: 'American Indian and Alaska Native Alone'
+            },
+            {
+              key: 'P2ASIAN',
+              sum: 19621465,
+              name: 'Asian Alone'
+            },
+            {
+              key: 'P2NHPI',
+              sum: 622109,
+              name: 'Native Hawaiian and Other Pacific Islander Alone'
+            },
+            {
+              key: 'P2OTHER',
+              sum: 1692341,
+              name: 'Some other race alone'
+            },
+            {
+              key: 'P2MULTIR',
+              sum: 13551323,
+              name: 'Two or More Races'
+            }
+          ]
+        },
+        {
+          name: 'Civilian Age Population',
+          type: 'population',
+          total: {
+            key: 'P4TOTPOP',
+            sum: 261068184,
+            name: 'Total Population'
+          },
+          subgroups: [
+            {
+              key: 'P4HISP',
+              sum: 46015535,
+              name: 'Hispanic or Latino'
+            },
+            {
+              key: 'P4WHITE',
+              sum: 157140148,
+              name: 'White Alone'
+            },
+            {
+              key: 'P4BLACK',
+              sum: 30269865,
+              name: 'Black Alone'
+            },
+            {
+              key: 'P4AIAN',
+              sum: 1661869,
+              name: 'American Indian and Alaska Native Alone'
+            },
+            {
+              key: 'P4ASIAN',
+              sum: 15716132,
+              name: 'Asian Alone'
+            },
+            {
+              key: 'P4NHPI',
+              sum: 451625,
+              name: 'Native Hawaiian and Other Pacific Islander Alone'
+            },
+            {
+              key: 'P4OTHER',
+              sum: 1179239,
+              name: 'Some other race alone'
+            },
+            {
+              key: 'P4MULTIR',
+              sum: 8633771,
+              name: 'Two or More Races'
+            }
+          ]
         }
       ]
     }
   }
 
+  const sumPopulation = columnSets[interactiveLayerIds[0]].columnSets[0].total.sum
+
+  let units
+
+  if (mapState && mapState.units) {
+    units = mapState.units
+  } else {
+    units = generateUnits(
+      null,
+      problem.unit_count,
+      problem.unit_count,
+      problem.unit_name,
+      problem.unit_name_plural,
+      'single',
+      sumPopulation
+    )
+  }
+
   return (
     <MapLayout>
+      {loaderOpen && (
+        <MapLoader
+          problem={problem}
+          userMapId={userMapId}
+          setUserMapId={setUserMapId}
+          units={units}
+          saveEnabled={enableSave}
+          setLoaderOpen={setLoaderOpen}
+        />
+      )}
+
+      <MapHeader problem={problem} />
+
+      <div className={menuOpen ? 'districtr-menu-overlay districtr-menu-overlay--active' : 'districtr-menu-overlay'}>
+        <div className="districtr-menu-overlay-content">
+          <div className="districtr-menu-overlay-content-header">
+            <h2>Menu</h2>
+            <Button variant="secondary" onClick={() => setMenuOpen(!menuOpen)}>
+              Close
+            </Button>
+          </div>
+          <div className="districtr-menu-overlay-content-body">
+            <ul className="districtr-menu-overlay-content-body-list">
+              <li className="districtr-menu-overlay-content-body-list-item">
+                <Button variant="primary" onClick={() => alert('Publishing')}>
+                  <BiCloudUpload />
+                  &nbsp;Publish
+                </Button>
+              </li>
+              <li className="districtr-menu-overlay-content-body-list-item">
+                <Button variant="primary" onClick={() => alert('Saving')}>
+                  <BiSave />
+                  &nbsp;Save
+                </Button>
+              </li>
+              <li className="districtr-menu-overlay-content-body-list-item">
+                <Button variant="primary" onClick={() => alert('Loading')}>
+                  <BiUpload />
+                  &nbsp;Load
+                </Button>
+              </li>
+              <li className="districtr-menu-overlay-content-body-list-item">
+                <Button variant="primary" onClick={() => alert('Exporting')}>
+                  <BiExport />
+                  &nbsp;Export
+                </Button>
+              </li>
+              <li className="districtr-menu-overlay-content-body-list-item">
+                <Button variant="primary" onClick={() => alert('Importing')}>
+                  <BiImport />
+                  &nbsp;Import
+                </Button>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
       <Districtr
-        title="Draw 10 States"
+        title={problem.title}
         mapboxAccessToken={`${process.env.GATSBY_MAPBOX_ACCESS_TOKEN}`}
+        initialViewState={initialViewState}
         //@ts-ignore
         sources={sources}
         //@ts-ignore
         layers={layers}
-        unitCount={10}
-        totalMembers={10}
-        unitName="State"
-        unitNamePlural="States"
-        unitType="single"
-        interactiveLayerIds={['counties-draw']}
+        unitsConfig={units}
+        interactiveLayerIds={interactiveLayerIds}
         columnSets={columnSets}
+        mapState={mapState}
+        setMapState={setMapState}
+        saveEnabled={enableSave}
       />
     </MapLayout>
   )

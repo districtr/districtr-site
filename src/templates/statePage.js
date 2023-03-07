@@ -51,7 +51,7 @@ const StateDetailView = (props) => {
 export default StateDetailView
 
 export const query = graphql`
-  query ($id: String!) {
+  query state($id: String!) {
     state(id: { eq: $id }) {
       id
       title

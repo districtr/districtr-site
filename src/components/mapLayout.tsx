@@ -1,24 +1,24 @@
-import 'districtr-mapbox-gl/build/districtr-mapbox-gl.css'
+import { Button } from 'districtr-mapbox-gl'
+//import 'districtr-mapbox-gl/build/districtr-mapbox-gl.css'
 import * as React from 'react'
+import styled from 'styled-components'
 
-import './layout.css'
+import ThemeProvider from '../theme'
+
+const MainContainer = styled.main`
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+`
 
 const MapLayout = ({ children }) => {
   return (
-    <>
-      <main
-        style={{
-          width: '100%',
-          height: '100%',
-          margin: '0 auto',
-          display: 'flex',
-          flexDirection: 'column',
-          flexGrow: 1
-        }}
-      >
-        {children}
-      </main>
-    </>
+    <ThemeProvider>
+      <MainContainer>{children}</MainContainer>
+    </ThemeProvider>
   )
 }
 

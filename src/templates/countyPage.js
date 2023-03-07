@@ -32,7 +32,7 @@ const CountyDetailView = (props) => {
 export default CountyDetailView
 
 export const query = graphql`
-  query ($id: String!) {
+  query county($id: String!) {
     county(id: { eq: $id }) {
       title
       id

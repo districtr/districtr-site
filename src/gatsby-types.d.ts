@@ -2539,13 +2539,17 @@ type Query_problemArgs = {
 type Query_siteArgs = {
   buildTime: InputMaybe<DateQueryOperatorInput>;
   children: InputMaybe<NodeFilterListInput>;
-  graphqlTypegen: InputMaybe<BooleanQueryOperatorInput>;
+  graphqlTypegen: InputMaybe<SiteGraphqlTypegenFilterInput>;
   host: InputMaybe<StringQueryOperatorInput>;
   id: InputMaybe<StringQueryOperatorInput>;
   internal: InputMaybe<InternalFilterInput>;
+  jsxRuntime: InputMaybe<StringQueryOperatorInput>;
   parent: InputMaybe<NodeFilterInput>;
+  pathPrefix: InputMaybe<StringQueryOperatorInput>;
+  polyfill: InputMaybe<BooleanQueryOperatorInput>;
   port: InputMaybe<IntQueryOperatorInput>;
   siteMetadata: InputMaybe<SiteSiteMetadataFilterInput>;
+  trailingSlash: InputMaybe<StringQueryOperatorInput>;
 };
 
 
@@ -2623,7 +2627,11 @@ type Query_stateArgs = {
 
 
 type Query_stateJsonArgs = {
+  childCounty: InputMaybe<CountyFilterInput>;
+  childProblem: InputMaybe<ProblemFilterInput>;
   children: InputMaybe<NodeFilterListInput>;
+  childrenCounty: InputMaybe<CountyFilterListInput>;
+  childrenProblem: InputMaybe<ProblemFilterListInput>;
   counties: InputMaybe<StateJsonCountiesFilterListInput>;
   id: InputMaybe<StringQueryOperatorInput>;
   internal: InputMaybe<InternalFilterInput>;
@@ -2637,13 +2645,17 @@ type Query_stateJsonArgs = {
 type Site = Node & {
   readonly buildTime: Maybe<Scalars['Date']>;
   readonly children: ReadonlyArray<Node>;
-  readonly graphqlTypegen: Maybe<Scalars['Boolean']>;
+  readonly graphqlTypegen: Maybe<SiteGraphqlTypegen>;
   readonly host: Maybe<Scalars['String']>;
   readonly id: Scalars['ID'];
   readonly internal: Internal;
+  readonly jsxRuntime: Maybe<Scalars['String']>;
   readonly parent: Maybe<Node>;
+  readonly pathPrefix: Maybe<Scalars['String']>;
+  readonly polyfill: Maybe<Scalars['Boolean']>;
   readonly port: Maybe<Scalars['Int']>;
   readonly siteMetadata: Maybe<SiteSiteMetadata>;
+  readonly trailingSlash: Maybe<Scalars['String']>;
 };
 
 
@@ -2828,25 +2840,33 @@ type SiteEdge = {
 type SiteFieldSelector = {
   readonly buildTime: InputMaybe<FieldSelectorEnum>;
   readonly children: InputMaybe<NodeFieldSelector>;
-  readonly graphqlTypegen: InputMaybe<FieldSelectorEnum>;
+  readonly graphqlTypegen: InputMaybe<SiteGraphqlTypegenFieldSelector>;
   readonly host: InputMaybe<FieldSelectorEnum>;
   readonly id: InputMaybe<FieldSelectorEnum>;
   readonly internal: InputMaybe<InternalFieldSelector>;
+  readonly jsxRuntime: InputMaybe<FieldSelectorEnum>;
   readonly parent: InputMaybe<NodeFieldSelector>;
+  readonly pathPrefix: InputMaybe<FieldSelectorEnum>;
+  readonly polyfill: InputMaybe<FieldSelectorEnum>;
   readonly port: InputMaybe<FieldSelectorEnum>;
   readonly siteMetadata: InputMaybe<SiteSiteMetadataFieldSelector>;
+  readonly trailingSlash: InputMaybe<FieldSelectorEnum>;
 };
 
 type SiteFilterInput = {
   readonly buildTime: InputMaybe<DateQueryOperatorInput>;
   readonly children: InputMaybe<NodeFilterListInput>;
-  readonly graphqlTypegen: InputMaybe<BooleanQueryOperatorInput>;
+  readonly graphqlTypegen: InputMaybe<SiteGraphqlTypegenFilterInput>;
   readonly host: InputMaybe<StringQueryOperatorInput>;
   readonly id: InputMaybe<StringQueryOperatorInput>;
   readonly internal: InputMaybe<InternalFilterInput>;
+  readonly jsxRuntime: InputMaybe<StringQueryOperatorInput>;
   readonly parent: InputMaybe<NodeFilterInput>;
+  readonly pathPrefix: InputMaybe<StringQueryOperatorInput>;
+  readonly polyfill: InputMaybe<BooleanQueryOperatorInput>;
   readonly port: InputMaybe<IntQueryOperatorInput>;
   readonly siteMetadata: InputMaybe<SiteSiteMetadataFilterInput>;
+  readonly trailingSlash: InputMaybe<StringQueryOperatorInput>;
 };
 
 type SiteFunction = Node & {
@@ -2989,6 +3009,30 @@ type SiteFunctionSortInput = {
   readonly parent: InputMaybe<NodeSortInput>;
   readonly pluginName: InputMaybe<SortOrderEnum>;
   readonly relativeCompiledFilePath: InputMaybe<SortOrderEnum>;
+};
+
+type SiteGraphqlTypegen = {
+  readonly documentSearchPaths: Maybe<ReadonlyArray<Maybe<Scalars['String']>>>;
+  readonly generateOnBuild: Maybe<Scalars['Boolean']>;
+  readonly typesOutputPath: Maybe<Scalars['String']>;
+};
+
+type SiteGraphqlTypegenFieldSelector = {
+  readonly documentSearchPaths: InputMaybe<FieldSelectorEnum>;
+  readonly generateOnBuild: InputMaybe<FieldSelectorEnum>;
+  readonly typesOutputPath: InputMaybe<FieldSelectorEnum>;
+};
+
+type SiteGraphqlTypegenFilterInput = {
+  readonly documentSearchPaths: InputMaybe<StringQueryOperatorInput>;
+  readonly generateOnBuild: InputMaybe<BooleanQueryOperatorInput>;
+  readonly typesOutputPath: InputMaybe<StringQueryOperatorInput>;
+};
+
+type SiteGraphqlTypegenSortInput = {
+  readonly documentSearchPaths: InputMaybe<SortOrderEnum>;
+  readonly generateOnBuild: InputMaybe<SortOrderEnum>;
+  readonly typesOutputPath: InputMaybe<SortOrderEnum>;
 };
 
 type SiteGroupConnection = {
@@ -3355,13 +3399,17 @@ type SiteSiteMetadataSortInput = {
 type SiteSortInput = {
   readonly buildTime: InputMaybe<SortOrderEnum>;
   readonly children: InputMaybe<NodeSortInput>;
-  readonly graphqlTypegen: InputMaybe<SortOrderEnum>;
+  readonly graphqlTypegen: InputMaybe<SiteGraphqlTypegenSortInput>;
   readonly host: InputMaybe<SortOrderEnum>;
   readonly id: InputMaybe<SortOrderEnum>;
   readonly internal: InputMaybe<InternalSortInput>;
+  readonly jsxRuntime: InputMaybe<SortOrderEnum>;
   readonly parent: InputMaybe<NodeSortInput>;
+  readonly pathPrefix: InputMaybe<SortOrderEnum>;
+  readonly polyfill: InputMaybe<SortOrderEnum>;
   readonly port: InputMaybe<SortOrderEnum>;
   readonly siteMetadata: InputMaybe<SiteSiteMetadataSortInput>;
+  readonly trailingSlash: InputMaybe<SortOrderEnum>;
 };
 
 type SortOrderEnum =
@@ -3591,7 +3639,15 @@ type StateGroupConnection_sumArgs = {
 };
 
 type StateJson = Node & {
+  /** Returns the first child node of type County or null if there are no children of given type on this node */
+  readonly childCounty: Maybe<County>;
+  /** Returns the first child node of type Problem or null if there are no children of given type on this node */
+  readonly childProblem: Maybe<Problem>;
   readonly children: ReadonlyArray<Node>;
+  /** Returns all children nodes filtered by type County */
+  readonly childrenCounty: Maybe<ReadonlyArray<Maybe<County>>>;
+  /** Returns all children nodes filtered by type Problem */
+  readonly childrenProblem: Maybe<ReadonlyArray<Maybe<Problem>>>;
   readonly counties: Maybe<ReadonlyArray<Maybe<StateJsonCounties>>>;
   readonly id: Scalars['ID'];
   readonly internal: Internal;
@@ -3728,7 +3784,11 @@ type StateJsonEdge = {
 };
 
 type StateJsonFieldSelector = {
+  readonly childCounty: InputMaybe<CountyFieldSelector>;
+  readonly childProblem: InputMaybe<ProblemFieldSelector>;
   readonly children: InputMaybe<NodeFieldSelector>;
+  readonly childrenCounty: InputMaybe<CountyFieldSelector>;
+  readonly childrenProblem: InputMaybe<ProblemFieldSelector>;
   readonly counties: InputMaybe<StateJsonCountiesFieldSelector>;
   readonly id: InputMaybe<FieldSelectorEnum>;
   readonly internal: InputMaybe<InternalFieldSelector>;
@@ -3740,7 +3800,11 @@ type StateJsonFieldSelector = {
 };
 
 type StateJsonFilterInput = {
+  readonly childCounty: InputMaybe<CountyFilterInput>;
+  readonly childProblem: InputMaybe<ProblemFilterInput>;
   readonly children: InputMaybe<NodeFilterListInput>;
+  readonly childrenCounty: InputMaybe<CountyFilterListInput>;
+  readonly childrenProblem: InputMaybe<ProblemFilterListInput>;
   readonly counties: InputMaybe<StateJsonCountiesFilterListInput>;
   readonly id: InputMaybe<StringQueryOperatorInput>;
   readonly internal: InputMaybe<InternalFilterInput>;
@@ -4000,19 +4064,123 @@ type StateJsonProblemsSourcesValueFilterListInput = {
 };
 
 type StateJsonProblemsSourcesValueLayers = {
+  readonly columnSets: Maybe<ReadonlyArray<Maybe<StateJsonProblemsSourcesValueLayersColumnSets>>>;
   readonly filter: Maybe<Scalars['String']>;
   readonly id: Maybe<Scalars['String']>;
   readonly is_interactive: Maybe<Scalars['Boolean']>;
+  readonly key: Maybe<Scalars['String']>;
   readonly layout: Maybe<Scalars['String']>;
   readonly name: Maybe<Scalars['String']>;
   readonly paint: Maybe<Scalars['String']>;
   readonly type: Maybe<Scalars['String']>;
 };
 
+type StateJsonProblemsSourcesValueLayersColumnSets = {
+  readonly name: Maybe<Scalars['String']>;
+  readonly subgroups: Maybe<ReadonlyArray<Maybe<StateJsonProblemsSourcesValueLayersColumnSetsSubgroups>>>;
+  readonly total: Maybe<StateJsonProblemsSourcesValueLayersColumnSetsTotal>;
+  readonly type: Maybe<Scalars['String']>;
+};
+
+type StateJsonProblemsSourcesValueLayersColumnSetsFieldSelector = {
+  readonly name: InputMaybe<FieldSelectorEnum>;
+  readonly subgroups: InputMaybe<StateJsonProblemsSourcesValueLayersColumnSetsSubgroupsFieldSelector>;
+  readonly total: InputMaybe<StateJsonProblemsSourcesValueLayersColumnSetsTotalFieldSelector>;
+  readonly type: InputMaybe<FieldSelectorEnum>;
+};
+
+type StateJsonProblemsSourcesValueLayersColumnSetsFilterInput = {
+  readonly name: InputMaybe<StringQueryOperatorInput>;
+  readonly subgroups: InputMaybe<StateJsonProblemsSourcesValueLayersColumnSetsSubgroupsFilterListInput>;
+  readonly total: InputMaybe<StateJsonProblemsSourcesValueLayersColumnSetsTotalFilterInput>;
+  readonly type: InputMaybe<StringQueryOperatorInput>;
+};
+
+type StateJsonProblemsSourcesValueLayersColumnSetsFilterListInput = {
+  readonly elemMatch: InputMaybe<StateJsonProblemsSourcesValueLayersColumnSetsFilterInput>;
+};
+
+type StateJsonProblemsSourcesValueLayersColumnSetsSortInput = {
+  readonly name: InputMaybe<SortOrderEnum>;
+  readonly subgroups: InputMaybe<StateJsonProblemsSourcesValueLayersColumnSetsSubgroupsSortInput>;
+  readonly total: InputMaybe<StateJsonProblemsSourcesValueLayersColumnSetsTotalSortInput>;
+  readonly type: InputMaybe<SortOrderEnum>;
+};
+
+type StateJsonProblemsSourcesValueLayersColumnSetsSubgroups = {
+  readonly key: Maybe<Scalars['String']>;
+  readonly max: Maybe<Scalars['Float']>;
+  readonly min: Maybe<Scalars['Int']>;
+  readonly name: Maybe<Scalars['String']>;
+  readonly sum: Maybe<Scalars['Float']>;
+};
+
+type StateJsonProblemsSourcesValueLayersColumnSetsSubgroupsFieldSelector = {
+  readonly key: InputMaybe<FieldSelectorEnum>;
+  readonly max: InputMaybe<FieldSelectorEnum>;
+  readonly min: InputMaybe<FieldSelectorEnum>;
+  readonly name: InputMaybe<FieldSelectorEnum>;
+  readonly sum: InputMaybe<FieldSelectorEnum>;
+};
+
+type StateJsonProblemsSourcesValueLayersColumnSetsSubgroupsFilterInput = {
+  readonly key: InputMaybe<StringQueryOperatorInput>;
+  readonly max: InputMaybe<FloatQueryOperatorInput>;
+  readonly min: InputMaybe<IntQueryOperatorInput>;
+  readonly name: InputMaybe<StringQueryOperatorInput>;
+  readonly sum: InputMaybe<FloatQueryOperatorInput>;
+};
+
+type StateJsonProblemsSourcesValueLayersColumnSetsSubgroupsFilterListInput = {
+  readonly elemMatch: InputMaybe<StateJsonProblemsSourcesValueLayersColumnSetsSubgroupsFilterInput>;
+};
+
+type StateJsonProblemsSourcesValueLayersColumnSetsSubgroupsSortInput = {
+  readonly key: InputMaybe<SortOrderEnum>;
+  readonly max: InputMaybe<SortOrderEnum>;
+  readonly min: InputMaybe<SortOrderEnum>;
+  readonly name: InputMaybe<SortOrderEnum>;
+  readonly sum: InputMaybe<SortOrderEnum>;
+};
+
+type StateJsonProblemsSourcesValueLayersColumnSetsTotal = {
+  readonly key: Maybe<Scalars['String']>;
+  readonly max: Maybe<Scalars['Float']>;
+  readonly min: Maybe<Scalars['Int']>;
+  readonly name: Maybe<Scalars['String']>;
+  readonly sum: Maybe<Scalars['Float']>;
+};
+
+type StateJsonProblemsSourcesValueLayersColumnSetsTotalFieldSelector = {
+  readonly key: InputMaybe<FieldSelectorEnum>;
+  readonly max: InputMaybe<FieldSelectorEnum>;
+  readonly min: InputMaybe<FieldSelectorEnum>;
+  readonly name: InputMaybe<FieldSelectorEnum>;
+  readonly sum: InputMaybe<FieldSelectorEnum>;
+};
+
+type StateJsonProblemsSourcesValueLayersColumnSetsTotalFilterInput = {
+  readonly key: InputMaybe<StringQueryOperatorInput>;
+  readonly max: InputMaybe<FloatQueryOperatorInput>;
+  readonly min: InputMaybe<IntQueryOperatorInput>;
+  readonly name: InputMaybe<StringQueryOperatorInput>;
+  readonly sum: InputMaybe<FloatQueryOperatorInput>;
+};
+
+type StateJsonProblemsSourcesValueLayersColumnSetsTotalSortInput = {
+  readonly key: InputMaybe<SortOrderEnum>;
+  readonly max: InputMaybe<SortOrderEnum>;
+  readonly min: InputMaybe<SortOrderEnum>;
+  readonly name: InputMaybe<SortOrderEnum>;
+  readonly sum: InputMaybe<SortOrderEnum>;
+};
+
 type StateJsonProblemsSourcesValueLayersFieldSelector = {
+  readonly columnSets: InputMaybe<StateJsonProblemsSourcesValueLayersColumnSetsFieldSelector>;
   readonly filter: InputMaybe<FieldSelectorEnum>;
   readonly id: InputMaybe<FieldSelectorEnum>;
   readonly is_interactive: InputMaybe<FieldSelectorEnum>;
+  readonly key: InputMaybe<FieldSelectorEnum>;
   readonly layout: InputMaybe<FieldSelectorEnum>;
   readonly name: InputMaybe<FieldSelectorEnum>;
   readonly paint: InputMaybe<FieldSelectorEnum>;
@@ -4020,9 +4188,11 @@ type StateJsonProblemsSourcesValueLayersFieldSelector = {
 };
 
 type StateJsonProblemsSourcesValueLayersFilterInput = {
+  readonly columnSets: InputMaybe<StateJsonProblemsSourcesValueLayersColumnSetsFilterListInput>;
   readonly filter: InputMaybe<StringQueryOperatorInput>;
   readonly id: InputMaybe<StringQueryOperatorInput>;
   readonly is_interactive: InputMaybe<BooleanQueryOperatorInput>;
+  readonly key: InputMaybe<StringQueryOperatorInput>;
   readonly layout: InputMaybe<StringQueryOperatorInput>;
   readonly name: InputMaybe<StringQueryOperatorInput>;
   readonly paint: InputMaybe<StringQueryOperatorInput>;
@@ -4034,9 +4204,11 @@ type StateJsonProblemsSourcesValueLayersFilterListInput = {
 };
 
 type StateJsonProblemsSourcesValueLayersSortInput = {
+  readonly columnSets: InputMaybe<StateJsonProblemsSourcesValueLayersColumnSetsSortInput>;
   readonly filter: InputMaybe<SortOrderEnum>;
   readonly id: InputMaybe<SortOrderEnum>;
   readonly is_interactive: InputMaybe<SortOrderEnum>;
+  readonly key: InputMaybe<SortOrderEnum>;
   readonly layout: InputMaybe<SortOrderEnum>;
   readonly name: InputMaybe<SortOrderEnum>;
   readonly paint: InputMaybe<SortOrderEnum>;
@@ -4085,7 +4257,11 @@ type StateJsonProblemsSourcesValueSourceSortInput = {
 };
 
 type StateJsonSortInput = {
+  readonly childCounty: InputMaybe<CountySortInput>;
+  readonly childProblem: InputMaybe<ProblemSortInput>;
   readonly children: InputMaybe<NodeSortInput>;
+  readonly childrenCounty: InputMaybe<CountySortInput>;
+  readonly childrenProblem: InputMaybe<ProblemSortInput>;
   readonly counties: InputMaybe<StateJsonCountiesSortInput>;
   readonly id: InputMaybe<SortOrderEnum>;
   readonly internal: InputMaybe<InternalSortInput>;
@@ -4562,6 +4738,13 @@ type WebPOptions = {
   readonly quality: InputMaybe<Scalars['Int']>;
 };
 
+type countyQueryVariables = Exact<{
+  id: Scalars['String'];
+}>;
+
+
+type countyQuery = { readonly county: { readonly title: string | null, readonly id: string, readonly meta: { readonly slug: string | null, readonly type: string | null, readonly detail_url: string | null } | null, readonly parent: { readonly id: string, readonly title: string | null, readonly meta: { readonly slug: string | null } | null } | {} | null } | null };
+
 type GatsbyImageSharpFixedFragment = { readonly base64: string | null, readonly width: number, readonly height: number, readonly src: string, readonly srcSet: string };
 
 type GatsbyImageSharpFixed_noBase64Fragment = { readonly width: number, readonly height: number, readonly src: string, readonly srcSet: string };
@@ -4588,10 +4771,29 @@ type GatsbyImageSharpFluid_withWebp_tracedSVGFragment = { readonly tracedSVG: st
 
 type GatsbyImageSharpFluidLimitPresentationSizeFragment = { readonly maxHeight: number, readonly maxWidth: number };
 
+type problemsQueryVariables = Exact<{
+  id: Scalars['String'];
+}>;
+
+
+type problemsQuery = { readonly problem: { readonly id: string, readonly title: string | null, readonly unit_count: number | null, readonly unit_name: string | null, readonly unit_name_plural: string | null, readonly bounds: ReadonlyArray<ReadonlyArray<number | null> | null> | null, readonly sources: ReadonlyArray<{ readonly id: string | null, readonly type: string | null, readonly value: ReadonlyArray<{ readonly layers: ReadonlyArray<{ readonly filter: string | null, readonly is_interactive: boolean | null, readonly id: string | null, readonly layout: string | null, readonly name: string | null, readonly paint: string | null, readonly type: string | null, readonly key: string | null, readonly columnSets: ReadonlyArray<{ readonly key: string | null, readonly name: string | null, readonly type: string | null, readonly metadata: { readonly race: string | null, readonly year: number | null } | null, readonly subgroups: ReadonlyArray<{ readonly key: string | null, readonly max: number | null, readonly min: number | null, readonly name: string | null, readonly sum: number | null } | null> | null, readonly total: { readonly key: string | null, readonly max: number | null, readonly min: number | null, readonly name: string | null, readonly sum: number | null } | null } | null> | null } | null> | null, readonly source: { readonly id: number | null, readonly name: string | null, readonly source_layer: string | null, readonly source_type: string | null, readonly type: string | null, readonly url: string | null } | null } | null> | null } | null> | null, readonly parent: { readonly id: string, readonly parent: { readonly id: string, readonly title: string | null } | {} | null } | { readonly id: string, readonly parent: { readonly id: string, readonly title: string | null } | {} | null } | { readonly id: string, readonly parent: { readonly id: string, readonly title: string | null } | {} | null } | { readonly id: string, readonly parent: { readonly id: string, readonly title: string | null } | {} | null } | { readonly id: string, readonly parent: { readonly id: string, readonly title: string | null } | {} | null } | { readonly id: string, readonly parent: { readonly id: string, readonly title: string | null } | {} | null } | { readonly id: string, readonly parent: { readonly id: string, readonly title: string | null } | {} | null } | { readonly id: string, readonly parent: { readonly id: string, readonly title: string | null } | {} | null } | { readonly id: string, readonly parent: { readonly id: string, readonly title: string | null } | {} | null } | { readonly id: string, readonly parent: { readonly id: string, readonly title: string | null } | {} | null } | { readonly id: string, readonly parent: { readonly id: string, readonly title: string | null } | {} | null } | { readonly id: string, readonly parent: { readonly id: string, readonly title: string | null } | {} | null } | { readonly id: string, readonly parent: { readonly id: string, readonly title: string | null } | {} | null } | null } | null };
+
 type SiteTitleQueryQueryVariables = Exact<{ [key: string]: never; }>;
 
 
 type SiteTitleQueryQuery = { readonly site: { readonly siteMetadata: { readonly title: string | null } | null } | null };
+
+type stateQueryVariables = Exact<{
+  id: Scalars['String'];
+}>;
+
+
+type stateQuery = { readonly state: { readonly id: string, readonly title: string | null, readonly meta: { readonly slug: string | null } | null, readonly childrenCounty: ReadonlyArray<{ readonly id: string, readonly title: string | null, readonly meta: { readonly slug: string | null } | null } | null> | null, readonly childrenProblem: ReadonlyArray<{ readonly id: string, readonly title: string | null, readonly meta: { readonly slug: string | null } | null } | null> | null } | null };
+
+type allStatesQueryVariables = Exact<{ [key: string]: never; }>;
+
+
+type allStatesQuery = { readonly allState: { readonly edges: ReadonlyArray<{ readonly node: { readonly id: string, readonly childrenCounty: ReadonlyArray<{ readonly title: string | null, readonly id: string, readonly meta: { readonly slug: string | null, readonly type: string | null } | null } | null> | null, readonly parent: { readonly id: string, readonly meta: { readonly slug: string | null } | null } | {} | null, readonly meta: { readonly slug: string | null } | null, readonly childrenProblem: ReadonlyArray<{ readonly id: string, readonly title: string | null, readonly meta: { readonly slug: string | null, readonly type: string | null } | null, readonly parent: { readonly id: string, readonly meta: { readonly slug: string | null } | null } | {} | null } | null> | null } }> } };
 
 
 }

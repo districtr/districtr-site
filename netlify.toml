@@ -2,3 +2,7 @@
     publish = "public"
     command = "npm run build"
     
+[dev]
+    publish = "public"
+    command = "gatsby develop"
+    targetPort = 8000
